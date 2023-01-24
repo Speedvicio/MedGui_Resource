@@ -1,0 +1,33 @@
+151.248.126.219:4046=Ultimate Cup
+200-98-117-76.clouduol.com.br
+39.106.53.184
+47.104.79.161
+82.146.40.12
+82.200.209.235:4046=4bit
+91.103.77.230:4046=Emulab
+Speedvicio.ddns.net:4046=Speedvicio
+Speedvicio.us.to
+aus.yuribacon.com
+ca.yuribacon.com
+de.yuribacon.com
+emu-russia.net
+gameplayer.club
+gs.emu-land.net
+ip250.ip-145-239-124.eu
+jp.yuribacon.com
+localhost
+mednafen-nl.emuparadise.org
+mednafen-us.emuparadise.org
+netplay.fobby.net
+nst-game.ru
+ny.yuribacon.com
+omachi.moe:4046
+repog.ddns.net:4046
+s1.mednafen-it.org:4046
+s2.mednafen-it.org:4046
+s3.mednafen-it.org:4046
+santic-zombie.ru
+sol-game.ru:4045=Солянка
+sol-game.ru:4046=Солянка 1
+tx.yuribacon.com
+uk.yuribacon.com

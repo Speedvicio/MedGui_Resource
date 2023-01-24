@@ -1,0 +1,128 @@
+# 2 in 1 - Dragon Ball Z - Buu's Fury & Dragon Ball GT - Transformation (U)
+280587F2=eeprom
+
+# 2 in 1 - Dragon Ball Z - The Legacy of Goku I & II (U)
+ACE78C4F=eeprom
+
+# Boktai 1/2/3
+E715AC45 9686C36B CF692572 E1FFB2D1 748189B5=sensor=rtc
+
+# Digi Communication 2 in 1 Datou! Black Gemagema Dan (J)
+1372E829=eeprom
+
+# Dragon Ball GT - Transformation (U)
+AD964A91=eeprom
+
+# Dragon Ball Z - Buu's Fury (U)
+01C1707F=eeprom
+
+# Dragon Ball Z - Taiketsu (E)
+D0E79665=eeprom
+
+# Dragon Ball Z - Taiketsu (U)
+64EC07E7=eeprom
+
+# Dragon Ball Z - The Legacy Of Goku (E)
+CA6E149C=eeprom
+
+# Dragon Ball Z - The Legacy Of Goku (U)
+D47CCFF4=eeprom
+
+# Dragon Ball Z - The Legacy of Goku II (E)
+20684433=eeprom
+
+# Dragon Ball Z - The Legacy of Goku II (U)
+204142E1=eeprom
+
+# Dragon Ball Z - The Legacy of Goku II International (J)
+B3297D59=eeprom
+
+# Famicom Mini - Vol. 21 - Super Mario Bros. 2 (J)
+F55674A3=eeprom
+
+# Famicom Mini - Vol 22 - Nazo no Murasame (J)
+8233349C=eeprom
+
+# Famicom Mini - Vol. 23 - Metroid (J)
+ABECCDAB=eeprom
+
+# Famicom Mini - Vol 24 - Hikari Shinwa - Palutena no Kagame (J)
+F311EDAC=eeprom
+
+# Famicom Mini - Vol 25 - Link no Bouken (J)
+1CBE712A=eeprom
+
+# Famicom Mini - Vol 26 - Mukashi Hanashi - Shin Onigashima (J)
+63B51337=eeprom
+
+# Famicom Mini - Vol 27 - Famicom Tantei Club - Kieta Koukeisha (J)
+3CF43405=eeprom
+
+# Famicom Mini - Vol 28 - Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo Zengouhen (J)
+75E1B220=eeprom
+
+# Famicom Mini - Vol 29 - Akumajou Dracula (J)
+012FA057=eeprom
+
+# Famicom Mini - Vol 30 - SD Gundam World Gachapon Senshi - Scramble Wars (J)
+9ED2DAEB=eeprom
+
+# Other classic NES
+CD67F2BA CFC1F558 BA82D416 CA9F5D2F 945C292F 3126D612 B2A153C3 231F80D6 7EDDFFAD 68B1B7A8 9E923716 4194304=eeprom
+
+# Final Fantasy Tactics Advance (E)
+5645E56C=flash=64
+
+# Final Fantasy Tactics Advance (J)
+A57B0034=flash=64
+
+# Final Fantasy Tactics Advance (U)
+BA5DE047=flash=64
+
+# F-Zero Climax (J)
+DBDC71E3=flash=128
+
+# Gameboy Wars Advance 1+2 (J)
+49EE1FDD=flash=128
+
+# Koro Koro Puzzle - Happy Panechu!
+=tilt
+
+# Pokemon Emerald (F)
+Pokemon -=flash=128=rtc
+
+# Rocky (E)
+D2E55FB5 C8F4FF1B=eeprom
+
+# Sennen Kazoku (J)
+A2F6976C=flash=128
+
+# Super Mario Advance 4 - Super Mario Bros 3 (E)
+8388608 8D84ACFC D4F45B01=flash=128
+
+# Super Mario Advance 4 - Super Mario Bros 3 (J)
+F3C87306 7B1A4C22 5A676424 4AEE9C77=flash=128
+
+# Super Mario Advance 4 - Super Mario Bros 3 (U)
+A44BA79F 88DAB27F D4C13AC3=flash=128
+
+# Top Gun - Combat Zones (U)
+DFC88D3E=sram
+
+# WarioWare Twisted!
+=gyro
+
+# Yoshi's Universal Gravitation
+=eeprom=tilt
+
+# Yu-Gi-Oh! GX - Duel Academy (E)
+3FB2ABDA=sram
+
+# Yu-Gi-Oh! GX - Duel Academy (U)
+3B8A00FE=sram
+
+# Yu-Gi-Oh! Ultimate Masters 2006 (E)
+CEDE4060=sram
+
+# Yu-Gi-Oh! Ultimate Masters 2006 (U)
+F968A196=sram
