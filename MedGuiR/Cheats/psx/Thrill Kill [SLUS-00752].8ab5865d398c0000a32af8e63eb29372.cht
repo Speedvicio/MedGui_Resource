@@ -1,0 +1,142 @@
+[] Thrill Kill (NTSC-U)
+R I 2 L 0 801e610c 0 PAL2NTSC
+
+R I 2 L 0 801e6d22 ffff All FMVs
+
+R I 1 L 0 801e6d1f 7 Kain &amp; Judas unlocked
+
+R I 2 L 0 800a11b8 1f4 Infinite time for Thrill Kill
+
+R I 1 L 0 800c25c0 32 Infinite time for Thrill Kill
+
+R I 2 L 0 800dddd4 64 P1 full Kill Meter
+
+R I 2 L 0 800dddd4 4b P1 75 % Kill Meter
+
+R I 2 L 0 800dddd4 32 P1 50% Kill Meter
+
+R I 2 L 0 800dddd4 10 P1 25% Kill Meter
+
+R I 2 L 0 800dddd4 0 P1 empty Kill Meter
+
+R I 2 L 0 800de03c 64 P2 full Kill Meter
+
+R I 2 L 0 800de03c 4b P2 75 % Kill Meter
+
+R I 2 L 0 800de03c 32 P2 50% Kill Meter
+
+R I 2 L 0 800de03c 10 P2 25% Kill Meter
+
+R I 2 L 0 800de03c 0 P2 empty Kill Meter
+
+R I 2 L 0 800de2a4 64 P3 full Kill Meter
+
+R I 2 L 0 800de2a4 4b P3 75 % Kill Meter
+
+R I 2 L 0 800de2a4 32 P3 50% Kill Meter
+
+R I 2 L 0 800de2a4 10 P3 25% Kill Meter
+
+R I 2 L 0 800de2a4 0 P3 empty Kill Meter
+
+R I 2 L 0 800de50c 64 P4 full Kill Meter
+
+R I 2 L 0 800de50c 4b P4 75 % Kill Meter
+
+R I 2 L 0 800de50c 32 P4 50% Kill Meter
+
+R I 2 L 0 800de50c 10 P4 25% Kill Meter
+
+R I 2 L 0 800de50c 0 P4 empty Kill Meter
+
+R I 2 L 0 801ca5f8 0 P1 Character Modifier
+
+R I 2 L 0 80095144 0 P1 Character Modifier
+
+R I 2 L 0 801ca5fc 0 P2 Character Modifier
+
+R I 2 L 0 80095148 0 P2 Character Modifier
+
+R I 2 L 0 801ca600 0 P3 Character Modifier
+
+R I 2 L 0 8009514c 0 P3 Character Modifier
+
+R I 2 L 0 801ca604 0 P4 Character Modifier
+
+R I 2 L 0 80095150 0 P4 Character Modifier
+
+R I 2 L 0 801ca608 a P1 Outfit Modifier
+
+R I 2 L 0 801ca60c a P2 Outfit Modifier
+
+R I 2 L 0 801ca610 a P3 Outfit Modifier
+
+R I 2 L 0 801ca614 a P4 Outfit Modifier
+
+R I 2 L 0 801e6d20 ffff All arenas
+
+R I 2 L 0 800f47b4 63 99 Hits
+
+R I 2 L 0 800f47b8 63 99 Damage
+
+R I 2 L 0 800f47bc 3e7 999 Total
+
+R I 2 L 0 800c007e ffff Tormentor
+
+R I 2 L 0 800c0080 ffff Tormentor
+
+R I 1 L 0 800c0082 7 Tormentor
+
+R I 2 L 0 800c0086 ffff Oddball
+
+R I 2 L 0 800b0088 ffff Oddball
+
+R I 1 L 0 800b008a 7 Oddball
+
+R I 2 L 0 800c0096 ffff Belladonna
+
+R I 2 L 0 800c0098 ffff Belladonna
+
+R I 1 L 0 800c009a 1 Belladonna
+
+R I 2 L 0 800c008e ffff Dr. Faustus
+
+R I 2 L 0 800c0090 ffff Dr. Faustus
+
+R I 2 L 0 800c00a6 ffff The Imp
+
+R I 2 L 0 800c00a8 ffff The Imp
+
+R I 1 L 0 800c00aa 7 The Imp
+
+R I 2 L 0 800c00be ffff Violet
+
+R I 2 L 0 800c00c0 ffff Violet
+
+R I 1 L 0 800c00c2 1f Violet
+
+R I 2 L 0 800c00c6 ffff Mammoth
+
+R I 2 L 0 800c00c8 ffff Mammoth
+
+R I 1 L 0 800c00ca 7 Mammoth
+
+R I 2 L 0 800c00ae ffff Cleetus
+
+R I 2 L 0 800c00b0 ffff Cleetus
+
+R I 1 L 0 800c00b2 3 Cleetus
+
+R I 2 L 0 800c00ce ffff Cain
+
+R I 2 L 0 800c00d0 ffff Cain
+
+R I 2 L 0 800c00b6 ffff Judas
+
+R I 2 L 0 800c00b8 ffff Judas
+
+R I 1 L 0 800c00ba 1 Judas
+
+R I 2 L 0 800c009e ffff Marukka
+
+R I 2 L 0 800c00a0 ffff Marukka

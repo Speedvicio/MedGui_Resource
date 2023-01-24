@@ -1,0 +1,2230 @@
+[8e3630186e35d477231bf8fd50e54cdd] Super Mario Bros. (World)
+R I 1 L 0 754 0 Always Big
+
+R I 1 L 0 756 1 Always Big
+
+R I 1 L 0 754 0 Always Have Fireball
+
+R I 1 L 0 756 2 Always Have Fireball
+
+R I 1 L 0 79e 7 Totally Invincible
+
+R I 1 L 0 700 28 Mario legs move faster
+
+R I 1 L 0 783 a Always Running
+
+R I 1 L 0 79f 1 God Mode
+
+R I 1 L 0 7fa 9 Infinite Time
+
+R I 1 L 0 7fc 1 Enable Hard Mode
+
+S I 1 L 0 c71d 8f Koopa Kode
+
+S I 1 L 0 ee17 fc Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee18 a5 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee19 a6 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee1a a7 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee9b a8 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee1c a9 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee1d 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee1e 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee1f fc Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee20 a0 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee21 a1 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee22 a2 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee23 a3 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee24 a4 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee25 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee26 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee27 fc Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee28 a5 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee29 a6 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee2a a7 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee2b a8 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee2c a9 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee2d 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee2e 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee2f fc Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee30 a0 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee31 a1 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee32 a2 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee33 a3 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee34 a4 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee35 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee36 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee37 fc Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee38 a0 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee39 a1 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee3a a2 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee3b a3 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee3c a4 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee3d 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee3e 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee3f fc Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee40 a0 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee41 a1 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee42 a2 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee43 a3 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee44 a4 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee45 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee46 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee47 fc Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee48 a5 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee49 a6 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee4a a7 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee4b a8 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee4c a9 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee4d 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee46 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee4f fc Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee50 a0 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee51 a1 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee52 a2 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee53 a3 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee54 a4 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee55 85 Koopa Mutiny! (1/3)
+
+S I 1 L 0 ee56 85 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee57 fc Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee58 a5 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee59 a6 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee5a a7 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee5b a8 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee5c a9 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee5d 85 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee5e 85 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee5f fc Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee60 a0 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee61 a1 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee62 a2 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee63 a3 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee64 a4 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee65 85 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee66 85 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee69 fc Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee6a a5 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee6b a6 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee6c a7 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee6d a8 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee6e a8 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee6f fc Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee70 a0 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee71 a1 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee72 a2 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee73 a3 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee74 a4 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee75 85 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee76 85 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee7b ae Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee7c af Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee7d b0 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee7e b1 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee83 aa Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee84 ab Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee85 ac Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee86 ad Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee8b aa Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee8c ab Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee8d ac Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee8e ad Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee93 ae Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee94 af Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee95 b0 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee96 b1 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee9b ae Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee9c af Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee9d b0 Koopa Mutiny! (2/3)
+
+S I 1 L 0 ee9e b1 Koopa Mutiny! (2/3)
+
+S I 1 L 0 eea3 aa Koopa Mutiny! (2/3)
+
+S I 1 L 0 eea4 ab Koopa Mutiny! (2/3)
+
+S I 1 L 0 eea5 ac Koopa Mutiny! (2/3)
+
+S I 1 L 0 eea6 ad Koopa Mutiny! (2/3)
+
+S I 1 L 0 eeab aa Koopa Mutiny! (2/3)
+
+S I 1 L 0 eeac ab Koopa Mutiny! (2/3)
+
+S I 1 L 0 eead ac Koopa Mutiny! (2/3)
+
+S I 1 L 0 eeae ad Koopa Mutiny! (2/3)
+
+S I 1 L 0 eeb3 ae Koopa Mutiny! (2/3)
+
+S I 1 L 0 eeb4 af Koopa Mutiny! (2/3)
+
+S I 1 L 0 eeb5 b0 Koopa Mutiny! (2/3)
+
+S I 1 L 0 eeb6 b1 Koopa Mutiny! (2/3)
+
+S I 1 L 0 eebb aa Koopa Mutiny! (3/3)
+
+S I 1 L 0 eebc ab Koopa Mutiny! (3/3)
+
+S I 1 L 0 eebd ac Koopa Mutiny! (3/3)
+
+S I 1 L 0 eebe ad Koopa Mutiny! (3/3)
+
+S I 1 L 0 eec3 ae Koopa Mutiny! (3/3)
+
+S I 1 L 0 eec4 af Koopa Mutiny! (3/3)
+
+S I 1 L 0 eec5 b0 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eec6 b1 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eecb ae Koopa Mutiny! (3/3)
+
+S I 1 L 0 eecc ae Koopa Mutiny! (3/3)
+
+S I 1 L 0 eecd b0 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eece b0 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eed3 ae Koopa Mutiny! (3/3)
+
+S I 1 L 0 eed4 af Koopa Mutiny! (3/3)
+
+S I 1 L 0 eed5 b0 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eed6 b0 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eed9 fc Koopa Mutiny! (3/3)
+
+S I 1 L 0 eeda a5 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eedb a6 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eedc a7 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eedd ac Koopa Mutiny! (3/3)
+
+S I 1 L 0 eede ac Koopa Mutiny! (3/3)
+
+S I 1 L 0 eedf fc Koopa Mutiny! (3/3)
+
+S I 1 L 0 eee0 a5 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eee1 a6 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eee2 a7 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eee3 a8 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eee4 a8 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eee5 85 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eee6 85 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eee7 85 Koopa Mutiny! (3/3)
+
+S I 1 L 0 eee8 b0 Koopa Mutiny! (3/3)
+
+S I 1 L 0 b428 0 Jump As High As You Want
+
+S I 1 L 0 d92d 2a Invincibility (You Go Through Everything)
+
+S I 1 L 0 d877 c Power Up On Enemies
+
+S I 1 L 0 b626 22 Always Have Firepower
+
+S I 1 L 0 d885 11 Another Power Up On Enemies Code
+
+S I 1 L 0 bf27 27 Super Speed Game
+
+S I 1 L 0 d6a6 11 Invincible Except To Pirahna Plants And Pits
+
+S I 1 L 0 e5f8 8c You Can Run Fast
+
+S I 1 L 0 d936 ad Once You Get A Mushroom, You Are Protected From Dying From Enemies (Start Out Small)
+
+S I 1 L 0 bd04 ed All Blocks Are Smashable
+
+S I 1 L 0 bdd3 33 Mushrooms Make You Invincible!!!
+
+S I 1 L 0 e366 64 Go Through Enemies And Flowers
+
+C I 1 L 0 9149 1 0 Mario Is Always Swimming
+
+S I 1 L 0 b4e6 8 Jump As High As You Want!  Works While Standing, Running, Or Turbo Running!
+
+S I 1 L 0 e107 51 Enemies Can Go Thru Pipes, Walls, And Blocks! Mario (as Usual) Can&#039;t Go Thru Pipes, Walls, Or Blocks. This Code Really Changes The Way You Play SMB
+
+S I 1 L 0 8e8f 0 Mario Can Jump Higher When Walking, Running, Or Turbo Running! Also, He Jumps Further (only When Normal Running)
+
+S I 1 L 0 d92c 9 Once You Turn Into Fire Mario, You Will Always Be Able To Shoot Fireballs, Even If You Turn Small Again (until You Die). Also, If You Touch An Enemy, It Will Make You Power-up!! (On Some Emulator ROMs, The Code Will Make You Invincible.)
+
+S I 1 L 0 98ed 70 Ever Have Trouble Remembering Which Pipes You Can And Can&#039;t Go Down? Well, This Code Solves That Problem! The Pipes You Can&#039;t Go Down Are Upside-down, The Pipes You Can Go Down Are Normal
+
+S I 1 L 0 d90f 9 Take No Damage From Most Enemies!  Depending On Which Version Of SMB You Are Using, You May Have To Either Become Big Mario, Or Jump On One Enemy Before Becoming Invincible. (NOTE: This Code Doesn&#039;t Work Against The  Potted Plants.)
+
+S I 1 L 0 d92d 9 Similar To Above
+
+S I 1 L 0 8f87 e6 Timer Counts Up Instead Of Down!!  This Code Basically Gives You As Much Time As You Want To Finish A Level. The Longer You Take To Finish A Level, The More Points You Get At The End!!
+
+S I 1 L 0 9089 5f Level Select Code!!
+
+S I 1 L 0 908a 7 Level Select Code!!
+
+S I 1 L 0 9149 8 Mario Can Swim Everywhere, And You Start Some Worlds About 1/2 Way Thru
+
+S I 1 L 0 9c7c ce Time Starts At 900 (instead Of 400)
+
+S I 1 L 0 9189 3c Start With 400 More Seconds, And Invincibility For The First 10 Seconds
+
+S I 1 L 0 f06f e6 Mario Skates Like Gumby
+
+S I 1 L 0 f00f c6 Mario Always Walks Crouched Down
+
+S I 1 L 0 f03f e6 Mario Turns Big When He Walks
+
+S I 1 L 0 d863 83 Mario Walks Right Thru Enemies
+
+S I 1 L 0 88c5 c1 Everything Is Invisible Except Mario
+
+S I 1 L 0 946c bf Mario Starts Out Swimming
+
+S I 1 L 0 8e8f 54 You Can Position Mario Anywhere On The Screen (even When He&#039;s Moving) By Holding Down The  &quot;A&quot; Button On Controller #2
+
+S I 1 L 0 9148 51 Swim Without Water (You&#039;re Always Swimming)
+
+S I 1 L 0 951a e6 You Can Jump Over The Castle At The End Of World 1-1 And Keep On Going. Also, Going Down Tubes Does Weird Things
+
+S I 1 L 0 e081 8c Most Enemies Are Invisible, But They Die  When You Touch Them
+
+S I 1 L 0 e082 8c Enemies Don&#039;t Die When You Jump On Them, So By Jumping On The Same One Over And Over,  You Get Several 1 Up&#039;s. But Shooting Them Does Kill Them
+
+S I 1 L 0 d873 83 Take No Damage From Touching Enemies!
+
+S I 1 L 0 876b ff Items That Were Worth 1,000 Points, Are Now Worth 1,000,000,000 Points!!
+
+S I 1 L 0 9189 7f Time Starts At 150 Instead Of 400 (plus About 30 Seconds Of Invincibility At The Start Of Every Life)
+
+S I 1 L 0 9189 b Time Starts With One Extra Minute (460 Instead Of 400)
+
+S I 1 L 0 9189 23 Time Starts At 600 Instead Of 400 (plus About 10 Seconds Of Invincibility At The Start Of Every Life)
+
+S I 1 L 0 9189 64 Time Starts At 995 Instead Of 400 (plus About 20 Seconds Of Invincibility At The Start Of Every Life)
+
+S I 1 L 0 d6b5 56 Most Enemies Are Gone
+
+S I 1 L 0 d695 56 All Enemies Are Gone! (Sorry, This Code Doesn&#039;t Seem To Work On The SMB Only Version.)
+
+S I 1 L 0 809b 87 Play As Game Boy Mario (everything Is Black
+
+S I 1 L 0 8eff 52 Mario Turns Into The Invisible Man. This Code Works On Both Versions But Does Different Things
+
+S I 1 L 0 80ee 58 Play At Night
+
+S I 1 L 0 bf30 0 Most Enemies Are Frozen!
+
+S I 1 L 0 b4e5 8 Super Mega Jump, Standing Start Only
+
+S I 1 L 0 b4e7 4 Mario Has Semi Lunar Descent.  This Means That When You Jump, You Float Back To The Ground Instead Of Just Droping. This Code Works For Standing, Running, Or Turbo Running
+
+S I 1 L 0 9c1c c7 Start At 1-2
+
+S I 1 L 0 9c2c cf Start On World 3 ??? (use With PIGOAP)
+
+S I 1 L 0 9c1c e6 Start On World 5 ???
+
+S I 1 L 0 9c1c ef Start On World 6 ???
+
+S I 1 L 0 943c fd Mario Swims Instead Of Walking In All Blue Background Worlds
+
+S I 1 L 0 b4e7 7 Mario Has Variable Jump Heights. Sometimes He Jumps High, Sometimes Low
+
+S I 1 L 0 b4e7 1 Similar To Above Code
+
+S I 1 L 0 986d 50 Mario Walks Past Castle At End Of 1-1 And Keeps On Going Forever (this Is The First Code That I Ever Made For SMB. WOW! :-))
+
+S I 1 L 0 981f ed All Castles Are Missing, But Game Still Plays Normally
+
+S I 1 L 0 951b ef After The First Pipe, Mario Keeps On Going Forever (no Obsticles)
+
+S I 1 L 0 e883 7c Enemies Follow You! (Best If You Use This Code With SSASSA)
+
+S I 1 L 0 d863 8b Invincibility! Mario Walks Right Thru Enemies. (this Code Is Completely Different Than My SSASSA Invincibility Code)
+
+S I 1 L 0 b42b 1 Mario Can Float For A Very Long Time. You Have To Press And Hold The Jump Button For This Code To Work Right. Only Works  From A Standing Start. (This Is Just A Simple Modification Of A Galoob Code)
+
+S I 1 L 0 8e1f e5 X-ray Vision (bizarre).  Shows Where Hidden Blocks Are
+
+S I 1 L 0 f878 df In 1-1, The Enemies Have Hammers
+
+S I 1 L 0 8e8f 55 If You Press The &quot;A&quot; Button, You Can Position Mario Anywhere On The Screen. If You Don&#039;t Press The &quot;A&quot; Button, The Screen Won&#039;t Scroll
+
+S I 1 L 0 9c0c 3f Some New Worlds.  You Get To Swim In Most Of Them
+
+S I 1 L 0 e0f9 6 Enemies That Are Up On Blocks Don't Fall Down (and Other Oddities)
+
+S I 1 L 0 d815 11 Power-Ups = Invincibility; 1-Up Mushrooms = Fiery Mario
+
+S I 1 L 0 d810 11 Power-Ups = Invincibility; 1-Up Mushrooms = Fiery Mario
+
+S I 1 L 0 d811 19 Double Power-Ups!
+
+S I 1 L 0 bc73 11 Power-Up Mushrooms Instead Of Fire Flowers
+
+S I 1 L 0 c746 44 More Enemies
+
+S I 1 L 0 9089 fc Start On 2nd Quest (You Can Select Worlds With The &#039;B&#039; Button)
+
+S I 1 L 0 908a 7 Start On 2nd Quest (You Can Select Worlds With The &#039;B&#039; Button)
+
+S I 1 L 0 9189 ff Lots Of Time And Invincibility!
+
+S I 1 L 0 9089 57 Timer Starts Over When Mario Enters A Pipe Or Falls From The Sky
+
+S I 1 L 0 908a 7 Timer Starts Over When Mario Enters A Pipe Or Falls From The Sky
+
+S I 1 L 0 9089 f8 Timer Starts Over When Mario Enters A Pipe Or Falls From The Sky (Same As Above Except The Timer Goes Into The 900&#039;s!)
+
+S I 1 L 0 908a 7 Timer Starts Over When Mario Enters A Pipe Or Falls From The Sky (Same As Above Except The Timer Goes Into The 900&#039;s!)
+
+S I 1 L 0 d305 1c Always 3 Fireworks At End Of Each Stage
+
+S I 1 L 0 b263 a9 Hit A Fire Flower And Become Small Fire Mario
+
+S I 1 L 0 b444 20 Normal Run = Turbo-Speed
+
+S I 1 L 0 b366 80 Faster Run
+
+S I 1 L 0 9089 56 Start As Fiery Mario And Invincibility Power-Ups!
+
+S I 1 L 0 908a 7 Start As Fiery Mario And Invincibility Power-Ups!
+
+S I 1 L 0 b426 0 Jump &#039;til Release &quot;A&quot; Walking Start
+
+S I 1 L 0 9159 5e When Little, Look Big
+
+S I 1 L 0 91d9 fe 1 Life When You Die
+
+S I 1 L 0 906b 88 Both Players Start With One Life
+
+S I 1 L 0 da12 7f Killing Enemies Gives No Points
+
+C I 1 L 0 9268 0 1 Big Mario After Loosing a Life
+
+C I 1 L 0 b6e7 0 6 Boomerang Fireball
+
+C I 1 L 0 b543 50 d0 Always Running
+
+C I 1 L 0 d2f6 86 7 Allways Get Fireworks
+
+C I 1 L 0 85a4 2 0 Start as Fire Mario
+
+C I 1 L 0 85b1 ad 8d Start as Fire Mario
+
+C I 1 L 0 9062 0 1 Start as Fire Mario
+
+C I 1 L 0 dcd9 0 10 Can Break Most Blocks
+
+S I 1 L 0 906a 0 Start both players with 1 life
+
+S I 1 L 0 906a 5 Start both players with 6 lives
+
+S I 1 L 0 906a 8 Start both players with 9 lives
+
+S I 1 L 0 906b 8e Start player 1 with 8 lives and player 2 with 3 lives
+
+S I 1 L 0 91d9 ad Infinite lives for both players
+
+S I 1 L 0 b424 18 Super jump from a standing start only
+
+S I 1 L 0 b426 16 Super jump from running only
+
+S I 1 L 0 b428 14 Super jump from turbo running only
+
+S I 1 L 0 b424 10 Mega-jump from a standing start only
+
+S I 1 L 0 b426 10 Mega-jump from running only
+
+S I 1 L 0 b428 4 Mega-jump from turbo running only
+
+S I 1 L 0 b42b 7 Moon Gravity from a standing start
+
+S I 1 L 0 b42d 7 Moon Gravity from a running start
+
+S I 1 L 0 b42f 7 Moon Gravity from turbo running only
+
+S I 1 L 0 9089 5f Start on World 2
+
+S I 1 L 0 908a 7 Start on World 2
+
+S I 1 L 0 9087 1 Start on World 2
+
+S I 1 L 0 9089 5f Start on World 3
+
+S I 1 L 0 908a 7 Start on World 3
+
+S I 1 L 0 9087 2 Start on World 3
+
+S I 1 L 0 9089 5f Start on World 4
+
+S I 1 L 0 908a 7 Start on World 4
+
+S I 1 L 0 9087 3 Start on World 4
+
+S I 1 L 0 9089 5f Start on World 5
+
+S I 1 L 0 908a 7 Start on World 5
+
+S I 1 L 0 9087 4 Start on World 5
+
+S I 1 L 0 9089 5f Start on World 6
+
+S I 1 L 0 908a 7 Start on World 6
+
+S I 1 L 0 9087 5 Start on World 6
+
+S I 1 L 0 9089 5f Start on World 7
+
+S I 1 L 0 908a 7 Start on World 7
+
+S I 1 L 0 9087 6 Start on World 7
+
+S I 1 L 0 9089 5f Start on World 8
+
+S I 1 L 0 908a 7 Start on World 8
+
+S I 1 L 0 9087 7 Start on World 8
+
+R I 1 L 0 75a 3 Infinite Lives
+
+S I 1 L 0 b08b f5 Control Mario In Entrence To 1-2
+
+C I 1 L 0 82bc 1 0 Control Mario At Menu
+
+C I 1 L 0 82be 70 fc Control Mario At Menu
+
+C I 1 L 0 82bf 7 6 Control Mario At Menu
+
+C I 1 L 0 91d9 cd ce Infinite Lives
+
+C I 1 L 0 b34c 9e 89 Invincibility
+
+C I 1 L 0 eeec d0 f0 Invincibility
+
+C I 1 L 0 8f75 b9 99 Freeze Time
+
+C I 1 L 0 f1d1 d9 99 Boomerang Fireball
+
+R I 1 L 0 3d2 0 Boomerang Fireball
+
+S I 1 L 0 e0e6 b Goomas Don&#039;t Walk Off Edges
+
+S I 1 L 0 8270 0 Enables Level Select
+
+S I 1 L 0 9107 70 Ground Level Music All The Time
+
+S I 1 L 0 9107 61 Castle Music All The Time
+
+S I 1 L 0 9111 e8 Castle Music All The Time
+
+S I 1 L 0 9107 8c Total Silence All The Time
+
+S I 1 L 0 90e7 80 Total Silence All The Time
+
+S I 1 L 0 9107 8c Water Music All The Time
+
+S I 1 L 0 90e7 a2 Water Music All The Time
+
+S I 1 L 0 9107 3c &quot;Circus&quot; Music All The Time
+
+S I 1 L 0 9108 ad &quot;Circus&quot; Music All The Time
+
+S I 1 L 0 90e8 2 Normal Water
+
+S I 1 L 0 90e8 4 Normal Underground Music
+
+S I 1 L 0 90e8 8 Normal Castle Music
+
+S I 1 L 0 90e8 10 Cloud/Star Man Music
+
+S I 1 L 0 90e8 40 Cloud/Star Man Music
+
+S I 1 L 0 90e8 80 Total Silence When You Are Outside
+
+S I 1 L 0 90e8 0 Total Silence When You Are Outside
+
+S I 1 L 0 90e8 a2 Altered Water Music Followed By Endless Loop Of Normal Water Music
+
+S I 1 L 0 90f9 36 Plays Water Music In Pipe Intro Scene Instead Of Its Original Music.
+
+S I 1 L 0 d81c 0 No New Music
+
+S I 1 L 0 d81c 1 Ground Music
+
+S I 1 L 0 d81c 2 Water Music
+
+S I 1 L 0 d81c 4 Underground Level Music
+
+S I 1 L 0 d81c 8 Castle Music
+
+S I 1 L 0 d81c 10 Same As Default Value
+
+S I 1 L 0 d81c 20 Pipe Intro Music
+
+S I 1 L 0 d81c 40 Default Value
+
+S I 1 L 0 d81c 80 Silence
+
+C I 1 L 0 922d 1 2 Death Music
+
+C I 1 L 0 922d 2 2 Default Value
+
+C I 1 L 0 922d 4 2 Victory Music
+
+C I 1 L 0 922d 8 2 End Of Castle Music
+
+C I 1 L 0 922d 10 2 Alternate Game Over Music
+
+C I 1 L 0 922d 20 2 End Of Level Music
+
+C I 1 L 0 922d 40 2 Time Running Out Hurry Up Music
+
+C I 1 L 0 922d 80 2 Silence
+
+C I 1 L 0 9114 fc fb Changes All Area Music Selections
+
+C I 1 L 0 922d 1 2 Ground Music
+
+C I 1 L 0 922f fb fc Ground Music
+
+C I 1 L 0 922d 2 2 Water Music
+
+C I 1 L 0 922f fb fc Water Music
+
+C I 1 L 0 922d 4 2 Underground Music
+
+C I 1 L 0 922f fb fc Underground Music
+
+C I 1 L 0 922d 8 2 Castle Music
+
+C I 1 L 0 922f fb fc Castle Music
+
+C I 1 L 0 922d 10 2 Cloud/Star Man Music
+
+C I 1 L 0 922f fb fc Cloud/Star Man Music
+
+C I 1 L 0 922d 40 2 Cloud/Star Man Music
+
+C I 1 L 0 922d 20 2 Pipe Intro Music
+
+C I 1 L 0 922f fb fc Pipe Intro Music
+
+S I 1 L 0 9107 21 Underground Music All The Time
+
+C I 1 L 0 bff1 c9 65 Falling Doesn't Kill You
+
+S I 1 L 0 bc13 1 You Get An Extra Life When You Collect A Coin
+
+S I 1 L 0 e4aa 1 You Get An Extra Life When You Collect A Coin
+
+S I 1 L 0 81a1 0 You can&#039;t pause the game
+
+S I 1 L 0 b48d 10 Mario And Luigi Can Jump In Midair
+
+C I 1 L 0 d841 2 1 Mushrooms Worth Fire Mario
+
+R I 1 L 0 7ec 0 Coin Modifier
+
+R I 1 L 0 7ed 0 Coin Modifier
+
+R I 1 L 0 7ee 0 Coin Modifier
+
+R I 1 L 0 704 0 Walk In Water or Swim In Air
+
+R I 1 L 0 f4 0 Music Modifier
+
+S I 1 L 0 84e6 ad You Can't Get Extra Lives
+
+S I 1 L 0 bc1b ad You Can't Get Extra Lives
+
+S I 1 L 0 8840 a9 You can&#039;t see how many lives you have
+
+C I 1 L 0 84e5 0 7 Enemies When Killed And Powerups Give 1Up
+
+C I 1 L 0 b787 38 18 Timer Counts Slower
+
+C I 1 L 0 912e 2 4 Timer Starts At 200
+
+C I 1 L 0 912f 2 3 Timer Starts At 200
+
+C I 1 L 0 912e 3 4 Timer Starts At 300
+
+C I 1 L 0 9130 3 2 Timer Starts At 300
+
+C I 1 L 0 912f 4 3 Timer Starts At 400
+
+C I 1 L 0 9130 4 2 Timer Starts At 400
+
+C I 1 L 0 912e 5 4 Timer Starts At 500
+
+C I 1 L 0 912f 5 3 Timer Starts At 500
+
+C I 1 L 0 9130 5 2 Timer Starts At 500
+
+C I 1 L 0 912e 6 4 Timer Starts At 600
+
+C I 1 L 0 912f 6 3 Timer Starts At 600
+
+C I 1 L 0 9130 6 2 Timer Starts At 600
+
+C I 1 L 0 912e 7 4 Timer Starts At 700
+
+C I 1 L 0 912f 7 3 Timer Starts At 700
+
+C I 1 L 0 9130 7 2 Timer Starts At 700
+
+C I 1 L 0 912e 8 4 Timer Starts At 800
+
+C I 1 L 0 912f 8 3 Timer Starts At 800
+
+C I 1 L 0 9130 8 2 Timer Starts At 800
+
+C I 1 L 0 b784 a5 85 Disable Fast Music When Timer is Less Than 100
+
+C I 1 L 0 b772 24 f0 Mario/Luigi Don't Die When Timer Reaches 0
+
+C I 1 L 0 b629 24 90 Always Shoot Fireballs
+
+C I 1 L 0 d721 24 90 Fireballs Hit Anywhere
+
+S I 1 L 0 c227 dc Goombas are flattened
+
+S I 1 L 0 b6a7 11 Firey Mario can&#039;t shoot fireballs
+
+S I 1 L 0 9930 55 Pipes Only Show The Top Portion
+
+S I 1 L 0 95a0 ee Scrambles stages slightly / Start with extra time
+
+S I 1 L 0 afb8 bd Screen is slow to scroll
+
+S I 1 L 0 8a19 f8 Coins &amp; boxes don&#039;t flash
+
+S I 1 L 0 8509 33 Killing enemies scrambles the stage
+
+S I 1 L 0 f536 ae Coins sound different when collected
+
+S I 1 L 0 959b a8 Another strange world code
+
+C I 1 L 0 c115 60 ad Take Any Path in Castles 4-4 and 7-4
+
+C I 1 L 0 b633 30 d0 Fireball Nose Sword
+
+C I 1 L 0 b639 5 1 Fireball Nose Sword
+
+C I 1 L 0 b63d 30 d0 Fireball Nose Sword
+
+C I 1 L 0 b6b4 fc 4 Toss Fireballs Over Your Head
+
+C I 1 L 0 b6c3 a5 a9 Control Your Fireball&#039;s Descent With A or B
+
+C I 1 L 0 b6c4 a 50 Control Your Fireball&#039;s Descent With A or B
+
+C I 1 L 0 b6c8 0 3 Fireballs Have Near-Horizontal Movement
+
+C I 1 L 0 b6c4 ff 50 Fireballs Fly Perfectly Straight
+
+C I 1 L 0 b6c8 0 3 Fireballs Fly Perfectly Straight
+
+C I 1 L 0 e1f5 1 80 Fireballs Bounce Through Solid Objects
+
+C I 1 L 0 b647 30 d0 Can Shoot Fireballs While Crouched
+
+C I 1 L 0 b451 a 1d Fly With Button Combo A + B
+
+C I 1 L 0 b453 c0 3 Fly With Button Combo A + B
+
+C I 1 L 0 b451 b 1d Fly With D-Pad UP
+
+C I 1 L 0 b453 8 3 Fly With D-Pad UP
+
+C I 1 L 0 b451 a 1d Fly With Button A
+
+C I 1 L 0 b453 80 3 Fly With Button A
+
+C I 1 L 0 b454 30 d0 Fly With Button A
+
+C I 1 L 0 b453 1 3 Fly After Jumping
+
+C I 1 L 0 ddcc f0 d0 Walk RIGHT Into Any Solid Object To Enter Sub Areas
+
+C I 1 L 0 deee a9 a5 Press DOWN Anywhere To Enter Sub Areas
+
+C I 1 L 0 deef 11 0 Press DOWN Anywhere To Enter Sub Areas
+
+C I 1 L 0 def4 a9 a5 Press DOWN Anywhere To Enter Sub Areas
+
+C I 1 L 0 def5 10 1 Press DOWN Anywhere To Enter Sub Areas
+
+C I 1 L 0 dcc9 90 b0 Destroy Blocks With Your Head
+
+C I 1 L 0 ddac d0 b0 Destroy Blocks With Body
+
+C I 1 L 0 dd04 30 b0 Destroy Most Blocks With Your Feet
+
+C I 1 L 0 9445 a9 bd All Background Elements (hills, clouds, fences, etc.) Become Breakable Bricks
+
+C I 1 L 0 9446 51 8a All Background Elements (hills, clouds, fences, etc.) Become Breakable Bricks
+
+C I 1 L 0 9447 ea 93 All Background Elements (hills, clouds, fences, etc.) Become Breakable Bricks
+
+C I 1 L 0 95a9 30 f0 Castle Land!
+
+C I 1 L 0 95f1 a9 b1 Many Item/Coin Boxes Replaced With Powerups
+
+C I 1 L 0 95f2 0 e7 Many Item/Coin Boxes Replaced With Powerups
+
+C I 1 L 0 9608 a9 a5 Landscape Feature Replacement: Mushroom Platforms
+
+C I 1 L 0 9609 10 0 Landscape Feature Replacement: Mushroom Platforms
+
+C I 1 L 0 9608 a9 a5 Landscape Feature Replacement: Brick Structures #1
+
+C I 1 L 0 9609 20 0 Landscape Feature Replacement: Brick Structures #1
+
+C I 1 L 0 9608 a9 a5 Landscape Feature Replacement: Brick Structures #2
+
+C I 1 L 0 9609 50 0 Landscape Feature Replacement: Brick Structures #2
+
+C I 1 L 0 9a2e a0 ac Brick Replacement: Axes
+
+C I 1 L 0 9a2f 25 4e Brick Replacement: Axes
+
+C I 1 L 0 9a30 ea 7 Brick Replacement: Axes
+
+C I 1 L 0 9a4b 1 0 Block Multiplier x 2
+
+C I 1 L 0 9a4b 2 0 Block Multiplier x 3
+
+C I 1 L 0 9bbe a9 b1 Objects Are Set Right Above The Ground
+
+C I 1 L 0 9bbf 19 e7 Objects Are Set Right Above The Ground
+
+C I 1 L 0 9bc5 a9 b1 Object Macro Extension Modifier
+
+S I 1 L 0 e79b 48 Object Macro Extension Modifier
+
+C I 1 L 0 b123 10 f0 Can Move LEFT or RIGHT While Crouched
+
+C I 1 L 0 b671 30 d0 Bubbles Emanate From Player&#039;s Mouth
+
+C I 1 L 0 b6c4 ff 50 Very Low-Bouncing Fireballs
+
+C I 1 L 0 bcc1 50 90 Powerups Keep Rising
+
+C I 1 L 0 da06 3 1 Kicked Shells Move Slowly
+
+C I 1 L 0 da06 9a 1 Kicked Shells Move Very Quickly
+
+C I 1 L 0 ca78 1a 0 Enemies &amp; Mushrooms Move Very Quickly (yet another hard mode)
+
+C I 1 L 0 c905 a9 b5 All Enemies Behave Like Hammer Bros.
+
+C I 1 L 0 c906 5 16 All Enemies Behave Like Hammer Bros.
+
+C I 1 L 0 c1f1 a9 b1 All Enemies Are Bloopers (squid)
+
+C I 1 L 0 c1f2 7 e9 All Enemies Are Bloopers (squid)
+
+C I 1 L 0 c1f1 a9 b1 All Enemies Are Jumping Fish!
+
+C I 1 L 0 c1f2 14 e9 All Enemies Are Jumping Fish!
+
+C I 1 L 0 c1f1 a9 b1 All Enemies Are Randomly-Spawning Bullet Bills
+
+C I 1 L 0 c1f2 17 e9 All Enemies Are Randomly-Spawning Bullet Bills
+
+C I 1 L 0 c1f1 a9 b1 All Enemies Are Fire Bars (CCW)
+
+C I 1 L 0 c1f2 1e e9 All Enemies Are Fire Bars (CCW)
+
+C I 1 L 0 c1f1 a9 b1 All Enemies Are... (insert enemy here)
+
+C I 1 L 0 d757 0 6b Fireballs Can Kill Buzzy Beetle
+
+C I 1 L 0 d790 0 32 Fireballs Can Kill Podoboo
+
+C I 1 L 0 e02a 0 4 Fireballs Can Kill Podoboo
+
+C I 1 L 0 d794 0 2e Fireballs Can Kill Bowser's Fire And Bullet Bill
+
+C I 1 L 0 bcf7 0 2 Small Mario/Luigi Can Break Bricks
+
+C I 1 L 0 bd17 a0 d0 Small Mario/Luigi Can Break Bricks
+
+C I 1 L 0 bd18 0 1 Small Mario/Luigi Can Break Bricks
+
+C I 1 L 0 94f3 10 a9 Walk On All Background Elements (fixed)
+
+C I 1 L 0 9413 a9 ad Background Elements Slightly Rearranged
+
+C I 1 L 0 9414 2 25 Background Elements Slightly Rearranged
+
+C I 1 L 0 9415 ea 7 Background Elements Slightly Rearranged
+
+C I 1 L 0 e1d2 11 1c Fireballs Fly Straight #2
+
+C I 1 L 0 d8de ca 5 Kicked Shells Move Slowly (fixed)
+
+C I 1 L 0 d8df f2 da Kicked Shells Move Slowly (fixed)
+
+C I 1 L 0 f2ca a0 ff Kicked Shells Move Slowly (fixed)
+
+C I 1 L 0 f2cb 3 ff Kicked Shells Move Slowly (fixed)
+
+C I 1 L 0 f2cc 4c ff Kicked Shells Move Slowly (fixed)
+
+C I 1 L 0 f2cd 7 ff Kicked Shells Move Slowly (fixed)
+
+C I 1 L 0 f2ce da ff Kicked Shells Move Slowly (fixed)
+
+S I 1 L 0 d8c5 10 Invisible mario and 8,000 points on each enemies
+
+S I 1 L 0 bc48 d5 On all question block appear turtle and look out to touch you character die
+
+S I 1 L 0 883e 3b King 7 lives
+
+S I 1 L 0 bcc8 4 Mushroom,1up,flower and star gone up and back on floor.
+
+S I 1 L 0 85c5 c8 New background and various enemies is diferents color
+
+S I 1 L 0 bf23 21 Automatically move forward
+
+S I 1 L 0 9480 33 Ground becomes unbreakable green metal blocks
+
+S I 1 L 0 9480 55 Ground becomes hidden power-up bricks
+
+S I 1 L 0 8a19 65 Coins never flash
+
+C I 1 L 0 b696 0 27 Enemies Continually Hit Anywhere
+
+C I 1 L 0 b62a 0 43 Enemies Continually Hit Anywhere
+
+C I 1 L 0 b68b a9 b5 Enemies Continually Hit Anywhere
+
+C I 1 L 0 b68c 1 24 Enemies Continually Hit Anywhere
+
+C I 1 L 0 b690 95 b4 Enemies Continually Hit Anywhere
+
+C I 1 L 0 d721 24 90 Enemies Continually Hit Anywhere
+
+C I 1 L 0 d876 10 b0 Enemies Continually Hit Anywhere
+
+C I 1 L 0 d88e 0 6 Enemies Continually Hit Anywhere
+
+C I 1 L 0 91dc 50 10 Allow More than 127 Lives
+
+C I 1 L 0 81b7 a9 49 Press Start to Complete Current World
+
+C I 1 L 0 81b8 2 1 Press Start to Complete Current World
+
+C I 1 L 0 81b9 8d 9 Press Start to Complete Current World
+
+C I 1 L 0 81ba 70 80 Press Start to Complete Current World
+
+C I 1 L 0 81bb 7 d0 Press Start to Complete Current World
+
+C I 1 L 0 81bc ea 5 Press Start to Complete Current World
+
+C I 1 L 0 81b5 24 84 Press Start to Complete Current World
+
+C I 1 L 0 bc13 a 64 Extra Life Every 10 Coins
+
+C I 1 L 0 bc13 14 64 Extra Life Every 20 Coins
+
+C I 1 L 0 bc13 1e 64 Extra Life Every 30 Coins
+
+C I 1 L 0 bc13 32 64 Extra Life Every 50 Coins
+
+C I 1 L 0 bc13 96 64 Extra Life Every 150 Coins
+
+C I 1 L 0 bc13 c8 64 Extra Life Every 200 Coins
+
+C I 1 L 0 bc13 fa 64 Extra Life Every 250 Coins
+
+S I 1 L 0 bc13 2 Extra Live Every 2 Coins Instead Of 10 Coins
+
+R I 1 L 0 e 8 Strange Invincibility
+
+R I 1 L 0 1d 3 Climb Anywhere
+
+R I 1 L 0 10f 0 Flag Always Gives 5000 pts
+
+R I 1 L 0 3c4 0 Hat &amp; Overalls Color Modifier
+
+R I 1 L 0 491 1 Enemies Can't Harm You
+
+R I 1 L 0 492 1 Enemies Can't Harm You
+
+R I 1 L 0 493 1 Enemies Can't Harm You
+
+R I 1 L 0 494 1 Enemies Can't Harm You
+
+R I 1 L 0 495 1 Enemies Can't Harm You
+
+R I 1 L 0 742 0 Background Modifier
+
+R I 1 L 0 754 2 Jump Through Blocks
+
+R I 1 L 0 760 1 Alternate Level Modifier
+
+R I 1 L 0 6ac be Ground Modifier
+
+R I 1 L 0 6ad be Ground Modifier
+
+R I 1 L 0 6cb be Danger Modifier
+
+R I 1 L 0 456 18 Speed Modifier
+
+R I 1 L 0 3d0 c0 Mario&#039;s Missing Parts
+
+R I 1 L 0 709 10 Super Jump
+
+R I 1 L 0 b 4 Always Crouched
+
+R I 1 L 0 33 1 Mario is a Cheep Cheep
+
+R I 1 L 0 205 fc Mario is a Cheep Cheep
+
+R I 1 L 0 209 fc Mario is a Cheep Cheep
+
+R I 1 L 0 20d b2 Mario is a Cheep Cheep
+
+R I 1 L 0 211 b3 Mario is a Cheep Cheep
+
+R I 1 L 0 215 b4 Mario is a Cheep Cheep
+
+R I 1 L 0 219 b5 Mario is a Cheep Cheep
+
+R I 1 L 0 21d fc Mario is a Cheep Cheep
+
+R I 1 L 0 221 fc Mario is a Cheep Cheep
+
+R I 1 L 0 3c4 1 Mario is a Cheep Cheep
+
+R I 1 L 0 704 1 Mario is a Cheep Cheep
+
+R I 1 L 0 f0 18 Music Speed Modifier
+
+R I 1 L 0 16 0 Enemy Modifiers
+
+R I 1 L 0 17 0 Enemy Modifiers
+
+R I 1 L 0 18 0 Enemy Modifiers
+
+R I 1 L 0 19 0 Enemy Modifiers
+
+R I 1 L 0 1a 0 Enemy Modifiers
+
+S I 1 L 0 b263 a9 Always Stay Big
+
+S I 1 L 0 b264 0 Always Stay Big
+
+S I 1 L 0 d936 ad Always Stay Big
+
+S I 1 L 0 b767 f0 Stop Timer Completely
+
+S I 1 L 0 b493 0 Multi Jump (Jump In Air)
+
+S I 1 L 0 809b 90 Grayscale
+
+S I 1 L 0 d88d f6 Kill Enemies Upon Touching
+
+C I 1 L 0 8270 0 4a Enable Level Select Only
+
+S I 1 L 0 890a ed Green World
+
+S I 1 L 0 8999 b5 Jungle &amp; Ice World
+
+S I 1 L 0 890a cc Levels Are Green
+
+S I 1 L 0 890a 44 Striped Levels
+
+S I 1 L 0 9013 8d Blue
+
+S I 1 L 0 8909 90 Striped Levels
+
+S I 1 L 0 89a0 11 Mixed Up Colors
+
+S I 1 L 0 892f f Green World
+
+S I 1 L 0 90a9 98 Tropical Land
+
+S I 1 L 0 efd1 98 More New Colors. (Works Like The POSTON Code, But With Different Colors.)
+
+S I 1 L 0 8971 59 Cool Colors
+
+S I 1 L 0 aece dc More Cool Colors
+
+S I 1 L 0 8988 80 Green &amp; Blue Ground
+
+S I 1 L 0 8998 91 Same As Above But With More Weird Crap
+
+S I 1 L 0 89a8 a2 Same As Above Two Codes But With Different Stuff
+
+S I 1 L 0 890e 7c Weird Colors
+
+S I 1 L 0 89c0 2 Illusion Land
+
+S I 1 L 0 89a0 a1 Checkered Levels
+
+S I 1 L 0 8970 e1 Color Change
+
+S I 1 L 0 88e7 f Black &amp; Blue World
+
+S I 1 L 0 8900 5d Sliced &amp; Diced Land
+
+S I 1 L 0 8906 5d Moldy Land
+
+S I 1 L 0 8981 80 New Colors
+
+S I 1 L 0 9b9a 0 All Pits Are GONE!!! (Yipee!!!)
+
+S I 1 L 0 f1f4 30 Enemies Are In The Wrong Places &amp; Move The Wrong Way
+
+S I 1 L 0 9f07 95 Fire!!!
+
+S I 1 L 0 ea85 14 Goombas Go Weird When Hit By Fireballs
+
+S I 1 L 0 e87d 29 Helium Filled Goombas
+
+S I 1 L 0 dff6 65 Fast Goombas
+
+S I 1 L 0 96ce 40 Turn Enemies Into Toad
+
+S I 1 L 0 c184 5 Turn Enemies Into Toad
+
+S I 1 L 0 e8b4 b7 Turn Enemies Into Toad
+
+S I 1 L 0 bf30 86 Enemies Only Move Left
+
+S I 1 L 0 c8fc 0 Enemies Are Stuck!
+
+S I 1 L 0 d898 51 Enemies Are Part Of The Background
+
+S I 1 L 0 dd0d 18 Can&#039;t See Pits
+
+S I 1 L 0 d985 19 Goombas Turn Into Invicible Koopas When You Jump On Them
+
+S I 1 L 0 9c25 5a Lakitu In 1-1, Toad In 1-2
+
+S I 1 L 0 9f07 97 Bullet Bills In 1-1
+
+S I 1 L 0 9f07 94 Flying Cheep-Cheeps In 1-1
+
+S I 1 L 0 9f07 91 Lakitu On Ground In 1-1
+
+S I 1 L 0 d014 1c Goombas Go Loco!!!
+
+S I 1 L 0 c900 ed All Enemies Throw Hammers
+
+S I 1 L 0 bf30 dc Mario &amp; Enemies Are Weird
+
+S I 1 L 0 9cac ea Different Enemies
+
+S I 1 L 0 89f8 f7 Fake Boxes &amp; Weird Enemies
+
+S I 1 L 0 89e8 e6 Dark Monsters &amp; ? Boxes Don&#039;t Flash
+
+S I 1 L 0 c8e8 ff Enemies Follow You But Don&#039;t Hurt You
+
+S I 1 L 0 e115 f8 Enemies Go Thru Stuff
+
+S I 1 L 0 c8e8 79 Enemies Are Tricky!
+
+S I 1 L 0 bf30 f1 Slow Mario. Enemies Can&#039;t Move
+
+S I 1 L 0 e7cc 55 Goombas Melt When They Die
+
+S I 1 L 0 8ef7 b5 Goombas Have Shells
+
+S I 1 L 0 d8d0 df Goombas Can Be Kicked Like Koopas
+
+S I 1 L 0 c74d 5f Extra Goombas
+
+S I 1 L 0 860a 56 Grey Mario
+
+S I 1 L 0 918d 1d Invisible Mario
+
+S I 1 L 0 f248 59 Invisible Mario
+
+S I 1 L 0 860e 41 Shadow Mario
+
+S I 1 L 0 bf47 a9 Move Left And Mario Teleports All The Way To The Left
+
+S I 1 L 0 ee1e 98 Messed Up Jumping Mario
+
+S I 1 L 0 ee9e 99 Orange Slice Thru Mario&#039;s Leg When He Jumps
+
+S I 1 L 0 efd1 19 Changes Mario&#039;s Colors
+
+S I 1 L 0 efd1 11 Puzzle Rectangle Mario
+
+S I 1 L 0 efd0 88 Crazy Enemies &amp; Mario
+
+S I 1 L 0 b363 98 Mario Can&#039;t Walk!
+
+S I 1 L 0 80d1 dd Mario Is Drunk!
+
+S I 1 L 0 80cd 9 Mario Is Drunk!
+
+S I 1 L 0 bf43 d4 Mario Moves
+
+S I 1 L 0 e105 8 Mario Is The Only One Who Can Move!
+
+S I 1 L 0 8602 55 Always Look Like Fire Mario
+
+S I 1 L 0 89fd 8d Color Blind Mario When He Gets A Mushroom
+
+S I 1 L 0 efe8 6 Mario Has Clones Going Vertically
+
+S I 1 L 0 f076 8f Mario Looks Like He&#039;s Running To The Bathroom
+
+S I 1 L 0 eff0 95 Super Slow Mario
+
+S I 1 L 0 820a ed Weird Blocks &amp; Coins
+
+S I 1 L 0 c004 4 Falling Coins
+
+S I 1 L 0 8e99 b5 No Title Screen, Red Block?
+
+S I 1 L 0 8083 9 Just Plain Weird
+
+S I 1 L 0 8546 f4 Cut Off Numbers
+
+S I 1 L 0 8546 a1 Split Numbers
+
+S I 1 L 0 8902 ed Numbers Galore!!!
+
+S I 1 L 0 8800 8c Can&#039;t See Your Lives
+
+S I 1 L 0 9cac fc Slow-Mo Game
+
+S I 1 L 0 8a99 11 Blocks Look Like They Haven&#039;t Been Used After You Hit Them
+
+S I 1 L 0 8f03 99 Crazy Coins
+
+S I 1 L 0 bf33 33 Windy
+
+S I 1 L 0 bff7 b8 New Jumping Effects
+
+S I 1 L 0 98e0 33 Weird Pipes You Can Climb On
+
+S I 1 L 0 bee3 3b Crazy Boxes
+
+S I 1 L 0 e38f 1 Strong Gravity For Everything Except Jumping / Flying Things
+
+S I 1 L 0 bee3 33 Boxes Turn Invisible When Touched
+
+S I 1 L 0 bcc3 3b Mushrooms Don&#039;t Move
+
+S I 1 L 0 eed1 19 Bouncy Blocks
+
+S I 1 L 0 be83 88 Break A Brick And It Will Cut In Half And Turn Over. (Weird!)
+
+S I 1 L 0 b6cb 81 Shoot A Fireball And The Graphics Will Change
+
+S I 1 L 0 be10 d6 When You Break A Brick, You Fly Off The Screen, Coming Down A Few Seconds Later
+
+S I 1 L 0 8019 9 Fast-mo Game
+
+S I 1 L 0 89b8 b3 Bubbles!!!
+
+S I 1 L 0 89d0 44 Flashy. (Literally!)
+
+S I 1 L 0 89d0 40 Flashier
+
+S I 1 L 0 afd6 4 The Screen Moves Too Freakin&#039; Slow!
+
+S I 1 L 0 8800 80 Can&#039;t See Your Lives
+
+S I 1 L 0 8ab5 ad The Box Still Looks Like It&#039;s There After You Hit It
+
+S I 1 L 0 bcc3 33 Mushrooms And Start LUG (Pun Intended!) Around
+
+S I 1 L 0 bfa0 83 When You Hit Something, It Appears In The Sky
+
+S I 1 L 0 8fba d1 Things Fly Around
+
+S I 1 L 0 8808 8 Green Letters
+
+S I 1 L 0 8a35 f9 Glowing Coin Boxes
+
+S I 1 L 0 8ab5 aa Break A Block And Game Code Appears
+
+S I 1 L 0 af86 0 Scenes Change When You Move Left
+
+S I 1 L 0 ed16 e5 Exploding Fireballs!
+
+S I 1 L 0 8109 39 Demo Starts Really Fast
+
+S I 1 L 0 e7f3 30 Mushrooms Fly Away
+
+S I 1 L 0 b42b 0 Mario Flies Away Slowly When You Jump
+
+S I 1 L 0 e6e6 11 Mushroom Is A Different Color
+
+S I 1 L 0 dfeb c The First Mushroom Floats
+
+S I 1 L 0 af92 11 Rather Skippy
+
+S I 1 L 0 c902 ed Faster Enemies
+
+S I 1 L 0 dd14 e5 Jump And You Won&#039;t Come Down
+
+S I 1 L 0 bed0 81 Boxes Rain When You Hit Them
+
+S I 1 L 0 98e1 3b Can&#039;t Go Down Bonus Pipes
+
+S I 1 L 0 9199 98 A Vine Grows Out Of The Ground
+
+S I 1 L 0 f38b 56 No Sound When You Jump And Weird Music
+
+S I 1 L 0 ff37 e5 The Music Is Slightly Mixed Up
+
+S I 1 L 0 f3e7 e6 Weird Sound When You Jump
+
+S I 1 L 0 9111 0 Messes With The Music Mix
+
+S I 1 L 0 f788 79 Removes Lead Part From Music
+
+S I 1 L 0 f77d dd Messes Up The Music Really Bad
+
+S I 1 L 0 f365 ce Music Has Punchier Drums
+
+S I 1 L 0 f73f b0 Best At End Of Level
+
+S I 1 L 0 f73f b7 Destructo
+
+S I 1 L 0 f7a7 19 Destructo #2
+
+S I 1 L 0 9484 44 Cloud Worls. Turns All Blocks Into Clouds
+
+S I 1 L 0 9087 10 World H-1
+
+S I 1 L 0 9087 11 World I-1
+
+S I 1 L 0 9087 12 World J-1
+
+S I 1 L 0 9087 13 World K-1
+
+S I 1 L 0 9087 14 World L-1
+
+S I 1 L 0 9087 15 World M-1
+
+S I 1 L 0 9087 16 World N-1
+
+S I 1 L 0 9087 17 World 0-1
+
+S I 1 L 0 9087 20 World X-1
+
+S I 1 L 0 9087 23 World -1 (Minus World)
+
+S I 1 L 0 9107 8c Water Music All The Time
+
+S I 1 L 0 9107 61 Dungeon Music All The Time
+
+S I 1 L 0 9107 1e Star Man Music All The Time
+
+R I 1 L 0 756 0 Mario Modifier
+
+R I 1 L 0 79e 6 Invincible (Walk Through Enemies)
+
+R I 1 L 0 79f 24 Invincible (Kill Enemies On Contact)
+
+R I 1 L 0 787 12 Infinite Time
+
+R I 1 L 0 75a 9 Infinite Lives
+
+R I 1 L 0 754 0 Mario Modifier
+
+R I 1 L 0 756 0 Mario Modifier
+
+R I 1 L 0 79e 6 Invincible (Walk Through Enemies)
+
+R I 1 L 0 79f 18 Invincible (Kill Enemies On Contact)
+
+R I 1 L 0 787 c Infinite Time
+
+R I 1 L 0 7fc 1 Enable Hard Mode
+
+R I 1 L 0 7ed 0 Coins Modifier (Tens Digit)
+
+R I 1 L 0 7ee 0 Coins Modifier (Seconds Digit)
+
+R I 1 L 0 75c 0 Level Text Modifier (i.e. 1-1, 1-2)
+
+R I 1 L 0 79f 20 Always Have Starman Power
+
+R I 1 L 0 7dc 9 Max High Score (Tens)
+
+R I 1 L 0 7db 9 Max High Score (Hundreds)
+
+R I 1 L 0 7da 9 Max High Score (Thousands)
+
+R I 1 L 0 7d9 9 Max High Score (Millions)
+
+R I 1 L 0 7d8 9 Max High Score (Billions)
+
+R I 1 L 0 7d7 9 Max High Score (Trillions)
+
+R I 1 L 0 319 9 Max High Score (Ones)
+
+R I 1 L 0 318 9 Max High Score (Tens)
+
+R I 1 L 0 317 9 Max High Score (Hundreds)
+
+R I 1 L 0 316 9 Max High Score (Thousands)
+
+R I 1 L 0 315 9 Max High Score (Ten Thousands)
+
+R I 1 L 0 314 9 Max High Score (Hundred Thousands)
+
+C I 1 L 0 9506 10 88 Walk On Clouds
+
+C I 1 L 0 9411 30 f0 Outside Backgrounds Are Present In Underground Places
+
+C I 1 L 0 9455 a2 ae All Backgrounds Replaced With Water
+
+C I 1 L 0 9456 1 41 All Backgrounds Replaced With Water
+
+C I 1 L 0 9457 ea 7 All Backgrounds Replaced With Water
+
+C I 1 L 0 9455 a2 ae All Backgrounds Replaced With Castle Walls
+
+C I 1 L 0 9456 2 41 All Backgrounds Replaced With Castle Walls
+
+C I 1 L 0 9457 ea 7 All Backgrounds Replaced With Castle Walls
+
+C I 1 L 0 9455 a2 ae Backgrounds Removed From Watery Areas
+
+C I 1 L 0 9456 0 41 Backgrounds Removed From Watery Areas
+
+C I 1 L 0 9457 ea 7 Backgrounds Removed From Watery Areas
+
+R I 1 L 0 110 b Every Enemy Killed Gives 1Up
+
+R I 1 L 0 111 b Every Enemy Killed Gives 1Up
+
+R I 1 L 0 112 b Every Enemy Killed Gives 1Up
+
+R I 1 L 0 113 b Every Enemy Killed Gives 1Up
+
+R I 1 L 0 114 b Every Enemy Killed Gives 1Up
+
+R I 1 L 0 115 b Power-ups Give 1Ups
+
+R I 1 L 0 125 8 Every Enemy Killed with Shell Gives 1Up
+
+R I 1 L 0 126 8 Every Enemy Killed with Shell Gives 1Up
+
+R I 1 L 0 127 8 Every Enemy Killed with Shell Gives 1Up
+
+R I 1 L 0 128 8 Every Enemy Killed with Shell Gives 1Up
+
+R I 1 L 0 129 8 Every Enemy Killed with Shell Gives 1Up
+
+R I 1 L 0 f4 4  Always Underground BGM
+
+R I 1 L 0 f4 8 Always Castle BGM
+
+R I 1 L 0 f4 1 Always Overworld BGM
+
+R I 1 L 0 f4 40 Always Star BGM
+
+C I 1 L 0 f2d3 f0 d0 Disable Audio
+
+C I 1 L 0 b568 f0 d0 Always Walk Slowly (Right Direction)
+
+C I 1 L 0 dd0f f0 d0 Walk On Air (After Jumping)
+
+C I 1 L 0 dfa3 d0 f0 Walk On Air After Jumping (alt)
+
+C I 1 L 0 b671 f0 d0 Air Bubbles Come Out Of Mario
+
+C I 1 L 0 b531 d0 f0 Always Walk Slowly
+
+C I 1 L 0 c14b f0 d0 No Enemies
+
+C I 1 L 0 c190 f0 d0 Less Enemies
+
+C I 1 L 0 b752 d0 f0 Infinite Time
+
+C I 1 L 0 f094 d0 f0 Start Off As Big Mario And Mushrooms Make You Small (Visually Only)
+
+C I 1 L 0 bee0 d0 f0 Blocks Turn Invisible After Hitting Them
+
+C I 1 L 0 e8c0 f0 d0 Enemies Are Bullet Bill
+
+C I 1 L 0 e8d7 f0 d0 Enemies Look Like Spring Boards
+
+C I 1 L 0 e8e9 f0 d0 Enemies Are Upside Down
+
+C I 1 L 0 effd f0 d0 Jump Like You're Swimming
+
+C I 1 L 0 dfc5 f0 d0 Enemies Walk Thru Objects And Walk On Air
+
+C I 1 L 0 ca88 f0 d0 Enemies Fall Thru The Floor
+
+C I 1 L 0 f004 f0 d0 Jump Like You're Crouching
+
+C I 1 L 0 d8fd 50 d0 Automatically Jump On Enemies (Alt)
+
+C I 1 L 0 d994 f0 d0 Jumping On Enemies Are Worth 1000 Points
+
+C I 1 L 0 9411 d0 f0 Clouds, Trees, Fences In Underground Stages; Clear Skys On Stages That Normally Have Clouds, Trees, Fences
+
+C I 1 L 0 9484 d0 f0 The Ground Is Clouds
+
+C I 1 L 0 9a34 d0 f0 Breakable Blocks Are Clouds
+
+C I 1 L 0 c1e3 d0 f0 No Enemies (Alt)
+
+C I 1 L 0 e8f5 d0 f0 Enemies Are Glitchy Looking Bowsers
+
+C I 1 L 0 ea67 d0 f0 Enemies Are Upside Down (Alt)
+
+C I 1 L 0 dfec d0 f0 Powerups Don't Fall
+
+C I 1 L 0 d8a9 d0 f0 Can Continue Jumping On A Squished Enemy (Easy 1ups)
+
+C I 1 L 0 e084 d0 f0 Jumping On An Enemy Gives You Points, But Does Not Kill Them
+
+C I 1 L 0 bc93 f0 d0 Powerups Don't Move
+
+C I 1 L 0 bc97 d0 f0 Some Powerups Don't Move
+
+C I 1 L 0 e135 f0 d0 Powerups Move Slower After Bouncing Off Of An Object
+
+C I 1 L 0 8602 f0 d0 Little Mario Wears Fire Suit, Fire Mario Wears Normal Suit
+
+C I 1 L 0 861c f0 d0 Black Background Is Blue Sky
+
+C I 1 L 0 907b f0 d0 Enemies Are Headless Bowser
+
+C I 1 L 0 9150 f0 d0 Swim On Land
+
+C I 1 L 0 85f9 d0 f0 Look Like Luigi Until You Get Firepower
+
+C I 1 L 0 e08e f0 d0 Enemies That Fall From One Platform To A Lower One Die
+
+C I 1 L 0 d916 f0 d0 Walk Thru Enemies
+
+C I 1 L 0 d92f f0 d0 Walk Thru Enemies (alt)
+
+C I 1 L 0 d911 f0 d0 Automatically Jump On Enemies
+
+C I 1 L 0 bc9f f0 d0 Invincibility Star Stay's Put
+
+C I 1 L 0 e1de f0 d0 Fireballs Don't Bounce
+
+C I 1 L 0 bc9b d0 f0 Invincibility Star Does Not Bounce, Firepower Plant Moves Like Mushroom Powerups
+
+C I 1 L 0 e174 d0 f0 Invincibility Star Moves Horizontally
+
+C I 1 L 0 d814 d0 f0 Invincibility Stars Give Extra Live Instead
+
+C I 1 L 0 b62f d0 f0 Automatically Shoot Fireballs (Unless holding B)
+
+C I 1 L 0 e115 d0 f0 Enemies And Powerups Can't Move
+
+C I 1 L 0 d934 d0 f0 When Hit As Big Mario, You Die Instead Of Shrink
+
+C I 1 L 0 d8b5 d0 f0 Can Continue Jumping On A Squished Enemy (alt)
+
+C I 1 L 0 9e23 e7 e1 Wrong Pipe Leads To Next Area In World 8-4
+
+C I 1 L 0 9e33 ec e1 Wrong Pipe Leads To Next Area In World 8-4
+
+C I 1 L 0 9e42 2 65 Wrong Pipe Leads To Next Area In World 8-4
+
+S I 1 L 0 d800 41 Power Ups Don't Go Away
+
+S I 1 L 0 e080 20 All Enemies Throw Hammers
+
+S I 1 L 0 f088 10 Sliding Mario
+
+S I 1 L 0 8600 86 Have Fire Mario Suit Always (Can't shoot fire balls)
+
+S I 1 L 0 c1d0 28 No Enemies
+
+S I 1 L 0 c884 90 Bowser Shots On All Stages
+
+S I 1 L 0 d804 91 Power Ups Give 1-Ups As Well
+
+S I 1 L 0 d800 41 Power Ups Don't Go Away So You Can Get a Fire Flower On a Mushroom
+
+S I 1 L 0 85c0 21 Blue And Orange Worlds
+
+S I 1 L 0 8640 1 The Sky Is Black
+
+S I 1 L 0 8640 4 The Sky Is Red
+
+C I 1 L 0 d88e 0 6 Invincibility (Starman effect)
+
+C I 1 L 0 b48b 85 a5 Multi-Jump
+
+C I 1 L 0 9b9b d0 f0 Mostly No Pits
+
+C I 1 L 0 b263 a9 49 Stay Big Mario after being hit
+
+C I 1 L 0 b264 0 1 Stay Big Mario after being hit
+
+C I 1 L 0 d936 ad 8d Stay Big Mario after being hit
+
+C I 1 L 0 8e8f 0 4a High-Jump
+
+C I 1 L 0 b4e6 8 b4 Moon-Jump
+
+C I 1 L 0 b424 18 20 Super-jump from a standing start only
+
+C I 1 L 0 b426 16 1e Super-jump from running only
+
+C I 1 L 0 b428 14 28 Super-jump from turbo running only
+
+C I 1 L 0 b424 10 20 Mega-jump from a standing start only
+
+C I 1 L 0 b426 10 1e Mega-jump from running only
+
+C I 1 L 0 b428 4 28 Mega-jump from turbo running only
+
+C I 1 L 0 b42b 7 70 Moon Gravity from a standing start
+
+C I 1 L 0 b42d 7 60 Moon Gravity from a running start
+
+C I 1 L 0 b42f 7 90 Moon Gravity from turbo running only
+
+C I 1 L 0 df56 54 0 Walk thru pipes and blocks
+
+C I 1 L 0 b08b f5 e6 Control Mario in entrances that lead to underground
+
+C I 1 L 0 80ee 58 97 Night Mode
+
+C I 1 L 0 906a 4 2 Start with 5 lives - both players
+
+C I 1 L 0 906a 6 2 Start with 7 lives - both players
+
+C I 1 L 0 906a 8 2 Start with 9 lives - both players
+
+C I 1 L 0 9089 5f a0 Start on World 2
+
+C I 1 L 0 908a 7 3 Start on World 2
+
+C I 1 L 0 9087 1 ff Start on World 2
+
+C I 1 L 0 9089 5f a0 Start on World 3
+
+C I 1 L 0 908a 7 3 Start on World 3
+
+C I 1 L 0 9087 2 ff Start on World 3
+
+C I 1 L 0 9089 5f a0 Start on World 4
+
+C I 1 L 0 908a 7 3 Start on World 4
+
+C I 1 L 0 9087 3 ff Start on World 4
+
+C I 1 L 0 9089 5f a0 Start on World 5
+
+C I 1 L 0 908a 7 3 Start on World 5
+
+C I 1 L 0 9087 4 ff Start on World 5
+
+C I 1 L 0 9089 5f a0 Start on World 6
+
+C I 1 L 0 908a 7 3 Start on World 6
+
+C I 1 L 0 9087 5 ff Start on World 6
+
+C I 1 L 0 9089 5f a0 Start on World 7
+
+C I 1 L 0 908a 7 3 Start on World 7
+
+C I 1 L 0 9087 6 ff Start on World 7
+
+C I 1 L 0 9089 5f a0 Start on World 8
+
+C I 1 L 0 908a 7 3 Start on World 8
+
+C I 1 L 0 9087 7 ff Start on World 8
+
+C I 1 L 0 9089 5f a0 Start on Minus World
+
+C I 1 L 0 908a 7 3 Start on Minus World
+
+C I 1 L 0 9087 23 ff Start on Minus World
+
+C I 1 L 0 f2d3 10 d0 Enable Music And Sound Effects On the Title Screen
+
+C I 1 L 0 90f0 30 f0 Enable Music And Sound Effects On the Title Screen
+
+C I 1 L 0 d725 a5 95 Fireballs Pierce Through Enemies
+
+C I 1 L 0 88b8 60 84 Landscape & Background Are Hidden Experts Only
+
+R I 1 L 0 43a 0 Fireball Trajectory Modifier
+
+R I 1 L 0 43b 0 Fireball Trajectory Modifier
+
+R I 1 L 0 74e 0 Stage Type Modifier
+
+R I 1 L 0 1d 0 Suspended & Glide Through Mid-Air
+
+C I 1 L 0 858b 69 20 Lives Screen Shows a Screen Shot of the Stage
+
+C I 1 L 0 809b ea 7 Game Boy Mode
+
+C I 1 L 0 8cd4 17 30 Game Boy Mode
+
+C I 1 L 0 ca7f eb b5 enemies that are flattened stay on screen and slide
+
+C I 1 L 0 bdeb 51 60 Show Hidden Blocks
+
+C I 1 L 0 bdea 51 5f Show Hidden Blocks
+
+C I 1 L 0 bbff a 1 Coins Worth 10
+
+C I 1 L 0 85f9 a9 f0 Play as Luigi
+
+C I 1 L 0 8860 72 7a Play as Luigi
+
+C I 1 L 0 8865 72 53 Play as Luigi
+
+C I 1 L 0 841c 5a 53 Play as Luigi
+
+C I 1 L 0 dc7c 30 f0 Don't Fall From Walking Or Running Off Platforms, Pipes or Blocks
+
+R I 1 L 0 39 0 All Powerups  Become ??
+
+C I 1 L 0 91d9 ad ce Infinite Lives
+
+C I 1 L 0 d936 ce 8d Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 b260 4c ad Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 b261 45 54 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 b262 fc 7 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc45 ad 82 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc46 56 2c Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc47 7 4 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc48 f0 4 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc49 5 22 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc4a ad 4 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc4b 54 4 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc4c 7 84 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc4d f0 1c Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc4e 3 87 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc4f 4c 26 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc50 63 2a Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc51 b2 26 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc52 8d 84 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc53 b 24 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc54 7 28 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc55 a9 24 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc56 1 80 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc57 85 22 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc58 1d 0 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc59 a9 9c Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc5a c9 5 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc5b 8d 94 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc5c 47 5 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc5d 7 d Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc5e 60 9f Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc5f 0 1e Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc60 0 9c Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc61 0 98 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc62 0 9d Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc63 0 82 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc64 0 22 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc65 0 4 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc66 0 4 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc67 0 1c Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc68 0 4 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc69 0 4 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc6a 0 84 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc6b 0 14 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc6c 0 86 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc6d 0 1e Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc6e 0 80 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc6f 0 16 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc70 0 80 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 fc71 0 14 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 f90e 4b 59 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 f911 4b 59 Revert To Super Mario After Being Hit As Fire Mario
+
+C I 1 L 0 d817 35 23 Invincibility Star Powerup Lasts 1.5x Longer
+
+C I 1 L 0 d817 46 23 Invincibility Star Powerup Lasts 2x Longer
+
+C I 1 L 0 d817 69 23 Invincibility Star Powerup Lasts 3x Longer
+
+C I 1 L 0 d93a 10 8 Temporary Invincibility After Being Hit Lasts 2x Longer
+
+C I 1 L 0 d93a 18 8 Temporary Invincibility After Being Hit Lasts 3x Longer
+
+C I 1 L 0 d93a 28 8 Temporary Invincibility After Being Hit Lasts 5x Longer
+
+C I 1 L 0 d811 0 e Mushroom And Fire Flower Powerups Also Give Invincibility Star Powerup
+
+C I 1 L 0 d81f ea 60 Mushroom And Fire Flower Powerups Also Give Invincibility Star Powerup
+
+C I 1 L 0 bc13 a 64 Receive An Extra Life And Invincibility Star Powerup Every 10 Coins
+
+C I 1 L 0 bc1e 20 a9 Receive An Extra Life And Invincibility Star Powerup Every 10 Coins
+
+C I 1 L 0 bc1f 16 40 Receive An Extra Life And Invincibility Star Powerup Every 10 Coins
+
+C I 1 L 0 bc20 d8 85 Receive An Extra Life And Invincibility Star Powerup Every 10 Coins
+
+C I 1 L 0 bc21 ea fe Receive An Extra Life And Invincibility Star Powerup Every 10 Coins
+
+C I 1 L 0 bc13 19 64 Receive An Extra Life And Invincibility Star Powerup Every 25 Coins
+
+C I 1 L 0 bc1e 20 a9 Receive An Extra Life And Invincibility Star Powerup Every 25 Coins
+
+C I 1 L 0 bc1f 16 40 Receive An Extra Life And Invincibility Star Powerup Every 25 Coins
+
+C I 1 L 0 bc20 d8 85 Receive An Extra Life And Invincibility Star Powerup Every 25 Coins
+
+C I 1 L 0 bc21 ea fe Receive An Extra Life And Invincibility Star Powerup Every 25 Coins
+
+C I 1 L 0 bc13 32 64 Receive An Extra Life And Invincibility Star Powerup Every 50 Coins
+
+C I 1 L 0 bc1e 20 a9 Receive An Extra Life And Invincibility Star Powerup Every 50 Coins
+
+C I 1 L 0 bc1f 16 40 Receive An Extra Life And Invincibility Star Powerup Every 50 Coins
+
+C I 1 L 0 bc20 d8 85 Receive An Extra Life And Invincibility Star Powerup Every 50 Coins
+
+C I 1 L 0 bc21 ea fe Receive An Extra Life And Invincibility Star Powerup Every 50 Coins
+
+C I 1 L 0 bc13 4b 64 Receive An Extra Life And Invincibility Star Powerup Every 75 Coins
+
+C I 1 L 0 bc1e 20 a9 Receive An Extra Life And Invincibility Star Powerup Every 75 Coins
+
+C I 1 L 0 bc1f 16 40 Receive An Extra Life And Invincibility Star Powerup Every 75 Coins
+
+C I 1 L 0 bc20 d8 85 Receive An Extra Life And Invincibility Star Powerup Every 75 Coins
+
+C I 1 L 0 bc21 ea fe Receive An Extra Life And Invincibility Star Powerup Every 75 Coins
+
+C I 1 L 0 e1f6 b5 95 Disable Fireball Object Collision
+
+C I 1 L 0 94e5 ea 29 Give Clouds, Large And Small Mountains, etc Brick Block Properties
+
+C I 1 L 0 94e6 ea c0 Give Clouds, Large And Small Mountains, etc Brick Block Properties
+
+C I 1 L 0 94e9 a0 2a Give Clouds, Large And Small Mountains, etc Brick Block Properties
+
+C I 1 L 0 85e2 19 16 Fireball Powerup Looks Like Luigi (Affects Both Players)
+
+C I 1 L 0 8ce4 1a 16 Fireballs Are Green (Overworld)
+
+C I 1 L 0 8ce6 29 27 Fireballs Are Green (Overworld)
+
+C I 1 L 0 8d08 1a 16 Fireballs Are Green (Underground) 
+
+C I 1 L 0 8d0a 29 27 Fireballs Are Green (Underground) 
+
+C I 1 L 0 8d2c 1a 16 Fireballs Are Green (Castles)
+
+C I 1 L 0 8d2e 29 27 Fireballs Are Green (Castles)
+
+C I 1 L 0 8cc0 1a 16 Fireballs Are Green (Underwater)
+
+C I 1 L 0 8cc2 29 27 Fireballs Are Green (Underwater)
+
+C I 1 L 0 9423 8d 79 Cloud Scenary (Overworlds Only)
+
+C I 1 L 0 9423 6d 79 Fence Scenary (Overworlds Only)
+
+C I 1 L 0 9062 2 1 Jump Through Blocks, etc Instead Of Hitting (Only On First Life)
+
+C I 1 L 0 82f0 54 57 Jump Through Blocks, etc Instead Of Hitting
+
+C I 1 L 0 917e 54 57 Jump Through Blocks, etc Instead Of Hitting
+
+C I 1 L 0 926d 54 57 Jump Through Blocks, etc Instead Of Hitting
+
+C I 1 L 0 b363 4c 20 Pogo-Stick Mario And Luigi (You Can Only Move By Jumping)
+
+C I 1 L 0 e0e2 c0 b5 Red Koopas Don't Fall From Walking Or Running Off Platforms, Pipes Or Blocks
+
+C I 1 L 0 e0f9 79 b9 Enemies Walk Away From Pits
+
+C I 1 L 0 e0f9 2c b9 Enemies Don't Fall From Walking Or Running Off Platforms, Pipes Or Blocks
+
+C I 1 L 0 94e5 ea 29 Give Clouds, Large And Small Mountains, etc Brick Block Properties
+
+C I 1 L 0 94e6 ea c0 Give Clouds, Large And Small Mountains, etc Brick Block Properties
+
+C I 1 L 0 94e9 a0 2a Give Clouds, Large And Small Mountains, etc Brick Block Properties
+
+C I 1 L 0 9429 a8 aa Mountains Overhead Replaces Scenary
+
+C I 1 L 0 f2a1 3 4 Sprite Palette 1
+
+C I 1 L 0 f2a1 8 4 Sprite Palette 2
+
+C I 1 L 0 f2a1 6 4 All Sprites Share Mario's Palette And Are Behind The Scenary
+
+C I 1 L 0 f2b7 6 8 Thin Sprites And Mario
+
+C I 1 L 0 f2b7 5 8 Ultra Thin Sprites And Mario
+
+C I 1 L 0 f2b7 5 8 Paper Mario Mode
+
+C I 1 L 0 f2b7 9 8 Sliced-in Half Sprites And Mario
+
+C I 1 L 0 f2b7 10 8 Far Apart Sprites And Mario
+
+C I 1 L 0 f2b7 16 8 Ultra Far Apart Sprites And Mario
+
+C I 1 L 0 b50b fe 0 Player Can Swim Higher
+
+C I 1 L 0 bd39 bd ad Multiple Coin Blocks Act As Standard Coin Blocks And Give Only 1 Coin
+
+C I 1 L 0 bd39 8d ad Multiple Coin Blocks Give Infinite Coins
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Deleted
+
+C I 1 L 0 9a2f 0 4e All Breakable Bricks Are Deleted
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Deleted
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Invisible Solid Blocks
+
+C I 1 L 0 9a2f 23 4e All Breakable Bricks Are Invisible Solid Blocks
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Invisible Solid Blocks
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Flagpole Bases
+
+C I 1 L 0 9a2f 24 4e All Breakable Bricks Are Flagpole Bases
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Flagpole Bases
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Ground
+
+C I 1 L 0 9a2f 54 4e All Breakable Bricks Are Ground
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Ground
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Regular Brick Powerup Boxes
+
+C I 1 L 0 9a2f 55 4e All Breakable Bricks Are Regular Brick Powerup Boxes
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Regular Brick Powerup Boxes
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Regular Brick Vine Boxes
+
+C I 1 L 0 9a2f 56 4e All Breakable Bricks Are Regular Brick Vine Boxes
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Regular Brick Vine Boxes
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Regular Brick Starman Boxes
+
+C I 1 L 0 9a2f 57 4e All Breakable Bricks Are Regular Brick Starman Boxes
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Regular Brick Starman Boxes
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Regular Brick Multiple Coin Boxes
+
+C I 1 L 0 9a2f 58 4e All Breakable Bricks Are Regular Brick Multiple Coin Boxes
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Regular Brick Multiple Coin Boxes
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Regular Brick 1-up Boxes
+
+C I 1 L 0 9a2f 59 4e All Breakable Bricks Are Regular Brick 1-up Boxes
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Regular Brick 1-up Boxes
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Unused Brick Powerup Boxes
+
+C I 1 L 0 9a2f 5a 4e All Breakable Bricks Are Unused Brick Powerup Boxes
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Unused Brick Powerup Boxes
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Unused Brick Vine Boxes
+
+C I 1 L 0 9a2f 5b 4e All Breakable Bricks Are Unused Brick Vine Boxes
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Unused Brick Vine Boxes
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Unused Brick Starman Boxes
+
+C I 1 L 0 9a2f 5c 4e All Breakable Bricks Are Unused Brick Starman Boxes
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Unused Brick Starman Boxes
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Unused Brick Multiple Coin Boxes
+
+C I 1 L 0 9a2f 5d 4e All Breakable Bricks Are Unused Brick Multiple Coin Boxes
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Unused Brick Multiple Coin Boxes
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Unused Brick 1Up Boxes
+
+C I 1 L 0 9a2f 5e 4e All Breakable Bricks Are Unused Brick 1Up Boxes
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Unused Brick 1Up Boxes
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Staircase Blocks
+
+C I 1 L 0 9a2f 61 4e All Breakable Bricks Are Staircase Blocks
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Staircase Blocks
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Bonus Room Clouds
+
+C I 1 L 0 9a2f 88 4e All Breakable Bricks Are Bonus Room Clouds
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Bonus Room Clouds
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are ? Coin Blocks
+
+C I 1 L 0 9a2f c0 4e All Breakable Bricks Are ? Coin Blocks
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are ? Coin Blocks
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are ? Powerup Blocks
+
+C I 1 L 0 9a2f c1 4e All Breakable Bricks Are ? Powerup Blocks
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are ? Powerup Blocks
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Coins
+
+C I 1 L 0 9a2f c2 4e All Breakable Bricks Are Coins
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Coins
+
+C I 1 L 0 9a2e a9 ac All Breakable Bricks Are Axes
+
+C I 1 L 0 9a2f c5 4e All Breakable Bricks Are Axes
+
+C I 1 L 0 9a30 ea 7 All Breakable Bricks Are Axes
+
+C I 1 L 0 8a2f 29 c9 Coins, Question Mark Blocks All Flash Random Palettes
+
+C I 1 L 0 8a2f c0 c9 Coins, Question Mark Blocks All Flash And Extra Step To Black
+
+S I 1 L 0 89c3 0 Coins, Question Mark Block flashing palette 1
+
+S I 1 L 0 89c4 0 Coins, Question Mark Block flashing palette 2
+
+S I 1 L 0 89c5 0 Coins, Question Mark Block flashing palette 3
+
+S I 1 L 0 89c6 0 Coins, Question Mark Block flashing palette 4
+
+S I 1 L 0 89c7 0 Coins, Question Mark Block flashing palette 5
+
+S I 1 L 0 89c8 0 Coins, Question Mark Block flashing palette 6
+
+C I 1 L 0 8a30 1c 6 Extend Coins, Question Mark Block Flashing Palette To The Maximum Of 28
+
+C I 1 L 0 8a5c 1 6 Grab a Coin To Change The Level Palette To Ocean
+
+C I 1 L 0 8a5c 2 6 Grab a Coin To Change The Level Palette To Night Overworld
+
+C I 1 L 0 8a5c 3 6 Grab a Coin To Change The Level Palette To Underground
+
+C I 1 L 0 8a5c 4 6 Grab a Coin To Change The Level Palette To Castle And Snowy Night Overworld
+
+C I 1 L 0 8a5c 9 6 Grab a Coin To Change The level Palette To Snowy Day Area
+
+C I 1 L 0 8a5c a 6 Grab a Coin To Change The Level Palette To Snowy Night Area
+
+C I 1 L 0 8a5c b 6 Grab a Coin To Change The Level Palette To Vrown Overworld
+
+C I 1 L 0 8a13 21 f4 Coins, Question Mark Blocks Are Black
+
+C I 1 L 0 8a2e 5 6 Coins, Question Mark Blocks Are Inverted
+
+C I 1 L 0 8a2e 5 6 Coins, Question Mark Blocks Are Inverted
+
+C I 1 L 0 8a2f c0 c9 Coins, Question Mark Blocks All Flash And Extra Step To Black
+
+C I 1 L 0 8a30 1c 6 Extend Coins, Question Mark Block Flashing Palette To The Maximum Of 28
+
+C I 1 L 0 bff3 a9 95 after falling in a hole, you appear from above
+
+C I 1 L 0 b34c 9e 89 Invincibility
+
+C I 1 L 0 eef2 0 40 Invincibility
+
+S I 1 L 0 98f9 0 Pipes You Can't Go Down Contain Piranha Plants
+
+C I 1 L 0 b451 a 1d Improve Power Glove Control
+
+C I 1 L 0 b453 80 3 Improve Power Glove Control

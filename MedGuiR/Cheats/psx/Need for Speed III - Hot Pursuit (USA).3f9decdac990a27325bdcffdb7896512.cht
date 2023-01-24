@@ -1,0 +1,156 @@
+[] Need for Speed III - Hot Pursuit (NTSC-U)
+R I 2 L 0 800f9fec 0 P1 Car Modifier
+
+R I 2 L 0 800fa090 0 P2/Cpu Car Modifier
+
+R I 2 L 0 8010df60 1 NTSC2PAL
+
+R I 2 L 0 8011dd30 3 Starte in vierter Runde (Tournament)
+
+R I 2 L 0 8011dd30 1 Starte in zweiter Runde (Knock-Out)
+
+R I 2 L 0 800fa9e0 3d Empire City und El Nino freigeschaltet
+
+R I 2 L 0 8004392e 101 Nazda C2 freigeschaltet
+
+R I 2 L 0 80043930 101 Ferrari 550 & Diablo freigeschaltet
+
+R I 2 L 0 80043932 101 Jaguar XJR-15 & Mercedes freigeschaltet
+
+R I 2 L 0 8004392c 101 Ferrari 355 F1 freigeschaltet (Hot Pursuit Modus)
+
+R I 2 L 0 80125f10 1ff Alles freigeschaltet
+
+R I 1 L 0 8001f34a 20 Musik aus
+
+R I 1 L 0 8001f352 20 Musik aus
+
+R I 2 L 0 8006a66c 0 *An (Druecke Select & Links)
+
+R I 2 L 0 8006a66c 15 *Aus (Druecke Select & Rechts)
+
+R I 4 L 0 801083b8 0 *Stoppuhr 00:00:00 (Note) (Druecke Kreuz & L1 & R1)
+
+R I 1 L 0 800faa9f 0 English
+
+R I 1 L 0 800faa9f 1 Deutsch
+
+R I 1 L 0 800faa9f 2 Espanol
+
+R I 1 L 0 800faa9f 3 Francais
+
+R I 1 L 0 800faa9f 4 Italiano
+
+R I 1 L 0 800faa9f 5 Svenska
+
+R I 2 L 0 800f7a90 6 *Kamera links hinten (Druecke Select & Links Pad 2)
+
+R I 2 L 0 800f7a90 7 *Kamera links vorne (Druecke Select & Oben Pad 2)
+
+R I 2 L 0 800f7a90 8 *Kamera kreist (Druecke Select & Rechts Pad 2)
+
+R I 2 L 0 800f7a90 9 *Replay-Kamera (Druecke Select & Unten Pad 2)
+
+R I 2 L 0 800f7a90 a *Kamera MTV-Style (Druecke Select & Viereck Pad 2)
+
+R I 2 L 0 800f7a90 b *Kamera nach hinten (Druecke Select & L2 Pad 2)
+
+R I 2 L 0 800f7a90 c *Kamera von vorne - zappelnd (Druecke Select & Kreis Pad 2)
+
+R I 2 L 0 800f7a90 10 *Micromachines-Kamera (Druecke Select & Kreuz Pad 2)
+
+R I 2 L 0 800f7a90 13 *Kamera folgt nicht (Druecke Select & R1 Pad 2)
+
+R I 2 L 0 800f7a90 16 *Kamera von vorne - ruhig (Druecke Select & R2 Pad 2)
+
+R I 2 L 0 800f7a90 15 *Start-Kamera (Druecke Select & L1 Pad 2)
+
+R I 2 L 0 8011dd30 3 Start On Lap 4 (Tournament)
+
+R I 2 L 0 8011dd30 1 Start On Lap 2 (Knock-Out)
+
+R I 2 L 0 800fa9e0 3d Enable Empire City and El Nino
+
+R I 2 L 0 8004392e 101 Enable Nazda C2
+
+R I 2 L 0 80043930 101 Enable Ferrari 550 & Diablo
+
+R I 2 L 0 80043932 101 Enable Jaguar XJR-15 & Mercedes
+
+R I 2 L 0 80125f10 1ff Unlock All Cars & Tracks
+
+R I 2 L 0 8004392c 101 Enables Ferrari 355 F1 (Hot Pursuit Mode)
+
+R I 2 L 0 80043930 101 Enable 550 (Hot Pursuit Mode)
+
+R I 2 L 0 8011df02 0 Weird Horn
+
+R I 2 L 0 8011e344 1 Weird Flashing Tail Lights
+
+R I 2 L 0 800fa9d0 0 Track Modifier
+
+R I 2 L 0 800f9f7c 1 Activate Cheat Modifier
+
+R I 2 L 0 80045282 0 Camera Angle
+
+R I 2 L 0 800faa96 0 Camera 1 Selection
+
+R I 2 L 0 800faa98 0 Camera 2 Selection
+
+R I 2 L 0 800faa9a 0 Camera 3 Selection
+
+R I 2 L 0 800faa9c 0 Camera 4 Selection
+
+R I 2 L 0 800fa9c8 ccdd Ghost Car And Breaking Assist (0-Off/1-On)
+
+R I 2 L 0 800fa9ca eeff Traction Assist And Best Line (0-Off/1-On)
+
+R I 2 L 0 800fa9cc 0 Tutor (0-Off/1-On)
+
+R I 2 L 0 800fa9c4 0 Race Mode/Style
+
+R I 2 L 0 800fa9c6 0 Skill Level
+
+R I 2 L 0 800fa9c2 0 Game Type
+
+R I 2 L 0 800fab2a 2000 20Sec Head-Start
+
+R I 2 L 0 800fa9ce 0 Night Driving And Weather (0-Off/1-On)
+
+R I 2 L 0 800faa94 0 Mirror (0-Off/1-On)
+
+R I 2 L 0 800fa9da 0 Direction (0-Forwards/1-Backwards)
+
+R I 2 L 0 800faa88 0 Speedometer
+
+R I 2 L 0 800faa8a 1 Tachometer (0-Off/1-On)
+
+R I 2 L 0 800faa8c 0 Display
+
+R I 2 L 0 800faa8e 1 Lap Time (0-Off/1-On)
+
+R I 2 L 0 8011dd30 3 Start On Lap 4 (Tournament)
+
+R I 2 L 0 8011dd30 1 Start On Lap 2 (Knock-Out)
+
+R I 2 L 0 800fa9e0 3d Enable Empire City and El Nino
+
+R I 2 L 0 8004392e 101 Enable Nazda C2
+
+R I 2 L 0 80043930 101 Enable Ferrari 550 & Diablo
+
+R I 2 L 0 80043932 101 Enable Jaguar XJR-15 & Mercedes
+
+R I 2 L 0 80125f10 1ff Unlock All Cars & All Bonus & Hidden Tracks
+
+R I 2 L 0 8004392c 101 Enables Ferrari 355 F1 (Hot Pursuit Mode)
+
+R I 2 L 0 800f9f7c 20 Different Languages For The Police (Hot Persuit Mode)
+
+R I 2 L 0 8011df02 0 Weird Horn
+
+R I 2 L 0 8011e344 1 Weird Flashing Tail Lights
+
+R I 2 L 0 800fa9d0 0 Track Modifier
+
+R I 2 L 0 800f9f7c 1 Activate Cheat Modifier

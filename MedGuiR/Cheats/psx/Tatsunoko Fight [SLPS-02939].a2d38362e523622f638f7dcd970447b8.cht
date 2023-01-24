@@ -1,0 +1,16 @@
+[] Tatsunoko Fight (NTSC-J)
+R I 2 L 0 8008fda4 6900 Infinite HP (P1)
+
+R I 2 L 0 8008fef0 6900 Infinite HP (P2)
+
+R I 2 L 0 8008fdb0 7800 Infinite MP (P1)
+
+R I 2 L 0 8008fefc 7800 Infinite MP (P2)
+
+R I 2 L 0 8009844e 99 Infinite Match Time
+
+R I 1 L 0 80097b08 f Play as Rosraisen (P1)
+
+R I 1 L 0 80097b14 f Play as Rosraisen (P2)
+
+R I 2 L 0 8008d848 ffff Unlock All Extras

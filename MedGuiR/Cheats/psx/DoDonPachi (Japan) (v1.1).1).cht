@@ -1,0 +1,36 @@
+[] DoDonPachi (NTSC-J)
+R I 2 L 0 8007f2de ff Infinite Life P1
+
+R I 2 L 0 8007f350 ff Infinite Life P2
+
+R I 2 L 0 801b7eec 505 Infinite Bomb P1
+
+R I 2 L 0 801b7f2c 505 Infinite Bomb P2
+
+R I 2 L 0 801b7ee8 4 Max All Pow P1
+
+R I 2 L 0 801b7eea 4 Max All Pow P1
+
+R I 2 L 0 801b7f28 4 Max All Pow P2
+
+R I 2 L 0 801b7f2a 4 Max All Pow P2
+
+R I 2 L 0 801b7f06 f000 Special Aircraft
+
+R I 2 L 0 801b7f06 f001 Special Aircraft
+
+R I 2 L 0 801b7f46 f000 Special Aircraft
+
+R I 2 L 0 801b7f46 f001 Special Aircraft
+
+R I 2 L 0 8007f3ca 3e7 Get All Stars
+
+R I 2 L 0 8007f3cc 3e7 Get All Stars
+
+R I 2 L 0 8007f3c2 3e7 Get All Stars
+
+R I 2 L 0 8007f3c8 3e7 Get All Stars
+
+R I 2 L 0 8007f52c 3a Combo Hit Guage
+
+R I 2 L 0 8007f52e 3a Combo Hit Guage

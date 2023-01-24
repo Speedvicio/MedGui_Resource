@@ -1,0 +1,206 @@
+[691eeff9c5741724a8751ec0fa9cfbf0] Shinobi III - Return of the Ninja Master (USA)
+S I 2 L 0 21d8a c904 Invincibility (Lightning)
+
+S I 2 L 0 20fc4 c3f6 Tap B To Jump Repeatly
+
+S I 2 L 0 50e 606a Turbo mode
+
+S I 2 L 0 49fa 1003 Fast music
+
+S I 2 L 0 21ea6 6012 Infinite energy
+
+S I 2 L 0 615e 10 Start with 1 life - Normal Difficulty
+
+S I 2 L 0 615e a10 Start with 11 lives - Normal Difficulty
+
+S I 2 L 0 615e 3110 Start with 50 lives - Normal Difficulty
+
+S I 2 L 0 615e 6310 Start with 99 lives - Normal Difficulty
+
+S I 2 L 0 232b8 5579 Each throw costs 2 shurikens (7 for Shuriken Burst)
+
+S I 2 L 0 6174 633c Start with 99 shurikens
+
+S I 2 L 0 35fa2 4e71 Get no shurikens on pick up
+
+S I 2 L 0 35fa2 5040 Get 8 shurikens on pick up
+
+S I 2 L 0 232b8 6004 Infinite shurikens (7 for Shuriken Burst)
+
+S I 2 L 0 6184 1000 Start with no ninjitsu items
+
+S I 2 L 0 6184 1005 Start with 5 ninjitsu items
+
+S I 2 L 0 6184 1009 Start with 9 ninjitsu items
+
+S I 2 L 0 22f44 6004 Infinite ninjitsu items
+
+S I 2 L 0 617c 3 Start with 1 credit instead of 3 - Normal Difficulty
+
+S I 2 L 0 617c 503 Start with 5 credits - Normal Difficulty
+
+S I 2 L 0 617c 903 Start with 9 credits - Normal Difficulty
+
+S I 2 L 0 f904 6004 Infinite credits
+
+S I 2 L 0 11818 37a6 Start on round 2
+
+S I 2 L 0 617c 103 Start on round 2
+
+S I 2 L 0 11818 37a6 Start on round 3
+
+S I 2 L 0 617c 203 Start on round 3
+
+S I 2 L 0 11818 37a6 Start on round 4
+
+S I 2 L 0 617c 303 Start on round 4
+
+S I 2 L 0 11818 37a6 Start on round 5
+
+S I 2 L 0 617c 403 Start on round 5
+
+S I 2 L 0 11818 37a6 Start on round 6
+
+S I 2 L 0 617c 503 Start on round 6
+
+S I 2 L 0 11818 37a6 Start on round 7
+
+S I 2 L 0 617c 603 Start on round 7
+
+R I 2 L 0 ff001c 64 Alternate SEGA Logo Intro
+
+R I 2 L 0 ff37a6 0 Start on Round Modifier
+
+R I 2 L 0 ff415a 2a Auto Kill!
+
+R I 2 L 0 ff4164 1f Ghost Shinobi
+
+R I 2 L 0 ff4164 1 Enemies Can't Touch You [No Flashing]
+
+R I 2 L 0 ff377c 0 Infinite Jumps
+
+R I 2 L 0 ff415e 4 Jitsu of Ikazuchi [Lightning] Enabled
+
+R I 2 L 0 ff00e6 1 Flaming Shurikens + Invincibility
+
+R I 2 L 0 ff4164 1 Flaming Shurikens + Invincibility
+
+S I 2 L 0 21db2 0 Invincibility
+
+S I 2 L 0 2154e 2002 Character Flashes
+
+S I 2 L 0 212fc 2000 Tap B to Double Jump
+
+S I 2 L 0 212f8 a000 Tap B two Times for Super Jump
+
+S I 2 L 0 23384 0 Hold B For Auto Throw
+
+S I 2 L 0 2330a 6006 Hold B For Auto Throw
+
+S I 2 L 0 22d0c 2006 Start With Power Up Shurikin
+
+S I 2 L 0 1fd72 6036 Invincibility
+
+S I 2 L 0 20f48 6002 Invincibility
+
+S I 2 L 0 1188a 3230 Start With Max Shurikens
+
+S I 2 L 0 6174 3e7 Start With Max Shurikens
+
+S I 2 L 0 35fa8 4e71 Get Max Shurikens When You Pickup Some
+
+S I 2 L 0 35fac 3e7 Change Shuriken Limit From 799 To 999
+
+S I 2 L 0 231e0 6004 Shuriken Burst Doesn't Cost Any Shurikens
+
+S I 2 L 0 adb0 660a Region Bypass
+
+S I 2 L 0 21e8c a658 Bump Into Enemies To Become Invincible Temporarily
+
+S I 2 L 0 1fbfa 3917 Die With One Hit
+
+S I 2 L 0 21e1a ed21 Get Hit Or Bump Into The Enemy And Fall Differently
+
+S I 2 L 0 2288a 82e Slow Mode
+
+R I 2 L 0 ff37e2 32 Infinite Shurikens
+
+R I 2 L 0 ff37e8 10 Infinite Health
+
+R I 2 L 0 ff00e6 1 Have Flaming Shurikens
+
+R I 2 L 0 ff4160 8b Moon Jump
+
+R I 2 L 0 ff4160 2 Moon Jump
+
+S I 2 L 0 21550 4e71 Always Flashing
+
+S I 2 L 0 1fd9e 4e75 Hard Mode
+
+R I 2 L 0 ff000a 41 Enable 6-Button Mode 
+
+R I 2 L 0 ff000b 52 Enable Invincibility Cheat
+
+R I 2 L 0 ff000b 0 Disable Invincibility Cheat
+
+R I 2 L 0 ff0001 b0 Enable Infinite Shuriken Cheat
+
+R I 2 L 0 ff0001 0 Disable Infinite Shuriken Cheat
+
+S I 2 L 0 21e1a 4e75 All in one Invincibility (No Flashing)
+
+S I 2 L 0 2329a 4e75 Always Only Use Long Sword
+
+S I 2 L 0 221a0 4e75 Walk Through Walls
+
+S I 2 L 0 8baa 4e71 Can activate the infinite Shuriken cheat without changing the sound effects. see notes.
+
+S I 2 L 0 228ce 6016 Keep Flaming Shurikens after being Hit
+
+S I 2 L 0 2058c 6006 Keep Flaming Shurikens after Dying
+
+S I 2 L 0 2076c 6004 Jitsu of Mijin doesn't cost a life
+
+S I 2 L 0 21028 6002 Jump On Any Height
+
+S I 2 L 0 24d54 5 Regular shurikens are 5x stronger
+
+S I 2 L 0 24d54 1e Regular shurikens are 30x stronger
+
+S I 2 L 0 1fc58 2200 Jump higher
+
+S I 2 L 0 2143c 6000 Enable 6-Button Mode
+
+S I 2 L 0 2329a 6026 Enable 6-Button Mode
+
+S I 2 L 0 6a56 40 Enable Alternate Sega Logo Intro
+
+S I 2 L 0 21db8 60d6 Enable Invincibility Cheat
+
+S I 2 L 0 a6a6 6000 Enable Infinite Shuriken Cheat
+
+S I 2 L 0 232ae 600e Enable Infinite Shuriken Cheat
+
+S I 2 L 0 231ae 600a Enable Infinite Shuriken Cheat
+
+S I 2 L 0 2340c 6000 Multi-Jump
+
+S I 2 L 0 2340e dbe4 Multi-Jump
+
+S I 2 L 0 2108e 4e71 Multi-Jump
+
+S I 2 L 0 210ca 60cc Multi-Jump
+
+S I 2 L 0 adb0 600a Regional Lockout Bypass
+
+S I 2 L 0 1fd98 6006 Invincibility
+
+S I 2 L 0 21550 603c Invincibility
+
+S I 2 L 0 21ea8 600e Infinite Health
+
+S I 2 L 0 b096 6004 Infinite Lives
+
+S I 2 L 0 232b8 6004 Infinite Shurikens
+
+S I 2 L 0 231e0 6004 Infinite Shurikens

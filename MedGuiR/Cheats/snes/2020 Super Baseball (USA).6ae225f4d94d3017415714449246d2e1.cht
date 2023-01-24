@@ -1,0 +1,38 @@
+[6ae225f4d94d3017415714449246d2e1] 2020 Super Baseball (USA)
+R I 1 L 0 7f80ca ff P1/Team 1 Has Lots of Money
+
+R I 1 L 0 7f80cc ff P1/Team 1 Has Lots of Money
+
+R I 1 L 0 7f80cb ff P1/Team 1 Has Lots of Money
+
+R I 1 L 0 7f80ca 63 P1/Team 1 Has Lots of Money (Improved)
+
+R I 1 L 0 7f80cc 63 P1/Team 1 Has Lots of Money (Improved)
+
+R I 1 L 0 7f80cb 63 P1/Team 1 Has Lots of Money (Improved)
+
+R I 1 L 0 7f814c 0 Computer/Team 2 Has No Money
+
+R I 1 L 0 7f814b 0 Computer/Team 2 Has No Money
+
+R I 1 L 0 7f814a 0 Computer/Team 2 Has No Money
+
+R I 1 L 0 7fc136 0 Strikes Modifier
+
+R I 1 L 0 7fc137 0 Balls Modifier
+
+R I 1 L 0 7fc138 0 Outs Modifier
+
+R I 1 L 0 7fc13b 0 P1/Team 1 Score Modifier
+
+R I 1 L 0 7fc13c 0 Computer/Team 2 Score Modifier
+
+S I 1 L 0 c0fb8b e Hit A Homerun
+
+S I 1 L 0 c0fb8c c5 Hit A Homerun
+
+S I 1 L 0 c0fb8d b3 Hit A Homerun
+
+S I 1 L 0 c0fb8e 10 Hit A Homerun
+
+S I 1 L 0 c0fb97 78 Hit A Homerun

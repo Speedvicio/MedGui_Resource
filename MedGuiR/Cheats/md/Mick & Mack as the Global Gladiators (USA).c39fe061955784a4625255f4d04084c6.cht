@@ -1,0 +1,164 @@
+[c39fe061955784a4625255f4d04084c6] Mick & Mack as the Global Gladiators (USA)
+S I 2 L 0 cb316 6004 Don't lose energy when slimed
+
+S I 2 L 0 c73a4 1 Start with 1 energy unit
+
+S I 2 L 0 c73a4 3 Start with 3 energy units
+
+S I 2 L 0 c73a4 5 Start with 5 energy units
+
+S I 2 L 0 c73a4 8 Start with 8 energy units
+
+S I 2 L 0 c73a4 f Start with 15 energy units
+
+S I 2 L 0 c73a4 14 Start with 20 energy units
+
+S I 2 L 0 c73a4 1e Start with 30 energy units
+
+S I 2 L 0 c73a4 32 Start with 50 energy units
+
+S I 2 L 0 c73a4 64 Start with 100 energy units
+
+S I 2 L 0 c63ac 4e71 Infinite lives
+
+S I 2 L 0 cafb0 30 Start with 1 life (Normal Difficulty only)
+
+S I 2 L 0 cafb0 31 Start with 2 lives (Normal Difficulty only)
+
+S I 2 L 0 cafb0 35 Start with 6 lives (Normal Difficulty only)
+
+S I 2 L 0 cafb0 36 Start with 7 lives (Normal Difficulty only)
+
+S I 2 L 0 cafb0 37 Start with 8 lives (Normal Difficulty only)
+
+S I 2 L 0 cafb0 38 Start with 9 lives (Normal Difficulty only)
+
+S I 2 L 0 cafb0 39 Start with 10 lives (Normal Difficulty only)
+
+S I 2 L 0 ca778 4e71 Extra life symbol [1-up] gives you 0 more lives
+
+S I 2 L 0 ca778 5400 Extra life symbol [1-up] gives you 2 more lives
+
+S I 2 L 0 ca778 5600 Extra life symbol [1-up] gives you 3 more lives
+
+S I 2 L 0 ca778 5800 Extra life symbol [1-up] gives you 4 more lives
+
+S I 2 L 0 ca778 5a00 Extra life symbol [1-up] gives you 5 more lives
+
+S I 2 L 0 ca778 5c00 Extra life symbol [1-up] gives you 6 more lives
+
+S I 2 L 0 ca778 5e00 Extra life symbol [1-up] gives you 7 more lives
+
+S I 2 L 0 ca778 5000 Extra life symbol [1-up] gives you 8 more lives
+
+S I 2 L 0 cb18c 6002 0 arches needed to complete a level
+
+S I 2 L 0 cb188 3031 10 arches needed to complete a level
+
+S I 2 L 0 cb188 3032 20 arches needed to complete a level
+
+S I 2 L 0 cb188 3034 40 arches needed to complete a level
+
+S I 2 L 0 cb188 3035 50 arches needed to complete a level
+
+S I 2 L 0 cb188 3036 60 arches needed to complete a level
+
+S I 2 L 0 cb188 3037 70 arches needed to complete a level
+
+S I 2 L 0 cb188 3038 80 arches needed to complete a level
+
+S I 2 L 0 cb188 3039 90 arches needed to complete a level
+
+S I 2 L 0 c59a4 6000 0 arches needed to get to bonus round
+
+S I 2 L 0 c59a0 3030 5 arches needed to get to bonus round
+
+S I 2 L 0 c59a0 3031 15 arches needed to get to bonus round
+
+S I 2 L 0 c59a0 3032 25 arches needed to get to bonus round
+
+S I 2 L 0 c59a0 3033 35 arches needed to get to bonus round
+
+S I 2 L 0 c59a0 3034 45 arches needed to get to bonus round
+
+S I 2 L 0 c59a0 3035 55 arches needed to get to bonus round
+
+S I 2 L 0 c59a0 3036 65 arches needed to get to bonus round
+
+S I 2 L 0 c59a0 3038 85 arches needed to get to bonus round
+
+S I 2 L 0 c59a0 3039 95 arches needed to get to bonus round
+
+S I 2 L 0 cb17a 5610 Each arch is worth more
+
+S I 2 L 0 cb3dc 4e71 Infinite time to complete level
+
+S I 2 L 0 cb3dc 5710 Clock runs about 3x as fast as normal
+
+S I 2 L 0 cb452 3935 9:50 to complete each level
+
+S I 2 L 0 cb452 3930 9:00 to complete each level
+
+S I 2 L 0 cb452 3830 8:00 to complete each level
+
+S I 2 L 0 cb452 3730 7:00 to complete each level
+
+S I 2 L 0 cb452 3630 6:00 to complete each level
+
+S I 2 L 0 cb452 3530 5:00 to complete each level
+
+S I 2 L 0 cb452 3430 4:00 to complete each level
+
+S I 2 L 0 cb452 3330 3:00 to complete each level
+
+S I 2 L 0 cb452 3230 2:00 to complete each level
+
+S I 2 L 0 cb452 3130 1:00 to complete each level
+
+S I 2 L 0 ca7e8 5200 Collecting a clock adds 1 minute to time clock
+
+S I 2 L 0 ca7e8 5600 Collecting a clock adds 3 minutes to time clock
+
+S I 2 L 0 ca7e8 5800 Collecting a clock adds 4 minutes to time clock
+
+S I 2 L 0 ca7e8 5a00 Collecting a clock adds 5 minutes to time clock
+
+S I 2 L 0 ca7e8 5c00 Collecting a clock adds 6 minutes to time clock
+
+S I 2 L 0 ca7e8 5e00 Collecting a clock adds 7 minutes to time clock
+
+S I 2 L 0 ca7e8 5000 Collecting a clock adds 8 minutes to time clock
+
+S I 2 L 0 c63b0 1f Infinite Lives
+
+S I 2 L 0 cb318 1f Infinite Energy
+
+S I 2 L 0 cb3d4 6008 Freeze Time
+
+R I 2 L 0 ff00b4 33 Infinite Lives
+
+R I 2 L 0 fffed2 a Infinite Energy
+
+R I 2 L 0 ff001c 39 Freeze Time
+
+S I 2 L 0 c69b2 28 High jump.
+
+S I 2 L 0 c69b2 18 Super High Jump
+
+S I 2 L 0 cbe7c c894 Pause The Game And Press A, Then Unpause And You'll Get An Extra Life
+
+R I 2 L 0 ff0074 ff Invincibility and infinite lives.
+
+R I 2 L 0 ff001c 35 Unlimited Time
+
+R I 2 L 0 fffed2 a Unlimited Energy
+
+R I 2 L 0 ff00b4 33 Unlimited Men
+
+R I 2 L 0 ff001c 52 Infinite Time (Seconds)
+
+R I 2 L 0 fffed2 9 Infinite Health
+
+R I 2 L 0 ff00b4 55 Infinite Lives
+
+S I 2 L 0 c715e 5239 Invincibility, Infinite Lives, And Infinite Time (3 In 1)

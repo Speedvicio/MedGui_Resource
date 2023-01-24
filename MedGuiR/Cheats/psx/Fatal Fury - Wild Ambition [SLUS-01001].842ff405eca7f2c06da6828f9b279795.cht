@@ -1,0 +1,428 @@
+[] Fatal Fury - Wild Ambition (NTSC-U)
+R I 2 L 0 8002eec2 2400 P1 Hit Anywhere
+
+R I 2 L 0 8002f05e 2400 P2 Hit Anywhere
+
+R I 1 L 0 800ac03b 8 One Fight To Beat Game
+
+R I 2 L 0 800ac042 0 Round Modifier
+
+R I 2 L 0 800ac068 0 CPU Easy To Beat
+
+R I 2 L 0 800ac130 ffff Unlock All Movies
+
+R I 2 L 0 800ac132 ff Unlock All Movies
+
+R I 2 L 0 800ac134 ffff Unlock All Commands, Open Team Battle & Data Menu
+
+R I 2 L 0 800ac12a ffff Unlock All Characters
+
+R I 2 L 0 800ac090 1 P1 Character Modifier
+
+R I 2 L 0 800ac092 0 P2 Character Modifier
+
+R I 2 L 0 800ac094 0 P1 Control Modifier
+
+R I 2 L 0 800ac096 0 P2 Control Modifier
+
+R I 2 L 0 800ace98 2 P1 Only 1 Match To Win
+
+R I 2 L 0 800ace98 0 P1 Never Wins A Match
+
+R I 2 L 0 800ace9a 170 Infinite Health P1
+
+R I 2 L 0 800ace9a 70 Infinite Health P1 (Special Status)
+
+R I 2 L 0 800ace9a 0 No Health P1
+
+R I 2 L 0 800acecc 30 Infinite Max Power P1
+
+R I 2 L 0 800acecc 0 No Max Power P1
+
+R I 2 L 0 800ae6b8 2 P2 Only 1 Match To Win
+
+R I 2 L 0 800ae6b8 0 P2 Never Wins A Match
+
+R I 2 L 0 800ae6ba 170 Infinite Health P2
+
+R I 2 L 0 800ae6ba 70 Infinite Health P2 (Special Status)
+
+R I 2 L 0 800ae6ba 0 No Health P2
+
+R I 2 L 0 800ae6ec 30 Infinite Max Power P2
+
+R I 2 L 0 800ae6ec 0 No Max Power P2
+
+R I 2 L 0 8002f67e 2400 Only Throws Hurt P1
+
+R I 2 L 0 8002f636 2400 Only Throws Hurt P2
+
+R I 2 L 0 800ac14c 0 Time 00:00:00
+
+R I 2 L 0 800ac14e 0 Time 00:00:00
+
+R I 2 L 0 800ac154 2 Have All Status
+
+R I 1 L 0 800ac158 0 Letter 1
+
+R I 1 L 0 800ac159 0 Letter 2
+
+R I 1 L 0 800ac15a 0 Letter 3
+
+R I 2 L 0 800ac16c 0 Time 00:00:00
+
+R I 2 L 0 800ac16e 0 Time 00:00:00
+
+R I 2 L 0 800ac174 2 Have All Status
+
+R I 1 L 0 800ac178 0 Letter 1
+
+R I 1 L 0 800ac179 0 Letter 2
+
+R I 1 L 0 800ac17a 0 Letter 3
+
+R I 2 L 0 800ac18c 0 Time 00:00:00
+
+R I 2 L 0 800ac18e 0 Time 00:00:00
+
+R I 2 L 0 800ac194 2 Have All Status
+
+R I 1 L 0 800ac198 0 Letter 1
+
+R I 1 L 0 800ac199 0 Letter 2
+
+R I 1 L 0 800ac19a 0 Letter 3
+
+R I 2 L 0 800ac1ac 0 Time 00:00:00
+
+R I 2 L 0 800ac1ae 0 Time 00:00:00
+
+R I 2 L 0 800ac1b4 2 Have All Status
+
+R I 1 L 0 800ac1b8 0 Letter 1
+
+R I 1 L 0 800ac1b9 0 Letter 2
+
+R I 1 L 0 800ac1ba 0 Letter 3
+
+R I 2 L 0 800ac1cc 0 Time 00:00:00
+
+R I 2 L 0 800ac1ce 0 Time 00:00:00
+
+R I 2 L 0 800ac1d4 2 Have All Status
+
+R I 1 L 0 800ac1d8 0 Letter 1
+
+R I 1 L 0 800ac1d9 0 Letter 2
+
+R I 1 L 0 800ac1da 0 Letter 3
+
+R I 2 L 0 800ac1ec 0 Time 00:00:00
+
+R I 2 L 0 800ac1ee 0 Time 00:00:00
+
+R I 2 L 0 800ac1f4 2 Have All Status
+
+R I 1 L 0 800ac1f8 0 Letter 1
+
+R I 1 L 0 800ac1f9 0 Letter 2
+
+R I 1 L 0 800ac1fa 0 Letter 3
+
+R I 2 L 0 800ac20c 0 Time 00:00:00
+
+R I 2 L 0 800ac20e 0 Time 00:00:00
+
+R I 2 L 0 800ac214 2 Have All Status
+
+R I 1 L 0 800ac218 0 Letter 1
+
+R I 1 L 0 800ac219 0 Letter 2
+
+R I 1 L 0 800ac21a 0 Letter 3
+
+R I 2 L 0 800ac22c 0 Time 00:00:00
+
+R I 2 L 0 800ac22e 0 Time 00:00:00
+
+R I 2 L 0 800ac234 2 Have All Status
+
+R I 1 L 0 800ac238 0 Letter 1
+
+R I 1 L 0 800ac239 0 Letter 2
+
+R I 1 L 0 800ac23a 0 Letter 3
+
+R I 2 L 0 800ac24c 0 Time 00:00:00
+
+R I 2 L 0 800ac24e 0 Time 00:00:00
+
+R I 2 L 0 800ac254 2 Have All Status
+
+R I 1 L 0 800ac258 0 Letter 1
+
+R I 1 L 0 800ac259 0 Letter 2
+
+R I 1 L 0 800ac25a 0 Letter 3
+
+R I 2 L 0 800ac26c 0 Time 00:00:00
+
+R I 2 L 0 800ac26e 0 Time 00:00:00
+
+R I 2 L 0 800ac274 2 Have All Status
+
+R I 1 L 0 800ac278 0 Letter 1
+
+R I 1 L 0 800ac279 0 Letter 2
+
+R I 1 L 0 800ac27a 0 Letter 3
+
+R I 2 L 0 800ac28c 0 Time 00:00:00
+
+R I 2 L 0 800ac28e 0 Time 00:00:00
+
+R I 2 L 0 800ac294 2 Have All Status
+
+R I 1 L 0 800ac298 0 Letter 1
+
+R I 1 L 0 800ac299 0 Letter 2
+
+R I 1 L 0 800ac29a 0 Letter 3
+
+R I 2 L 0 800ac2ac 0 Time 00:00:00
+
+R I 2 L 0 800ac2ae 0 Time 00:00:00
+
+R I 2 L 0 800ac2b4 2 Have All Status
+
+R I 1 L 0 800ac2b8 0 Letter 1
+
+R I 1 L 0 800ac2b9 0 Letter 2
+
+R I 1 L 0 800ac2ba 0 Letter 3
+
+R I 2 L 0 800ac2cc 0 Time 00:00:00
+
+R I 2 L 0 800ac2ce 0 Time 00:00:00
+
+R I 2 L 0 800ac2d4 2 Have All Status
+
+R I 1 L 0 800ac2d8 0 Letter 1
+
+R I 1 L 0 800ac2d9 0 Letter 2
+
+R I 1 L 0 800ac2da 0 Letter 3
+
+R I 2 L 0 800ac138 967f Max Total Battles
+
+R I 2 L 0 800ac13a 98 Max Total Battles
+
+R I 2 L 0 800ac13c 967f Max Total Used
+
+R I 2 L 0 800ac13e 98 Max Total Used
+
+R I 2 L 0 800ac140 967f Max Total Wins
+
+R I 2 L 0 800ac142 98 Max Total Wins
+
+R I 2 L 0 800ac144 0 0 Total Losses
+
+R I 2 L 0 800ac146 0 0 Total Losses
+
+R I 2 L 0 800ac148 0 0 Total Draws
+
+R I 2 L 0 800ac14a 0 0 Total Draws
+
+R I 2 L 0 800ac15c 967f Max Total Used
+
+R I 2 L 0 800ac15e 98 Max Total Used
+
+R I 2 L 0 800ac160 967f Max Total Wins
+
+R I 2 L 0 800ac162 98 Max Total Wins
+
+R I 2 L 0 800ac164 0 0 Total Losses
+
+R I 2 L 0 800ac166 0 0 Total Losses
+
+R I 2 L 0 800ac168 0 0 Total Draws
+
+R I 2 L 0 800ac16a 0 0 Total Draws
+
+R I 2 L 0 800ac17c 967f Max Total Used
+
+R I 2 L 0 800ac17e 98 Max Total Used
+
+R I 2 L 0 800ac180 967f Max Total Wins
+
+R I 2 L 0 800ac182 98 Max Total Wins
+
+R I 2 L 0 800ac184 0 0 Total Losses
+
+R I 2 L 0 800ac186 0 0 Total Losses
+
+R I 2 L 0 800ac188 0 0 Total Draws
+
+R I 2 L 0 800ac18a 0 0 Total Draws
+
+R I 2 L 0 800ac1ac 967f Max Total Used
+
+R I 2 L 0 800ac1ae 98 Max Total Used
+
+R I 2 L 0 800ac1b0 967f Max Total Wins
+
+R I 2 L 0 800ac1b2 98 Max Total Wins
+
+R I 2 L 0 800ac1b4 0 0 Total Losses
+
+R I 2 L 0 800ac1b6 0 0 Total Losses
+
+R I 2 L 0 800ac1b8 0 0 Total Draws
+
+R I 2 L 0 800ac1ba 0 0 Total Draws
+
+R I 2 L 0 800ac1cc 967f Max Total Used
+
+R I 2 L 0 800ac1ce 98 Max Total Used
+
+R I 2 L 0 800ac1d0 967f Max Total Wins
+
+R I 2 L 0 800ac1d2 98 Max Total Wins
+
+R I 2 L 0 800ac1d4 0 0 Total Losses
+
+R I 2 L 0 800ac1d6 0 0 Total Losses
+
+R I 2 L 0 800ac1d8 0 0 Total Draws
+
+R I 2 L 0 800ac1da 0 0 Total Draws
+
+R I 2 L 0 800ac1ec 967f Max Total Used
+
+R I 2 L 0 800ac1ee 98 Max Total Used
+
+R I 2 L 0 800ac1f0 967f Max Total Wins
+
+R I 2 L 0 800ac1f2 98 Max Total Wins
+
+R I 2 L 0 800ac1f4 0 0 Total Losses
+
+R I 2 L 0 800ac1f6 0 0 Total Losses
+
+R I 2 L 0 800ac1f8 0 0 Total Draws
+
+R I 2 L 0 800ac1fa 0 0 Total Draws
+
+R I 2 L 0 800ac20c 967f Max Total Used
+
+R I 2 L 0 800ac20e 98 Max Total Used
+
+R I 2 L 0 800ac210 967f Max Total Wins
+
+R I 2 L 0 800ac212 98 Max Total Wins
+
+R I 2 L 0 800ac214 0 0 Total Losses
+
+R I 2 L 0 800ac216 0 0 Total Losses
+
+R I 2 L 0 800ac218 0 0 Total Draws
+
+R I 2 L 0 800ac21a 0 0 Total Draws
+
+R I 2 L 0 800ac22c 967f Max Total Used
+
+R I 2 L 0 800ac22e 98 Max Total Used
+
+R I 2 L 0 800ac230 967f Max Total Wins
+
+R I 2 L 0 800ac232 98 Max Total Wins
+
+R I 2 L 0 800ac234 0 0 Total Losses
+
+R I 2 L 0 800ac236 0 0 Total Losses
+
+R I 2 L 0 800ac238 0 0 Total Draws
+
+R I 2 L 0 800ac23a 0 0 Total Draws
+
+R I 2 L 0 800ac24c 967f Max Total Used
+
+R I 2 L 0 800ac24e 98 Max Total Used
+
+R I 2 L 0 800ac250 967f Max Total Wins
+
+R I 2 L 0 800ac252 98 Max Total Wins
+
+R I 2 L 0 800ac254 0 0 Total Losses
+
+R I 2 L 0 800ac256 0 0 Total Losses
+
+R I 2 L 0 800ac258 0 0 Total Draws
+
+R I 2 L 0 800ac25a 0 0 Total Draws
+
+R I 2 L 0 800ac26c 967f Max Total Used
+
+R I 2 L 0 800ac26e 98 Max Total Used
+
+R I 2 L 0 800ac270 967f Max Total Wins
+
+R I 2 L 0 800ac272 98 Max Total Wins
+
+R I 2 L 0 800ac274 0 0 Total Losses
+
+R I 2 L 0 800ac276 0 0 Total Losses
+
+R I 2 L 0 800ac278 0 0 Total Draws
+
+R I 2 L 0 800ac27a 0 0 Total Draws
+
+R I 2 L 0 800ac28c 967f Max Total Used
+
+R I 2 L 0 800ac28e 98 Max Total Used
+
+R I 2 L 0 800ac290 967f Max Total Wins
+
+R I 2 L 0 800ac292 98 Max Total Wins
+
+R I 2 L 0 800ac294 0 0 Total Losses
+
+R I 2 L 0 800ac296 0 0 Total Losses
+
+R I 2 L 0 800ac298 0 0 Total Draws
+
+R I 2 L 0 800ac29a 0 0 Total Draws
+
+R I 2 L 0 800ac2ac 967f Max Total Used
+
+R I 2 L 0 800ac2ae 98 Max Total Used
+
+R I 2 L 0 800ac2b0 967f Max Total Wins
+
+R I 2 L 0 800ac2b2 98 Max Total Wins
+
+R I 2 L 0 800ac2b4 0 0 Total Losses
+
+R I 2 L 0 800ac2b6 0 0 Total Losses
+
+R I 2 L 0 800ac2b8 0 0 Total Draws
+
+R I 2 L 0 800ac2ba 0 0 Total Draws
+
+R I 2 L 0 800ac2cc 967f Max Total Used
+
+R I 2 L 0 800ac2ce 98 Max Total Used
+
+R I 2 L 0 800ac2d0 967f Max Total Wins
+
+R I 2 L 0 800ac2d2 98 Max Total Wins
+
+R I 2 L 0 800ac2d4 0 0 Total Losses
+
+R I 2 L 0 800ac2d6 0 0 Total Losses
+
+R I 2 L 0 800ac2d8 0 0 Total Draws
+
+R I 2 L 0 800ac2da 0 0 Total Draws
+
+R I 2 L 0 800ac040 0 Time Modifier

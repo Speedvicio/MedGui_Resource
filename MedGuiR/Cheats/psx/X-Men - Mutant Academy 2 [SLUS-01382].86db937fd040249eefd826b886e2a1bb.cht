@@ -1,0 +1,152 @@
+[] X-Men - Mutant Academy 2 (NTSC-U)
+R I 1 L 0 800adf7a 0 P1 Infinite Counters
+
+R I 1 L 0 800ae5ce 0 P2 Infinite Counters
+
+R I 1 L 0 800adf0a 1 P1 Invincible
+
+R I 1 L 0 800ae55e 1 P2 Invincible
+
+R I 1 L 0 800ae55e ff P1 Throws Disabled
+
+R I 1 L 0 800adf0a ff P2 Throws Disabled
+
+R I 1 L 0 800adda0 12 P1 Hit Detection Modifier
+
+R I 1 L 0 800ae3f4 12 P2 Hit Detection Modifier
+
+R I 1 L 0 800ada14 2 P1 Can Do Mid-Air Moves
+
+R I 1 L 0 800ae068 2 P2 Can Do Mid-Air Moves
+
+R I 1 L 0 800add8a 0 P1 Character Modifier
+
+R I 1 L 0 800ae3de 0 P2 Character Modifier
+
+R I 1 L 0 800add8c 0 P1 Costume Modifier
+
+R I 1 L 0 800ae3e0 0 P2 Costume Modifier
+
+R I 1 L 0 800aafc8 4 Arena Modifier (All Modes)
+
+R I 1 L 0 800aafe8 1 Player Training Modifier (Academy Mode)
+
+R I 2 L 0 800ade94 b400 Infinite Health P1
+
+R I 2 L 0 800ade96 b400 Infinite Health P1
+
+R I 2 L 0 800ade94 2d00 25% Health P1
+
+R I 2 L 0 800ade96 2d00 25% Health P1
+
+R I 2 L 0 800ade94 5a00 50% Health P1
+
+R I 2 L 0 800ade96 5a00 50% Health P1
+
+R I 2 L 0 800ade94 8700 75% Health P1
+
+R I 2 L 0 800ade96 8700 75% Health P1
+
+R I 2 L 0 800ade94 100 1-Hit Death P1
+
+R I 2 L 0 800ade96 100 1-Hit Death P1
+
+R I 2 L 0 800ade94 0 No Health P1
+
+R I 2 L 0 800ade96 0 No Health P1
+
+R I 2 L 0 800adf60 0 P1 Never Wins
+
+R I 2 L 0 800adf60 1 P1 Needs 1 Win To Win
+
+R I 2 L 0 800adf72 1400 Max Special 1 P1
+
+R I 2 L 0 800adf74 1e00 Max Special 2 P1
+
+R I 2 L 0 800adf76 2800 Max Special 3 P1
+
+R I 2 L 0 800adf72 0 No Special 1 P1
+
+R I 2 L 0 800adf74 0 No Special 2 P1
+
+R I 2 L 0 800adf76 0 No Special 3 P1
+
+R I 2 L 0 800ae4e8 b400 Infinite Health P2
+
+R I 2 L 0 800ae4ea b400 Infinite Health P2
+
+R I 2 L 0 800ae4e8 2d00 25% Health P2
+
+R I 2 L 0 800ae4ea 2d00 25% Health P2
+
+R I 2 L 0 800ae4e8 5a00 50% Health P2
+
+R I 2 L 0 800ae4ea 5a00 50% Health P2
+
+R I 2 L 0 800ae4e8 8700 75% Health P2
+
+R I 2 L 0 800ae4ea 8700 75% Health P2
+
+R I 2 L 0 800ae4e8 100 1-Hit Death P2
+
+R I 2 L 0 800ae4ea 100 1-Hit Death P2
+
+R I 2 L 0 800ae4e8 0 No Health P2
+
+R I 2 L 0 800ae4ea 0 No Health P2
+
+R I 2 L 0 800ae5b4 0 P2 Never Wins
+
+R I 2 L 0 800ae5b4 1 P2 Needs 1 Win To Win
+
+R I 2 L 0 800ae5c6 1400 Max Special 1 P2
+
+R I 2 L 0 800ae5c8 1e00 Max Special 2 P2
+
+R I 2 L 0 800ae5ca 2800 Max Special 3 P2
+
+R I 2 L 0 800ae5c6 0 No Special 1 P2
+
+R I 2 L 0 800ae5c8 0 No Special 2 P2
+
+R I 2 L 0 800ae5ca 0 No Special 3 P2
+
+R I 2 L 0 800aa958 63 Infinite Time
+
+R I 2 L 0 8001cfc6 2400 Hit Anywhere (Both Players)
+
+R I 1 L 0 801f75e0 0 Cyclops
+
+R I 1 L 0 801f75f1 0 Cyclops-Spider-Man
+
+R I 1 L 0 801f75e1 0 Wolverine
+
+R I 1 L 0 801f75e2 0 Gambit
+
+R I 1 L 0 801f75e3 0 Storm
+
+R I 1 L 0 801f75e4 0 Beast
+
+R I 1 L 0 801f75e5 0 Phoenix
+
+R I 1 L 0 801f75e6 0 Toad
+
+R I 1 L 0 801f75e7 0 Mystique
+
+R I 1 L 0 801f75e8 0 Sabretooth
+
+R I 1 L 0 801f75e9 0 Magneto
+
+R I 1 L 0 801f75f0 0 Magneto - Unlock Xavier
+
+R I 1 L 0 801f75ea 0 Juggernaut
+
+R I 1 L 0 801f75eb 0 NightCrawler
+
+R I 1 L 0 801f75ec 0 Forge
+
+R I 1 L 0 801f75ed 0 Rogue
+
+R I 1 L 0 801f75ee 0 Havok
+
+R I 1 L 0 801f75ef 0 Psylocke

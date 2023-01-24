@@ -1,0 +1,130 @@
+[24863151abd5baf28c9386d49ffe3c09] Castle of Illusion Starring Mickey Mouse (USA, Europe)
+S I 2 L 0 324 6020 MASTER CODE--MUST BE ENTERED
+
+S I 2 L 0 c4e 5a78 Each item worth 5 items
+
+S I 2 L 0 c48 63 Maximum Item Capacity Becomes 98
+
+S I 2 L 0 9c28 63 Maximum Item Capacity Becomes 98
+
+S I 2 L 0 b8ca 4a78 Infinite items
+
+S I 2 L 0 7a92c 4a78 Keep items between levels
+
+S I 2 L 0 9300 4a78 Infinite tries, lose tries if you fall
+
+S I 2 L 0 bd6e 4a78 Infinite tries, don&#039;t lose tries if you fall
+
+S I 2 L 0 92f4 4a78 Invincibility
+
+S I 2 L 0 c8c4 26 Jump higher
+
+S I 2 L 0 9300 6002 Infinite Lives
+
+S I 2 L 0 92f4 6002 Infinite Energy
+
+S I 2 L 0 b8ca 6002 Infinite Weapon
+
+S I 2 L 0 b794 4e75 Mickey Only Takes One Damage Point Per Section
+
+R I 2 L 0 fff325 3 Infinite Lives
+
+R I 2 L 0 fff322 200 Infinite Health
+
+R I 2 L 0 fff320 63 Infinite Apples
+
+R I 2 L 0 fff320 5 Infinite Items
+
+S I 2 L 0 b7a2 4091 1 Hit And You Have Invincibility
+
+S I 2 L 0 b7b2 4091 Don't Blink When Hit
+
+S I 2 L 0 95c4 10 Turbo Mode (Glitchy)
+
+S I 2 L 0 9264 878 Skip To The Bosses
+
+S I 2 L 0 92e8 928 Almost Untouchable
+
+S I 2 L 0 92f8 28e8 Lose Health And Lives But You Won't Die
+
+R I 2 L 0 fff406 0 Mickey Can Jump Repeatedly In Mid Air.
+
+R I 2 L 0 fff446 10 Invincibility 
+
+S I 2 L 0 11fe4 4268 1 Hit Kill Bosses
+
+R I 2 L 0 fff7e2 644 Night Mode
+
+R I 2 L 0 fff7e4 622 Night Mode
+
+R I 2 L 0 fff7e6 422 Night Mode
+
+R I 2 L 0 fff7e8 222 Night Mode
+
+R I 2 L 0 fff7ea 224 Night Mode
+
+R I 2 L 0 fff7ec 446 Night Mode
+
+R I 2 L 0 fff7ee 668 Night Mode
+
+R I 2 L 0 fff7f0 688 Night Mode
+
+R I 2 L 0 fff7f2 622 Night Mode
+
+R I 2 L 0 fff7f4 422 Night Mode
+
+R I 2 L 0 fff7f6 222 Night Mode
+
+R I 2 L 0 fff7f8 aee Night Mode
+
+S I 2 L 0 92ee 4e75 Invincibility (Disable Hit Detection)
+
+S I 2 L 0 92da 4e75 Invincibility (Disable Hit Detection)
+
+S I 2 L 0 92b4 4e75 Invincibility (Disable Hit Detection)
+
+S I 2 L 0 bffc 4e75 Invincibility (Disable Hit Detection)
+
+S I 2 L 0 b4fa 4e75 Invincibility (Disable Hit Detection)
+
+S I 2 L 0 c9d2 0 Infinite Controllable Jump - Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)
+
+S I 2 L 0 c8ba 0 Infinite Controllable Jump
+
+S I 2 L 0 ca2c 2 Walk Faster
+
+S I 2 L 0 ca2e 5000 Walk Faster
+
+S I 2 L 0 9396 6002 Infinite Tries - Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)
+
+S I 2 L 0 928a 6002 Infinite Power - Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)
+
+S I 2 L 0 9384 4e75 Invincibility (Disable Hit Detection) - Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)
+
+S I 2 L 0 9370 4e75 Invincibility (Disable Hit Detection) - Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)
+
+S I 2 L 0 934a 4e75 Invincibility (Disable Hit Detection) - Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)
+
+S I 2 L 0 c104 4e75 Invincibility (Disable Hit Detection) - Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)
+
+S I 2 L 0 b602 4e75 Invincibility (Disable Hit Detection) - Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)
+
+S I 2 L 0 b9d2 6002 Infinite Items - Castle of Illusion - Fushigi no Oshiro Daibouken (Japan)
+
+S I 2 L 0 b79e 4e75 Invincibility
+
+S I 2 L 0 c8b2 4e71 Double jump
+
+S I 2 L 0 c0ea 4e75 Walk thru walls
+
+S I 2 L 0 c088 4e75 Walk thru walls
+
+S I 2 L 0 b964 6062 Allows you to jump one time while in the air after walking off a ledge
+
+S I 2 L 0 c0ea 4e75 Walk thru walls
+
+S I 2 L 0 c088 4e75 Walk thru walls
+
+S I 2 L 0 c844 6002 Walk thru walls
+
+S I 2 L 0 c8b2 4e71 Walk thru walls

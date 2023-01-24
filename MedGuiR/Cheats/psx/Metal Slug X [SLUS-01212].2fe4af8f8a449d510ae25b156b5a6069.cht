@@ -1,0 +1,48 @@
+[] Metal Slug X (NTSC-U)
+R I 2 L 0 800398be 2400 Infinite Bombs
+
+R I 2 L 0 800398b4 1 Extra Bombs
+
+R I 2 L 0 8002dce6 2400 Infinite Arms Ammo
+
+R I 2 L 0 8002dcd8 1 Extra Arms Ammo
+
+R I 2 L 0 8002962a 2400 Infinite Time
+
+R I 2 L 0 800295f8 2 Extra Time
+
+R I 2 L 0 800475ae 2400 Infinite Lives
+
+R I 2 L 0 800475a8 1 Extra Lives
+
+R I 2 L 0 8003273e 2400 Invincible
+
+R I 2 L 0 80032764 c8 Invincible
+
+R I 2 L 0 80032766 2405 Invincible
+
+R I 2 L 0 800d4948 0 Rapid Fire (Arms Ammo)
+
+R I 2 L 0 800ee318 0 Score Modifier P1
+
+R I 2 L 0 800ee318 e0ff Max Score P1
+
+R I 2 L 0 800ee31a 5f5 Max Score P1
+
+R I 2 L 0 800ee320 0 Score Modifier P1
+
+R I 2 L 0 800ee320 e0ff Max Score P1
+
+R I 2 L 0 800ee322 5f5 Max Score P1
+
+R I 2 L 0 80087a78 ff P1 Tons of Prisoners Saved
+
+R I 2 L 0 80087a7c ff P2 Tons of Prisoners Saved
+
+R I 2 L 0 8002d93a a083 Weapon Modifier
+
+R I 2 L 0 8002d92e 2403 Weapon Modifier
+
+R I 2 L 0 8002d92c 0 Weapon Modifier
+
+R I 1 L 0 800d4213 ff Unlock Another Mission

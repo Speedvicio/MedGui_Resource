@@ -1,0 +1,58 @@
+[] Guilty Gear (NTSC-U)
+R I 2 L 0 8007c898 bc Infinite Hp P1
+
+R I 2 L 0 80072b48 0 PAL2NTSC
+
+R I 2 L 0 800668d8 0 Y-Fix
+
+R I 1 L 0 80076ce8 bc Infinite lifebar
+
+R I 1 L 0 80076ce8 1 SuddenDeath
+
+R I 1 L 0 80076d08 40 Max chaosbar
+
+R I 1 L 0 80076d08 0 No chaosbar
+
+R I 1 L 0 80076f62 2 Only one fight to win round
+
+R I 1 L 0 80076f62 0 Never wins
+
+R I 1 L 0 80076fb8 bc Infinite lifebar
+
+R I 1 L 0 80076fb8 1 SuddenDeath
+
+R I 1 L 0 80076fd8 40 Max chaosbar
+
+R I 1 L 0 80076fd8 0 No chaosbar
+
+R I 1 L 0 80077232 2 Only one fight to win round
+
+R I 1 L 0 80077232 0 Never wins
+
+R I 2 L 0 8007cb98 bc Infinite Health P1
+
+R I 2 L 0 8007c8b8 40 Max Power P1
+
+R I 2 L 0 8007cb68 bc Infinite Health P2
+
+R I 2 L 0 8007cb88 40 Max Power P2
+
+R I 2 L 0 8007bf72 0 Infinite Time
+
+R I 2 L 0 80139048 0 Character Modifier P1
+
+R I 2 L 0 8013904c 0 Character Modifier P2
+
+R I 2 L 0 8007c8b8 0 No Power P1
+
+R I 2 L 0 8007cb88 0 No Power P2
+
+R I 2 L 0 800319e2 2400 Hit Wherever (Both Players)
+
+R I 1 L 0 8007c8a8 1 P1 Infinite Double Jumps
+
+R I 2 L 0 8008902e 50 P1 Size Modifier
+
+R I 1 L 0 8007cb78 1 P2 Infinite Double Jumps
+
+R I 2 L 0 8008912a 50 P2 Size Modifier

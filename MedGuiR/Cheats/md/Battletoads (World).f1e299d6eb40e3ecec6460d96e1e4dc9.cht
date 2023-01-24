@@ -1,0 +1,158 @@
+[f1e299d6eb40e3ecec6460d96e1e4dc9] Battletoads (World)
+S I 2 L 0 4360 6016 Infinite lives
+
+S I 2 L 0 3ae 7000 Player 1 starts with 1 life
+
+S I 2 L 0 25afc 0 Player 1 starts with 1 life
+
+S I 2 L 0 3ae 7002 Player 1 starts with 3 lives
+
+S I 2 L 0 25afc 2 Player 1 starts with 3 lives
+
+S I 2 L 0 3ae 7004 Player 1 starts with 5 lives
+
+S I 2 L 0 25afc 4 Player 1 starts with 5 lives
+
+S I 2 L 0 3ae 7009 Player 1 starts with 10 lives
+
+S I 2 L 0 2dafc d Player 1 starts with 10 lives
+
+S I 2 L 0 3ae 7013 Player 1 starts with 20 lives
+
+S I 2 L 0 25afc 13 Player 1 starts with 20 lives
+
+S I 2 L 0 3ae 7000 Both players start with 1 life
+
+S I 2 L 0 25afc 0 Both players start with 1 life
+
+S I 2 L 0 25b26 0 Both players start with 1 life
+
+S I 2 L 0 3ae 7002 Both players start with 3 lives
+
+S I 2 L 0 25afc 2 Both players start with 3 lives
+
+S I 2 L 0 25b26 0 Both players start with 3 lives
+
+S I 2 L 0 3ae 7004 Both players start with 5 lives
+
+S I 2 L 0 25afc 4 Both players start with 5 lives
+
+S I 2 L 0 25b26 0 Both players start with 5 lives
+
+S I 2 L 0 3ae 7009 Both players start with 10 lives
+
+S I 2 L 0 2dafc d Both players start with 10 lives
+
+S I 2 L 0 25b26 0 Both players start with 10 lives
+
+S I 2 L 0 3ae 7013 Both players start with 20 lives
+
+S I 2 L 0 25afc 13 Both players start with 20 lives
+
+S I 2 L 0 25b26 0 Both players start with 20 lives
+
+S I 2 L 0 3b7a 606c Take less damage
+
+S I 2 L 0 4e68 6012 Take less damage
+
+S I 2 L 0 437a 3 Start with 1 energy block
+
+S I 2 L 0 2d0a 3 Start with 1 energy block
+
+S I 2 L 0 437a b Start with 3 energy blocks
+
+S I 2 L 0 2d0a b Start with 3 energy blocks
+
+S I 2 L 0 437a 13 Start with 5 energy blocks
+
+S I 2 L 0 2d0a 13 Start with 5 energy blocks
+
+S I 2 L 0 3714 ff00 Extremely bogus jump
+
+S I 2 L 0 3714 fe00 Mildly bogus jump
+
+S I 2 L 0 3714 fd00 Bogus jump
+
+S I 2 L 0 3714 fa00 Higher jump
+
+S I 2 L 0 3714 f800 Super jump
+
+S I 2 L 0 3714 f400 Mega-jump
+
+S I 2 L 0 2b5a 2 Start on level 2
+
+S I 2 L 0 2b5a 3 Start on level 3
+
+S I 2 L 0 2b5a 4 Start on level 4
+
+S I 2 L 0 2b5a 5 Start on level 5
+
+S I 2 L 0 2b5a 6 Start on level 6
+
+S I 2 L 0 2b5a 7 Start on level 7
+
+S I 2 L 0 2b5a 8 Start on level 8
+
+S I 2 L 0 2b5a 9 Start on level 9
+
+S I 2 L 0 2b5a a Start on level 10
+
+S I 2 L 0 2b5a b Start on level 11
+
+S I 2 L 0 2b5a c Start on level 12
+
+S I 2 L 0 2b5a d Start on level 13
+
+S I 2 L 0 a3d8 11fc Invincibility
+
+S I 2 L 0 a3da 8 Invincibility
+
+S I 2 L 0 a3dc e02d Invincibility
+
+R I 2 L 0 ffe046 500 Infinite Lives
+
+R I 2 L 0 ffe006 17 Infinite Energy
+
+R I 2 L 0 ffe086 16 Infinite Health P2
+
+R I 2 L 0 ffe0c6 9 Infinite Lives P2
+
+R I 2 L 0 ffe06a 10 Invincible
+
+S I 2 L 0 3b3e 4e75 Untouchable
+
+S I 2 L 0 4e68 4e75 Untouchable
+
+S I 2 L 0 5b8a 4e75 Untouchable
+
+S I 2 L 0 5f48 4e75 Untouchable
+
+S I 2 L 0 678a 4e75 Untouchable
+
+S I 2 L 0 3bd6 4e75 Untouchable
+
+S I 2 L 0 3be8 6002 Infinie Energy
+
+S I 2 L 0 4fc0 6002 Infinie Energy
+
+S I 2 L 0 5f48 6004 Infinie Energy
+
+S I 2 L 0 13824 6002 Infinie Energy
+
+R I 2 L 0 ffe107 0 No Health Enemy 1
+
+R I 2 L 0 ffe187 0 No Health Enemy 2
+
+R I 2 L 0 ffe207 0 No Health Enemy 3
+
+S I 2 L 0 36fc 0 Controllable Jump
+
+S I 2 L 0 82ac 4e71 Jump in Midair
+
+S I 2 L 0 82b2 4e71 Jump in Midair
+
+R I 2 L 0 fffe41 0 Level Modifier
+
+S I 2 L 0 25aec 6002 Infinite Continues Player 1 
+
+S I 2 L 0 25b16 6002 Infinite Continues Player 2

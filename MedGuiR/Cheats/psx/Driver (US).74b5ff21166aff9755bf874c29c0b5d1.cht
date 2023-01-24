@@ -1,0 +1,1388 @@
+[] Driver - You Are the Wheelman (NTSC-U)
+R I 2 L 0 8009c488 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009b828 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009b06c 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009b69c 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009b9b4 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009be58 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009bccc 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009b1f8 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009bb40 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009b510 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009b384 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009bfe4 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009c170 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 800986f6 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009c66e 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 800986f2 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 800986f4 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009c2fc 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 80098ad0 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009cc44 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 800986f0 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009cdd0 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009c92c 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009cab8 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009cf5c 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009c614 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 800988d6 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009d0e8 7fff Drive Under Cars (Hold X + R1)
+
+R I 2 L 0 8009ae56 ffff Reverse Nitro Boost (Hold X + L2)
+
+R I 2 L 0 800af368 f005 Drunk Mode (Only Works In 1st-Person View)
+
+R I 2 L 0 8009d5ac 1 Drunk Mode (Only Works In 1st-Person View)
+
+R I 2 L 0 80098710 201 Beta cop cars in training garage
+
+R I 2 L 0 8008e76b 0 Change perception/size of car in miami
+
+R I 2 L 0 8008e773 0 Change perception/size of car in miami
+
+R I 2 L 0 80096d34 0 Remove damage meter
+
+R I 2 L 0 8009ae7c fff Modify lenth of hood on purple car in miami
+
+R I 2 L 0 8009ae7d fff Modify lenth of hood on purple car in miami
+
+R I 2 L 0 80097468 ffff Always night
+
+R I 2 L 0 80086bf0 0 Change wheel textures in miami
+
+R I 2 L 0 8009d5b0 1 Have inside-out cars
+
+R I 2 L 0 80086c6a 0 Alter texture of main car in san fran
+
+R I 2 L 0 80086d80 0 Change color of stoplights in san fransisco
+
+R I 2 L 0 80098700 0 Traffic car modifier all cities
+
+R I 2 L 0 8009879a 0 Traffic car modifier all cities
+
+R I 2 L 0 80096548 16 Play as traffic cars
+
+R I 2 L 0 80096530 f00 Have insane cops
+
+R I 2 L 0 801362a2 0 No wheels on car, when at a standstill
+
+R I 2 L 0 80086d3d 0 Change texture of wheels when not moving
+
+R I 2 L 0 80086d41 0 Change texture of wheels when are moving
+
+R I 2 L 0 80086d3a 0 Change texture of wheels after a hubcap is lost
+
+R I 2 L 0 8009745c 1 Alarm Always goes off
+
+R I 2 L 0 8008a5b4 ffff Float Mode
+
+R I 2 L 0 8009672c ffff Camera Angle Modifier
+
+R I 2 L 0 80096d20 ffff Steering Lock
+
+R I 2 L 0 800965d8 0 Change the Text &quot;Damage&quot;
+
+R I 2 L 0 800965da 0 Change the Text &quot;Damage&quot;
+
+R I 2 L 0 800965dc 0 Change the Text &quot;Damage&quot;
+
+R I 2 L 0 800965de 0 Change the Text &quot;Damage&quot;
+
+R I 2 L 0 80096a00 0 Change the Text &quot;Felony&quot;
+
+R I 2 L 0 80096a02 0 Change the Text &quot;Felony&quot;
+
+R I 2 L 0 80096a04 0 Change the Text &quot;Felony&quot;
+
+R I 2 L 0 80096a06 0 Change the Text &quot;Felony&quot;
+
+R I 2 L 0 800969f8 0 Change the Text &quot;Freak&quot;
+
+R I 2 L 0 800969fa 0 Change the Text &quot;Freak&quot;
+
+R I 2 L 0 800969fc 0 Change the Text &quot;Freak&quot;
+
+R I 2 L 0 800969fe 0 Change the Text &quot;Freak&quot;
+
+R I 2 L 0 80096768 44 Always Raining
+
+R I 2 L 0 800970e4 1b5f Always Raining
+
+R I 2 L 0 80097468 ffff Gloomy City
+
+R I 2 L 0 80097420 3 Gloomy City
+
+R I 2 L 0 80097468 0 Gloomy City
+
+R I 2 L 0 800964c0 ffff No on screen bars or map
+
+R I 2 L 0 80096440 ffff No Traffic (Revised version)
+
+R I 2 L 0 80086cf0 3c Tree Modifier
+
+R I 2 L 0 80097472 ffff 1 hit and you&#039;ve wrecked your car
+
+R I 2 L 0 80086bf2 1553 Trees are bigsreen tv&#039;s L.A.
+
+R I 2 L 0 80086bf0 113 Trees are bigscreen tv&#039;s New York
+
+R I 2 L 0 80096720 ff Hood view
+
+R I 2 L 0 8009ae44 ffff Drunk Cars
+
+R I 2 L 0 8009aff6 ffff Drunk Cars
+
+R I 2 L 0 8009b182 ffff Drunk Cars
+
+R I 2 L 0 8009b30e ffff Drunk Cars
+
+R I 2 L 0 8009b49a ffff Drunk Cars
+
+R I 2 L 0 8009b626 ffff Drunk Cars
+
+R I 2 L 0 8009b7b2 ffff Drunk Cars
+
+R I 2 L 0 8009b87a ffff Drunk Cars
+
+R I 2 L 0 8009baca ffff Drunk Cars
+
+R I 2 L 0 8009bc56 ffff Drunk Cars
+
+R I 2 L 0 8009bde2 ffff Drunk Cars
+
+R I 2 L 0 8009bf6e ffff Drunk Cars
+
+R I 2 L 0 8009c0d0 ffff Drunk Cars
+
+R I 2 L 0 8009c0fa ffff Drunk Cars
+
+R I 2 L 0 8009c1c2 ffff Drunk Cars
+
+R I 2 L 0 8009c286 ffff Drunk Cars
+
+R I 2 L 0 8009c412 ffff Drunk Cars
+
+R I 2 L 0 8009c59e ffff Drunk Cars
+
+R I 2 L 0 8009c72a ffff Drunk Cars
+
+R I 2 L 0 8009c8b6 ffff Drunk Cars
+
+R I 2 L 0 8009ca42 ffff Drunk Cars
+
+R I 2 L 0 8009cbce ffff Drunk Cars
+
+R I 2 L 0 8009cd5a ffff Drunk Cars
+
+R I 2 L 0 8009cee6 ffff Drunk Cars
+
+R I 2 L 0 8009d072 ffff Drunk Cars
+
+R I 2 L 0 8009d4f0 ffff Drunk Cars
+
+R I 2 L 0 8009c488 7fff Pyros World
+
+R I 2 L 0 8009b828 7fff Pyros World
+
+R I 2 L 0 8009b06c 7fff Pyros World
+
+R I 2 L 0 8009b69c 7fff Pyros World
+
+R I 2 L 0 8009b9b4 7fff Pyros World
+
+R I 2 L 0 8009be58 7fff Pyros World
+
+R I 2 L 0 8009bccc 7fff Pyros World
+
+R I 2 L 0 8009b1f8 7fff Pyros World
+
+R I 2 L 0 8009bb40 7fff Pyros World
+
+R I 2 L 0 8009b510 7fff Pyros World
+
+R I 2 L 0 8009b384 7fff Pyros World
+
+R I 2 L 0 8009bfe4 7fff Pyros World
+
+R I 2 L 0 8009c170 7fff Pyros World
+
+R I 2 L 0 800986f6 7fff Pyros World
+
+R I 2 L 0 8009c66e 7fff Pyros World
+
+R I 2 L 0 800986f2 7fff Pyros World
+
+R I 2 L 0 800986f4 7fff Pyros World
+
+R I 2 L 0 8009c2fc 7fff Pyros World
+
+R I 2 L 0 80098ad0 7fff Pyros World
+
+R I 2 L 0 8009cc44 7fff Pyros World
+
+R I 2 L 0 800986f0 7fff Pyros World
+
+R I 2 L 0 8009cdd0 7fff Pyros World
+
+R I 2 L 0 8009c92c 7fff Pyros World
+
+R I 2 L 0 8009cab8 7fff Pyros World
+
+R I 2 L 0 8009cf5c 7fff Pyros World
+
+R I 2 L 0 8009c614 7fff Pyros World
+
+R I 2 L 0 800988d6 7fff Pyros World
+
+R I 2 L 0 8009d0e8 7fff Pyros World
+
+R I 2 L 0 80096638 ff Use the ghost car
+
+R I 2 L 0 801c0000 0 Change the Text &quot;UnderCover&quot;
+
+R I 2 L 0 801c0002 0 Change the Text &quot;UnderCover&quot;
+
+R I 2 L 0 801c0004 0 Change the Text &quot;UnderCover&quot;
+
+R I 2 L 0 801c0006 0 Change the Text &quot;UnderCover&quot;
+
+R I 2 L 0 801c0008 0 Change the Text &quot;UnderCover&quot;
+
+R I 2 L 0 801c000c 0 Change the Text &quot;Options&quot;
+
+R I 2 L 0 801c000e 0 Change the Text &quot;Options&quot;
+
+R I 2 L 0 801c0010 0 Change the Text &quot;Options&quot;
+
+R I 2 L 0 801c0012 0 Change the Text &quot;Options&quot;
+
+R I 2 L 0 801c0014 0 Change the Text &quot;Take a Ride&quot;
+
+R I 2 L 0 801c0016 0 Change the Text &quot;Take a Ride&quot;
+
+R I 2 L 0 801c0018 0 Change the Text &quot;Take a Ride&quot;
+
+R I 2 L 0 801c001a 0 Change the Text &quot;Take a Ride&quot;
+
+R I 2 L 0 801c001c 0 Change the Text &quot;Take a Ride&quot;
+
+R I 2 L 0 801c001e 0 Change the Text &quot;Take a Ride&quot;
+
+R I 2 L 0 801c0020 0 Change the Text &quot;Cheats&quot;
+
+R I 2 L 0 801c0022 0 Change the Text &quot;Cheats&quot;
+
+R I 2 L 0 801c0024 0 Change the Text &quot;Cheats&quot;
+
+R I 2 L 0 801c0026 0 Change the Text &quot;Cheats&quot;
+
+R I 2 L 0 801c0028 0 Change the Text &quot;Driving Games&quot;
+
+R I 2 L 0 801c002a 0 Change the Text &quot;Driving Games&quot;
+
+R I 2 L 0 801c002c 0 Change the Text &quot;Driving Games&quot;
+
+R I 2 L 0 801c002e 0 Change the Text &quot;Driving Games&quot;
+
+R I 2 L 0 801c0030 0 Change the Text &quot;Driving Games&quot;
+
+R I 2 L 0 801c0032 0 Change the Text &quot;Driving Games&quot;
+
+R I 2 L 0 801c0034 0 Change the Text &quot;Driving Games&quot;
+
+R I 2 L 0 801c0036 0 Change the Text &quot;Driving Games&quot;
+
+R I 2 L 0 801c0038 0 Change the Text
+
+R I 2 L 0 801c003a 0 Change the Text
+
+R I 2 L 0 801c003c 0 Change the Text
+
+R I 2 L 0 801c003e 0 Change the Text
+
+R I 2 L 0 801c0044 0 Change the Text &quot;Car Chases&quot;
+
+R I 2 L 0 801c0046 0 Change the Text &quot;Car Chases&quot;
+
+R I 2 L 0 801c0048 0 Change the Text &quot;Car Chases&quot;
+
+R I 2 L 0 801c004a 0 Change the Text &quot;Car Chases&quot;
+
+R I 2 L 0 801c004c 0 Change the Text &quot;Car Chases&quot;
+
+R I 2 L 0 801c004e 0 Change the Text &quot;Car Chases&quot;
+
+R I 2 L 0 801c0050 0 Change the Text &quot;High Scores&quot;
+
+R I 2 L 0 801c0052 0 Change the Text &quot;High Scores&quot;
+
+R I 2 L 0 801c0054 0 Change the Text &quot;High Scores&quot;
+
+R I 2 L 0 801c0056 0 Change the Text &quot;High Scores&quot;
+
+R I 2 L 0 801c0058 0 Change the Text &quot;High Scores&quot;
+
+R I 2 L 0 801c005a 0 Change the Text &quot;High Scores&quot;
+
+R I 2 L 0 801c0260 0 Change the Text &quot;Center Screen&quot;
+
+R I 2 L 0 801c0262 0 Change the Text &quot;Center Screen&quot;
+
+R I 2 L 0 801c0264 0 Change the Text &quot;Center Screen&quot;
+
+R I 2 L 0 801c0266 0 Change the Text &quot;Center Screen&quot;
+
+R I 2 L 0 801c0268 0 Change the Text &quot;Center Screen&quot;
+
+R I 2 L 0 801c026a 0 Change the Text &quot;Center Screen&quot;
+
+R I 2 L 0 801c026c 0 Change the Text &quot;Center Screen&quot;
+
+R I 2 L 0 801c0270 0 Change the Text &quot;View Controls&quot;
+
+R I 2 L 0 801c0272 0 Change the Text &quot;View Controls&quot;
+
+R I 2 L 0 801c0274 0 Change the Text &quot;View Controls&quot;
+
+R I 2 L 0 801c0276 0 Change the Text &quot;View Controls&quot;
+
+R I 2 L 0 801c0278 0 Change the Text &quot;View Controls&quot;
+
+R I 2 L 0 801c027a 0 Change the Text &quot;View Controls&quot;
+
+R I 2 L 0 801c027c 0 Change the Text &quot;View Controls&quot;
+
+R I 2 L 0 801c0280 0 Change the Text &quot;Gameplay&quot;
+
+R I 2 L 0 801c0282 0 Change the Text &quot;Gameplay&quot;
+
+R I 2 L 0 801c0284 0 Change the Text &quot;Gameplay&quot;
+
+R I 2 L 0 801c0286 0 Change the Text &quot;Gameplay&quot;
+
+R I 4 L 0 8000a041 b042 Upper Case Digits
+
+R I 4 L 0 8000c043 d044 Upper Case Digits
+
+R I 4 L 0 8000e045 f046 Upper Case Digits
+
+R I 4 L 0 80000047 48 Upper Case Digits
+
+R I 4 L 0 80000049 4a Upper Case Digits
+
+R I 4 L 0 8000004b 4c Upper Case Digits
+
+R I 4 L 0 8000004d 4e Upper Case Digits
+
+R I 4 L 0 8000004f 50 Upper Case Digits
+
+R I 4 L 0 80000051 52 Upper Case Digits
+
+R I 4 L 0 80000053 54 Upper Case Digits
+
+R I 4 L 0 80000055 56 Upper Case Digits
+
+R I 4 L 0 80000057 58 Upper Case Digits
+
+R I 4 L 0 80000059 5a Upper Case Digits
+
+R I 4 L 0 8000a061 b062 Lower Case Digits
+
+R I 4 L 0 8000c063 d064 Lower Case Digits
+
+R I 4 L 0 8000e065 f066 Lower Case Digits
+
+R I 4 L 0 80000067 68 Lower Case Digits
+
+R I 4 L 0 80000069 6a Lower Case Digits
+
+R I 4 L 0 8000006b 6c Lower Case Digits
+
+R I 4 L 0 8000006d 6e Lower Case Digits
+
+R I 4 L 0 8000006f 70 Lower Case Digits
+
+R I 4 L 0 80000071 72 Lower Case Digits
+
+R I 4 L 0 80000073 74 Lower Case Digits
+
+R I 4 L 0 80000075 76 Lower Case Digits
+
+R I 4 L 0 80000077 78 Lower Case Digits
+
+R I 4 L 0 80000079 7a Lower Case Digits
+
+R I 4 L 0 80000030 1031 Numbers
+
+R I 4 L 0 80002032 3033 Numbers
+
+R I 4 L 0 80004034 5035 Numbers
+
+R I 4 L 0 80006036 7037 Numbers
+
+R I 4 L 0 80008038 9039 Numbers
+
+R I 4 L 0 80000021 22 Symbols
+
+R I 4 L 0 80000023 24 Symbols
+
+R I 4 L 0 80000025 a000026 Symbols
+
+R I 4 L 0 80190027 28 Symbols
+
+R I 4 L 0 80000029 2a Symbols
+
+R I 4 L 0 8000002b 2c Symbols
+
+R I 4 L 0 8000002d 2e Symbols
+
+R I 4 L 0 8000002f 3a Symbols
+
+R I 4 L 0 8000003b 3c Symbols
+
+R I 4 L 0 8000003d 3e Symbols
+
+R I 4 L 0 8000003f 40 Symbols
+
+R I 4 L 0 8000005c 5e Symbols
+
+R I 4 L 0 8000005f 0 Symbols
+
+R I 2 L 0 80097050 a Stop Lights Are Always ____ Mod
+
+R I 2 L 0 80097054 a Stop Lights Are Always ____ Mod
+
+R I 2 L 0 8009b112 1 Tornado Mode
+
+R I 2 L 0 8009b112 1 Tornado Mode
+
+R I 2 L 0 8009b112 1 Tornado Mode
+
+R I 2 L 0 8009b112 1 Tornado Mode
+
+R I 2 L 0 8009b112 1 Tornado Mode
+
+R I 2 L 0 8009b116 f Flip Around
+
+R I 2 L 0 8009b116 f Flip Around
+
+R I 2 L 0 8009b116 f Flip Around
+
+R I 2 L 0 8009b116 f Flip Around
+
+R I 2 L 0 8009b116 f Flip Around
+
+R I 2 L 0 8009b0c0 500 Cool Hop
+
+R I 2 L 0 8009b0c0 500 Cool Hop
+
+R I 2 L 0 8009b0c0 500 Cool Hop
+
+R I 2 L 0 8009b0c0 500 Cool Hop
+
+R I 2 L 0 8009b0c0 500 Cool Hop
+
+R I 2 L 0 8009b0c0 ffff Fall Through Street
+
+R I 2 L 0 8009b0c0 ffff Fall Through Street
+
+R I 2 L 0 8009b0c0 ffff Fall Through Street
+
+R I 2 L 0 8009b0c0 ffff Fall Through Street
+
+R I 2 L 0 8009b0c0 ffff Fall Through Street
+
+R I 2 L 0 80096a60 ff Hood View
+
+R I 2 L 0 80096978 ff Ghost Car
+
+R I 2 L 0 8008a8f4 ffff Float Mode, (not Ult. Levitation)
+
+R I 2 L 0 8009af44 ff Wide Tires (more stable)
+
+R I 2 L 0 8009af4c ff Wide Tires (more stable)
+
+R I 2 L 0 8009af54 ff Wide Tires (more stable)
+
+R I 2 L 0 8009af5c ff Wide Tires (more stable)
+
+R I 2 L 0 8009af44 c0 Drunk Traffic
+
+R I 2 L 0 8009a0f6 ffff Drunk Traffic
+
+R I 2 L 0 8009b282 ffff Drunk Traffic
+
+R I 2 L 0 8009b40e ffff Drunk Traffic
+
+R I 2 L 0 8009b598 ffff Drunk Traffic
+
+R I 2 L 0 8009b726 ffff Drunk Traffic
+
+R I 2 L 0 8009b8b2 ffff Drunk Traffic
+
+R I 2 L 0 8009b9b7 ffff Drunk Traffic
+
+R I 2 L 0 8009bcca ffff Drunk Traffic
+
+R I 2 L 0 8009bd56 ffff Drunk Traffic
+
+R I 2 L 0 8009bee2 ffff Drunk Traffic
+
+R I 2 L 0 8009b06e ffff Drunk Traffic
+
+R I 2 L 0 8009c1d0 ffff Drunk Traffic
+
+R I 2 L 0 8009c1fa ffff Drunk Traffic
+
+R I 2 L 0 8009c2c2 ffff Drunk Traffic
+
+R I 2 L 0 8009c386 ffff Drunk Traffic
+
+R I 2 L 0 8009c512 ffff Drunk Traffic
+
+R I 2 L 0 8009c69e ffff Drunk Traffic
+
+R I 2 L 0 8009c828 ffff Drunk Traffic
+
+R I 2 L 0 8009c9b6 ffff Drunk Traffic
+
+R I 2 L 0 8009cb42 ffff Drunk Traffic
+
+R I 2 L 0 8009ccce ffff Drunk Traffic
+
+R I 2 L 0 8009ce5a ffff Drunk Traffic
+
+R I 2 L 0 8009cfe6 ffff Drunk Traffic
+
+R I 2 L 0 8009d172 ffff Drunk Traffic
+
+R I 2 L 0 8009d5f0 ffff Drunk Traffic
+
+R I 2 L 0 8009af46 ff Hydraulics
+
+R I 2 L 0 8009af4e ff Hydraulics
+
+R I 2 L 0 8009af56 ff Hydraulics
+
+R I 2 L 0 8009af5e ff Hydraulics
+
+R I 2 L 0 8001c308 ad64 Weird Drive through walls
+
+R I 2 L 0 8001c30a 3421 Weird Drive through walls
+
+R I 2 L 0 8001c31c 14 Weird Drive through walls
+
+R I 2 L 0 8001c31e 1429 Weird Drive through walls
+
+R I 2 L 0 8004010c 9 Weird Drive through walls
+
+R I 2 L 0 8004010e 3c01 Weird Drive through walls
+
+R I 2 L 0 80040118 ad64 Weird Drive through walls
+
+R I 2 L 0 8004011a 3421 Weird Drive through walls
+
+R I 2 L 0 8004014a 1432 Weird Drive through walls
+
+R I 2 L 0 80096840 1 Enable Police Siren And Lights
+
+R I 2 L 0 800970ec 1 Explosive Vehicle
+
+R I 2 L 0 801e35b8 0 No Damage (Use Note 1 for All Car Park Test Codes)
+
+R I 2 L 0 801e4278 0 Infinite Time
+
+R I 1 L 0 801e35a0 3c Have Burnout Complete
+
+R I 1 L 0 801e35a1 3c Have Handbrake Complete
+
+R I 1 L 0 801e35a2 3c Have Slalom Complete
+
+R I 1 L 0 801e35a3 3c Have 180 Degree Complete
+
+R I 1 L 0 801e35a4 3c Have 360 Degree Complete
+
+R I 1 L 0 801e35a5 3c Have Reverse 180 Degree Complete
+
+R I 1 L 0 801e35a6 3c Have Speed Complete
+
+R I 1 L 0 801e35a7 3c Have Brake Test Complete
+
+R I 1 L 0 801e35a8 3c Have Lap Complete
+
+R I 2 L 0 8009aee0 0 No Damage
+
+R I 2 L 0 800973c8 0 Felony Bar Is Empty
+
+R I 2 L 0 800c6e62 d600 Stop Timer
+
+R I 2 L 0 800c6e64 f28 Stop Timer
+
+R I 2 L 0 8009d274 5050 Enemy Cars Are Dead
+
+R I 2 L 0 8009ae54 ffff Nitro Boost
+
+R I 2 L 0 800c6ea0 6a4 Scare Meter Maxed
+
+R I 2 L 0 80097428 0 Bomb Never Blows Up
+
+R I 2 L 0 8009ad96 12c Flip Mode
+
+R I 2 L 0 800c6c94 64 Have All Flags
+
+R I 2 L 0 800964a0 4 Enable All Tracks
+
+R I 2 L 0 800863dc fffe Enable View Credits Cheat
+
+R I 2 L 0 800863de ffff Enable View Credits Cheat
+
+R I 2 L 0 80086414 fffe Enable Invincibility Cheat
+
+R I 2 L 0 80086416 ffff Enable Invincibility Cheat
+
+R I 2 L 0 8008644c fffe Enable No Police/Immunity Cheat
+
+R I 2 L 0 8008644e ffff Enable No Police/Immunity Cheat
+
+R I 2 L 0 80086484 fffe Enable Rear Wheel Steering Cheat
+
+R I 2 L 0 80086486 ffff Enable Rear Wheel Steering Cheat
+
+R I 2 L 0 800864bc fffe Enable Mini Cars Cheat
+
+R I 2 L 0 800864be ffff Enable Mini Cars Cheat
+
+R I 2 L 0 800864f4 fffe Enable Stilts Cheat
+
+R I 2 L 0 800864f6 ffff Enable Stilts Cheat
+
+R I 2 L 0 80086564 fffe Enable Antipodean Cheat
+
+R I 2 L 0 80086566 ffff Enable Antipodean Cheat
+
+R I 2 L 0 8009adaa ffff Low Rider Mode
+
+R I 2 L 0 8009d5a8 1 Low Gravity Mode
+
+R I 2 L 0 8009d5b0 1 Backwards Mode
+
+R I 2 L 0 800c6ca8 2 Dirt Track - Start on Last Lap
+
+R I 2 L 0 800c6c94 4 Cross Town Checkpoint - Only Need 1 Checkpoint
+
+R I 2 L 0 800964c8 1 Mission Modifier
+
+R I 2 L 0 8004b9de 1000 Drive Thru Walls
+
+R I 2 L 0 80096548 16 Play As Traffic
+
+R I 2 L 0 8001bfc8 ad64 Stop Traffic
+
+R I 2 L 0 8001bfca 3421 Stop Traffic
+
+R I 2 L 0 8001bfdc 14 Stop Traffic
+
+R I 2 L 0 8001bfde 1429 Stop Traffic
+
+R I 2 L 0 8003fdcc 9 Stop Traffic
+
+R I 2 L 0 8003fdce 3c01 Stop Traffic
+
+R I 2 L 0 8003fdd8 ad64 Stop Traffic
+
+R I 2 L 0 8003fdda 3421 Stop Traffic
+
+R I 2 L 0 8003fe0a 1432 Stop Traffic
+
+R I 2 L 0 8001c00c c000 Press L Button To Levitate
+
+R I 2 L 0 8001c00e c07 Press L Button To Levitate
+
+R I 2 L 0 801f0000 9 Press L Button To Levitate
+
+R I 2 L 0 801f0002 3c01 Press L Button To Levitate
+
+R I 2 L 0 801f0004 6db4 Press L Button To Levitate
+
+R I 2 L 0 801f0006 8421 Press L Button To Levitate
+
+R I 2 L 0 801f000a 2400 Press L Button To Levitate
+
+R I 2 L 0 801f000c 4 Press L Button To Levitate
+
+R I 2 L 0 801f000e 3021 Press L Button To Levitate
+
+R I 2 L 0 801f0010 2 Press L Button To Levitate
+
+R I 2 L 0 801f0012 1020 Press L Button To Levitate
+
+R I 2 L 0 801f0016 2400 Press L Button To Levitate
+
+R I 2 L 0 801f0018 7f Press L Button To Levitate
+
+R I 2 L 0 801f001a 2442 Press L Button To Levitate
+
+R I 2 L 0 801f001c 8 Press L Button To Levitate
+
+R I 2 L 0 801f001e 3e0 Press L Button To Levitate
+
+R I 2 L 0 801f0022 2400 Press L Button To Levitate
+
+R I 2 L 0 8009ae30 ffff Drive Under Cars
+
+R I 2 L 0 800964fc 0 Car Modifier
+
+R I 2 L 0 80097424 ffff No Cops In Survival Mode
+
+R I 2 L 0 80097468 ffff Always Night
+
+R I 2 L 0 8009ae56 0 Nitro Boost & Low Gravity
+
+R I 2 L 0 8009ae56 ffff Reverse Nitro Boost (Hold X + L2)
+
+R I 2 L 0 8001c00c c000 Ultimate Levitation Code
+
+R I 2 L 0 8001c00e c07 Ultimate Levitation Code
+
+R I 2 L 0 801f0000 9 Ultimate Levitation Code
+
+R I 2 L 0 801f0002 3c01 Ultimate Levitation Code
+
+R I 2 L 0 801f0004 6db4 Ultimate Levitation Code
+
+R I 2 L 0 801f0006 8421 Ultimate Levitation Code
+
+R I 2 L 0 801f0008 c Ultimate Levitation Code
+
+R I 2 L 0 801f000a 2404 Ultimate Levitation Code
+
+R I 2 L 0 801f000c c Ultimate Levitation Code
+
+R I 2 L 0 801f000e 3021 Ultimate Levitation Code
+
+R I 2 L 0 801f0010 b Ultimate Levitation Code
+
+R I 2 L 0 801f0012 1024 Ultimate Levitation Code
+
+R I 2 L 0 801f0014 8 Ultimate Levitation Code
+
+R I 2 L 0 801f0016 3024 Ultimate Levitation Code
+
+R I 2 L 0 801f0018 a Ultimate Levitation Code
+
+R I 2 L 0 801f001a 1020 Ultimate Levitation Code
+
+R I 2 L 0 801f001e 2400 Ultimate Levitation Code
+
+R I 2 L 0 801f0020 5 Ultimate Levitation Code
+
+R I 2 L 0 801f0022 1480 Ultimate Levitation Code
+
+R I 2 L 0 801f0026 2400 Ultimate Levitation Code
+
+R I 2 L 0 801f0028 5 Ultimate Levitation Code
+
+R I 2 L 0 801f002a 1133 Ultimate Levitation Code
+
+R I 2 L 0 801f002e 2400 Ultimate Levitation Code
+
+R I 2 L 0 801f0030 4 Ultimate Levitation Code
+
+R I 2 L 0 801f0032 1080 Ultimate Levitation Code
+
+R I 2 L 0 801f0036 2400 Ultimate Levitation Code
+
+R I 2 L 0 801f0038 2 Ultimate Levitation Code
+
+R I 2 L 0 801f003a 1133 Ultimate Levitation Code
+
+R I 2 L 0 801f003e 2400 Ultimate Levitation Code
+
+R I 2 L 0 801f0040 7f Ultimate Levitation Code
+
+R I 2 L 0 801f0042 2442 Ultimate Levitation Code
+
+R I 2 L 0 801f0044 8 Ultimate Levitation Code
+
+R I 2 L 0 801f0046 3e0 Ultimate Levitation Code
+
+R I 2 L 0 801f004a 2400 Ultimate Levitation Code
+
+R I 2 L 0 8009ae5c ffff Sweeper
+
+R I 2 L 0 800964a0 4 Unlock All 4 Cities
+
+R I 2 L 0 800964b8 46 Unlock All 4 Cities
+
+R I 2 L 0 800964d4 1 Unlock All 4 Cities
+
+R I 2 L 0 80096468 0 No Other Cars On The Road
+
+R I 2 L 0 8009646c 0 No Other Cars On The Road
+
+R I 2 L 0 80096460 0 Mostly No Pedestrians
+
+R I 2 L 0 80096462 0 Mostly No Pedestrians
+
+R I 2 L 0 80086bf4 f Marble
+
+R I 2 L 0 8009ae7c ffff Smok'en
+
+R I 2 L 0 8009ae70 ffff White Angels
+
+R I 2 L 0 8009ae68 ffff Burn'en Rubber
+
+R I 2 L 0 8009ae72 0 No Surface Damage
+
+R I 2 L 0 8009ae80 0 No Surface Damage
+
+R I 2 L 0 8009ae82 0 No Surface Damage
+
+R I 2 L 0 8009ae84 0 No Surface Damage
+
+R I 2 L 0 8009ae90 0 No Surface Damage
+
+R I 2 L 0 8009ae92 0 No Surface Damage
+
+R I 2 L 0 8009ae94 0 No Surface Damage
+
+R I 2 L 0 8009ae96 0 No Surface Damage
+
+R I 2 L 0 8009ae78 0 No Surface Damage
+
+R I 2 L 0 8009ae7a 0 No Surface Damage
+
+R I 2 L 0 8009ae7c 0 No Surface Damage
+
+R I 2 L 0 8009ae88 0 No Surface Damage
+
+R I 2 L 0 8009ae8a 0 No Surface Damage
+
+R I 2 L 0 8009ae8c 0 No Surface Damage
+
+R I 2 L 0 80098710 201 BETA Cop Cars In Training Garage
+
+R I 2 L 0 8008e76b 0 Change Perception/Size of Car In Miami
+
+R I 2 L 0 8008e773 0 Change Perception/Size of Car In Miami
+
+R I 2 L 0 80096d34 0 Remove Damage Meter
+
+R I 2 L 0 8009ae7c fff Modify Length of Hood On Purple Car In Miami
+
+R I 2 L 0 8009ae7d fff Modify Length of Hood On Purple Car In Miami
+
+R I 2 L 0 80086c6a 0 Alter Texture of Main Car In San Francisco
+
+R I 2 L 0 80086d80 0 Change Color of Stoplights In San Francisco
+
+R I 2 L 0 80086bf0 0 Change Wheel Textures In Miami
+
+R I 2 L 0 80098700 0 Traffic Car Modifier (All Cities)
+
+R I 2 L 0 8009879a 0 Traffic Car Modifier (All Cities)
+
+R I 2 L 0 80096530 f00 Have Insane Cops
+
+R I 2 L 0 801362a2 0 No Wheels On Car When At A Standstill
+
+R I 2 L 0 80086d3d 0 Change Texture of Wheels When Not Moving
+
+R I 2 L 0 80086d41 0 Change Texture of Wheels When Are Moving
+
+R I 2 L 0 80086d3a 0 Change Texture of Wheels After A Hubcap Is Lost
+
+R I 2 L 0 8009745c 1 Alarm Always Goes Off
+
+R I 2 L 0 8008a5b4 ffff Float Mode
+
+R I 2 L 0 8009672c ffff Camera Angle Modifier
+
+R I 2 L 0 80096d20 ffff Steering Lock
+
+R I 2 L 0 80097468 ffff Gloomy City
+
+R I 2 L 0 80097420 3 Gloomy City
+
+R I 2 L 0 80097468 0 Gloomy City
+
+R I 2 L 0 800964c0 ffff No On Screen Bars Or Map
+
+R I 2 L 0 80096440 ffff No Traffic (Revised Version)
+
+R I 2 L 0 80086cf0 be3c Tree Modifier
+
+R I 2 L 0 80097472 ffff 1 Hit And You've Wrecked Your Car
+
+R I 2 L 0 80086bf0 113 Trees Are Bigscreen TV's New York
+
+R I 2 L 0 80096720 ff Hood View
+
+R I 2 L 0 8009ae44 ffff Drunk Cars
+
+R I 2 L 0 8009aff6 ffff Drunk Cars
+
+R I 2 L 0 8009b182 ffff Drunk Cars
+
+R I 2 L 0 8009b30e ffff Drunk Cars
+
+R I 2 L 0 8009b49a ffff Drunk Cars
+
+R I 2 L 0 8009b626 ffff Drunk Cars
+
+R I 2 L 0 8009b7b2 ffff Drunk Cars
+
+R I 2 L 0 8009b87a ffff Drunk Cars
+
+R I 2 L 0 8009baca ffff Drunk Cars
+
+R I 2 L 0 8009bc56 ffff Drunk Cars
+
+R I 2 L 0 8009bde2 ffff Drunk Cars
+
+R I 2 L 0 8009bf6e ffff Drunk Cars
+
+R I 2 L 0 8009c0d0 ffff Drunk Cars
+
+R I 2 L 0 8009c0fa ffff Drunk Cars
+
+R I 2 L 0 8009c1c2 ffff Drunk Cars
+
+R I 2 L 0 8009c286 ffff Drunk Cars
+
+R I 2 L 0 8009c412 ffff Drunk Cars
+
+R I 2 L 0 8009c59e ffff Drunk Cars
+
+R I 2 L 0 8009c72a ffff Drunk Cars
+
+R I 2 L 0 8009c8b6 ffff Drunk Cars
+
+R I 2 L 0 8009ca42 ffff Drunk Cars
+
+R I 2 L 0 8009cbce ffff Drunk Cars
+
+R I 2 L 0 8009cd5a ffff Drunk Cars
+
+R I 2 L 0 8009cee6 ffff Drunk Cars
+
+R I 2 L 0 8009d072 ffff Drunk Cars
+
+R I 2 L 0 8009d4f0 ffff Drunk Cars
+
+R I 2 L 0 8009c488 7fff Pyros World
+
+R I 2 L 0 8009b828 7fff Pyros World
+
+R I 2 L 0 8009b06c 7fff Pyros World
+
+R I 2 L 0 8009b69c 7fff Pyros World
+
+R I 2 L 0 8009b9b4 7fff Pyros World
+
+R I 2 L 0 8009be58 7fff Pyros World
+
+R I 2 L 0 8009bccc 7fff Pyros World
+
+R I 2 L 0 8009b1f8 7fff Pyros World
+
+R I 2 L 0 8009bb40 7fff Pyros World
+
+R I 2 L 0 8009b510 7fff Pyros World
+
+R I 2 L 0 8009b384 7fff Pyros World
+
+R I 2 L 0 8009bfe4 7fff Pyros World
+
+R I 2 L 0 8009c170 7fff Pyros World
+
+R I 2 L 0 800986f6 7fff Pyros World
+
+R I 2 L 0 8009c66e 7fff Pyros World
+
+R I 2 L 0 800986f2 7fff Pyros World
+
+R I 2 L 0 800986f4 7fff Pyros World
+
+R I 2 L 0 8009c2fc 7fff Pyros World
+
+R I 2 L 0 80098ad0 7fff Pyros World
+
+R I 2 L 0 8009cc44 7fff Pyros World
+
+R I 2 L 0 800986f0 7fff Pyros World
+
+R I 2 L 0 8009cdd0 7fff Pyros World
+
+R I 2 L 0 8009c92c 7fff Pyros World
+
+R I 2 L 0 8009cab8 7fff Pyros World
+
+R I 2 L 0 8009cf5c 7fff Pyros World
+
+R I 2 L 0 8009c614 7fff Pyros World
+
+R I 2 L 0 800988d6 7fff Pyros World
+
+R I 2 L 0 8009d0e8 7fff Pyros World
+
+R I 2 L 0 80096638 ff Use The Ghost Car
+
+R I 2 L 0 8009c970 ffff Falling Cars
+
+R I 2 L 0 80096da8 0 Headlight Mode
+
+R I 2 L 0 80097424 ffff No Cops In Survival Mode
+
+R I 2 L 0 80097468 ffff Always Night
+
+R I 2 L 0 8009ae56 0 Nitro Boost+Low Gravity
+
+R I 2 L 0 8009b220 0 No Damage In "Take A Ride" Mode
+
+R I 2 L 0 800973c8 7ffe Super Felony Bar
+
+R I 2 L 0 8009ac04 1c0 Wide Tires (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ac0c 1c0 Wide Tires (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ac14 fe32 Wide Tires (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ac1c fe32 Wide Tires (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ac08 2f6 Wide Tires (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ac10 fd0e Wide Tires (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ac18 2f6 Wide Tires (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ac20 fd0e Wide Tires (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ac68 2bba Tornado Mode (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ac70 f2aa Tornado Mode (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ac78 4da7 Tornado Mode (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ac80 d1ee Tornado Mode (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009acd0 2bba Tornado Mode (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009acd8 f2aa Tornado Mode (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ace0 4da7 Tornado Mode (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ace8 d1ee Tornado Mode (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ad30 2bba Tornado Mode (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ad38 f2aa Tornado Mode (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ad40 4da7 Tornado Mode (Combination Of Above Modifier Codes)
+
+R I 2 L 0 8009ad48 d1ee Tornado Mode (Combination Of Above Modifier Codes)
+
+R I 2 L 0 800af368 f005 Drunk Mode (Only Works In 1st-Person View)
+
+R I 2 L 0 8009d5ac 1 Drunk Mode (Only Works In 1st-Person View)
+
+R I 2 L 0 80096618 0 Neon Shadows
+
+R I 2 L 0 800973c8 7ffe Super Fast Cops
+
+R I 2 L 0 80096d10 1 Traffic Light Modifier
+
+R I 2 L 0 80096d14 1 Traffic Light Modifier
+
+R I 1 L 0 801e3260 3c Test Complete (Cheat Device 2.2 Or Higher Needed!)
+
+R I 2 L 0 8009c36a ffff Random Car Hopper
+
+R I 2 L 0 80096768 44 Always Raining
+
+R I 2 L 0 800970e4 1b5f Always Raining
+
+R I 2 L 0 80096768 ff00 Always Snowing
+
+R I 2 L 0 800970e4 1b5f Always Snowing
+
+R I 2 L 0 8009ac00 ff00 Right Front
+
+R I 2 L 0 8009ac08 0 Right Rear
+
+R I 2 L 0 8009ac10 0 Left Front
+
+R I 2 L 0 8009ac18 0 Left Rear
+
+R I 2 L 0 8009ac06 0 Right Front
+
+R I 2 L 0 8009ac0e 0 Right Rear
+
+R I 2 L 0 8009ac16 0 Left Front
+
+R I 2 L 0 8009ac1e 0 Left Rear
+
+R I 2 L 0 8009ac04 0 Right Front
+
+R I 2 L 0 8009ac0c 0 Right Rear
+
+R I 2 L 0 8009ac14 0 Left Front
+
+R I 2 L 0 8009ac1c 0 Left Rear
+
+R I 2 L 0 8009ac08 0 Right Front
+
+R I 2 L 0 8009ac10 0 Right Rear
+
+R I 2 L 0 8009ac18 0 Left Front
+
+R I 2 L 0 8009ac20 0 Left Rear
+
+R I 2 L 0 8009ac6a 0 Right Front
+
+R I 2 L 0 8009ac72 0 Right Rear
+
+R I 2 L 0 8009ac7a 0 Left Front
+
+R I 2 L 0 8009ac82 0 Left Rear
+
+R I 2 L 0 8009ac68 0 Right Front
+
+R I 2 L 0 8009ac70 0 Right Rear
+
+R I 2 L 0 8009ac78 0 Left Front
+
+R I 2 L 0 8009ac80 0 Left Rear
+
+R I 2 L 0 8009ac6c 0 Right Front
+
+R I 2 L 0 8009ac74 0 Right Rear
+
+R I 2 L 0 8009ac7c 0 Left Front
+
+R I 2 L 0 8009ac84 0 Left Rear
+
+R I 2 L 0 8009ad32 0 Right Front
+
+R I 2 L 0 8009ad3a 0 Right Rear
+
+R I 2 L 0 8009ad42 0 Left Front
+
+R I 2 L 0 8009ad4a 0 Left Rear
+
+R I 2 L 0 8009ad30 0 Right Front
+
+R I 2 L 0 8009ad38 0 Right Rear
+
+R I 2 L 0 8009ad40 0 Left Front
+
+R I 2 L 0 8009ad48 0 Left Rear
+
+R I 2 L 0 8009ad34 0 Right Front
+
+R I 2 L 0 8009ad3c 0 Right Rear
+
+R I 2 L 0 8009ad44 0 Left Front
+
+R I 2 L 0 8009ad4c 0 Left Rear
+
+R I 2 L 0 80086bf0 116 Trees Are Bigscreen TVs - Miami
+
+R I 2 L 0 80086bf2 102 Trees Are Bigscreen TVs - San Fran
+
+R I 2 L 0 800964dc 1 Invincibility Cheat On
+
+R I 2 L 0 800964dc 0 Invincibility Cheat Off
+
+R I 2 L 0 800964e0 1 Immunity Cheat On
+
+R I 2 L 0 800964e0 0 Immunity Cheat Off
+
+R I 2 L 0 8009d59c 1 Rear Wheel Cheat On
+
+R I 2 L 0 8009d59c 0 Rear Wheel Cheat Off
+
+R I 2 L 0 8009d5a0 1 Minis Cheat On
+
+R I 2 L 0 8009d5a0 0 Minis Cheat Off
+
+R I 2 L 0 8009d5a4 1 Stilts Cheat On
+
+R I 2 L 0 8009d5a4 0 Stilts Cheat Off
+
+R I 2 L 0 8009d5ac 1 Antipodean Cheat On
+
+R I 2 L 0 8009d5ac 0 Antipodean Cheat Off
+
+R I 2 L 0 801c0000 0 Change The Text "UnderCover"
+
+R I 2 L 0 801c0002 0 Change The Text "UnderCover"
+
+R I 2 L 0 801c0004 0 Change The Text "UnderCover"
+
+R I 2 L 0 801c0006 0 Change The Text "UnderCover"
+
+R I 2 L 0 801c0008 0 Change The Text "UnderCover"
+
+R I 2 L 0 801c000c 0 Change The Text "Options"
+
+R I 2 L 0 801c000e 0 Change The Text "Options"
+
+R I 2 L 0 801c0010 0 Change The Text "Options"
+
+R I 2 L 0 801c0012 0 Change The Text "Options"
+
+R I 2 L 0 801c0014 0 Change The Text "Take a Ride"
+
+R I 2 L 0 801c0016 0 Change The Text "Take a Ride"
+
+R I 2 L 0 801c0018 0 Change The Text "Take a Ride"
+
+R I 2 L 0 801c001a 0 Change The Text "Take a Ride"
+
+R I 2 L 0 801c001c 0 Change The Text "Take a Ride"
+
+R I 2 L 0 801c001e 0 Change The Text "Take a Ride"
+
+R I 2 L 0 801c0020 0 Change The Text "Cheats"
+
+R I 2 L 0 801c0022 0 Change The Text "Cheats"
+
+R I 2 L 0 801c0024 0 Change The Text "Cheats"
+
+R I 2 L 0 801c0026 0 Change The Text "Cheats"
+
+R I 2 L 0 801c0028 0 Change The Text "Driving Games"
+
+R I 2 L 0 801c002a 0 Change The Text "Driving Games"
+
+R I 2 L 0 801c002c 0 Change The Text "Driving Games"
+
+R I 2 L 0 801c002e 0 Change The Text "Driving Games"
+
+R I 2 L 0 801c0030 0 Change The Text "Driving Games"
+
+R I 2 L 0 801c0032 0 Change The Text "Driving Games"
+
+R I 2 L 0 801c0034 0 Change The Text "Driving Games"
+
+R I 2 L 0 801c0036 0 Change The Text "Driving Games"
+
+R I 2 L 0 801c0038 0 Change The Text ????
+
+R I 2 L 0 801c003a 0 Change The Text ????
+
+R I 2 L 0 801c003c 0 Change The Text ????
+
+R I 2 L 0 801c003e 0 Change The Text ????
+
+R I 2 L 0 801c0044 0 Change The Text "Car Chases"
+
+R I 2 L 0 801c0046 0 Change The Text "Car Chases"
+
+R I 2 L 0 801c0048 0 Change The Text "Car Chases"
+
+R I 2 L 0 801c004a 0 Change The Text "Car Chases"
+
+R I 2 L 0 801c004c 0 Change The Text "Car Chases"
+
+R I 2 L 0 801c004e 0 Change The Text "Car Chases"
+
+R I 2 L 0 801c0050 0 Change The Text "High Scores"
+
+R I 2 L 0 801c0052 0 Change The Text "High Scores"
+
+R I 2 L 0 801c0054 0 Change The Text "High Scores"
+
+R I 2 L 0 801c0056 0 Change The Text "High Scores"
+
+R I 2 L 0 801c0058 0 Change The Text "High Scores"
+
+R I 2 L 0 801c005a 0 Change The Text "High Scores"
+
+R I 2 L 0 801c0260 0 Change The Text "Center Screen"
+
+R I 2 L 0 801c0262 0 Change The Text "Center Screen"
+
+R I 2 L 0 801c0264 0 Change The Text "Center Screen"
+
+R I 2 L 0 801c0266 0 Change The Text "Center Screen"
+
+R I 2 L 0 801c0268 0 Change The Text "Center Screen"
+
+R I 2 L 0 801c026a 0 Change The Text "Center Screen"
+
+R I 2 L 0 801c026c 0 Change The Text "Center Screen"
+
+R I 2 L 0 801c0270 0 Change The Text "View Controls"
+
+R I 2 L 0 801c0272 0 Change The Text "View Controls"
+
+R I 2 L 0 801c0274 0 Change The Text "View Controls"
+
+R I 2 L 0 801c0276 0 Change The Text "View Controls"
+
+R I 2 L 0 801c0278 0 Change The Text "View Controls"
+
+R I 2 L 0 801c027a 0 Change The Text "View Controls"
+
+R I 2 L 0 801c027c 0 Change The Text "View Controls"
+
+R I 2 L 0 801c0280 0 Change The Text "Gameplay"
+
+R I 2 L 0 801c0282 0 Change The Text "Gameplay"
+
+R I 2 L 0 801c0284 0 Change The Text "Gameplay"
+
+R I 2 L 0 801c0286 0 Change The Text "Gameplay"
+
+R I 2 L 0 800965d8 0 Change The Text "Damage"
+
+R I 2 L 0 800965da 0 Change The Text "Damage"
+
+R I 2 L 0 800965dc 0 Change The Text "Damage"
+
+R I 2 L 0 800965de 0 Change The Text "Damage"
+
+R I 2 L 0 80096a00 0 Change The Text "Felony"
+
+R I 2 L 0 80096a02 0 Change The Text "Felony"
+
+R I 2 L 0 80096a04 0 Change The Text "Felony"
+
+R I 2 L 0 80096a06 0 Change The Text "Felony"
+
+R I 2 L 0 800969f8 0 Change The Text "Freak"
+
+R I 2 L 0 800969fa 0 Change The Text "Freak"
+
+R I 2 L 0 800969fc 0 Change The Text "Freak"
+
+R I 2 L 0 800969fe 0 Change The Text "Freak"

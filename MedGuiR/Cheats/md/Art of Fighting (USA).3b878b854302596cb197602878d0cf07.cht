@@ -1,0 +1,56 @@
+[3b878b854302596cb197602878d0cf07] Art of Fighting (USA)
+R I 2 L 0 ff90b0 60 Infinite Energy
+
+S I 2 L 0 2154 11fc Infinite Energy
+
+S I 2 L 0 2156 60 Infinite Energy
+
+S I 2 L 0 2158 90b0 Infinite Energy
+
+R I 2 L 0 ff001f 6 2 Players Versus Screen In History Mode!
+
+R I 2 L 0 ff02b2 600 Infinite Time
+
+R I 2 L 0 ff90b2 60 Infinite Power
+
+S I 2 L 0 7610 6708 Region Bypass
+
+R I 2 L 0 ff9056 0 Player 1 Selected Character Modifier
+
+R I 2 L 0 ff9256 0 Player 2 Selected Character Modifier
+
+R I 2 L 0 ff8ec6 9 Infinite Credits
+
+R I 2 L 0 ff1130 9 Infinite Time In &quot;Bottle Cut&quot; &amp; &quot;Ice Pilar Smash&quot; Bonus Games.
+
+R I 2 L 0 ff9290 1 Only Need To Do 1 Haow-Ken Super Death Blow In Bonus Game
+
+R I 2 L 0 ff90e2 ff Player 1 Has Haow-Ken Super Death Blow
+
+R I 2 L 0 ff92e2 ff Player 2 Has Haow-Ken Super Death Blow
+
+R I 2 L 0 ff029c 0 Stage Modifier
+
+R I 2 L 0 ff9030 0 Player 1 - Character Control Modifier
+
+R I 2 L 0 ff9230 1 Player 2 - Character Control Modifier
+
+R I 2 L 0 ff11b6 1 Both Players Have Infinite Energy
+
+S I 2 L 0 f1b0 33fc Every Hit Refills Your Life
+
+S I 2 L 0 f1b2 60 Every Hit Refills Your Life
+
+S I 2 L 0 f1b4 ff Every Hit Refills Your Life
+
+S I 2 L 0 f1b6 90b0 Every Hit Refills Your Life
+
+R I 2 L 0 ff01f5 0 Remove Status Bars From The Play Screen
+
+R I 2 L 0 ff02b3 9 Infinite Time
+
+R I 2 L 0 ff11b2 0 P1 Wins Modifier
+
+R I 2 L 0 ff11b3 0 P2 Wins Modifier
+
+S I 2 L 0 f28 6600 Enable Level Select

@@ -1,0 +1,114 @@
+[e4263c39487f0b55e8f33cbd5acd9b93] Golden Axe (World) (Rev A)
+S I 2 L 0 6ebe 6008 Infinite hit points
+
+S I 2 L 0 7c5c 4e71 Infinite magic
+
+S I 2 L 0 a934 5429 Each magic pot worth 2
+
+S I 2 L 0 a934 5629 Each magic pot worth 3
+
+S I 2 L 0 7d5c 6048 Infinite lives
+
+S I 2 L 0 2310 6002 Infinite credits
+
+S I 2 L 0 3b1e 7002 Start with 2 credits instead of 4
+
+S I 2 L 0 3b1e 7006 Start with 6 credits
+
+S I 2 L 0 3b1e 7008 Start with 8 credits
+
+S I 2 L 0 425a 100 Start with 1 life instead of 3 [1st credit only]
+
+S I 2 L 0 425a 500 Start with 5 lives [1st credit only]
+
+S I 2 L 0 425a 700 Start with 7 lives [1st credit only]
+
+S I 2 L 0 425a 900 Start with 9 lives [1st credit only]
+
+S I 2 L 0 232e 100 Continue with 1 life instead of 3
+
+S I 2 L 0 232e 500 Continue with 5 lives
+
+S I 2 L 0 232e 700 Continue with 7 lives
+
+S I 2 L 0 232e 900 Continue with 9 lives
+
+S I 2 L 0 4260 200 Start with 2 magic pots instead of 1
+
+S I 2 L 0 4260 400 Start with 4 magic pots
+
+S I 2 L 0 3c18 5278 Start on stage 2
+
+S I 2 L 0 3c18 5478 Start on stage 3
+
+S I 2 L 0 3c18 5678 Start on stage 4
+
+S I 2 L 0 3c18 5878 Start on stage 5
+
+S I 2 L 0 3c18 5a78 Start on stage 6
+
+S I 2 L 0 3c18 5c78 Start on stage 7
+
+S I 2 L 0 3c18 5e78 Start on stage 8
+
+R I 2 L 0 fffe7e 50 Infinite Energy
+
+R I 2 L 0 fffe7c 3 Infinite Lives
+
+R I 2 L 0 fffe80 9 Infinite Magic
+
+R I 2 L 0 ffd002 4 Invincibility
+
+S I 2 L 0 42ca f0 Start With 16 Of Energy
+
+S I 2 L 0 3c18 5278 Stage Select
+
+S I 2 L 0 1f94 31fc Infinite Energy
+
+S I 2 L 0 1f96 3030 Infinite Energy
+
+S I 2 L 0 1f98 fe7e Infinite Energy
+
+S I 2 L 0 4260 600 Max And Infinite Fighter Magic
+
+S I 2 L 0 7c5c 4e71 Max And Infinite Fighter Magic
+
+S I 2 L 0 4260 400 Max And Infinite Dwarf Magic
+
+S I 2 L 0 7c5c 4e71 Max And Infinite Dwarf Magic
+
+S I 2 L 0 4260 900 Max And Infinite Amazon Magic
+
+S I 2 L 0 7c5c 4e71 Max And Infinite Amazon Magic
+
+S I 2 L 0 7c5c 4e71 Infinite Magic
+
+S I 2 L 0 c01a 4e75 Invincibility
+
+S I 2 L 0 eea0 4268 Kill Enemies In One Hit 
+
+S I 2 L 0 1086a 4268 One Hit Kill Bosses
+
+S I 2 L 0 11530 4268 One Hit Kill Bosses
+
+S I 2 L 0 2a3e 6002 Keep Extra Magic From Round To round
+
+S I 2 L 0 4444 2 Enabled Cheat Code Level Select
+
+S I 2 L 0 12c8c 600c Dragons don't run away when sitting alone
+
+S I 2 L 0 1303c 4e75 Invincibility Extra
+
+S I 2 L 0 bf0 6024 Master Code 
+
+S I 2 L 0 6ebe 6002 Infinite Life Meter (Health) P1/P2
+
+S I 2 L 0 4dec 6002 Freeze Time The Duel
+
+S I 2 L 0 2310 6002 Infinite Credits P1
+
+S I 2 L 0 2360 6002 Infinite Credits P2
+
+S I 2 L 0 2268 6004 Freeze Time Continue P1
+
+S I 2 L 0 22aa 6006 Freeze Time Continue P2

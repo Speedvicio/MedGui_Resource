@@ -1,0 +1,464 @@
+[7f25ce5a283d902694c52fb1152fa61a] Super Mario Kart (USA)
+S I 1 L 0 80fa93 21 Drive Thru Walls
+
+R I 1 L 0 7e0192 0 Player Shrink Modifiers [Player 1]
+
+R I 1 L 0 7e1031 0 Player Shrink Modifiers [Player 1]
+
+R I 1 L 0 7e0194 0 Player Shrink Modifiers [Player 2]
+
+R I 1 L 0 7e1032 0 Player Shrink Modifiers [Player 2]
+
+R I 1 L 0 7e0060 2 &quot;Choose Your Driver&quot; Message Stop Go
+
+S I 1 L 0 8196af ad Debug Options
+
+S I 1 L 0 8196ab 4 Debug Options
+
+S I 1 L 0 84fd11 0 Beat 50cc Mushroom Cup To Get Gold Cup On All Courses, And 150cc Courses
+
+S I 1 L 0 84fd13 2 Beat 50cc Mushroom Cup To Get Gold Cup On All Courses, And 150cc Courses
+
+S I 1 L 0 84fd16 15 Beat 50cc Mushroom Cup To Get Gold Cup On All Courses, And 150cc Courses
+
+S I 1 L 0 84fd17 15 Beat 50cc Mushroom Cup To Get Gold Cup On All Courses, And 150cc Courses
+
+S I 1 L 0 80fa93 4f Random Effects On Impact
+
+S I 1 L 0 80fa93 d4 No Coins
+
+S I 1 L 0 80fa93 26 High Jumps
+
+S I 1 L 0 80fa93 27 No Jumps
+
+S I 1 L 0 80fa93 29 Float Super High
+
+S I 1 L 0 80fa93 65 Ride In Air
+
+S I 1 L 0 80fa93 a2 Drunk Drivers
+
+S I 1 L 0 87c0fa 44 Track Distortion (Bowser's Castle 1 Only)
+
+S I 1 L 0 fcef0d ff These Codes Can Cause Slight Increase In Various Karts
+
+S I 1 L 0 f7b78e 5b These Codes Can Cause Slight Increase In Various Karts
+
+S I 1 L 0 80fa93 8f Computer Karts Are Invisible
+
+S I 1 L 0 80aa23 e1 1000 Speed No Dust
+
+S I 1 L 0 80b048 55 All Karts Except Yours Do Not Move
+
+S I 1 L 0 80a088 ec Time Never Gets Past 1 Minute
+
+S I 1 L 0 fe9f 10 Hopping Code
+
+S I 1 L 0 80caf3 da Hopping Code
+
+S I 1 L 0 80fa93 29 Hopping Code
+
+S I 1 L 0 80fa93 e0 Hopping Code
+
+S I 1 L 0 759dc8 b4 Mud And Other Land Features Have No Effect On Karts
+
+S I 1 L 0 80fa93 f5 Mud And Other Land Features Have No Effect On Karts
+
+S I 1 L 0 808a73 1c No Background Music In Lap 5
+
+S I 1 L 0 809086 40 Change Princess To Mario
+
+S I 1 L 0 80908a 40 Change Koopa To Mario
+
+S I 1 L 0 80908e 40 Change Yoshi To Mario
+
+S I 1 L 0 809088 44 Change Donkey Kong Jr. Into Red Yoshi
+
+S I 1 L 0 80aa23 16 Sensitive Steering
+
+S I 1 L 0 80aa23 c1 Always In Last Place
+
+S I 1 L 0 80eab3 3e Pass Through Obstacles After Using Mushroom Or Running Over Turbo Arrow
+
+S I 1 L 0 80eab3 de Pass Through Obstacles After Mushroom Or Turbo Arrow And Invisible
+
+S I 1 L 0 80eab3 fe Fly After Using Mushroom Or Running Over Turbo Arrow
+
+S I 1 L 0 80eaf3 6c Invincibility
+
+S I 1 L 0 80fa93 12 Poor CPU Driving
+
+S I 1 L 0 80fa93 20 Drive Anywhere On Track
+
+S I 1 L 0 80fa93 a3 Unlimited Retries In GP Mode
+
+S I 1 L 0 80fa93 a9 Driver Cannot Move
+
+S I 1 L 0 80fa93 ab Drive Sideways
+
+S I 1 L 0 80fa93 e2 No Slow Down In Turns
+
+S I 1 L 0 80fa93 ee Instant Top Speed, Instant Braking
+
+S I 1 L 0 80fa93 60 Throw Up Pipes
+
+S I 1 L 0 f7b78e 5b Slight Increase In Acceleration
+
+S I 1 L 0 fcef0d ff Slight Increase In Acceleration
+
+S I 1 L 0 80eaf3 6c Multi-Cam Mario Code
+
+S I 1 L 0 80e8b0 7f Multi-Cam Mario Code
+
+S I 1 L 0 80fa93 a2 Multi-Cam Mario Code
+
+S I 1 L 0 80fa93 e2 Multi-Cam Mario Code
+
+S I 1 L 0 80fa93 f5 Multi-Cam Mario Code
+
+S I 1 L 0 80e8b0 7f Obtain Any Item Without Landing On A '?' Mark
+
+S I 1 L 0 80fa13 a0 Green Shells Bounce Very Fast
+
+S I 1 L 0 80fa93 e3 Spin Out If You Go On Snow, Grass, Etc.
+
+S I 1 L 0 80aa23 7 Computer Doesn't Show Up On Map
+
+S I 1 L 0 80ea63 e1 Faster Kart
+
+S I 1 L 0 80aa23 1e Strange Jumps
+
+S I 1 L 0 80fa93 84 Automatic Smallness
+
+S I 1 L 0 80fa93 e8 Non-Bumpable
+
+S I 1 L 0 fa5f 70 Better Steering
+
+S I 1 L 0 80fa93 23 Lakita Kidnaps You
+
+S I 1 L 0 809a03 9c Terrible Muffler
+
+S I 1 L 0 80aa23 d7 Speed = 1CC
+
+S I 1 L 0 80aa23 2a Always See The Front of The Kart
+
+S I 1 L 0 80aa23 a8 Always Jump Backward Instead of Forward
+
+S I 1 L 0 80aa28 a8 Kart Doesn't Slow Down On Track
+
+S I 1 L 0 80aa23 e0 Mushrooms Make You Jump
+
+S I 1 L 0 80aa23 97 Never Lose Speed
+
+S I 1 L 0 80fa93 ff Never Slow Down/Land In Water
+
+S I 1 L 0 3f2cac f0 Super Boost
+
+S I 1 L 0 cd2cf3 cc Conditions Don't Wear Off
+
+S I 1 L 0 808ae3 ff Expert Code
+
+S I 1 L 0 80aa23 ed Sliding Code
+
+S I 1 L 0 80aa23 df Perfect Sliding
+
+S I 1 L 0 808420 a0 Race With Red Tinted Background
+
+S I 1 L 0 80eaf3 fe Invincible
+
+S I 1 L 0 80fa93 e0 Other Karts Spin Out
+
+S I 1 L 0 80cae3 26 Invisible
+
+S I 1 L 0 80fa93 e1 Feather Jumping Repeatedly (Game Usually Freezes)
+
+S I 1 L 0 80ac28 52 400 cc Driving
+
+S I 1 L 0 809088 ee Character &quot;Morph&quot; Codes
+
+S I 1 L 0 80fa93 61 Pipes Shoot Out of Your Car
+
+S I 1 L 0 80fa93 ef Karts Shoot Off Screen
+
+S I 1 L 0 808af3 6c Hit The &quot;X&quot; Button To Drive In Reverse
+
+S I 1 L 0 80b086 8d Slow Motion Code
+
+S I 1 L 0 80b048 1 Stop Your Opponents
+
+S I 1 L 0 80a088 1 Reset Timer At 00'00''
+
+S I 1 L 0 80a088 a5 Stop Time Counter
+
+S I 1 L 0 81b76c 1 Get Item Instantly
+
+S I 1 L 0 81b416 b9 Infinite Item When You Get One
+
+S I 1 L 0 81b3b2 c0 Item Select
+
+S I 1 L 0 81b3b0 a9 Item Select
+
+S I 1 L 0 80908a ee Koopa Troopa
+
+S I 1 L 0 80908e ee Yoshi
+
+S I 1 L 0 809086 ee Princess
+
+S I 1 L 0 809088 ee Donkey Kong Jr.
+
+S I 1 L 0 809084 ee Bowser
+
+S I 1 L 0 809080 ee Mario
+
+S I 1 L 0 80908a ee Same Color Toad
+
+S I 1 L 0 809084 64 Same Color Yoshi
+
+S I 1 L 0 80908c dd Same Color Koopa
+
+S I 1 L 0 80908c 68 Same Color Mario
+
+S I 1 L 0 809088 62 Same Color Princess
+
+S I 1 L 0 80aa23 27 Hyper Mega Jump Code
+
+S I 1 L 0 80aa23 87 Turn Around To Get One Star
+
+S I 1 L 0 80aa23 b7 Yellow Track
+
+S I 1 L 0 80841c 1 Tuti-Fruti Track
+
+S I 1 L 0 80a4dc 1 Nobody Can Start
+
+S I 1 L 0 80a45c 1 Your Cart Can't Start
+
+S I 1 L 0 80b47c 9d Mushrooms Don't Work (Extra Challenging)
+
+S I 1 L 0 808078 a5 Drive Without Obstacles (Only For P1)
+
+S I 1 L 0 80a4fc 1 With This Code You Can &quot;Pause&quot; The Game Without Buggy Effects
+
+S I 1 L 0 80849c 1 Yoshi's Twin
+
+S I 1 L 0 80846c 1 Turbo On Each Control Pad Button
+
+S I 1 L 0 80a41c 1 Hard To Drive Only For Mario And Toad Drivers
+
+S I 1 L 0 80847c 1 Bowser Turns Into Yoshi Many Times
+
+S I 1 L 0 80c49c 1 Your Cart Can't Turn, But You Can Drive Normally
+
+S I 1 L 0 80c47c 1 Your Cart Turns Invisible
+
+S I 1 L 0 80aa23 57 Your Cart Can Pass Through Walls
+
+S I 1 L 0 808088 a5 Drive Through Walls And Obstacles (Drive Everywhere)
+
+R I 1 L 0 7e1020 4 Drive Over Walls
+
+R I 1 L 0 7e10ea ff Speed Modifier
+
+R I 1 L 0 7e10eb ff Speed Modifier
+
+R I 1 L 0 7e0124 0 Track Modifier
+
+R I 1 L 0 7e0d70 1 Item Modifier
+
+R I 1 L 0 7e0d71 c0 Always Have Item
+
+R I 1 L 0 7e1d00 3 Always Have Special Cup (In Time Trial 1P Mode)
+
+R I 1 L 0 7e0066 a Modifier For Which Character You Are FORCED To Pick During Character Selection
+
+R I 1 L 0 7e0085 0 Modifier For Which CC Class You Want To Select
+
+R I 1 L 0 7e0d70 0 Item Modifier
+
+R I 1 L 0 7e0150 3 Access Special Cup In 50cc
+
+R I 1 L 0 7e10e3 40 Pocket P1 (All Modes)
+
+R I 1 L 0 7e11e3 40 Pocket P2 (All Modes)
+
+R I 1 L 0 7e12e3 40 Pocket P3
+
+R I 1 L 0 7e13e3 40 Pocket P4
+
+R I 1 L 0 7e14e3 40 Pocket P5
+
+R I 1 L 0 7e15e3 40 Pocket P6
+
+R I 1 L 0 7e16e3 40 Pocket P7
+
+R I 1 L 0 7e17e3 40 Pocket P8
+
+R I 1 L 0 7e1d2c 8 Press A for Special Cup
+
+R I 1 L 0 7e1d29 3 Special Cup Enabled (1P Time Trial & 2P Match Race)
+
+R I 1 L 0 7e1012 0 P1 Character Modifier (All Modes)
+
+R I 1 L 0 7e1112 0 P2 Character Modifier (All Modes)
+
+R I 1 L 0 7e1212 0 P3 Character Modifier
+
+R I 1 L 0 7e1312 0 P4 Character Modifier
+
+R I 1 L 0 7e1412 0 P5 Character Modifier
+
+R I 1 L 0 7e1512 0 P6 Character Modifier
+
+R I 1 L 0 7e1612 0 P7 Character Modifier
+
+R I 1 L 0 7e1712 0 P8 Character Modifier
+
+R I 1 L 0 7e0e00 63 Infinite Coins
+
+R I 1 L 0 7e0154 4 Infinite Continues
+
+S I 1 L 0 80fa93 b3 Kart Goes Bezerk And Keeps Spinning
+
+S I 1 L 0 80fa93 e8 Awesome Donkey Kong Jr.
+
+R I 1 L 0 7e1f06 80 Debug Modifier
+
+R I 1 L 0 7e090b 5 Idiot Drivers
+
+R I 1 L 0 7e0152 0 Round Select (01-05)
+
+R I 1 L 0 7e1068 24 P1 Wheel-Terrain Modifier
+
+R I 1 L 0 7e10ae 24 P1 Wheel-Terrain Modifier
+
+R I 1 L 0 7e1168 0 P2 Wheel-Terrain Modifier
+
+R I 1 L 0 7e11ae 0 P2 Wheel-Terrain Modifier
+
+R I 1 L 0 7e1268 0 P3 Wheel-Terrain Modifier
+
+R I 1 L 0 7e12ae 0 P3 Wheel-Terrain Modifier
+
+R I 1 L 0 7e1368 0 P4 Wheel-Terrain Modifier
+
+R I 1 L 0 7e13ae 0 P4 Wheel-Terrain Modifier
+
+R I 1 L 0 7e1468 0 P5 Wheel-Terrain Modifier
+
+R I 1 L 0 7e14ae 0 P5 Wheel-Terrain Modifier
+
+R I 1 L 0 7e1568 0 P6 Wheel-Terrain Modifier
+
+R I 1 L 0 7e15ae 0 P6 Wheel-Terrain Modifier
+
+R I 1 L 0 7e1668 0 P7 Wheel-Terrain Modifier
+
+R I 1 L 0 7e16ae 0 P7 Wheel-Terrain Modifier
+
+R I 1 L 0 7e1768 0 P8 Wheel-Terrain Modifier
+
+R I 1 L 0 7e17ae 0 P8 Wheel-Terrain Modifier
+
+S I 1 L 0 80f065 2 CPU thrown Items are red Shells
+
+S I 1 L 0 80ad60 80 Computer Karts don't move
+
+S I 1 L 0 80f1a6 68 Player can use CPU Items 
+
+S I 1 L 0 80f1a7 3a Player can use CPU Items 
+
+S I 1 L 0 80f1a8 48 Player can use CPU Items 
+
+S I 1 L 0 80e911 5 Player can use CPU Items 
+
+S I 1 L 0 80e9fc 0 Players always have CPU Star
+
+S I 1 L 0 809891 4f Star makes CPU sound
+
+S I 1 L 0 81b75c 0 Always on Item Block
+
+S I 1 L 0 8087ea 74 Always 1st Place
+
+S I 1 L 0 8087eb c0 Always 1st Place
+
+S I 1 L 0 80e9f8 ea Joker CPU Star code
+
+S I 1 L 0 80e9f9 b5 Joker CPU Star code
+
+S I 1 L 0 80e9fa c3 Joker CPU Star code
+
+S I 1 L 0 80e9fb 10 Joker CPU Star code
+
+S I 1 L 0 80ea04 4c Joker CPU Star code
+
+S I 1 L 0 80ea05 f3 Joker CPU Star code
+
+S I 1 L 0 80ea06 92 Joker CPU Star code
+
+S I 1 L 0 8092f3 a9 Joker CPU Star code
+
+S I 1 L 0 8092f4 2 Joker CPU Star code
+
+S I 1 L 0 8092f5 0 Joker CPU Star code
+
+S I 1 L 0 8092f6 8d Joker CPU Star code
+
+S I 1 L 0 8092f7 6a Joker CPU Star code
+
+S I 1 L 0 8092f8 e Joker CPU Star code
+
+S I 1 L 0 8092f9 a9 Joker CPU Star code
+
+S I 1 L 0 8092fa 4f Joker CPU Star code
+
+S I 1 L 0 8092fb 0 Joker CPU Star code
+
+S I 1 L 0 8092fc 8d Joker CPU Star code
+
+S I 1 L 0 8092fd 6c Joker CPU Star code
+
+S I 1 L 0 8092fe e Joker CPU Star code
+
+S I 1 L 0 8092ff a9 Joker CPU Star code
+
+S I 1 L 0 809300 2c Joker CPU Star code
+
+S I 1 L 0 809301 1 Joker CPU Star code
+
+S I 1 L 0 809302 4c Joker CPU Star code
+
+S I 1 L 0 809303 33 Joker CPU Star code
+
+S I 1 L 0 809304 ea Joker CPU Star code
+
+S I 1 L 0 819aa0 b5 Red shells will keep attacking
+
+S I 1 L 0 80f85b b5 Red shells will keep attacking
+
+S I 1 L 0 80f83a f3 Bananas move 
+
+S I 1 L 0 819846 80 Items can't hurt anyone
+
+S I 1 L 0 8197ee 80 Characters go through each other
+
+S I 1 L 0 819a5d 10 All Jump Items
+
+S I 1 L 0 819a8c 0 All Jump Items
+
+S I 1 L 0 80a41e a9 All turn like Toad and Koopa troopa
+
+S I 1 L 0 80a41f 10 All turn like Toad and Koopa troopa
+
+S I 1 L 0 80a420 0 All turn like Toad and Koopa troopa
+
+S I 1 L 0 819a5e d0  Players only auto Jump Items  
+
+S I 1 L 0 819a8c 0  Players only auto Jump Items  
+
+S I 1 L 0 84fade 4 Play Special Cup
+
+S I 1 L 0 80a408 80 CPU Turning
+
+S I 1 L 0 80a401 f0 Moon Jump
+
+S I 1 L 0 80a410 26 Moon Jump
+
+S I 1 L 0 80a40d 80 Moon Jump

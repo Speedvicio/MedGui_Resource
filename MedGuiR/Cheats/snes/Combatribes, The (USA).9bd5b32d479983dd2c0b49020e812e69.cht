@@ -1,0 +1,342 @@
+[] Combatribes, The (USA)
+R I 1 L 0 7e1564 9 9 Credits
+
+R I 1 L 0 7e1794 c8 Player 1 Infinite Health
+
+R I 1 L 0 7e1796 c8 Player 2 Infinite Health
+
+S I 1 L 0 9be9 cd Infinite Credits
+
+S I 1 L 0 9b6c d0 Invincibility
+
+R I 1 L 0 7e1934 1 Invincibility
+
+S I 1 L 0 9a76 ea Infinite Energy
+
+S I 1 L 0 9a77 a9 Infinite Energy
+
+S I 1 L 0 9a78 c8 Infinite Energy
+
+S I 1 L 0 9a7a 8d Infinite Energy
+
+S I 1 L 0 c6eb e0 One Hit Kill
+
+S I 1 L 0 c6ec 0 One Hit Kill
+
+S I 1 L 0 c6ed 0 One Hit Kill
+
+S I 1 L 0 c6f7 24 One Hit Kill
+
+S I 1 L 0 919e e0 Hit Anywhere
+
+S I 1 L 0 919f 0 Hit Anywhere
+
+S I 1 L 0 91a0 0 Hit Anywhere
+
+S I 1 L 0 91a1 f0 Hit Anywhere
+
+S I 1 L 0 91a2 34 Hit Anywhere
+
+R I 1 L 0 7e17c4 0 Player 1 Modifier
+
+R I 1 L 0 7e1566 63 Start with 99 credits in options
+
+R I 1 L 0 7e0073 0 Act / Stage Modifier
+
+R I 1 L 0 7e17c6 0 Player 2 Modifier
+
+R I 1 L 0 7e17c8 0 Enemy 1 Modifier
+
+R I 1 L 0 7e17ca 0 Enemy 2 Modifier
+
+R I 1 L 0 7e17cc 0 Enemy 3 Modifier
+
+R I 1 L 0 7e17ce 0 Enemy 4 Modifier
+
+R I 1 L 0 7e16a5 0 Berzerker&#039;s &amp; Blitz&#039;s running attacks don&#039;t go as far
+
+R I 1 L 0 7e1558 1 Enemies are wearing alternate attire
+
+R I 1 L 0 7e1572 0 Difficulty Modifier in options
+
+R I 1 L 0 7e157a 1 Player 1 &amp; Player 2 are invincible
+
+R I 1 L 0 7e157c 1 CPU controls Player 1 &amp; Player 2 in Vs Mode
+
+R I 1 L 0 7e1568 2 Player 1 has to only win 1 round in Vs Mode to win the match
+
+R I 1 L 0 7e156a 2 Player 2 has to only win 1 round in Vs Mode to win the match
+
+R I 1 L 0 7e1578 1 &quot;Push Start&quot; flashes on the screen during game play
+
+R I 1 L 0 7e1798 0 Most enemies die with 1-Hit
+
+R I 1 L 0 7e179a 0 Most enemies die with 1-Hit
+
+R I 1 L 0 7e179c 0 Most enemies die with 1-Hit
+
+R I 1 L 0 7e179e 0 Most enemies die with 1-Hit
+
+R I 1 L 0 7e0a42 30 Rapid Attack By Holding A Or X Buttons
+
+R I 1 L 0 7e16c4 0 Player 1 Gravity Modifier
+
+R I 1 L 0 7e16c6 0 Player 2 Gravity Modifier
+
+R I 1 L 0 7e16c8 0 Enemy Gravity Modifiers
+
+R I 1 L 0 7e16ca 0 Enemy Gravity Modifiers
+
+R I 1 L 0 7e16cc 0 Enemy Gravity Modifiers
+
+R I 1 L 0 7e16ce 0 Enemy Gravity Modifiers
+
+R I 1 L 0 7e1604 1 Player 1 constantly swings an enemy by the ankles
+
+R I 1 L 0 7e1606 1 Player 2 constantly swings an enemy by the ankles
+
+R I 1 L 0 7e1764 1 Player 1 can knock down enemies with 1 hit
+
+R I 1 L 0 7e1766 1 Player 2 can knock enemies down with 1 hit
+
+R I 1 L 0 7e1768 1 Enemies cause players to reel back from 1 hit
+
+R I 1 L 0 7e176a 1 Enemies cause players to reel back from 1 hit
+
+R I 1 L 0 7e176c 1 Enemies cause players to reel back from 1 hit
+
+R I 1 L 0 7e176e 1 Enemies cause players to reel back from 1 hit
+
+R I 1 L 0 7e1768 2 Enemies can knock down players with 1 hit
+
+R I 1 L 0 7e176a 2 Enemies can knock down players with 1 hit
+
+R I 1 L 0 7e176c 2 Enemies can knock down players with 1 hit
+
+R I 1 L 0 7e176e 2 Enemies can knock down players with 1 hit
+
+R I 1 L 0 7e16e8 0 Enemies stay on the ground when knocked down
+
+R I 1 L 0 7e16ea 0 Enemies stay on the ground when knocked down
+
+R I 1 L 0 7e16ec 0 Enemies stay on the ground when knocked down
+
+R I 1 L 0 7e16ee 0 Enemies stay on the ground when knocked down
+
+R I 1 L 0 7e16e4 1 Player 1 doesn&#039;t stay on the ground for very long when knocked down
+
+R I 1 L 0 7e16e6 1 Player 2 doesn&#039;t stay on they ground for very long when knocked down
+
+R I 1 L 0 7e16e8 1 Enemies don&#039;t stay on the ground for very long when knocked down
+
+R I 1 L 0 7e16ea 1 Enemies don&#039;t stay on the ground for very long when knocked down
+
+R I 1 L 0 7e16ec 1 Enemies don&#039;t stay on the ground for very long when knocked down
+
+R I 1 L 0 7e16ee 1 Enemies don&#039;t stay on the ground for very long when knocked down
+
+R I 1 L 0 7e16f8 0 Enemies can hurt each other
+
+R I 1 L 0 7e16fa 0 Enemies can hurt each other
+
+R I 1 L 0 7e16fc 0 Enemies can hurt each other
+
+R I 1 L 0 7e16fe 0 Enemies can hurt each other
+
+R I 1 L 0 7e16f8 1 Enemies can&#039;t hurt Player 1 or Player 2 (Untouchable)
+
+R I 1 L 0 7e16fa 1 Enemies can&#039;t hurt Player 1 or Player 2 (Untouchable)
+
+R I 1 L 0 7e16fc 1 Enemies can&#039;t hurt Player 1 or Player 2 (Untouchable)
+
+R I 1 L 0 7e16fe 1 Enemies can&#039;t hurt Player 1 or Player 2 (Untouchable)
+
+S I 1 L 0 eda8 ad Allows players to choose the same character in normal mode
+
+S I 1 L 0 9c7e c9 Allows players to choose the same character in normal mode
+
+R I 1 L 0 7e1571 1 Enemies die when you die
+
+R I 1 L 0 7e17a4 1 Player 1&#039;s health drains rapidly
+
+R I 1 L 0 7e17a6 1 Player 2&#039;s health drains rapidly
+
+R I 1 L 0 7e17a8 1 Enemies health drains rapidly
+
+R I 1 L 0 7e17aa 1 Enemies health drains rapidly
+
+R I 1 L 0 7e17ac 1 Enemies health drains rapidly
+
+R I 1 L 0 7e17ae 1 Enemies health drains rapidly
+
+R I 1 L 0 7e19b4 1 Player 1 Speed Hack
+
+R I 1 L 0 7e19b6 1 Player 2 Speed Hack
+
+R I 1 L 0 7e0576 0 Berzerker Clothing Palette Modifiers
+
+R I 1 L 0 7e0577 0 Berzerker Clothing Palette Modifiers
+
+R I 1 L 0 7e0578 0 Berzerker Clothing Palette Modifiers
+
+R I 1 L 0 7e0579 0 Berzerker Clothing Palette Modifiers
+
+R I 1 L 0 7e057a 0 Berzerker Clothing Palette Modifiers
+
+R I 1 L 0 7e057b 0 Berzerker Clothing Palette Modifiers
+
+R I 1 L 0 7e057c 0 Berzerker Clothing Palette Modifiers
+
+R I 1 L 0 7e0596 0 Bullova Clothing Palette Modifiers
+
+R I 1 L 0 7e0597 0 Bullova Clothing Palette Modifiers
+
+R I 1 L 0 7e0598 0 Bullova Clothing Palette Modifiers
+
+R I 1 L 0 7e0599 0 Bullova Clothing Palette Modifiers
+
+R I 1 L 0 7e059a 0 Bullova Clothing Palette Modifiers
+
+R I 1 L 0 7e059b 0 Bullova Clothing Palette Modifiers
+
+R I 1 L 0 7e059c 0 Bullova Clothing Palette Modifiers
+
+R I 1 L 0 7e05b6 0 Blitz Clothing Palette Modifiers
+
+R I 1 L 0 7e05b7 0 Blitz Clothing Palette Modifiers
+
+R I 1 L 0 7e05b8 0 Blitz Clothing Palette Modifiers
+
+R I 1 L 0 7e05b9 0 Blitz Clothing Palette Modifiers
+
+R I 1 L 0 7e05ba 0 Blitz Clothing Palette Modifiers
+
+R I 1 L 0 7e05bb 0 Blitz Clothing Palette Modifiers
+
+R I 1 L 0 7e05bc 0 Blitz Clothing Palette Modifiers
+
+R I 1 L 0 7e056c 0 Berzerker Skin Palette Modifiers
+
+R I 1 L 0 7e056d 0 Berzerker Skin Palette Modifiers
+
+R I 1 L 0 7e056e 0 Berzerker Skin Palette Modifiers
+
+R I 1 L 0 7e056f 0 Berzerker Skin Palette Modifiers
+
+R I 1 L 0 7e0570 0 Berzerker Skin Palette Modifiers
+
+R I 1 L 0 7e058c 0 Bullova Skin Palette Modifiers
+
+R I 1 L 0 7e058d 0 Bullova Skin Palette Modifiers
+
+R I 1 L 0 7e058e 0 Bullova Skin Palette Modifiers
+
+R I 1 L 0 7e058f 0 Bullova Skin Palette Modifiers
+
+R I 1 L 0 7e0590 0 Bullova Skin Palette Modifiers
+
+R I 1 L 0 7e05ac 0 Blitz Skin Palette Modifiers
+
+R I 1 L 0 7e05ad 0 Blitz Skin Palette Modifiers
+
+R I 1 L 0 7e05ae 0 Blitz Skin Palette Modifiers
+
+R I 1 L 0 7e05af 0 Blitz Skin Palette Modifiers
+
+R I 1 L 0 7e05b0 0 Blitz Skin Palette Modifiers
+
+R I 1 L 0 7e0572 0 Berzerker Hair Palette Modifiers
+
+R I 1 L 0 7e0573 0 Berzerker Hair Palette Modifiers
+
+R I 1 L 0 7e0574 0 Berzerker Hair Palette Modifiers
+
+R I 1 L 0 7e0575 0 Berzerker Hair Palette Modifiers
+
+R I 1 L 0 7e0592 0 Bullova Hair Palette Modifiers
+
+R I 1 L 0 7e0593 0 Bullova Hair Palette Modifiers
+
+R I 1 L 0 7e0594 0 Bullova Hair Palette Modifiers
+
+R I 1 L 0 7e0595 0 Bullova Hair Palette Modifiers
+
+R I 1 L 0 7e05b2 0 Blitz Hair Palette Modifiers
+
+R I 1 L 0 7e05b3 0 Blitz Hair Palette Modifiers
+
+R I 1 L 0 7e05b4 0 Blitz Hair Palette Modifiers
+
+R I 1 L 0 7e05b5 0 Blitz Hair Palette Modifiers
+
+R I 1 L 0 7e1ee7 10 Unlock all characters in Vs Mode
+
+R I 1 L 0 7e0b47 50 Player 1 Palette Modifier
+
+R I 1 L 0 7e0b49 0 Player 2 Palette Modfier
+
+R I 1 L 0 7e1908 1 Enemies Bounce after getting knocked down
+
+R I 1 L 0 7e190a 1 Enemies Bounce after getting knocked down
+
+R I 1 L 0 7e190c 1 Enemies Bounce after getting knocked down
+
+R I 1 L 0 7e190e 1 Enemies Bounce after getting knocked down
+
+R I 1 L 0 7e1959 1 Enemies never attack
+
+R I 1 L 0 7e195b 1 Enemies never attack
+
+R I 1 L 0 7e195d 1 Enemies never attack
+
+R I 1 L 0 7e195f 1 Enemies never attack
+
+R I 1 L 0 7e1935 1 Player 1 is Untouchable
+
+R I 1 L 0 7e1937 1 Player 2 is Untouchable
+
+R I 1 L 0 7e19f5 be Player 1 animation speed modifier
+
+R I 1 L 0 7e19f7 0 Player 2 animation speed modifier
+
+R I 1 L 0 7e19f9 0 Enemy animation speed modifier
+
+R I 1 L 0 7e19fb 0 Enemy animation speed modifier
+
+R I 1 L 0 7e19fd 0 Enemy animation speed modifier
+
+R I 1 L 0 7e19ff 0 Enemy animation speed modifier
+
+S I 1 L 0 c6fc bd Infinite Health
+
+S I 1 L 0 9131 4 Player 1 And 2 Are Untouchable
+
+R I 1 L 0 7e1794 be Infinite P1 Health
+
+R I 1 L 0 7e1796 be Infinite P2 Health
+
+R I 1 L 0 7e1798 0 Enemy 1 With No Health
+
+R I 1 L 0 7e179a 0 Enemy 2 With No Health
+
+R I 1 L 0 7e179c 0 Enemy 3 With No Health
+
+R I 1 L 0 7e179e 0 Enemy 4 With No Health
+
+R I 1 L 0 7e0081 0 Fewer enemies to fight
+
+R I 1 L 0 7e0b12 0 Player 1 as Blitz, Bullova, &amp; Berzerker can&#039;t throw a fireball in Vs Mode
+
+R I 1 L 0 7e0085 1 Player 1 as Blitz, Bullova, &amp; Berzerker can&#039;t throw a fireball in Vs Mode
+
+R I 1 L 0 7e1bca 0 Vs Stage 1 flame modifier
+
+R I 1 L 0 7e007d 0 Vs Stage 2 left flame modifier
+
+R I 1 L 0 7e0083 0 Vs Stage 2 right flame modifier
+
+R I 1 L 0 7e008f 1 Players &amp; Enemies can walk into the background
+
+R I 1 L 0 7e0092 1 Players &amp; Enemies can walk into the foreground
+
+R I 1 L 0 7e0094 1 Players &amp; Enemies can walk past the left most barrier on every stage

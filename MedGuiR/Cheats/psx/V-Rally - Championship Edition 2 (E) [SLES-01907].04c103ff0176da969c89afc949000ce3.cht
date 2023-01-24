@@ -1,0 +1,68 @@
+[] V-Rally 2 - Championship Edition (PAL-M3)
+R I 2 L 0 800c3e58 0 No laptime
+
+R I 2 L 0 8001bd44 0 No repairing time
+
+R I 2 L 0 800c556c 1fff Unlock Bonus Cars
+
+R I 2 L 0 800c556e 1ff Unlock All Tracks
+
+R I 4 L 0 800b56e0 0 XploderCheck
+
+R I 2 L 0 800ba758 0 PAL2NTSC
+
+R I 2 L 0 8006ec14 0 Y-Fix
+
+R I 2 L 0 800d8f18 0 ScreenX
+
+R I 2 L 0 800d8fb8 0 ScreenX
+
+R I 2 L 0 800d8f1a 0 ScreenY
+
+R I 2 L 0 800d8fba 0 ScreenY
+
+R I 4 L 0 8002bdd4 0 Zeit gestoppt
+
+R I 1 L 0 80017813 9 Unendlich Versuche
+
+R I 4 L 0 8008462c 0 Alle Replay-Kameras anwaehlbar
+
+R I 1 L 0 800c556c f Ford Escort WRC V-Rally
+
+R I 1 L 0 800c556c 1f Lancia Stratos
+
+R I 1 L 0 800c556c 3f Renault 8 Gordini
+
+R I 1 L 0 800c556c 7f Peugeot 206 T16
+
+R I 1 L 0 800c556c ff Audi Quattro
+
+R I 1 L 0 800c556d 1 Renault 5 Turbo
+
+R I 1 L 0 800c556d 3 Fiat 131 Abarth
+
+R I 1 L 0 800c556d 7 Toyota Celica
+
+R I 1 L 0 800c556d f Alpine Renault A 110
+
+R I 1 L 0 800c556d 1f Peugeot 405 T16
+
+R I 1 L 0 800c556e 1 Level 1
+
+R I 1 L 0 800c556e 3 Level 2
+
+R I 1 L 0 800c556e 7 Expert
+
+R I 1 L 0 800c556e f Europe
+
+R I 1 L 0 800c556e 1f World
+
+R I 1 L 0 800c556e 3f Expert
+
+R I 1 L 0 800c556e 7f Europe
+
+R I 1 L 0 800c556e ff World
+
+R I 1 L 0 800c556f 1 Expert
+
+R I 1 L 0 800c44a0 1 Alle Fahrzeuge und Strecken freigeschaltet

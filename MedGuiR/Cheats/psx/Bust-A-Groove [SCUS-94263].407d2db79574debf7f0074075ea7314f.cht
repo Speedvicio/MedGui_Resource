@@ -1,0 +1,44 @@
+[] Bust-A-Groove (NTSC-U)
+R I 2 L 0 80068740 ffff P1 Max Dance Points
+
+R I 2 L 0 80068740 0 P1 No Dance Points
+
+R I 2 L 0 80068744 ffff P2 Max Dance Points
+
+R I 2 L 0 80068744 0 P2 No Dance Points
+
+R I 2 L 0 80068766 2 P1 Infinite Attacks
+
+R I 2 L 0 80068766 0 P1 No Attacks
+
+R I 2 L 0 8006877a 2 P2 Infinite Attacks
+
+R I 2 L 0 8006877a 0 P2 No Attacks
+
+R I 2 L 0 80068738 ffff P1 Max Enthusiasm
+
+R I 2 L 0 80068738 0 P1 No Enthusiasm
+
+R I 2 L 0 8006873c ffff P2 Max Enthusiasm
+
+R I 2 L 0 8006873c 0 P2 No Enthusiasm
+
+R I 2 L 0 8006870a c01 Press Select To End Game
+
+R I 2 L 0 80051ac6 100 Enable Dance View
+
+R I 2 L 0 80051ac8 100 Enable Dance View
+
+R I 1 L 0 80051ac0 1 Enable Capoeira
+
+R I 1 L 0 80051ac1 1 Enable Robo-Z
+
+R I 1 L 0 80051ac3 1 Enable Burger Dog
+
+R I 1 L 0 80051ac2 1 Enable Columbo
+
+R I 2 L 0 8006870a b01 Start On Stage 12
+
+R I 2 L 0 80097a20 4 Stage Background
+
+R I 2 L 0 8006871c 4 Play Against Whomever You Wish For All 12 Stages

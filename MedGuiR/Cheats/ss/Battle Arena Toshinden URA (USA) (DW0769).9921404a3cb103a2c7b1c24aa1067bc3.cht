@@ -1,0 +1,76 @@
+[0] Battle Arena Toshinden URA - Ultimate Revenge Attack (USA)
+R I 2 L 0 6074fa4 4650 Infinite Time
+
+R I 2 L 0 60723a2 1ff Infinite Energy P1
+
+R I 2 L 0 60723a2 80 25% Energy P1
+
+R I 2 L 0 60723a2 100 50% Energy P1
+
+R I 2 L 0 60722a2 180 75% Energy P1
+
+R I 2 L 0 60723a2 0 No Energy P1
+
+R I 2 L 0 60723a3 1 1-Hit Death P1
+
+R I 2 L 0 607476e 1ff Infinite Energy P2
+
+R I 2 L 0 607476e 80 25% Energy P2
+
+R I 2 L 0 607476e 100 50% Energy P2
+
+R I 2 L 0 607476e 180 75% Energy P2
+
+R I 2 L 0 607476e 0 No Energy P2
+
+R I 2 L 0 607476e 1 1-Hit Death P2
+
+R I 2 L 0 60723a6 168 Full Over Drive Meter P1
+
+R I 2 L 0 60723a6 0 Empty Over Drive Meter P1
+
+R I 2 L 0 6074772 168 Full Over Drive Meter P2
+
+R I 2 L 0 6074772 0 Empty Over Drive Meter P2
+
+R I 2 L 0 6072300 0 P1 Never Wins
+
+R I 2 L 0 6072300 1 P1 Needs 1 Win to Win
+
+R I 2 L 0 60746cc 0 P2 Never Wins
+
+R I 2 L 0 60746cc 1 P2 Needs 1 Win to Win
+
+R I 2 L 0 607a462 0 P1's Character Modifier
+
+R I 2 L 0 607a60e 0 P2's Character Modifier
+
+R I 2 L 0 60575e8 0 Timer Is Set To 60
+
+R I 2 L 0 60575e8 1 Timer Is Set To 90
+
+R I 2 L 0 60575e8 2 Timer Is Set To 00
+
+R I 2 L 0 60575ea 0 Set Point Is Set To 1
+
+R I 2 L 0 60575ea 1 Set Point Is Set To 2
+
+R I 2 L 0 60575ea 2 Set Point Is Set To 3
+
+R I 2 L 0 60575ec 0 P1 Strength Is ??
+
+R I 2 L 0 6057600 0 P2 Strength Is ??
+
+R I 2 L 0 60575ee 0 P1 Guard Type Is Normal
+
+R I 2 L 0 60575ee 1 P1 Guard Type Is Auto
+
+R I 2 L 0 60575ee 2 P1 Guard Type Is No Guard
+
+R I 2 L 0 6057602 0 P2 Guard Type Is Normal
+
+R I 2 L 0 6057602 1 P2 Guard Type Is Auto
+
+R I 2 L 0 6057602 2 P2 Guard Type Is No Guard
+
+R I 2 L 0 6057ee6 10 Extra Characters

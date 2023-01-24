@@ -1,0 +1,102 @@
+[] Crisis Beat (PAL-E)
+R I 4 L 0 8000d006 43e2 Reversed Complementary Joker Command P1
+
+R I 4 L 0 80000000 0 Reversed Complementary Joker Command P1
+
+R I 4 L 0 8000d005 aaf4 Reversed Complementary Joker Command P2
+
+R I 4 L 0 80000000 0 Reversed Complementary Joker Command P2
+
+R I 4 L 0 80008005 eac PAL2NTSC
+
+R I 4 L 0 80000000 0 PAL2NTSC
+
+R I 4 L 0 80008003 77cc Y-Fix
+
+R I 4 L 0 80000000 0 Y-Fix
+
+R I 4 L 0 8000d006 676a Timer frozen
+
+R I 4 L 0 80002442 8006 Timer frozen
+
+R I 4 L 0 8000676c 0 Timer frozen
+
+R I 4 L 0 8000d007 8772 Infinite health
+
+R I 4 L 0 80000043 8007 Infinite health
+
+R I 4 L 0 80008774 0 Infinite health
+
+R I 4 L 0 8000d007 16e4 Infinite lives (See Note)
+
+R I 4 L 0 8000ffff 8007 Infinite lives (See Note)
+
+R I 4 L 0 800016ea 0 Infinite lives (See Note)
+
+R I 4 L 0 8000d007 16e6 Lives increase (See Note)
+
+R I 4 L 0 80002442 8007 Lives increase (See Note)
+
+R I 4 L 0 800016e4 ffff Lives increase (See Note)
+
+R I 4 L 0 8000d008 52a6 SuddenDeath all enemies
+
+R I 4 L 0 80000043 8008 SuddenDeath all enemies
+
+R I 4 L 0 800052a4 0 SuddenDeath all enemies
+
+R I 4 L 0 8000d008 52a6 SuddenDeath all enemies
+
+R I 4 L 0 80000043 8008 SuddenDeath all enemies
+
+R I 4 L 0 800052a6 3402 SuddenDeath all enemies
+
+R I 4 L 0 8000d005 8920 HighScore P1
+
+R I 4 L 0 80000000 8005 HighScore P1
+
+R I 4 L 0 80008920 49c0 HighScore P1
+
+R I 4 L 0 8000d005 8920 HighScore P1
+
+R I 4 L 0 800049c0 3005 HighScore P1
+
+R I 4 L 0 80008922 23 HighScore P1
+
+R I 4 L 0 8000d005 8924 HighScore P2
+
+R I 4 L 0 80000000 8005 HighScore P2
+
+R I 4 L 0 80008924 49c0 HighScore P2
+
+R I 4 L 0 8000d005 8924 HighScore P2
+
+R I 4 L 0 800049c0 3005 HighScore P2
+
+R I 4 L 0 80008926 23 HighScore P2
+
+R I 2 L 0 80050eac 0 PAL2NTSC
+
+R I 2 L 0 800377cc 0 Y-Fix
+
+R I 4 L 0 8006676c 0 Unendlich Zeit
+
+R I 4 L 0 80078774 0 Unendlich Gesundheit
+
+R I 4 L 0 800716e8 0 Unendlich Leben (Note)
+
+R I 2 L 0 800716e4 ffff Leben nehmen zu (Note)
+
+R I 2 L 0 80058920 49c0 HighScore P1
+
+R I 1 L 0 80058922 23 HighScore P1
+
+R I 2 L 0 80058924 49c0 HighScore P2
+
+R I 1 L 0 80058926 23 HighScore P2
+
+R I 2 L 0 800588ee ffff Unlock All Extras
+
+R I 2 L 0 800377cc fff0 (M) PAL to NTSC (+centering)
+
+R I 2 L 0 80050eac 0 (M) PAL to NTSC (+centering)

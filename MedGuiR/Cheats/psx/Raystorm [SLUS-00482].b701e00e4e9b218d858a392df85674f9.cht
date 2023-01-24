@@ -1,0 +1,70 @@
+[] Raystorm (NTSC-U)
+R I 2 L 0 800d4d2c 5 Infinite lifes P1
+
+R I 2 L 0 800d4d5a 1000 Infinite Special Attack P1
+
+R I 2 L 0 800d4d2e 10 Main Weapon Upgrade P1 R-Gray 1 Only!
+
+R I 2 L 0 800d4d34 1 Non-Stop Fire On P1 R-Gray 1 Only! (Press L2)
+
+R I 2 L 0 800d4d34 0 Non-Stop Fire Off P1 R-Gray 1 Only! (Press R2)
+
+R I 2 L 0 800d4d42 10 Full Lock-On Capacity P1
+
+R I 2 L 0 800fe6e4 ffff Start With High-Score P1
+
+R I 2 L 0 800d7194 5 Infinite Lives P2
+
+R I 2 L 0 800d71c2 1000 Infinite Special Attack P2
+
+R I 2 L 0 800d7196 10 Main Weapon Upgrade P2 R-Gray 1 Only!
+
+R I 2 L 0 800d719c 1 Non-Stop Fire On P2 R-Gray 1 Only! (Press L2)
+
+R I 2 L 0 800d719c 0 Non-Stop Fire Off P2 R-Gray 1 Only! (Press R2)
+
+R I 2 L 0 800d71a0 10 Full Lock-On Capacity P2
+
+R I 2 L 0 800fe6ec ffff Start With High-Score P2
+
+R I 2 L 0 800d4950 9 Infinite Credits
+
+R I 2 L 0 8011ce3c 9 Freeze Player-Select-Timer P1 (Press L1)
+
+R I 2 L 0 8011dddc 9 Freeze Player-Select-Timer P2 (Press R1)
+
+R I 2 L 0 800babd4 0 Level Select
+
+R I 2 L 0 800d784c 9 Infinite Lives P1
+
+R I 2 L 0 800d7878 0 Infinite Missiles P1
+
+R I 2 L 0 800d787a 1000 Infinite SP Attacks P1
+
+R I 2 L 0 80101144 0 Points Modifier P1
+
+R I 2 L 0 80101145 0 Points Modifier P1
+
+R I 2 L 0 80101146 0 Points Modifier P1
+
+R I 2 L 0 8010114c 0 Points Modifier P2
+
+R I 2 L 0 8010114d 0 Points Modifier P2
+
+R I 2 L 0 8010114e 0 Points Modifier P2
+
+R I 2 L 0 800d9c08 95 P1 Invincibility
+
+R I 1 L 0 800dc3e8 c Have Credit Limit Access
+
+R I 1 L 0 800d7858 10 Max Lock Ons
+
+R I 2 L 0 800d7470 ffff Infinite Credits
+
+R I 2 L 0 800d9ce2 1000 Infinite SP Attacks P2
+
+R I 2 L 0 800d9ce0 0 Infinite Missiles P2
+
+R I 2 L 0 8011f794 9 Infinite Selection Time P1
+
+R I 2 L 0 80120734 9 Infinite Selection Time P2

@@ -1,0 +1,98 @@
+[7c8e479f4c4e46f406b1da5e786358c0] Onimusha Tactics (USA)
+R I 2 L 0 30056bc ffff Have all Recipe
+
+R I 2 L 0 30056be ffff Have all Recipe
+
+R I 2 L 0 30056c0 ffff Have all Recipe
+
+R I 2 L 0 30056c2 ffff Have all Recipe
+
+R I 2 L 0 30056b4 c350 Inf Soul
+
+R I 2 L 0 2000286 3e7 Start Battle With Max HP/SP P1
+
+R I 2 L 0 2000288 3e7 Start Battle With Max HP/SP P1
+
+R I 2 L 0 20002ca 3e7 Start Battle With Max HP/SP P2
+
+R I 2 L 0 20002cc 3e7 Start Battle With Max HP/SP P2
+
+R I 2 L 0 20004ea 3e7 Start Battle With Max HP/SP P3
+
+R I 2 L 0 20004ec 3e7 Start Battle With Max HP/SP P3
+
+R I 2 L 0 200052e 3e7 Start Battle With Max HP/SP P4
+
+R I 2 L 0 2000530 3e7 Start Battle With Max HP/SP P4
+
+R I 2 L 0 2000572 3e7 Start Battle With Max HP/SP P5
+
+R I 2 L 0 2000574 3e7 Start Battle With Max HP/SP P5
+
+R I 2 L 0 20004a6 3e7 Start Battle With Max HP/SP P6
+
+R I 2 L 0 20004a8 3e7 Start Battle With Max HP/SP P6
+
+R I 2 L 0 200027a 64 Start Battle With 100 Exp P1
+
+R I 2 L 0 20002be 64 Start Battle With 100 Exp P2
+
+R I 2 L 0 20004de 64 Start Battle With 100 Exp P3
+
+R I 2 L 0 2000522 64 Start Battle With 100 Exp P4
+
+R I 2 L 0 2000566 64 Start Battle With 100 Exp P5
+
+R I 2 L 0 200049a 64 Start Battle With 100 Exp P6
+
+R I 1 L 0 2011540 1 Number Of Active Characters Modifier
+
+R I 1 L 0 2011538 2 Slot 1
+
+R I 1 L 0 2011539 0 Slot 2
+
+R I 1 L 0 201153a 0 Slot 3
+
+R I 1 L 0 201153b 0 Slot 4
+
+R I 1 L 0 201153c 0 Slot 5
+
+R I 1 L 0 201153d 0 Slot 6
+
+R I 1 L 0 201153e 0 Slot 7
+
+R I 2 L 0 2000286 3e7 Start Battle With Max Hp/Sp P1
+
+R I 2 L 0 2000288 3e7 Start Battle With Max Hp/Sp P1
+
+R I 2 L 0 20002ca 3e7 Start Battle With Max Hp/Sp P2
+
+R I 2 L 0 20002cc 3e7 Start Battle With Max Hp/Sp P2
+
+R I 2 L 0 20004ea 3e7 Start Battle With Max Hp/Sp P3
+
+R I 2 L 0 20004ec 3e7 Start Battle With Max Hp/Sp P3
+
+R I 2 L 0 200052e 3e7 Start Battle With Max Hp/Sp P4
+
+R I 2 L 0 2000530 3e7 Start Battle With Max Hp/Sp P4
+
+R I 2 L 0 2000572 3e7 Start Battle With Max Hp/Sp P5
+
+R I 2 L 0 2000574 3e7 Start Battle With Max Hp/Sp P5
+
+R I 2 L 0 20004a6 3e7 Start Battle With Max Hp/Sp P6
+
+R I 2 L 0 20004a8 3e7 Start Battle With Max Hp/Sp P6
+
+R I 2 L 0 200027a 64 Start Battle With 100 Experience P1
+
+R I 2 L 0 20002be 64 Start Battle With 100 Experience P2
+
+R I 2 L 0 20004de 64 Start Battle With 100 Experience P3
+
+R I 2 L 0 2000522 64 Start Battle With 100 Experience P4
+
+R I 2 L 0 2000566 64 Start Battle With 100 Experience P5
+
+R I 2 L 0 200049a 64 Start Battle With 100 Experience P6

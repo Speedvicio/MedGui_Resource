@@ -1,0 +1,326 @@
+[] ActRaiser (USA)
+R I 1 L 0 7e029b 1 Magic Modifier Slot 1
+
+R I 1 L 0 7e029a 1 Magic Modifier Slot 2
+
+R I 1 L 0 7e0299 1 Magic Modifier Slot 3
+
+R I 1 L 0 7e029c 1 Magic Modifier Slot 4
+
+R I 1 L 0 7e0291 0 Player Level Modifier
+
+R I 1 L 0 7e02a2 0 Item Slot 1 Modifier
+
+R I 1 L 0 7e02a3 0 Item Slot 2 Modifier
+
+R I 1 L 0 7e02a4 0 Item Slot 3 Modifier
+
+R I 1 L 0 7e02a5 0 Item Slot 4 Modifier
+
+R I 1 L 0 7e02a6 0 Item Slot 5 Modifier
+
+R I 1 L 0 7e02a7 0 Item Slot 6 Modifier
+
+R I 1 L 0 7e02a8 0 Item Slot 7 Modifier
+
+R I 1 L 0 7e02a9 0 Item Slot 8 Modifier
+
+R I 1 L 0 7e02a9 0 Digits For Item Slot Modifiers
+
+R I 1 L 0 7e0bcc 0 One hit kills bosses
+
+R I 1 L 0 7e08c6 2 Invincible In Action Mode(Can Walk Thru Enemies and On Spikes)
+
+R I 1 L 0 7e00e7 2 Infinite Time
+
+R I 1 L 0 7e001d 8 Infinite health in Action mode
+
+R I 1 L 0 7e001c 98 Max. 99 Lives
+
+R I 1 L 0 7e001d 18 Infinite Body HP
+
+R I 1 L 0 7e001e 18 Max. Body HP
+
+R I 1 L 0 7e0021 a Infinite Magic Points
+
+R I 1 L 0 7e00e4 80 Have Sword Shot
+
+R I 1 L 0 7e00e7 9 Infinite Time
+
+R I 1 L 0 7f9efa 7f Fillmore Can Grow
+
+R I 1 L 0 7f9efc 7f Bloodpool Can Grow
+
+R I 1 L 0 7f9efe 7f Kasandora Can Grow
+
+R I 1 L 0 7f9f00 7f Aitos Can Grow
+
+R I 1 L 0 7f9f02 7f Marahna Can Grow
+
+R I 1 L 0 7f9f04 7f Northwall Can Grow
+
+R I 1 L 0 7f96b8 0 Monster Lairs Empty in Fillmore
+
+R I 1 L 0 7f96ba 0 Monster Lairs Empty in Fillmore
+
+R I 1 L 0 7f96bc 0 Monster Lairs Empty in Fillmore
+
+R I 1 L 0 7f96be 0 Monster Lairs Empty in Fillmore
+
+R I 1 L 0 7f96c0 0 Monster Lairs Empty in Bloodpool
+
+R I 1 L 0 7f96c2 0 Monster Lairs Empty in Bloodpool
+
+R I 1 L 0 7f96c4 0 Monster Lairs Empty in Bloodpool
+
+R I 1 L 0 7f96c6 0 Monster Lairs Empty in Bloodpool
+
+R I 1 L 0 7f96c8 0 Monster Lairs Empty in Kasandora
+
+R I 1 L 0 7f96ca 0 Monster Lairs Empty in Kasandora
+
+R I 1 L 0 7f96cc 0 Monster Lairs Empty in Kasandora
+
+R I 1 L 0 7f96ce 0 Monster Lairs Empty in Kasandora
+
+R I 1 L 0 7f96d0 0 Monster Lairs Empty in Aitos
+
+R I 1 L 0 7f96d2 0 Monster Lairs Empty in Aitos
+
+R I 1 L 0 7f96d4 0 Monster Lairs Empty in Aitos
+
+R I 1 L 0 7f96d6 0 Monster Lairs Empty in Aitos
+
+R I 1 L 0 7f96d8 0 Monster Lairs Empty in Marahna
+
+R I 1 L 0 7f96da 0 Monster Lairs Empty in Marahna
+
+R I 1 L 0 7f96dc 0 Monster Lairs Empty in Marahna
+
+R I 1 L 0 7f96de 0 Monster Lairs Empty in Marahna
+
+R I 1 L 0 7f96e0 0 Monster Lairs Empty in Northwall
+
+R I 1 L 0 7f96e2 0 Monster Lairs Empty in Northwall
+
+R I 1 L 0 7f96e4 0 Monster Lairs Empty in Northwall
+
+R I 1 L 0 7f96e6 0 Monster Lairs Empty in Northwall
+
+R I 1 L 0 7e0218 ff Super population growth
+
+R I 1 L 0 7e0286 8 Infinite Energy In Sim Mode
+
+S I 1 L 0 2be60 13 Infinite Energy
+
+S I 1 L 0 2be60 11 Start With More Energy
+
+S I 1 L 0 2be60 ff Die With One Hit
+
+S I 1 L 0 82b2 0 Infinite Lives
+
+S I 1 L 0 284d6 aa Start With 86 Lives In Action Sequences
+
+S I 1 L 0 2be72 fa Start With 250 Spell Points In RPG Sequences
+
+S I 1 L 0 9e0a a5 Infinite MP
+
+S I 1 L 0 3ca73 af Infinite Spell Points
+
+S I 1 L 0 803f 0 Unlock Professional Mode
+
+S I 1 L 0 2ab26 85 Have Magic Spell &amp; 24 MP in Professional Mode
+
+S I 1 L 0 2ab2c 8d Have Magic Spell &amp; 24 MP in Professional Mode
+
+S I 1 L 0 2ab2a a9 Have Magic Spell &amp; 24 MP in Professional Mode
+
+S I 1 L 0 3854f 0 Towns Always Able To Grow
+
+S I 1 L 0 3b99c 9e All Monster Lairs Always Empty
+
+S I 1 L 0 8a24 dd Almost invincible in action sequences
+
+S I 1 L 0 2be60 4 Start with 1/2 energy [1st game only]
+
+S I 1 L 0 2bc98 0 Stop timer
+
+S I 1 L 0 2bc8b 10 Faster timer
+
+S I 1 L 0 2bc8b 50 Slower timer
+
+S I 1 L 0 9c98 60 Invincibility
+
+R I 1 L 0 7e001d 0 Avatar HP
+
+R I 1 L 0 7e0021 0 Avatar MP
+
+R I 1 L 0 7e00e4 0 Avatar Sword Wave
+
+R I 1 L 0 7e00e6 0 Time left in level
+
+R I 1 L 0 7e024c 0 Fillmore Offering 1
+
+R I 1 L 0 7e024d 0 Fillmore Offering 2
+
+R I 1 L 0 7e0255 0 Bloodpool Offering 1
+
+R I 1 L 0 7e0256 0 Bloodpool Offering 2
+
+R I 1 L 0 7e025e 0 Kasandora Offering 1
+
+R I 1 L 0 7e025f 0 Kasandora Offering 2
+
+R I 1 L 0 7e0267 0 Aitos Offering 1
+
+R I 1 L 0 7e0268 0 Aitos Offering 2
+
+R I 1 L 0 7e0270 0 Marahna Offering 1
+
+R I 1 L 0 7e0271 0 Marahna Offering 2
+
+R I 1 L 0 7e0279 0 Northwall Offering 1
+
+R I 1 L 0 7e027a 0 Northwall Offering 2
+
+R I 1 L 0 7e02ac 0 Equipped Magic
+
+R I 1 L 0 7e0282 0 Angel SP
+
+R I 1 L 0 7e0286 0 Angel HP
+
+R I 1 L 0 7e08c6 0 Avatar Invincibility
+
+R I 1 L 0 7e08d1 0 Avatar Invincibility 2
+
+R I 1 L 0 7e0afb 0 Angel Power
+
+R I 1 L 0 7e0b09 0 Angel Invincibility
+
+S I 1 L 0 2bc9a a5 Infinite Time
+
+S I 1 L 0 8475 20 Debug Mode
+
+S I 1 L 0 8476 51 Debug Mode
+
+S I 1 L 0 8477 81 Debug Mode
+
+S I 1 L 0 816d b Debug Mode
+
+R I 1 L 0 7e08bc 1 Jump to rise into sky
+
+R I 1 L 0 7e0028 0 Background Height Modifier
+
+S I 1 L 0 8ae6 24 Enemies Continually Hit Anywhere
+
+S I 1 L 0 8ae1 24 Enemies Continually Hit Anywhere
+
+S I 1 L 0 8ad6 24 Enemies Continually Hit Anywhere
+
+S I 1 L 0 8ac8 80 Enemies Continually Hit Anywhere
+
+S I 1 L 0 8aba 80 Enemies Continually Hit Anywhere
+
+R I 1 L 0 7e1349 0 Stage Select In Professional Mode
+
+S I 1 L 0 8b00 9e Kill Bosses With 2 Hits, Enemies With 1 Hit
+
+R I 1 L 0 7e001c 9 Infinite Lives
+
+R I 1 L 0 7e00e6 0 Infinite Time
+
+R I 1 L 0 7e00e7 3 Infinite Time
+
+R I 1 L 0 7e001f 0 Score Modifier
+
+R I 1 L 0 7e0020 0 Score Modifier
+
+R I 1 L 0 7e00e6 86 Infinite Time In Battle (You Need To Turn This Code Off After Beating The Boss At The End Of Every Level)
+
+R I 1 L 0 7e00e7 2 Infinite Time In Battle (You Need To Turn This Code Off After Beating The Boss At The End Of Every Level)
+
+S I 1 L 0 8824 ea Invincibility
+
+S I 1 L 0 8825 a9 Invincibility
+
+S I 1 L 0 8a26 8 Invincibility
+
+R I 1 L 0 7e0349 0 Stage Select (Professional Mode)
+
+R I 1 L 0 7e0336 2 Auto Select (Professional Mode)
+
+R I 1 L 0 7f96c0 0 Monster Lairs Empty In Bloodpool
+
+R I 1 L 0 7f96c2 0 Monster Lairs Empty In Bloodpool
+
+R I 1 L 0 7f96c4 0 Monster Lairs Empty In Bloodpool
+
+R I 1 L 0 7f96c6 0 Monster Lairs Empty In Bloodpool
+
+R I 1 L 0 7f96c8 0 Monster Lairs Empty In Kasandora
+
+R I 1 L 0 7f96ca 0 Monster Lairs Empty In Kasandora
+
+R I 1 L 0 7f96cc 0 Monster Lairs Empty In Kasandora
+
+R I 1 L 0 7f96ce 0 Monster Lairs Empty In Kasandora
+
+R I 1 L 0 7f96d0 0 Monster Lairs Empty In Aitos
+
+R I 1 L 0 7f96d2 0 Monster Lairs Empty In Aitos
+
+R I 1 L 0 7f96d4 0 Monster Lairs Empty In Aitos
+
+R I 1 L 0 7f96d6 0 Monster Lairs Empty In Aitos
+
+R I 1 L 0 7f96d8 0 Monster Lairs Empty In Marahna
+
+R I 1 L 0 7f96da 0 Monster Lairs Empty In Marahna
+
+R I 1 L 0 7f96dc 0 Monster Lairs Empty In Marahna
+
+R I 1 L 0 7f96de 0 Monster Lairs Empty In Marahna
+
+R I 1 L 0 7f96e0 0 Monster Lairs Empty In Northwall
+
+R I 1 L 0 7f96e2 0 Monster Lairs Empty In Northwall
+
+R I 1 L 0 7f96e4 0 Monster Lairs Empty In Northwall
+
+R I 1 L 0 7f96e6 0 Monster Lairs Empty In Northwall
+
+S I 1 L 0 8a40 dd Sword Is Useless
+
+S I 1 L 0 8a30 dd Eliminate Any Enemy With A Touch
+
+R I 1 L 0 7e08c6 1e Invincible
+
+R I 1 L 0 7e08c9 49 Crazy Walk
+
+R I 1 L 0 7e0b09 11 Angel Invincible
+
+R I 1 L 0 7e0282 ff Infinite SP
+
+R I 1 L 0 7e0021 5 Infinite Magic
+
+R I 1 L 0 7e00e6 99 Infinite Time
+
+R I 1 L 0 7e001d d Infinite Health (Not Invincible)
+
+R I 1 L 0 7e02ac 1 Have Fireball As Selected Magic
+
+R I 1 L 0 7e02ac 2 Have Star Rain As Selected Magic
+
+R I 1 L 0 7e02ac 3 Have Energy Balls As Selected Magic
+
+R I 1 L 0 7e02ac 4 Have Call For Power As Selected Magic
+
+R I 1 L 0 7e001c 8 Gives You 9 Lives In The Battle Scenes [Switch Off At The End To Continue]
+
+R I 1 L 0 7e001d b Unlimited Energy In Battle Scenes
+
+R I 1 L 0 7e001d 22 Unlimited Health
+
+R I 1 L 0 7e02f8 2f 255 Magic Points
+
+S I 1 L 0 8041 0 Unlock Action Mode

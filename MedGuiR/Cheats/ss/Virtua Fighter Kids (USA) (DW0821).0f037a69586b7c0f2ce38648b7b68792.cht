@@ -1,0 +1,24 @@
+[0] Virtua Fighter Kids (USA)
+R I 2 L 0 6045974 a0 Infinite Health P1
+
+R I 2 L 0 6046a74 a0 Infinite Health P2
+
+R I 2 L 0 6045974 28 P1 25% Health
+
+R I 2 L 0 6045974 50 P1 50% Health
+
+R I 2 L 0 6045974 78 P1 75% Health
+
+R I 2 L 0 6045974 0 P1 No Health
+
+R I 2 L 0 6045974 1 1-Hit Death
+
+R I 2 L 0 6046a74 28 P2 25% Health
+
+R I 2 L 0 6046a74 50 P2 50% Health
+
+R I 2 L 0 6046a74 78 P2 75% Health
+
+R I 2 L 0 6046a74 0 P2 No Health
+
+R I 2 L 0 6046a74 1 P2 1-Hit Death

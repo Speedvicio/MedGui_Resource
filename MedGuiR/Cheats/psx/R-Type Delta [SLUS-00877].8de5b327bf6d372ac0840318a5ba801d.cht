@@ -1,0 +1,184 @@
+[] R-Type Delta (NTSC-U)
+R I 2 L 0 8001014e 3 Infinite Lives
+
+R I 2 L 0 801c8998 9 Infinite Continue Timer
+
+R I 2 L 0 80065c12 2400 Infinite Continues
+
+R I 2 L 0 80065c0c 1 Add Continues
+
+R I 2 L 0 80010142 0 Level Modifier
+
+R I 2 L 0 801530dc ffff Max Score
+
+R I 2 L 0 801530de ff Max Score
+
+R I 2 L 0 800d145a 2400 R9 - Never Blow Up
+
+R I 2 L 0 800b8c4e 2400 R9 - Never Blow Up
+
+R I 2 L 0 80090d42 2400 R9 - Never Blow Up
+
+R I 2 L 0 800bc58e 2400 R9 - Never Blow Up
+
+R I 2 L 0 800a6236 2400 R9 - Never Blow Up
+
+R I 2 L 0 800a2642 2400 R9 - Never Blow Up
+
+R I 2 L 0 800b7b16 2400 R9 - Never Blow Up
+
+R I 2 L 0 800d5c22 2400 RX - Never Blow Up
+
+R I 2 L 0 800bd8c2 2400 RX - Never Blow Up
+
+R I 2 L 0 8009550a 2400 RX - Never Blow Up
+
+R I 2 L 0 800c0d56 2400 RX - Never Blow Up
+
+R I 2 L 0 800aaaca 2400 RX - Never Blow Up
+
+R I 2 L 0 800a6e0a 2400 RX - Never Blow Up
+
+R I 2 L 0 800bc74a 2400 RX - Never Blow Up
+
+R I 2 L 0 800d5c52 2400 R13 - Never Blow Up
+
+R I 2 L 0 800bf422 2400 R13 - Never Blow Up
+
+R I 2 L 0 80096cb2 2400 R13 - Never Blow Up
+
+R I 2 L 0 800c0d86 2400 R13 - Never Blow Up
+
+R I 2 L 0 800ac272 2400 R13 - Never Blow Up
+
+R I 2 L 0 800a85b2 2400 R13 - Never Blow Up
+
+R I 2 L 0 800be01a 2400 R13 - Never Blow Up
+
+R I 2 L 0 800d5c92 2400 POW Armor - Never Blow Up
+
+R I 2 L 0 800c10be 2400 POW Armor - Never Blow Up
+
+R I 2 L 0 80098496 2400 POW Armor - Never Blow Up
+
+R I 2 L 0 800c0dc6 2400 POW Armor - Never Blow Up
+
+R I 2 L 0 800ada56 2400 POW Armor - Never Blow Up
+
+R I 2 L 0 800a9d96 2400 POW Armor - Never Blow Up
+
+R I 2 L 0 800bf926 2400 POW Armor - Never Blow Up
+
+R I 2 L 0 800d145a 2400 R9 - Never Blow Up
+
+R I 2 L 0 80172b98 ff R9 - Max Beam (Press Square)
+
+R I 2 L 0 80172bf8 1f40 R9 - Max Dose (Press Select)
+
+R I 2 L 0 800d5c22 2400 RX - Never Blow Up
+
+R I 2 L 0 80174fe0 ff RX - Max Beam (Press Square)
+
+R I 2 L 0 80175040 1f40 RX - Max Dose (Press Select)
+
+R I 2 L 0 800d5c52 2400 R13 - Never Blow Up
+
+R I 2 L 0 80175de8 ff R13 - Max Beam (Press Square)
+
+R I 2 L 0 80175e48 1f40 R13 - Max Dose (Press Select)
+
+R I 2 L 0 800d5c92 2400 POW Armor - Never Blow Up
+
+R I 2 L 0 801768f0 ff POW Armor - Max Beam (Press Square)
+
+R I 2 L 0 80176950 1f40 POW Armor - Max Dose (Press Select)
+
+R I 2 L 0 80153108 ff R9 - Max Beam (Press Square)
+
+R I 2 L 0 80153168 1f40 R9 - Max Dose (Press Select)
+
+R I 2 L 0 800bd8c2 2400 RX - Never Blow Up
+
+R I 2 L 0 800bf422 2400 R13 - Never Blow Up
+
+R I 2 L 0 800c10be 2400 POW Armor - Never Blow Up
+
+R I 2 L 0 80090d42 2400 R9 - Never Blow Up
+
+R I 2 L 0 8013bd58 ff R9 - Max Beam (Press Square)
+
+R I 2 L 0 8013bdc8 1f40 R9 - Max Dose (Press Select)
+
+R I 2 L 0 8009550a 2400 RX - Never Blow Up
+
+R I 2 L 0 80096cb2 2400 R13 - Never Blow Up
+
+R I 2 L 0 80098496 2400 POW Armor - Never Blow Up
+
+R I 2 L 0 800bc58e 2400 R9 - Never Blow Up
+
+R I 2 L 0 8015260e ff R9 - Max Beam (Press Square)
+
+R I 2 L 0 80152670 1f40 R9 - Max Dose (Press Select)
+
+R I 2 L 0 800c0d56 2400 RX - Never Blow Up
+
+R I 2 L 0 801544ae ff RX - Max Beam (Press Square)
+
+R I 2 L 0 80154510 1f40 RX - Max Dose (Press Select)
+
+R I 2 L 0 800c0d86 2400 R13 - Never Blow Up
+
+R I 2 L 0 80154434 ff R13 - Max Beam (Press Square)
+
+R I 2 L 0 80154498 1f40 R13 - Max Dose (Press Select)
+
+R I 2 L 0 800c0dc6 2400 POW Armor - Never Blow Up
+
+R I 2 L 0 80154e6c ff POW Armor - Max Beam (Press Square)
+
+R I 2 L 0 80154ed0 1f40 POW Armor - Max Dose (Press Select)
+
+R I 2 L 0 800a6236 2400 R9 - Never Blow Up
+
+R I 2 L 0 8014d564 ff R9 - Max Beam (Press Square)
+
+R I 2 L 0 8014d5c8 1f40 R9 - Max Dose (Press Select)
+
+R I 2 L 0 800aaaca 2400 RX - Never Blow Up
+
+R I 2 L 0 800ac272 2400 R13 - Never Blow Up
+
+R I 2 L 0 800ada56 2400 POW Armor - Never Blow Up
+
+R I 2 L 0 800a2642 2400 R9 - Never Blow Up
+
+R I 2 L 0 8016dc34 ff R9 - Max Beam (Press Square)
+
+R I 2 L 0 8016dc98 1f40 R9 - Max Dose (Press Select)
+
+R I 2 L 0 800a6e0a 2400 RX - Never Blow Up
+
+R I 2 L 0 800a85b2 2400 R13 - Never Blow Up
+
+R I 2 L 0 800a9d96 2400 POW Armor - Never Blow Up
+
+R I 2 L 0 800b7b16 2400 R9 - Never Blow Up
+
+R I 2 L 0 80155424 ff R9 - Max Beam (Press Square)
+
+R I 2 L 0 8015548c 1f40 R9 - Max Dose (Press Select)
+
+R I 2 L 0 800bc74a 2400 RX - Never Blow Up
+
+R I 2 L 0 8015548c 1f40 RX - Max Dose (Press Select)
+
+R I 2 L 0 800be01a 2400 R13 - Never Blow Up
+
+R I 2 L 0 8015548c 1f40 R13 - Max Dose (Press Select)
+
+R I 2 L 0 800bf926 2400 POW Armor - Never Blow Up
+
+R I 2 L 0 80155424 ff POW Armor - Max Beam (Press Square)
+
+R I 2 L 0 8015548c 1f40 POW Armor - Max Dose (Press Select)

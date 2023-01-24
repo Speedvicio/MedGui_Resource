@@ -1,0 +1,770 @@
+[21f3e98df4780ee1c667b84e57d88675] Super Metroid (Japan, USA) (En,Ja)
+R I 1 L 0 7e18a8 1 Immune To Enemy Attacks
+
+R I 1 L 0 7e09c2 db Infinite Life
+
+R I 1 L 0 7e09c3 5 Infinite Life
+
+R I 1 L 0 7e09c4 db Max Life
+
+R I 1 L 0 7e09c5 5 Max Life
+
+R I 1 L 0 7ed908 ff Crateria Mapped
+
+R I 1 L 0 7ed909 ff Brinstar Mapped
+
+R I 1 L 0 7ed90a ff Norfair Mapped
+
+R I 1 L 0 7ed90b ff Wrecked Ship Mapped
+
+R I 1 L 0 7ed90c ff Maridia Mapped
+
+R I 1 L 0 7ed90d ff Tourain Mapped
+
+R I 1 L 0 7e09c6 e7 Infinite 999 Rockets
+
+R I 1 L 0 7e09c7 3 Infinite 999 Rockets
+
+R I 1 L 0 7e09c8 e7 Maximum 999 Rockets
+
+R I 1 L 0 7e09c9 3 Maximum 999 Rockets
+
+R I 1 L 0 7e09cc 63 Maximum 99 Super Rockets
+
+R I 1 L 0 7e09ce 63 Infinite 99 Super Bombs
+
+R I 1 L 0 7e09d0 63 Maximum 99 Super Bombs
+
+R I 1 L 0 7e09e0 0 0 Hours Played
+
+R I 1 L 0 7ed820 c1 Can Access Tourain From Sunken Statues Room
+
+R I 1 L 0 7ed821 1f Can Access Tourain From Sunken Statues Room
+
+R I 1 L 0 7e09a4 ff Have all suits and Misc Items
+
+R I 1 L 0 7e09a5 ff Have all Boots and Bombs
+
+R I 1 L 0 7e09a8 ff Have all Guns minus the Charge Beam
+
+R I 1 L 0 7e09a9 ff Have Charge Beam
+
+R I 1 L 0 7e09a3 c0 Grapple and X-Ray
+
+S I 1 L 0 808597 af Switching Areas Fills Map
+
+S I 1 L 0 80859a 3 Switching Areas Fills Map
+
+S I 1 L 0 82eebb 0 Skip intro and start on Planet Zebes when starting a new game
+
+S I 1 L 0 81a81a 0 Select area when loading a game [press right on map screen to select]
+
+S I 1 L 0 81a8af 80 Select area when loading a game [press right on map screen to select]
+
+S I 1 L 0 91df71 ad No energy loss from enemies
+
+S I 1 L 0 90d0ce ad Super jumps don't drain energy
+
+S I 1 L 0 90bebf ad Almost infinite missiles
+
+S I 1 L 0 90bec4 ad Almost infinite super missiles
+
+S I 1 L 0 90c02d ea Almost infinite super bombs
+
+S I 1 L 0 82a17b 8d Start with hyper gun in inventory
+
+S I 1 L 0 700033 f3 Start with about 500 energy tanks
+
+S I 1 L 0 700032 1 Start with about 500 energy tanks
+
+S I 1 L 0 700033 bb Start with about 700 energy tanks
+
+S I 1 L 0 700032 2 Start with about 700 energy tanks
+
+S I 1 L 0 700033 e7 Start with about 1000 energy tanks
+
+S I 1 L 0 700032 3 Start with about 1000 energy tanks
+
+S I 1 L 0 700033 af Start with about 1200 energy tanks
+
+S I 1 L 0 700032 4 Start with about 1200 energy tanks
+
+S I 1 L 0 700033 db Start with about 1500 energy tanks
+
+S I 1 L 0 700032 5 Start with about 1500 energy tanks
+
+S I 1 L 0 700036 a 10 Maximum missiles
+
+S I 1 L 0 700036 19 25 Maximum missiles
+
+S I 1 L 0 700036 32 50 Maximum missiles
+
+S I 1 L 0 700036 4b 75 Maximum missiles
+
+S I 1 L 0 700036 64 100 Maximum missiles
+
+S I 1 L 0 700036 7d 125 Maximum missiles
+
+S I 1 L 0 700036 96 150 Maximum missiles
+
+S I 1 L 0 700036 af 175 Maximum missiles
+
+S I 1 L 0 700036 c8 200 Maximum missiles
+
+S I 1 L 0 70003a 5 5 Maximum super missiles
+
+S I 1 L 0 70003a a 10 Maximum super missiles
+
+S I 1 L 0 70003a 19 25 Maximum super missiles
+
+S I 1 L 0 70003a 32 50 Maximum super missiles
+
+S I 1 L 0 70003e 5 5 Maximum super bombs
+
+S I 1 L 0 70003e a 10 Maximum super bombs
+
+S I 1 L 0 70003e 19 25 Maximum super bombs
+
+S I 1 L 0 70003e 32 50 Maximum super bombs
+
+S I 1 L 0 70004e 0 Set hours played to 0 [for better ending]
+
+S I 1 L 0 700017 10 Add charge beam
+
+S I 1 L 0 700016 1 Get wave beam
+
+S I 1 L 0 700016 3 Get ice and wave beams
+
+S I 1 L 0 700016 7 Get ice, wave, and spazer beam
+
+S I 1 L 0 700016 f Get ice, wave, spazer, and plasma beams
+
+S I 1 L 0 700012 4 Add ball
+
+S I 1 L 0 700012 5 Add ball and varia suit
+
+S I 1 L 0 700012 7 Add ball, varia suit, spring ball
+
+S I 1 L 0 700012 27 Add ball, varia suit, spring ball, gravity suit
+
+S I 1 L 0 700012 2f Add ball, varia suit, spring ball, screw attack, gravity suit
+
+S I 1 L 0 700013 10 Add bomb
+
+S I 1 L 0 700013 80 Add X-ray
+
+S I 1 L 0 700011 80 Add X-ray
+
+S I 1 L 0 700013 c0 Add X-ray and grapple
+
+S I 1 L 0 700011 c0 Add X-ray and grapple
+
+S I 1 L 0 700013 90 Add X-ray and bomb
+
+S I 1 L 0 700011 90 Add X-ray and bomb
+
+S I 1 L 0 700013 d0 Add X-ray, grapple, bomb
+
+S I 1 L 0 700011 d0 Add X-ray, grapple, bomb
+
+S I 1 L 0 700013 11 Add bomb and hi-jump boots
+
+S I 1 L 0 700013 31 Add bomb, hi-jump boots and speed boots
+
+S I 1 L 0 700013 33 Add bomb, all boots
+
+S I 1 L 0 700013 f3 Add all boots, bomb, grapple, X-ray
+
+S I 1 L 0 700011 f3 Add all boots, bomb, grapple, X-ray
+
+S I 1 L 0 700158 ff Crateria is already mapped out
+
+S I 1 L 0 700159 ff Brinstar is already mapped out
+
+S I 1 L 0 70015a ff Norfair is already mapped out
+
+S I 1 L 0 70015b ff Wrecked ship is already mapped out
+
+S I 1 L 0 70015c ff Maridia is already mapped out
+
+S I 1 L 0 70015d ff Tourian is already mapped out
+
+S I 1 L 0 84b518 80 Avoid sinking in Maridia sand
+
+S I 1 L 0 900998 1 Event Modifier
+
+S I 1 L 0 900999 1 Disable SFX
+
+R I 1 L 0 7e0051 0 Brightness Control
+
+S I 1 L 0 90ea86 14 Disable Low Health Alarm
+
+S I 1 L 0 84b518 80 Full movement speed in Maridia sand
+
+S I 1 L 0 90981d 0 Full movement speed in Maridia sand
+
+S I 1 L 0 84df92 24 Get All Items In Current Room
+
+S I 1 L 0 84dff4 24 Get All Items In Current Room
+
+S I 1 L 0 90eee7 a5 Jump In Midair - Button A
+
+S I 1 L 0 90eee8 8e Jump In Midair - Button A
+
+S I 1 L 0 90eee9 a Jump In Midair - Button A
+
+S I 1 L 0 90eeea 90 Jump In Midair - Button A
+
+S I 1 L 0 90eeeb 4 Jump In Midair - Button A
+
+S I 1 L 0 90eeec 22 Jump In Midair - Button A
+
+S I 1 L 0 90eeed bc Jump In Midair - Button A
+
+S I 1 L 0 90eeee 98 Jump In Midair - Button A
+
+S I 1 L 0 90eeef 90 Jump In Midair - Button A
+
+S I 1 L 0 90eee7 a5 Jump In Midair - Button B
+
+S I 1 L 0 90eee8 8f Jump In Midair - Button B
+
+S I 1 L 0 90eee9 a Jump In Midair - Button B
+
+S I 1 L 0 90eeea 90 Jump In Midair - Button B
+
+S I 1 L 0 90eeeb 4 Jump In Midair - Button B
+
+S I 1 L 0 90eeec 22 Jump In Midair - Button B
+
+S I 1 L 0 90eeed bc Jump In Midair - Button B
+
+S I 1 L 0 90eeee 98 Jump In Midair - Button B
+
+S I 1 L 0 90eeef 90 Jump In Midair - Button B
+
+S I 1 L 0 a0a4a4 80 Have Speed Booster Effect
+
+S I 1 L 0 a0a4b8 80 Have Speed Booster Effect
+
+S I 1 L 0 a0a4a4 80 Enemies Die When You Get Close To Them
+
+S I 1 L 0 a0a0e6 80 Enemies Die When You Get Close To Them
+
+S I 1 L 0 a0a0e7 1a Enemies Die When You Get Close To Them
+
+S I 1 L 0 a8a799 6b Enemies Die When You Get Close To Them
+
+S I 1 L 0 a1bb11 6 Enemies Die When You Get Close To Them
+
+S I 1 L 0 a8d174 6b Enemies Die When You Get Close To Them
+
+S I 1 L 0 a0a4a4 80 Enemies Die When You Get Close To Them
+
+S I 1 L 0 a09b17 80 Enemies Die When You Get Close To Them
+
+S I 1 L 0 a09b18 24 Enemies Die When You Get Close To Them
+
+S I 1 L 0 a79490 6b Enemies Die When You Get Close To Them
+
+S I 1 L 0 a1bb11 6 Enemies Die When You Get Close To Them
+
+S I 1 L 0 a8d174 6b Enemies Die When You Get Close To Them
+
+S I 1 L 0 a2d38c 6b Enemies Die When You Get Close To Them
+
+S I 1 L 0 a09923 60 Invincibility Projectiles
+
+S I 1 L 0 949869 80 Invincibility Spikes
+
+S I 1 L 0 948ed2 80 Invincibility Spikes
+
+S I 1 L 0 948e97 80 Invincibility Spikes
+
+S I 1 L 0 a3ef1c 24 Metroids Can Be Killed Without Freezing Them
+
+S I 1 L 0 a3ef27 80 Metroids Can Be Killed Without Freezing Them
+
+S I 1 L 0 949726 80 Walk Through Walls
+
+S I 1 L 0 9497b6 80 Jump In Mid Air
+
+S I 1 L 0 90e60c 80 Jump In Mid Air
+
+S I 1 L 0 949644 0 Jump Through Ceilings
+
+S I 1 L 0 a0976a 80 Hit Anywhere (Projectiles)
+
+S I 1 L 0 a0a1bc 24 Hit Anywhere (Projectiles)
+
+S I 1 L 0 a0a1d4 80 Hit Anywhere (Projectiles)
+
+S I 1 L 0 90ea5d 24 Allow Space Station Inventory Access
+
+S I 1 L 0 90ea78 26 Press Start to Beat the Game
+
+S I 1 L 0 949451 80 All Doors Open
+
+S I 1 L 0 94941b 80 All Doors Open
+
+S I 1 L 0 a6a6ef 80 Ridley Instantly Retreats
+
+S I 1 L 0 a0a669 24 One Hit Kills
+
+S I 1 L 0 a0a86b 24 One Hit Kills
+
+S I 1 L 0 81a81a 0 Select Area When Loading A Game (Press Right On Map Screen To Select)
+
+S I 1 L 0 81a8af 80 Select Area When Loading A Game (Press Right On Map Screen To Select)
+
+S I 1 L 0 8180be 1c Master Code -- Must Be Used With The Rest Of The Codes -- SEE WARNING!
+
+S I 1 L 0 8086cc 0 Master Code -- Must Be Used With The Rest Of The Codes -- SEE WARNING!
+
+S I 1 L 0 700033 f3 Start With About 500 Energy Tanks
+
+S I 1 L 0 700032 1 Start With About 500 Energy Tanks
+
+S I 1 L 0 700033 bb Start With About 700 Energy Tanks
+
+S I 1 L 0 700032 2 Start With About 700 Energy Tanks
+
+S I 1 L 0 700033 e7 Start With About 1000 Energy Tanks
+
+S I 1 L 0 700032 3 Start With About 1000 Energy Tanks
+
+S I 1 L 0 700033 af Start With About 1200 Energy Tanks
+
+S I 1 L 0 700032 4 Start With About 1200 Energy Tanks
+
+S I 1 L 0 700033 db Start With About 1500 Energy Tanks
+
+S I 1 L 0 700032 5 Start With About 1500 Energy Tanks
+
+S I 1 L 0 700013 80 Add X-Ray
+
+S I 1 L 0 700011 80 Add X-Ray
+
+S I 1 L 0 700013 c0 Add X-Ray And Grapple
+
+S I 1 L 0 700011 c0 Add X-Ray And Grapple
+
+S I 1 L 0 700013 90 Add X-Ray And Bomb
+
+S I 1 L 0 700011 90 Add X-Ray And Bomb
+
+S I 1 L 0 700013 d0 Add X-Ray, Grapple, Bomb
+
+S I 1 L 0 700011 d0 Add X-Ray, Grapple, Bomb
+
+S I 1 L 0 700013 f3 Add All Boots, Bomb, Grapple, X-Ray
+
+S I 1 L 0 700011 f3 Add All Boots, Bomb, Grapple, X-Ray
+
+S I 1 L 0 808597 af Switching Areas Fills Map
+
+S I 1 L 0 80859a 3 Switching Areas Fills Map
+
+S I 1 L 0 908630 bf Beta Version Code
+
+S I 1 L 0 808602 ff Beta Version Error Message
+
+S I 1 L 0 8282f8 77 Changes The Font Of The #'s At Top To Beta Version Font And Other Effects
+
+S I 1 L 0 909ea7 3 Gravity Code
+
+S I 1 L 0 909ea0 ff Transport Code?
+
+S I 1 L 0 91d1d9 f6 Warp After Using X-Ray Scope
+
+S I 1 L 0 82eaa6 6d Walk Thru Some Doors And You Might Warp To Another Area
+
+S I 1 L 0 82df2d 46 Alter Areas
+
+S I 1 L 0 80b24d 81 Another Alter Areas Code
+
+S I 1 L 0 80c46f a You May Appear A Small Distance Away From The Save Point When Loading A Saved Game
+
+S I 1 L 0 90ec8b ee Do A Space Jump And When Samus Hits The Ceiling She Will Appear A Small Distance Above The Impact Site
+
+S I 1 L 0 808327 44 Weird Warp Code
+
+S I 1 L 0 80b217 88 Another Alter Areas Code #2
+
+S I 1 L 0 909802 59 Run In Any Direction And Samus Will Warp
+
+S I 1 L 0 82e3ba 83 Go Through A Door And It Will Never End
+
+S I 1 L 0 700037 ff Maximum Missile Number Is Extremely High
+
+S I 1 L 0 70003b ff Maximum Super Missile Number Is Extremely High
+
+S I 1 L 0 70003f ff Maximum Super Bomb Number Is Extremely High
+
+S I 1 L 0 90bebf b0 Shoot Regular Missiles And Your Super Missiles Will Go Down, Shoot With 0 Super Missiles Left And You Will Gain Hundreds Of Super Missiles!
+
+S I 1 L 0 90c02d eb Drop One Power Bomb And You Will Gain Hundreds!
+
+S I 1 L 0 90bebf af Select Missile For Strange Cross Between Missiles, Normal Beam, And The Wavebeam
+
+S I 1 L 0 90bef6 c6 Infinite Missile And Super Missile Code
+
+S I 1 L 0 809cab 6d See Backgrounds With X-Ray Scope
+
+S I 1 L 0 809236 af White X-Ray Beam (See Hidden Paths Easier)
+
+S I 1 L 0 91d1d9 76 Get Hyper Beam After Using X-Ray Scope
+
+S I 1 L 0 91d238 41 X-Ray Beam Lasts Forever When Used, But Samus Can Still Turn Left And Right
+
+S I 1 L 0 91d2c8 5c X-Ray Use Creates A Blue Background
+
+S I 1 L 0 90d129 ad Don't Lose Power From The Horizontal Super Jump
+
+S I 1 L 0 90d0fd ad Don't Lose Power From The Diagonal Super Jump
+
+S I 1 L 0 90d0ef ad Diagonal Super Jump Flies Horizontally
+
+S I 1 L 0 90d0ec ad Diagonal Super Jump Flies Straight Up
+
+S I 1 L 0 9090ba 2e Do A Spinning Jump To The Left Or Right And Samus Will Stay Spinning In The Air
+
+S I 1 L 0 90944d 78 Do A Spinning Jump To The Left Or Right And Samus Will Stay Spinning In The Air (Slightly Different)
+
+S I 1 L 0 909ea2 1 Very Slow Fall While In The Air
+
+S I 1 L 0 909f7e 6c A Spinning Jump To The Left Or Right Is Super Fast
+
+S I 1 L 0 91e931 cd A Spinning Jump Will Cause Samus To Stay Spinning Forever
+
+S I 1 L 0 909ea2 1 Huge Jump Ability
+
+S I 1 L 0 909eae 0 Huge Jump Ability
+
+S I 1 L 0 82ec3a 46 Strange Noise And Blacks Out When Loading A Save Game
+
+S I 1 L 0 808f56 1f No Music, Freezes Game When You Go To A Different Room
+
+S I 1 L 0 8095ce 99 After Nintendo Logo The Game Blacks Out But Plays Music From When You Load A Saved Game
+
+S I 1 L 0 819f0d 44 After The Title Screen The Game Will Black Out And Then Play A Really Weird Sound Over And Over
+
+S I 1 L 0 808fd2 46 Plays The Title Screen Music Over And Over While You Are Playing The Game
+
+S I 1 L 0 82894e c5 After The Title Screen The Game Blacks Out And A Charge Beam Sound Repeats
+
+S I 1 L 0 828a3b 22 Most Sounds Repeat Over And Over, Can't Change Rooms Unless GG Is Off
+
+S I 1 L 0 700168 1 Warp From Crateria To An Area In One Of The Places Below When You Go To Load Saved Game &quot;A&quot;
+
+S I 1 L 0 91df71 b1 Samus Dies In One Hit
+
+S I 1 L 0 94a1c4 ae Shoot Beam To Crumble Invisible Mid-Air Blocks (Strange)
+
+S I 1 L 0 90ae71 c2 Shoot Beam To The Right Near A Wall For A Missile-Type Impact
+
+S I 1 L 0 828acb 12 Weird Effect On The Brightness Of The Screen
+
+S I 1 L 0 909eae 77 See Around The Borders Of The Screen
+
+S I 1 L 0 80859a ee Reveals The Entire Map In All Areas And Makes It Pink
+
+S I 1 L 0 90936e f Run To The Left And You Can Charge Up The Space Jump Without Actually Going Anywhere (Run In Place)
+
+S I 1 L 0 9097ad 45 Run Much Faster
+
+S I 1 L 0 808004 f Select Any Area When Loading A Saved Game (Alternate Version)
+
+S I 1 L 0 809287 81 Red Superbomb Explosion
+
+S I 1 L 0 82daec 56 Pixelizes Screen When Going Into Different Rooms
+
+S I 1 L 0 90b010 64 Shoot A Super Missile And The Menu Bar At The Top Of The Screen Will Vanish
+
+S I 1 L 0 80a906 d9 When You Land From A Jump Or Walk Along Uneven Terrain The Screen Will Scroll Downwards
+
+S I 1 L 0 80a6bf c5 Screen Scrolls Left
+
+S I 1 L 0 8086c8 43 WARNING! -- Displays The &quot;Don't Copy Video Games&quot; Message After The Title Screen And Erases The Saved Games
+
+S I 1 L 0 808344 27 Game Runs MUCH Faster, But May Often Glitch Or Freeze
+
+S I 1 L 0 809881 f Screen Flickers A Lot And Does Other Weird Things
+
+S I 1 L 0 908082 5b Samus Has Underwater Animations (Bubbles) In Areas Without Water
+
+S I 1 L 0 6f0bc 19 Small Energy Pick-Ups Will Restore 25 Energy Points (Instead of 5)
+
+S I 1 L 0 6f0bc 63 Small Energy Pick-Ups Will Restore 99 Energy Points (Instead of 5)
+
+S I 1 L 0 6f0cb 32 Large Energy Pick-Ups Will Restore 50 Energy Points (Instead of 20)
+
+S I 1 L 0 6f0cb 63 Large Energy Pick-Ups Will Restore 99 Energy Points (Instead of 20)
+
+S I 1 L 0 6f0e9 a Missile Pick-Ups Are Worth 10 Missiles (Instead of 2)
+
+S I 1 L 0 6f0e9 32 Missile Pick-Ups Are Worth 50 Missiles (Instead of 2)
+
+S I 1 L 0 6f0f8 5 Super Missile Pick-Ups Are Worth 5 Super Missiles (Instead of Only 1)
+
+S I 1 L 0 6f0f8 19 Super Missile Pick-Ups Are Worth 25 Super Missiles (Instead of Only 1)
+
+S I 1 L 0 6f0da 5 Power Bomb Pick-Ups Are Worth 5 Power Bombs (Instead of Only 1)
+
+S I 1 L 0 6f0da 19 Power Bomb Pick-Ups Are Worth 25 Power Bombs (Instead of Only 1)
+
+S I 1 L 0 1b2cf 1 Start A New Game With About 3 Energy Tanks
+
+S I 1 L 0 1b2cf 5 Start A New Game With About 13 Energy Tanks
+
+S I 1 L 0 1b2e0 19 Start A New Game With 25 Super Missiles
+
+S I 1 L 0 1b2e0 32 Start A New Game With 50 Super Missiles
+
+S I 1 L 0 1b2e0 63 Start A New Game With 99 Super Missiles
+
+S I 1 L 0 1b2e9 19 Start A New Game With 25 Power Bombs
+
+S I 1 L 0 1b2e9 32 Start A New Game With 50 Power Bombs
+
+S I 1 L 0 1b2e9 63 Start A New Game With 99 Power Bombs
+
+R I 1 L 0 7e09c2 63 Infinite Energy
+
+R I 1 L 0 7e05b6 ff Invincible
+
+R I 1 L 0 7e18a8 ff Invincible
+
+R I 1 L 0 7e0945 0 Infinite Time To Escape Ship
+
+R I 1 L 0 7e0946 0 Infinite Time To Escape Ship
+
+R I 1 L 0 7e0947 1 Infinite Time To Escape Ship
+
+R I 1 L 0 7e0b2d 44 Moon Jump
+
+R I 1 L 0 7e0b2e 1 Moon Jump
+
+R I 1 L 0 7e18a8 4c Untouchable (Except For Acid And When Bosses Grab You)
+
+R I 1 L 0 7e100d 0 Metroid's Health
+
+R I 1 L 0 7e09d6 90 Reserve Energy
+
+R I 1 L 0 7e09d7 1 Reserve Energy
+
+R I 1 L 0 7e09c4 78 Tanks
+
+R I 1 L 0 7e09c5 5 Tanks
+
+R I 1 L 0 7e0b3f 4 Always Hyper Run
+
+R I 1 L 0 7e0a6e 2 Always Hyper Run
+
+S I 1 L 0 81a81a 0 Select Start Point When Loading A Game (Press Right On Map Screen To Select)
+
+S I 1 L 0 81a8af 80 Select Start Point When Loading A Game (Press Right On Map Screen To Select)
+
+R I 1 L 0 7e0a6e f Kill Most Enemies On Contact
+
+R I 1 L 0 7e09a2 4 Have Morphing Ball
+
+R I 1 L 0 7e09a4 4 Have Morphing Ball
+
+R I 1 L 0 7e09a3 10 Have Bomb
+
+R I 1 L 0 7e09a5 10 Have Bomb
+
+R I 1 L 0 7e09a7 10 Have Charge Beam
+
+R I 1 L 0 7e09a9 10 Have Charge Beam
+
+R I 1 L 0 7e09a6 4 Have Spazer
+
+R I 1 L 0 7e09a8 4 Have Spazer
+
+R I 1 L 0 7e09a6 16 Have Spazer and Ice
+
+R I 1 L 0 7e09a8 16 Have Spazer and Ice
+
+R I 1 L 0 7e09a2 16 Have Morph Ball, Bomb, and Spring
+
+R I 1 L 0 7e09a4 16 Have Morph Ball, Bomb, and Spring
+
+R I 1 L 0 7e09c6 e7 Infinite Missiles
+
+R I 1 L 0 7e09c7 3 Infinite Missiles
+
+R I 1 L 0 7e09c8 1 Have Missiles
+
+R I 1 L 0 7e09ca 50 Infinite Super Missiles
+
+R I 1 L 0 7e09cc 1 Have Super Missiles
+
+R I 1 L 0 7e09ce 50 Infinite Power Bomb
+
+R I 1 L 0 7e09d0 1 Have Power Bomb
+
+R I 1 L 0 7e0b46 0 Run Speed Modifier
+
+R I 1 L 0 7e0cd2 0 Lay Bombs Faster (Normal Bombs Only)
+
+R I 1 L 0 7e0acc 1 Have Super Charge At All Times
+
+R I 1 L 0 7e09d2 0 Gun Modifier
+
+R I 1 L 0 7e09d1 64 Get Super Bombs At The Same You Get Normal Bombs At Start Of Game
+
+S I 1 L 0 90bebf a7 Infinite Missle And Super Missle Code, Shoot Missles And You're Super Missles Go Down, Shoot Without Any Super Missles And It Will Glitch, Now You've Got Infinite
+
+S I 1 L 0 909ea2 12 Samus Has A Higher Jump, But It's Difficult To Do The Space Jump With It On
+
+S I 1 L 0 908082 9f Your Legs Move Very Fast And When You Do A Spinning Jump You Spin Fast Too, But Don't Use Bombs Or It'll Lock Up
+
+S I 1 L 0 90be6f ad Missles Shoot Very Fast
+
+S I 1 L 0 90bec4 ad Super Missles Shoot Very Fast, Use This Code With Infinite Super Missles
+
+S I 1 L 0 90c02d ea Infinite Super Bombs
+
+S I 1 L 0 90936e f Run In Place To The Left
+
+S I 1 L 0 909ea2 1 Very Slow Fall
+
+S I 1 L 0 82a1fb 8d Alter Areas (By Me)
+
+S I 1 L 0 909360 0 Walk Through Walls
+
+S I 1 L 0 8093a4 45 Only Shows Samus' Legs
+
+S I 1 L 0 80a384 d Side Door Glitch
+
+S I 1 L 0 80a3f4 d Room Repeats Itself To The Right
+
+S I 1 L 0 80a3e4 e Go Left To See Weird Glitches
+
+S I 1 L 0 80a3d4 d Weird Backgrounds
+
+S I 1 L 0 808364 27 No Rain When You First Start On Planet Zebes, But It Freezes.
+
+S I 1 L 0 80924d 90 Weird Glithces, No Metroid At Start, Do Not Hack On This Code Uless You're Willing To Lose Any Or All Of Your Saves.
+
+S I 1 L 0 8092ad 90 Weird Background, Same Applies As Above, Don't Try Hacking..
+
+S I 1 L 0 80a57a 8d Screen Scrolls Right, Just Kinda' Cool.
+
+S I 1 L 0 80920d 90 Weird Glitches, Don't Hack This One Either...
+
+S I 1 L 0 80b3bd 4a Weird Door Glitch.
+
+S I 1 L 0 80b33d 4a Weirder(Pardon The Grammar) Door Glitch.
+
+S I 1 L 0 80a38d d Different Backgrounds In Some Areas, Try This One After You Come Out Of The Save Right Before Kraid.
+
+S I 1 L 0 91d1d9 f6 Warp After Using X-Ray Scope.
+
+S I 1 L 0 82eaa6 6d Some Doors Warp You
+
+S I 1 L 0 82df2d 46 Alter Areas, Load A Save And Stuff Will Be Different.
+
+S I 1 L 0 828a3b 22 Most Sounds Repeat Over And Over, Can't Change Rooms Unless Gg Is Off.
+
+S I 1 L 0 828acb 12 Weird Effect On The Brightness Of The Screen.
+
+S I 1 L 0 909eae 77 See Around The Borders Of The Screen Code
+
+S I 1 L 0 80a6bf c5 Screen Scrolls Left, Might Cause Warp.
+
+S I 1 L 0 809236 af White X-ray Beam.
+
+S I 1 L 0 91d1d9 76 Get Hyper Beam After Using X-ray.
+
+S I 1 L 0 808fd2 46 Plays Title Music Over And Over While Playing The Game.
+
+S I 1 L 0 82daec 56 Pixelizes Screen When Going Into Different Rooms.
+
+S I 1 L 0 90b010 64 Shoot A Super Missle And The Menu Bar At The Top Of The Screen Will Vanish, Now You Have More Veiwing Space While In That Room.
+
+S I 1 L 0 91df71 b1 Samus Dies In One Hit.
+
+S I 1 L 0 809881 f Screen Flickers Alot And Does Other Weird Things.
+
+S I 1 L 0 90bedf e7 Select Missles And Any One Beam To Get A Cross Between Them.
+
+S I 1 L 0 908052 5b One Legged Jump, Samus Jumps On One Leg
+
+S I 1 L 0 908082 6b Better Underwater Sounding Effects Even In Places That Don't Have Water(Bubbles)
+
+S I 1 L 0 808ff2 46 No Music.
+
+S I 1 L 0 82da0c 56 Enemies Look Weird Or Are Black, Weird Backgrounds Too.
+
+S I 1 L 0 80a6bf de I Don't Know Why I'm Putting This Code Here, But It Erases Save Game A And B.
+
+S I 1 L 0 908300 27 Weird Glitches With The Spinning Jump.
+
+S I 1 L 0 9090de 10 Glitch And Bomb Float. Let Me Just Explain. Get In A Ball And Bomb, And As Soon As You're At The Peak Of The "jump" Press Up. Now You're Floating!this Code Also Produces Glitches.
+
+R I 1 L 0 7e1914 f Backgrounds Move Faster(The Ones That Already Move, That Is.)
+
+R I 1 L 0 7e0385 f Only One Samus Follows When Speed Boosting.
+
+R I 1 L 0 7e0abc f Never Ending Superjump(Do A Super Jump And You'll Stay There 'til You Deactivate The Code.)
+
+R I 1 L 0 7e0ace f Shadow Samus When Speed Boosting.
+
+R I 1 L 0 7e0ace 2d Invisable(Well, Almost!) When Speed Boosting/super Jumping.
+
+R I 1 L 0 7e064e 1 Makes The 
+
+S I 1 L 0 828aee 52 Skip Intro Screens
+
+S I 1 L 0 828aef 9f Skip Intro Screens
+
+S I 1 L 0 8b92f8 80 Skip Intro Screens
+
+S I 1 L 0 8b931f 80 Skip Intro Screens
+
+S I 1 L 0 82947f 80 Display Entire Map
+
+S I 1 L 0 8294ef 80 Display Entire Map
+
+S I 1 L 0 8085ae a9 Display Entire Map
+
+R I 1 L 0 7e0a23 0 Infinite Mid-Air Spin Jumping
+
+S I 1 L 0 88817c f View All Hidden Blocks With X-ray Scope
+
+S I 1 L 0 90adfc 9c Easier Bomb Jumping
+
+S I 1 L 0 a09833 0 Easier Bomb Jumping
+
+S I 1 L 0 88c4b8 a9 Disable Water
+
+S I 1 L 0 88c4b9 ff Disable Water
+
+S I 1 L 0 88c4ba ff Disable Water
+
+S I 1 L 0 909e3c 8b Easier Wall Jump
+
+S I 1 L 0 909e06 8b Easier Wall Jump
+
+S I 1 L 0 909d5c 0 Easier Wall Jump
+
+S I 1 L 0 89abc3 3 Remove Hazards And Water
+
+S I 1 L 0 89abf5 9d Remove Hazards And Water
+
+S I 1 L 0 90ea2c a All Hazards Are Harmless
+
+S I 1 L 0 9080f8 ad Disable Water Physics
+
+S I 1 L 0 90ec51 6c Disable Water Physics
+
+S I 1 L 0 909c67 8d Disable Water Physics
+
+S I 1 L 0 86eeb9 a9 Always Drop Item Modifier
+
+S I 1 L 0 86eeba 2 Always Drop Item Modifier
+
+S I 1 L 0 86eebb 0 Always Drop Item Modifier

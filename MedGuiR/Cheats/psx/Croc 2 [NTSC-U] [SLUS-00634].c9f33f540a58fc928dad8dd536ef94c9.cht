@@ -1,0 +1,50 @@
+[] Croc 2 (NTSC-U)
+R I 2 L 0 80076ac0 9 Infinite Lives
+
+R I 2 L 0 80076abc 9 Max Lives
+
+R I 2 L 0 80076b4c 63 Max Crystals
+
+R I 2 L 0 80076ac4 270f Max Swap Meet Pete Card
+
+R I 2 L 0 80076b78 2 Always Have Magic Eye Zoomers
+
+R I 2 L 0 80076b54 1 Always Have Key
+
+R I 2 L 0 80037f4c be Gain A Crystal Modifier
+
+R I 2 L 0 8006ff88 1 Enable Cheat Menu (Press L2 + R2)
+
+R I 2 L 0 80076b5c 2 Infinite Crystal Craze Gummi Saver
+
+R I 2 L 0 80076b60 2 Infinite Five Flavors Gummi Saver
+
+R I 2 L 0 80076b58 2 Infinite Wild Berries Gummi Saver
+
+R I 2 L 0 80076b68 2 Infinite Clockwork Gobbos
+
+R I 2 L 0 80100086 2400 Skip Fox Movie
+
+R I 2 L 0 801000aa 2400 Skip Argonaut Movie
+
+R I 2 L 0 801000de 2400 Skip Legal Screen
+
+R I 1 L 0 800710fc 1 Display Position Bar
+
+R I 2 L 0 8003600e 2400 Moon Jump (ASM) "Hold X To Go Higher"
+
+R I 2 L 0 80036008 0 Adjust Jump Height (ASM)
+
+R I 2 L 0 8003600a 2463 Adjust Jump Height (ASM)
+
+R I 2 L 0 80035fda 2400 Moon Jump Slow Version (ASM)
+
+R I 2 L 0 80035fda 2442 Moon Jump Slow Version (ASM)
+
+R I 2 L 0 80032862 2400 Walk Through Walls Beta "Hold L2+R2" (ASM)
+
+R I 2 L 0 80032862 c01 Walk Through Walls Beta "Hold L2+R2" (ASM)
+
+R I 2 L 0 80041b5e 1000 Invincibility Against Enemies "Hold L2+R2, let go to be able pick up" (ASM) gems)
+
+R I 2 L 0 80041b5e 1040 Invincibility Against Enemies "Hold L2+R2, let go to be able pick up" (ASM) gems)

@@ -1,0 +1,20 @@
+[401a31b3db4f14820e639c7a3efbb3e6] Aero Blasters (Japan)
+R I 2 L 0 ffc016 a Infinite Lives P1
+
+R I 2 L 0 ffc216 a Infinite Lives P2
+
+R I 2 L 0 ffc010 1 Shooting Helper Powerup Modifier
+
+R I 2 L 0 ffc004 2 Gun Powerup Modifier
+
+R I 2 L 0 ffc018 0 Can Charge Up Longer P1
+
+R I 2 L 0 ffc016 0 Less SFX
+
+S I 2 L 0 9388 6002 Keep Special Helpers Shots And Power of Weapons After The Death
+
+S I 2 L 0 9e88 6002 Keep Special Helpers Shots And Power of Weapons After The Death
+
+R I 2 L 0 ffe067 3 Infinite Credit
+
+S I 2 L 0 a02a 6004 Infinite Credit

@@ -1,0 +1,238 @@
+[8d73db292f0f4c838e72086fb3d5896b] Mega Turrican (USA)
+S I 2 L 0 37a 6002 Regional lockout bypass code. It doesn&#039;t require a master code
+
+R I 2 L 0 ffbc6c 0 Disable Reverse Mode
+
+R I 2 L 0 ffbf20 40 Infinite Health
+
+R I 2 L 0 ffbf26 3 Infinite Lives
+
+R I 2 L 0 ffbf28 72 Infinite Time
+
+R I 2 L 0 ffbd0c 3 Infinite Special Attacks
+
+R I 2 L 0 ffbd26 1 Enable Stage Skip
+
+R I 2 L 0 ffbf1e 0 Stage Modifier
+
+R I 2 L 0 ffbcf2 1d Phase Mode
+
+R I 2 L 0 ffbd12 1 Have Missile Weapon
+
+R I 2 L 0 ffbd10 0 Firing Rate Modifier
+
+S I 2 L 0 196a 1 Start with 2 lives
+
+S I 2 L 0 196a 2 Start with 3 lives
+
+S I 2 L 0 196a 5 Start with 6 lives
+
+S I 2 L 0 196a 7 Start with 8 lives
+
+S I 2 L 0 196a a Start with 11 lives
+
+S I 2 L 0 196a 19 Start with 20 lives
+
+S I 2 L 0 196a 32 Start with 33 lives
+
+S I 2 L 0 196a 63 Start with 64 lives
+
+S I 2 L 0 157e 0 Start with no continues
+
+S I 2 L 0 157e 1 Start with 1 continue
+
+S I 2 L 0 157e 2 Start with 2 continues
+
+S I 2 L 0 157e 4 Start with 4 continues
+
+S I 2 L 0 157e 5 Start with 5 continues
+
+S I 2 L 0 157e 7 Start with 7 continues
+
+S I 2 L 0 157e 9 Start with 9 continues
+
+S I 2 L 0 178c 0 Start each life with no smart bombs (Except 1st life)
+
+S I 2 L 0 178c 1 Start each life with 1 smart bomb (Except 1st life)
+
+S I 2 L 0 178c 2 Start each life with 2 smart bombs (Except 1st life)
+
+S I 2 L 0 178c 4 Start each life with 4 smart bombs (Except 1st life)
+
+S I 2 L 0 17b2 50f8 Start each life with homing missile (Except 1st life)
+
+S I 2 L 0 6524 11bc Weapon power-ups always max out weapon level
+
+S I 2 L 0 1796 6008 Weapon levels don&#039;t decrease after dying
+
+S I 2 L 0 17b2 6002 Homing missile isn&#039;t lost after dying
+
+S I 2 L 0 1f08 7400 Infinite time
+
+S I 2 L 0 175a 7000 Infinite lives
+
+S I 2 L 0 192c 7200 Infinite continues
+
+S I 2 L 0 1f80 6002 Infinite wheel time
+
+S I 2 L 0 49a8 6002 Infinite smart bombs
+
+S I 2 L 0 20fa 6002 No energy loss [invulnerability]
+
+S I 2 L 0 1586 6004 Always continue on last level played
+
+S I 2 L 0 1588 1 Start on level 2
+
+S I 2 L 0 1586 31fc Start on level 2
+
+S I 2 L 0 1588 2 Start on level 3
+
+S I 2 L 0 1586 31fc Start on level 3
+
+S I 2 L 0 1588 3 Start on level 4
+
+S I 2 L 0 1586 31fc Start on level 4
+
+S I 2 L 0 1588 4 Start on level 5
+
+S I 2 L 0 1586 31fc Start on level 5
+
+S I 2 L 0 1588 5 Start on level 6
+
+S I 2 L 0 1586 31fc Start on level 6
+
+S I 2 L 0 1588 6 Start on level 7
+
+S I 2 L 0 1586 31fc Start on level 7
+
+R I 2 L 0 ffbc6c 4 Enable Reverse Mode
+
+S I 2 L 0 1f1a 40 Infinite Health
+
+S I 2 L 0 1766 11 Infinite Lives
+
+S I 2 L 0 49a8 0 Infinite Bombs
+
+S I 2 L 0 1f00 0 Infinite Time/Stop Time from ticking
+
+S I 2 L 0 253c 0 Semi Phase Mode
+
+S I 2 L 0 3c08 1 Have Missile Sub Weapon
+
+S I 2 L 0 1670 1 Enable Stage Skip
+
+S I 2 L 0 3c04 0 Auto Fire
+
+S I 2 L 0 250c 6000 Invincible against enemies
+
+S I 2 L 0 2664 602a Invincible against most shots
+
+S I 2 L 0 1929e 6024 Invincible against last level compactors
+
+S I 2 L 0 7122 4e75 Regional Lockout Bypass
+
+S I 2 L 0 24cc 660c Invincibility
+
+S I 2 L 0 2a5e 4e71 Multi Jumping
+
+S I 2 L 0 9e3a 4e71 Allways Play Secret Level
+
+S I 2 L 0 9e40 6000 Allways Play Secret Level
+
+S I 2 L 0 1588 1 Start On Level 2
+
+S I 2 L 0 1586 31fc Start On Level 2
+
+S I 2 L 0 1588 2 Start On Level 3
+
+S I 2 L 0 1586 31fc Start On Level 3
+
+S I 2 L 0 1588 3 Start On Level 4
+
+S I 2 L 0 1586 31fc Start On Level 4
+
+S I 2 L 0 1588 4 Start On Level 5
+
+S I 2 L 0 1586 31fc Start On Level 5
+
+S I 2 L 0 1588 5 Start On Level 6
+
+S I 2 L 0 1586 31fc Start On Level 6
+
+S I 2 L 0 1588 6 Start On Level 7
+
+S I 2 L 0 1586 31fc Start On Level 7
+
+R I 2 L 0 ffbf20 40 Infinite Energy
+
+R I 2 L 0 ffbf90 99 Infinite Time
+
+R I 2 L 0 ffbd0f 2 Most Powerful Weapon
+
+R I 2 L 0 ffbd0b 3 Infinite Bombs
+
+R I 2 L 0 ffbf26 5 Infinite Lives
+
+R I 2 L 0 ffbcf2 10 Invincibility
+
+S I 2 L 0 32ca 4e71 Walk thru walls (interactive version).  See notes.
+
+S I 2 L 0 32e8 4e71 Walk thru walls (interactive version).  See notes.
+
+S I 2 L 0 3326 4e75 Anytime you walk into a wall or obstacle, you're teleported to a different location on the screen. 
+
+S I 2 L 0 2952 8 Jump higher (fast jump)
+
+S I 2 L 0 2952 c Jump much higher (fast jump)
+
+S I 2 L 0 29e0 2000 Jump higher (slow jump)
+
+S I 2 L 0 29e0 1400 Jump much higher (slow jump)
+
+S I 2 L 0 2a9c 200 Slow moon descent when jumping or falling. See notes.
+
+S I 2 L 0 408a 7010 Makes the starting/default weapon (and the multi-shot versions of it) stronger
+
+S I 2 L 0 408c 4e71 Makes the starting/default weapon (and the multi-shot versions of it) stronger
+
+S I 2 L 0 408a 7030 Makes the starting/default weapon (and the multi-shot versions of it) much stronger
+
+S I 2 L 0 408c 4e71 Makes the starting/default weapon (and the multi-shot versions of it) much stronger
+
+S I 2 L 0 7a5c 7a72 To Skip To The Next Level, Pause The Game, Press B, Then Unpause
+
+S I 2 L 0 7a72 1ef To Skip To The Next Level, Pause The Game, Press B, Then Unpause
+
+S I 2 L 0 7a64 7a84 For infinite energy, pause the game, press A, then unpause
+
+S I 2 L 0 7a84 1bf For infinite energy, pause the game, press A, then unpause
+
+S I 2 L 0 7a74 101 To Restart At The Beginning of The Level, Pause The Game, Press Right, Then Unpause
+
+S I 2 L 0 2a9c 200 Super slow moon descent when jumping or falling.  See notes.
+
+S I 2 L 0 2a24 1 Super slow moon descent when jumping or falling.  See notes.
+
+S I 2 L 0 2a9c 600 Moon Jump With Short Float Ability. See notes.
+
+S I 2 L 0 2a24 0 Moon Jump With Short Float Ability. See notes.
+
+S I 2 L 0 2a9c 200 Moon Jump With Long Float Ability. See notes.
+
+S I 2 L 0 2a24 0 Moon Jump With Long Float Ability. See notes.
+
+S I 2 L 0 2532 4e75 Invincibility
+
+S I 2 L 0 5db4 4e75 Invincibility
+
+S I 2 L 0 b1c8 4e75 Invincibility
+
+S I 2 L 0 cd5e 4e75 Invincibility
+
+S I 2 L 0 25b8 4e75 Invincibility
+
+S I 2 L 0 181ac 4e75 Invincibility
+
+S I 2 L 0 192a0 4e75 Invincibility
+
+S I 2 L 0 2666 4e75 Invincibility

@@ -1,0 +1,55 @@
+[982ed5d2b12a0377eb14bcdc4123744e] Tetris (World) (Rev 1)
+C I 1 L 0 1c30 ce cb Keep stack displayed while paused
+C I 1 L 0 1c53 d9 cd Keep current and next pieces displayed while paused
+C I 1 L 0 2063 0 e0 Only piece 1 will appear
+C I 1 L 0 2064 3e ae Only piece 1 will appear
+C I 1 L 0 2065 0 7b Only piece 1 will appear
+C I 1 L 0 2063 0 e0 Only piece 2 will appear
+C I 1 L 0 2064 3e ae Only piece 2 will appear
+C I 1 L 0 2065 4 7b Only piece 2 will appear
+C I 1 L 0 2063 0 e0 Only piece 3 will appear
+C I 1 L 0 2064 3e ae Only piece 3 will appear
+C I 1 L 0 2065 8 7b Only piece 3 will appear
+C I 1 L 0 2063 0 e0 Only piece 4 will appear
+C I 1 L 0 2064 3e ae Only piece 4 will appear
+C I 1 L 0 2065 c 7b Only piece 4 will appear
+C I 1 L 0 2063 0 e0 Only piece 5 will appear
+C I 1 L 0 2064 3e ae Only piece 5 will appear
+C I 1 L 0 2065 10 7b Only piece 5 will appear
+C I 1 L 0 2063 0 e0 Only piece 6 will appear
+C I 1 L 0 2064 3e ae Only piece 6 will appear
+C I 1 L 0 2065 14 7b Only piece 6 will appear
+C I 1 L 0 2063 0 e0 Only piece 7 will appear
+C I 1 L 0 2064 3e ae Only piece 7 will appear
+C I 1 L 0 2065 18 7b Only piece 7 will appear
+C I 1 L 0 1a8b 1 25 Need 1 line to finish game B
+C I 1 L 0 1a8b 10 25 Need 10 lines to finish game B
+C I 1 L 0 c83 0 7f Immunity from other player's Tetrises (2 Player)
+C I 1 L 0 c86 3e 30 When the other player gets a double or better, player with Game Genie gets 4 lines added to his screen (makes game more difficult for that player)  (2 Player)
+C I 1 L 0 c87 4 a6 When the other player gets a double or better, player with Game Genie gets 4 lines added to his screen (makes game more difficult for that player)  (2 Player)
+R I 1 L 0 c203 1 Piece Modifier
+R I 1 L 0 ff80 0 Pieces Rotate Very Fast
+S I 1 L 0 6bed 30 Music B sounds different
+S I 1 L 0 2541 a4 Place blocks off the screen
+R I 1 L 0 c203 9 Always Get Straight Pieces
+R I 1 L 0 c203 c Always Get Square Pieces
+R I 1 L 0 c0a1 ff Get 10 000 Extra Points Each Time You Get Any Points
+R I 1 L 0 c211 ff No Piece Display Box Forever
+R I 1 L 0 c201 12 Infinite Time Choosing Placements
+R I 1 L 0 dfa3 ff Altered Music
+R I 1 L 0 dfb3 ff Altered Music
+C I 1 L 0 215e 0 f7 Drop Pieces To Clear Line
+C I 1 L 0 396 0 c0 Skip Intro Screen
+C I 1 L 0 398 1 fa Skip Intro Screen
+C I 1 L 0 372 fa cd Skip Intro Screen
+C I 1 L 0 6c19 3 0 Game Over Music is crazy after the normal song ends
+C I 1 L 0 38f 6 25 Skip Copyright Screen
+C I 1 L 0 38f 16 25 Start at VS Game Select
+C I 1 L 0 38f 26 25 Start at Rocket Shootoff Cutscene
+C I 1 L 0 6b0f 22 1c Almost Any Value Messes Up The Music
+C I 1 L 0 40b 4 7 Glitched Graphics
+C I 1 L 0 20ae 0 3d Press down To descend Tetriminos
+C I 1 L 0 2066 fa ea Always Get The Same Piece
+C I 1 L 0 1c2e 18 28 Keep current and next pieces and stack displayed while paused
+C I 1 L 0 6a23 0 df Music Modifier
+C I 1 L 0 151a 1b 17 Replaces A-TYPE with High Score Theme, B-TYPE with Game B Clear, C-TYPE with Title Music, and OFF with Game Over Music

@@ -1,0 +1,78 @@
+[] Anna Kournikova's Smash Court Tennis (PAL-E)
+R I 2 L 0 80039948 0 PAL2NTSC
+
+R I 2 L 0 8003994a 2402 PAL2NTSC
+
+R I 2 L 0 8003b204 0 Y-Fix
+
+R I 2 L 0 8015e448 270f 9999 points in tournament mode
+
+R I 1 L 0 8007a658 3 Have 40 gamepoints
+(Press L1 &amp; L2)
+
+R I 1 L 0 8007a658 0 Never scores
+
+R I 2 L 0 8015c380 5 Set 1 won
+(Press Select &amp; L1 &amp; L2)
+
+R I 2 L 0 8015c384 5 Set 2
+
+R I 2 L 0 8015c388 5 Set 3
+
+R I 2 L 0 8015c38c 5 Set 4
+
+R I 2 L 0 8015c390 5 Set 5
+
+R I 2 L 0 8015c384 0 Set 2
+
+R I 2 L 0 8015c388 0 Set 3
+
+R I 2 L 0 8015c38c 0 Set 4
+
+R I 2 L 0 8015c390 0 Set 5
+
+R I 1 L 0 8007a65c 3 Have 40 gamepoints
+(Press L1 &amp; L2)
+
+R I 1 L 0 8007a65c 0 Never scores
+
+R I 1 L 0 8015c394 5 Set 1 won
+(Press Select &amp; L1 &amp; L2)
+
+R I 1 L 0 8015c398 5 Set 2
+
+R I 1 L 0 8015c39c 5 Set 3
+
+R I 1 L 0 8015c3a0 5 Set 4
+
+R I 1 L 0 8015c3a4 5 Set 5
+
+R I 1 L 0 8015c398 0 Set 2
+
+R I 1 L 0 8015c39c 0 Set 3
+
+R I 1 L 0 8015c3a0 0 Set 4
+
+R I 1 L 0 8015c3a4 0 Set 5
+
+R I 2 L 0 8019ee68 4 Make 1 point to win game
+
+R I 2 L 0 8019ee6a 2403 Make 1 point to win game
+
+R I 2 L 0 8019eec4 6 Win 1 game to set
+
+R I 2 L 0 8019eec6 2403 Win 1 game to set
+
+R I 2 L 0 80011522 2404 Modify speed of game
+
+R I 2 L 0 80011520 1 Modify speed of game
+
+R I 2 L 0 80011520 2 Modify speed of game
+
+R I 2 L 0 80011520 0 Modify speed of game
+
+R I 2 L 0 80011520 0 Modify speed of game
+
+R I 2 L 0 8003b204 0 (M) PAL to NTSC (+centering)
+
+R I 2 L 0 80062214 0 (M) PAL to NTSC (+centering)

@@ -1,0 +1,336 @@
+[] Mortal Kombat 4 (NTSC-U)
+R I 2 L 0 800aabb0 0 Wins Mod
+
+R I 2 L 0 800ad418 0 Player one Stance mod
+
+R I 2 L 0 800aaec0 ffff Infinite Health P1
+
+R I 2 L 0 800aaec4 ffff Infinite Health P2
+
+R I 2 L 0 800aacb8 64 Infinite Battle Time
+
+R I 2 L 0 800aaed2 1 Infinite Run P1
+
+R I 2 L 0 800aaed6 1 Infinite Run P2
+
+R I 2 L 0 800aaf54 1 Play as Meat P1
+
+R I 2 L 0 800aaf58 1 Play as Meat P2
+
+R I 2 L 0 800bfd84 13 Infinite Character Select Time
+
+R I 2 L 0 800bfdb0 d3 Infinite Fatality Time
+
+R I 2 L 0 800aae8c 0 Kombat Codes Modifier
+
+R I 2 L 0 800aaedc 0 Background Modifier
+
+R I 2 L 0 800aaf30 0 P1 Character Modifier
+
+R I 2 L 0 800aaf3c 0 P2 Character Modifier
+
+R I 2 L 0 8006219c 4 All Attacks Hurt P1
+
+R I 2 L 0 8006219e 3c02 All Attacks Hurt P1
+
+R I 2 L 0 8006217c 4 All Attacks Hurt P1 (alternative)
+
+R I 2 L 0 8006217e 3c02 All Attacks Hurt P1 (alternative)
+
+R I 2 L 0 8006219c 0 All Attacks Hurt P2
+
+R I 2 L 0 8006219e 3c02 All Attacks Hurt P2
+
+R I 2 L 0 800d8b94 2 Enable restart Match Option in 1-Player Arcade Mode
+
+R I 2 L 0 800aaf94 5b03 P1 can only do Special Moves
+
+R I 2 L 0 800aaf94 3f29 P1 Attacks fast and can do moves in mid air
+
+R I 2 L 0 800aaf98 5b03 P2 can only do Special Moves
+
+R I 2 L 0 800aaf98 3f29 P2 Attacks fast and can do moves in air
+
+R I 2 L 0 800aaf2c 0 P1 Control Modifier
+
+R I 2 L 0 800aaf38 0 P2 Control Modifier
+
+R I 2 L 0 800aaee4 0 Endless rounds
+
+R I 2 L 0 800aae76 101 Fight thru walls
+
+R I 2 L 0 800aae74 101 Fight thru walls
+
+R I 2 L 0 800d8bbc 1 1 round to win
+
+R I 2 L 0 800d8bc0 0 Blood Modifier
+
+R I 2 L 0 800aaef0 ffff Camera View stays in place
+
+R I 2 L 0 800aaef8 ffff Camera View stays in place
+
+R I 2 L 0 800aad24 b9e3 Invisible Mode
+
+R I 2 L 0 8006200a 3c00 Hit Anywhere
+
+R I 2 L 0 800aaec8 0 P1 Win Modifier
+
+R I 2 L 0 800bff9c 0 P1 Move Modifier
+
+R I 2 L 0 800aaf44 1 P1 Invisible 1st round
+
+R I 2 L 0 800aacac a P1 Infinite time to continue
+
+R I 2 L 0 800aacac 0 P1 No time to continue
+
+R I 2 L 0 800aaf94 0 P1 Hard to do moves
+
+R I 2 L 0 800aaecc 0 P2 Win Modifier
+
+R I 2 L 0 800ad800 0 P2 Super Jump!
+
+R I 1 L 0 800d9b7c 1 Kai
+
+R I 1 L 0 800d9b7d 1 Raiden
+
+R I 1 L 0 800d9b7e 1 Shinnok
+
+R I 1 L 0 800d9b7f 1 Liu Kang
+
+R I 1 L 0 800d9b80 1 Reptile
+
+R I 1 L 0 800d9b81 1 Scorpion
+
+R I 1 L 0 800d9b82 1 Jax
+
+R I 1 L 0 800d9b83 1 Reiko
+
+R I 1 L 0 800d9b84 1 Johnny Cage
+
+R I 1 L 0 800d9b85 1 Jarek
+
+R I 1 L 0 800d9b86 1 Tanya
+
+R I 1 L 0 800d9b87 1 Fujin
+
+R I 1 L 0 800d9b88 1 Sub Zero
+
+R I 1 L 0 800d9b89 1 Quan Chi
+
+R I 1 L 0 800d9b8a 1 Sonya
+
+R I 1 L 0 800d9b7c 1 Unlock all movies (Replaces Codes 40 - 54) ROM-Version 2.2 or higher required
+
+R I 2 L 0 800b3cb0 10 Player 1 Has A Big Leg
+
+R I 2 L 0 800aaba8 0 Infinite Health P1
+
+R I 2 L 0 800aabaa 1 Infinite Health P1
+
+R I 2 L 0 800aabac 0 Infinite Health P2
+
+R I 2 L 0 800aabae 1 Infinite Health P2
+
+R I 2 L 0 800aa9a0 64 Infinite Battle Time
+
+R I 1 L 0 800d985c 1 Kai
+
+R I 1 L 0 800d985d 1 Raiden
+
+R I 1 L 0 800d985e 1 Shinnok
+
+R I 1 L 0 800d985f 1 Liu Kang
+
+R I 1 L 0 800d9860 1 Reptile
+
+R I 1 L 0 800d9861 1 Scorpion
+
+R I 1 L 0 800d9862 1 Jax
+
+R I 1 L 0 800d9863 1 Reiko
+
+R I 1 L 0 800d9864 1 Johnny Cage
+
+R I 1 L 0 800d9865 1 Jarek
+
+R I 1 L 0 800d9866 1 Tanya
+
+R I 1 L 0 800d9867 1 Fujin
+
+R I 1 L 0 800d9868 1 Sub-Zero
+
+R I 1 L 0 800d9869 1 Quan Chi
+
+R I 1 L 0 800d986a 1 Sonya
+
+R I 2 L 0 800aabc4 0 Background Modifier
+
+R I 2 L 0 800aac18 0 P1 Character Modifier
+
+R I 2 L 0 800aac24 0 P2 Character Modifier
+
+R I 2 L 0 800bfd6c 0 P1 Move Modifier
+
+R I 2 L 0 800bfe54 0 P2 Move Modifier
+
+R I 2 L 0 800aabba 1 P1 Infinite Run
+
+R I 2 L 0 800aabbe 1 P2 Infinite Run
+
+R I 2 L 0 800aab74 1 Kombat Code Modifier
+
+R I 2 L 0 800aabc8 0 Kombat Code Modifier
+
+R I 2 L 0 800aac3c 1 P1 Play As Meat
+
+R I 2 L 0 800aac40 1 P2 Play As Meat
+
+R I 2 L 0 800a81fc 0 P1 Costume Modifier
+
+R I 2 L 0 800a8200 0 P2 Costume Modifier
+
+R I 2 L 0 800bfa6c 13 Infinite Character Select Time
+
+R I 2 L 0 800bfa98 eb Infinite Fatality Time
+
+R I 2 L 0 800aabe6 0 Magnetic Throw
+
+R I 2 L 0 800aa990 7 Always Fight Shinnok (Last Match)
+
+R I 2 L 0 800d8878 2 Enable Restart Match Option In 1 Player Arcade
+
+R I 2 L 0 800aac14 0 P1 Control Modifier
+
+R I 2 L 0 800aac20 0 P2 Control Modifier
+
+R I 2 L 0 800d88ac 63 Have 99 Continues
+
+R I 2 L 0 800d88a0 0 Round Modifier To Win
+
+R I 2 L 0 800d88a0 1 1 Round To Win
+
+R I 2 L 0 800d81d0 1 Enable Quick Ending
+
+R I 2 L 0 800d81d0 0 Disable Quick Ending
+
+R I 2 L 0 800d81d4 1 Enable Quick Fatality I
+
+R I 2 L 0 800d81d4 0 Disable Quick Fatality I
+
+R I 2 L 0 800d81d8 1 Enable Quick Fatality II
+
+R I 2 L 0 800d81d8 0 Disable Quick Fatality II
+
+R I 2 L 0 800d81dc 1 Enable Quick Stage Fatality
+
+R I 2 L 0 800d81dc 0 Disable Quick Stage Fatality
+
+R I 2 L 0 800d81ca 100 Enable Big Head Mode
+
+R I 2 L 0 800d81ca 0 Disable Big Head Mode
+
+R I 2 L 0 800aabb0 0 P1 Win Modifier
+
+R I 2 L 0 800aab5e 101 Fight Thru Walls
+
+R I 2 L 0 800aab5c 101 Fight Thru Walls
+
+R I 2 L 0 800d81d4 1 Quick Cheat Select Part 1
+
+R I 2 L 0 800d81d8 0 Quick Cheat Select Part 1
+
+R I 2 L 0 800d81dc 0 Quick Cheat Select Part 1
+
+R I 2 L 0 800d81d4 0 Quick Cheat Select Part 1
+
+R I 2 L 0 800d81d8 1 Quick Cheat Select Part 1
+
+R I 2 L 0 800d81dc 0 Quick Cheat Select Part 2
+
+R I 2 L 0 800d81d4 0 Quick Cheat Select Part 2
+
+R I 2 L 0 800d81d8 0 Quick Cheat Select Part 2
+
+R I 2 L 0 800d81dc 1 Quick Cheat Select Part 2
+
+R I 2 L 0 800c9884 6e49 Secret Ending Part 1
+
+R I 2 L 0 800c9886 6574 Secret Ending Part 1
+
+R I 2 L 0 800c9888 4172 Secret Ending Part 1
+
+R I 2 L 0 800c988a 7463 Secret Ending Part 1
+
+R I 2 L 0 800c988c 2073 Secret Ending Part 1
+
+R I 2 L 0 800c98c0 4854 Secret Ending Part 1
+
+R I 2 L 0 800c98c2 2045 Secret Ending Part 1
+
+R I 2 L 0 800c98c4 5347 Secret Ending Part 1
+
+R I 2 L 0 800c98c6 4343 Secret Ending Part 1
+
+R I 2 L 0 800c98c8 2043 Secret Ending Part 1
+
+R I 2 L 0 800c98ca 2020 Secret Ending Part 2
+
+R I 2 L 0 800c98cc 20 Secret Ending Part 2
+
+R I 2 L 0 800c98a0 4854 Secret Ending Part 2
+
+R I 2 L 0 800c98a2 4e55 Secret Ending Part 2
+
+R I 2 L 0 800c98a4 4544 Secret Ending Part 2
+
+R I 2 L 0 800c98a6 3252 Secret Ending Part 2
+
+R I 2 L 0 800c98a8 2020 Secret Ending Part 2
+
+R I 2 L 0 800c98aa 2020 Secret Ending Part 2
+
+R I 2 L 0 800bfb5c fff Increase Time Before Load
+
+R I 2 L 0 800bfb5c 0 Decrease Time Before Load
+
+R I 2 L 0 80061f6e 2400 Hit Anywhere (Both Players)
+
+R I 2 L 0 80062194 4 All Attacks Hurt P1
+
+R I 2 L 0 80062196 3402 All Attacks Hurt P1
+
+R I 2 L 0 80062194 0 All Attacks Hurt P2
+
+R I 2 L 0 80062196 3402 All Attacks Hurt P2
+
+R I 2 L 0 800aac2c 1 Player 1 Is Invisible (1st Round Only)
+
+R I 2 L 0 8010da5e 1 Hyper Mode
+
+R I 2 L 0 800aab9b ff Throws Only Matches
+
+R I 2 L 0 8005e3b6 1000 Walk Through Stage Boundaries
+
+R I 2 L 0 8005e62a 2400 Walk Through Stage Boundaries
+
+R I 2 L 0 8005e686 1000 Walk Through Stage Boundaries
+
+R I 2 L 0 8007a6ea 2400 Stop the character selection timer
+
+R I 2 L 0 8005e1ae 1000 Walk Through Enemies (GS)
+
+R I 2 L 0 8006ec88 a All Stages Available in Practice Menu
+
+R I 2 L 0 8006eca0 b All Stages Available in Practice Menu
+
+R I 2 L 0 8006ead4 11 All Characters available in Practice Mode
+
+R I 2 L 0 8006eb14 12 All Characters available in Practice Mode
+
+R I 2 L 0 8006eafc 11 All Characters available in Practice Mode
+
+R I 2 L 0 8006eb38 12 All Characters available in Practice Mode
+
+R I 2 L 0 80024a8e 2400 Goro can fight on any stage
+
+R I 2 L 0 80024a86 2400 Goro can fight on any stage

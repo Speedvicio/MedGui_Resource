@@ -1,0 +1,84 @@
+[] F-Zero - GP Legend (USA)
+R I 2 L 0 50fb378 f470 Always Low Time
+
+R I 4 L 0 80bd0c4 fb71417f Turbo Boost
+
+R I 2 L 0 2047c2e 662e Infinite Lives/Spare Machines
+
+R I 4 L 0 40cbe34 8cea56a3 Only 3 Laps to Race Instead of 5
+
+R I 2 L 0 d06247a c73 End Race [Select+Up]
+
+R I 2 L 0 d01414a dadc Kill Opposition [Select+Down]
+
+R I 1 L 0 906497c 4c31 Unlock All Players (Cup Mode)
+
+R I 2 L 0 20149ba 3400 Infinite Health
+
+R I 2 L 0 20149a4 5000 Turbo Boost
+
+R I 2 L 0 3001250 300 Always Place 1st
+
+R I 2 L 0 3001252 102 Always Place 1st
+
+R I 2 L 0 2008c18 ffff Have All Cars
+
+R I 2 L 0 2008c1a ffff Have All Cars
+
+R I 2 L 0 2008c2c ffff Have All Cups Open
+
+R I 2 L 0 2008c28 ffff Have All Cups Open
+
+R I 1 L 0 2008c48 4 Have All Zero Test Classes Open
+
+R I 1 L 0 20149bb 34 Infinite Power
+
+R I 2 L 0 20149dc 6363 Press Select+R For Instant Win
+
+R I 4 L 0 2008c30 1f1f2f1f Story Mode Complete
+
+R I 4 L 0 2008c34 1f1f1f1f Story Mode Complete
+
+R I 1 L 0 2008c38 ff Story Mode Complete
+
+R I 1 L 0 2008c20 ff All Modes/Cups/Etc
+
+R I 2 L 0 20149a4 7fff 1383km/h
+
+R I 1 L 0 20149f8 ff Auto Pilot
+
+R I 1 L 0 20149fc 42 Auto Pilot
+
+R I 1 L 0 20149b7 40 Levitating Vehicle
+
+R I 1 L 0 20149bc ff Energy Bar is always flashing
+
+R I 1 L 0 20149be ff Engine Fire has boost effect
+
+R I 1 L 0 20149c0 1 Orang Engine Fire
+
+R I 1 L 0 20149c0 0 Blue Engine Fire
+
+R I 1 L 0 20149ca 7f Always Flashing Vehicle
+
+R I 1 L 0 20149cf 1 Re-align vehicle at track
+
+R I 1 L 0 20149cf 2 Explode on command
+
+R I 1 L 0 20149cf 5 Turn Off all vehicle effects
+
+R I 1 L 0 20149d2 ff Complete lap on command
+
+R I 1 L 0 20149d3 0 Tilting Vehicle
+
+R I 1 L 0 20149d3 1 Tilting Vehicle
+
+R I 1 L 0 20149d3 8 Tilting Vehicle
+
+R I 1 L 0 20149db d0 Upside Down Vehicle
+
+R I 1 L 0 20149e8 ff Pink Circle around vehicle
+
+R I 1 L 0 20149f2 7f Always yellow flashing lights on vehicle
+
+R I 1 L 0 20149db 7f Spazzing Vehicle

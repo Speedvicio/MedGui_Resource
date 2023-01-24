@@ -1,0 +1,60 @@
+[] Bubsy II (USA)
+R I 1 L 0 7e3422 9 9 Lives
+
+R I 1 L 0 7e1188 4 Infinite Health
+
+S I 1 L 0 c0b9ad 9 Start With 9 Lives [Only In &quot;Grand Tour&quot; Mode]
+
+S I 1 L 0 c0b9ad 14 Start With 20 Lives [Only In &quot;Grand Tour&quot; Mode]
+
+S I 1 L 0 c004b3 ad Infinite Lives
+
+S I 1 L 0 c06e30 ad Infinite Time In Most Main Levels [Only Works In The &quot;Play For Points&quot; Mode]
+
+S I 1 L 0 c06e1f ad Infinite Time In Most Main Levels [Only Works In The &quot;Play For Points&quot; Mode]
+
+S I 1 L 0 c070a9 ad Infinite Time In Some Bonus Levels [Like &quot;Manifold Destiny&quot;, &quot;Drown and Out&quot;, Etc]
+
+S I 1 L 0 c0b9b8 19 Start With 25 Nerf Gun Bullets [Instead of 1]
+
+S I 1 L 0 c12d3a ad Infinite Ammo For Nerf Gun
+
+S I 1 L 0 c0b9d9 9 Start With 9 Smart Bombs [Instead of 1]
+
+S I 1 L 0 c13060 ad Infinite Smart Bombs
+
+S I 1 L 0 c0b9c3 9 Start With 9 Diving Suits
+
+S I 1 L 0 c061df ad Infinite Diving Suits
+
+S I 1 L 0 c0b9ce 9 Start With 9 Warp Holes
+
+S I 1 L 0 c101f8 ad Infinite Warp Holes
+
+S I 1 L 0 c0f575 8d Invincibility
+
+S I 1 L 0 c00b70 b1 Infinite Energy
+
+R I 1 L 0 7e2ca8 32 Walk Through Enemies
+
+R I 1 L 0 7e349a 84 Freeze Timer
+
+R I 1 L 0 7e34a0 63 Infinite Gun Shots
+
+R I 1 L 0 7e34a2 63 Infinite Enemies To Marbles
+
+R I 1 L 0 7e34a4 63 Infinite Diving Suits
+
+R I 1 L 0 7e34ac e7 999 Marbles
+
+R I 1 L 0 7e34ad 3 999 Marbles
+
+S I 1 L 0 220dd d7 Note
+
+S I 1 L 0 c06e30 ad Infinite Time In Most Main Levels (Only Works In The &quot;Play For Points&quot; Mode)
+
+S I 1 L 0 c06e1f ad Infinite Time In Most Main Levels (Only Works In The &quot;Play For Time&quot; Mode)
+
+S I 1 L 0 c107dd 0 Moon Jump
+
+S I 1 L 0 c10ac5 0 Moon Jump

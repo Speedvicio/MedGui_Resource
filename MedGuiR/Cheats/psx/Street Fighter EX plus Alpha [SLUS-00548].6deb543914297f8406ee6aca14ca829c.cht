@@ -1,0 +1,400 @@
+[] Street Fighter EX Plus Alpha (NTSC-U)
+R I 1 L 0 801a09a2 40 PAL2NTSC
+
+R I 2 L 0 80196780 0 Y-Fix
+
+R I 2 L 0 80105bce 0 Stopped (Press L1 &amp; L2)
+
+R I 2 L 0 80105bce a062 Default (Press L1 &amp; L2 &amp; R1 &amp; R2)
+
+R I 2 L 0 801d441c 1 No time left (Press R1 &amp; R2)
+
+R I 2 L 0 80105bce a062 No time left (Press R1 &amp; R2)
+
+R I 1 L 0 801d6e0c c8 Infinite health
+
+R I 1 L 0 801d6e0c 96 75% health
+
+R I 1 L 0 801d6e0c 64 50% health
+
+R I 1 L 0 801d6e0c 32 25% health
+
+R I 1 L 0 801d6e0c 1 Sudden Death
+
+R I 1 L 0 801d6e0c 0 No health
+
+R I 1 L 0 801d6e0d 96 Infinite super combo
+
+R I 1 L 0 801d6e0d 0 No super combo
+
+R I 1 L 0 801d441e 2 Needs only one win to proceed
+
+R I 1 L 0 801d441e 0 Never wins
+
+R I 1 L 0 801d58fa 0 Kairi
+
+R I 1 L 0 801d58fa 1 Hokuto
+
+R I 1 L 0 801d58fa 2 Darun
+
+R I 1 L 0 801d58fa 3 D.Dark
+
+R I 1 L 0 801d58fa 4 Pullum
+
+R I 1 L 0 801d58fa 5 Blair
+
+R I 1 L 0 801d58fa 6 Skullomania
+
+R I 1 L 0 801d58fa 7 Allen
+
+R I 1 L 0 801d58fa 8 C.Jack
+
+R I 1 L 0 801d58fa 9 Guile
+
+R I 1 L 0 801d58fa a CPU Bison
+
+R I 1 L 0 801d58fa b CPU Garuda
+
+R I 1 L 0 801d58fa c Ryu
+
+R I 1 L 0 801d58fa d Ken
+
+R I 1 L 0 801d58fa e Chun-Li
+
+R I 1 L 0 801d58fa f Zangief
+
+R I 1 L 0 801d58fa 10 Akuma
+
+R I 1 L 0 801d58fa 11 CPU Akuma
+
+R I 1 L 0 801d58fa 12 Evil Ryu
+
+R I 1 L 0 801d58fa 13 Evil Hokuto
+
+R I 1 L 0 801d58fa 14 Bison
+
+R I 1 L 0 801d58fa 15 Garuda
+
+R I 1 L 0 801d58fa 16 Cycloid Gamma
+
+R I 1 L 0 801d58fa 17 Cycloid Beta
+
+R I 1 L 0 801d58fa 18 Dhalsim
+
+R I 1 L 0 801d58fa 19 Sakura
+
+R I 1 L 0 801d58fb 0 Default (Press Square or X)
+
+R I 1 L 0 801d58fb 1 Second (Press Triangle or Circle)
+
+R I 1 L 0 801d58fb 2 Default (Press R1)
+
+R I 1 L 0 801d8334 c8 Infinite health
+
+R I 1 L 0 801d8334 96 75% health
+
+R I 1 L 0 801d8334 64 50% health
+
+R I 1 L 0 801d8334 32 25% health
+
+R I 1 L 0 801d8334 1 Sudden Death
+
+R I 1 L 0 801d8335 96 No super combo
+
+R I 1 L 0 801d441f 2 Needs only one win to proceed
+
+R I 1 L 0 801d441f 0 Never wins
+
+R I 2 L 0 801ec718 ffff Have loads of points
+
+R I 1 L 0 801dd44e a Start with 10 victories
+
+R I 4 L 0 80108944 0 Overall time frozen
+
+R I 2 L 0 801d4444 ffff All endings
+
+R I 2 L 0 801d4446 ffff All endings
+
+R I 2 L 0 801ea062 77fd Bonus characters
+
+R I 2 L 0 801ea316 6101 Bonus game
+
+R I 1 L 0 801d63b5 96 Infinite Energy P1
+
+R I 1 L 0 801d63b5 24 25% Energy P1
+
+R I 1 L 0 801d63b5 48 50% Energy P1
+
+R I 1 L 0 801d63b5 6c 75% Energy P1
+
+R I 1 L 0 801d63b5 0 No Energy P1
+
+R I 1 L 0 801d63b5 1 1-Hit Death P1
+
+R I 1 L 0 801d63b4 c8 Max Power P1
+
+R I 1 L 0 801d63b4 0 Max Power P1
+
+R I 1 L 0 801d78dd 96 Infinite Energy P2
+
+R I 1 L 0 801d78dd 24 25% Energy P2
+
+R I 1 L 0 801d78dd 48 50% Energy P2
+
+R I 1 L 0 801d78dd 6c 75% Energy P2
+
+R I 1 L 0 801d78dd 0 No Energy P2
+
+R I 1 L 0 801d78dd 1 1-Hit Death P2
+
+R I 1 L 0 801d78dc c8 Max Power P2
+
+R I 1 L 0 801d78dc 0 Max Power P2
+
+R I 2 L 0 801ebcc0 ffff Expert Training Point Modifier
+
+R I 2 L 0 801d39c4 2d63 Stop Timer
+
+R I 2 L 0 801d39ec ffff Unlock All Endings
+
+R I 2 L 0 801d39ee ffff Unlock All Endings
+
+R I 2 L 0 801e98be 6101 Unlock Bonus Game
+
+R I 2 L 0 801e960a 77fd Unlock Secret Characters
+
+R I 2 L 0 801e95d8 ffff Expert Mode Complete
+
+R I 2 L 0 801e95da ffff Expert Mode Complete
+
+R I 2 L 0 801e95dc ffff Expert Mode Complete
+
+R I 2 L 0 801e95de ffff Expert Mode Complete
+
+R I 2 L 0 801e95e0 ffff Expert Mode Complete
+
+R I 2 L 0 801e95e2 ffff Expert Mode Complete
+
+R I 2 L 0 801e95e4 ffff Expert Mode Complete
+
+R I 2 L 0 801e95e6 ffff Expert Mode Complete
+
+R I 2 L 0 801e95e8 ffff Expert Mode Complete
+
+R I 2 L 0 801e95ea ffff Expert Mode Complete
+
+R I 2 L 0 801e95ec ffff Expert Mode Complete
+
+R I 2 L 0 801e95ee ffff Expert Mode Complete
+
+R I 2 L 0 801e95f0 ffff Expert Mode Complete
+
+R I 2 L 0 801e95f2 ffff Expert Mode Complete
+
+R I 2 L 0 801e95f4 ffff Expert Mode Complete
+
+R I 2 L 0 801e95f6 ffff Expert Mode Complete
+
+R I 2 L 0 801e95f8 ffff Expert Mode Complete
+
+R I 2 L 0 801e95fa ffff Expert Mode Complete
+
+R I 2 L 0 801e95fc ffff Expert Mode Complete
+
+R I 2 L 0 8015eaa2 2400 Both Players Can Do All Moves in Mid-Air
+
+R I 2 L 0 8015eb2e 2400 Both Players Can Do All Moves in Mid-Air
+
+R I 2 L 0 8015ebc2 2400 Both Players Can Do All Moves in Mid-Air
+
+R I 2 L 0 801d63b6 0 P1-L1+Up For Special 1
+
+R I 2 L 0 801d63b2 13 P1-L1+Up For Special 1
+
+R I 2 L 0 801d63b6 100 P1-L1+Down For Special 2
+
+R I 2 L 0 801d63b2 13 P1-L1+Down For Special 2
+
+R I 2 L 0 801d63b6 200 P1-L1+Left For Special 3
+
+R I 2 L 0 801d63b2 13 P1-L1+Left For Special 3
+
+R I 2 L 0 801d63b6 300 P1-L1+Right For Special 4
+
+R I 2 L 0 801d63b2 13 P1-L1+Right For Special 4
+
+R I 2 L 0 801d63b6 400 P1-L2+Up For Special 5
+
+R I 2 L 0 801d63b2 13 P1-L2+Up For Special 5
+
+R I 2 L 0 801d63b6 500 P1-L2+Down For Special 6
+
+R I 2 L 0 801d63b2 13 P1-L2+Down For Special 6
+
+R I 2 L 0 801d63b6 600 P1-L2+Left For Special 7
+
+R I 2 L 0 801d63b2 13 P1-L2+Left For Special 7
+
+R I 2 L 0 801d63b6 700 P1-L2+Right For Special 8
+
+R I 2 L 0 801d63b2 13 P1-L2+Right For Special 8
+
+R I 2 L 0 801d78de 0 P2-L1+Up For Special 1
+
+R I 2 L 0 801d78da 13 P2-L1+Up For Special 1
+
+R I 2 L 0 801d78de 100 P2-L1+Down For Special 2
+
+R I 2 L 0 801d78da 13 P2-L1+Down For Special 2
+
+R I 2 L 0 801d78de 200 P2-L1+Left For Special 3
+
+R I 2 L 0 801d78da 13 P2-L1+Left For Special 3
+
+R I 2 L 0 801d78de 300 P2-L1+Right For Special 4
+
+R I 2 L 0 801d78da 13 P2-L1+Right For Special 4
+
+R I 2 L 0 801d78de 400 P2-L2+Up For Special 5
+
+R I 2 L 0 801d78da 13 P2-L2+Up For Special 5
+
+R I 2 L 0 801d78de 500 P2-L2+Down For Special 6
+
+R I 2 L 0 801d78da 13 P2-L2+Down For Special 6
+
+R I 2 L 0 801d78de 600 P2-L2+Left For Special 7
+
+R I 2 L 0 801d78da 13 P2-L2+Left For Special 7
+
+R I 2 L 0 801d78de 700 P2-L2+Right For Special 8
+
+R I 2 L 0 801d78da 13 P2-L2+Right For Special 8
+
+R I 2 L 0 80105ca4 4000 P1-Health Decreases Over Time
+
+R I 2 L 0 80105ca6 c07 P1-Health Decreases Over Time
+
+R I 2 L 0 801d0000 801d P1-Health Decreases Over Time
+
+R I 2 L 0 801d0002 3c10 P1-Health Decreases Over Time
+
+R I 2 L 0 801d0004 63b4 P1-Health Decreases Over Time
+
+R I 2 L 0 801d0006 9201 P1-Health Decreases Over Time
+
+R I 2 L 0 801d000a 2400 P1-Health Decreases Over Time
+
+R I 2 L 0 801d000c fffd P1-Health Decreases Over Time
+
+R I 2 L 0 801d000e 2421 P1-Health Decreases Over Time
+
+R I 2 L 0 801d0010 2 P1-Health Decreases Over Time
+
+R I 2 L 0 801d0012 421 P1-Health Decreases Over Time
+
+R I 2 L 0 801d0014 63b4 P1-Health Decreases Over Time
+
+R I 2 L 0 801d0016 a201 P1-Health Decreases Over Time
+
+R I 2 L 0 801d0018 63b4 P1-Health Decreases Over Time
+
+R I 2 L 0 801d001a a200 P1-Health Decreases Over Time
+
+R I 2 L 0 801d001c 8 P1-Health Decreases Over Time
+
+R I 2 L 0 801d001e 3e0 P1-Health Decreases Over Time
+
+R I 2 L 0 801d0022 2400 P1-Health Decreases Over Time
+
+R I 2 L 0 80105ca4 4000 P2-Health Decreases Over Time
+
+R I 2 L 0 80105ca6 c07 P2-Health Decreases Over Time
+
+R I 2 L 0 801d0000 801d P2-Health Decreases Over Time
+
+R I 2 L 0 801d0002 3c10 P2-Health Decreases Over Time
+
+R I 2 L 0 801d0004 78dc P2-Health Decreases Over Time
+
+R I 2 L 0 801d0006 9201 P2-Health Decreases Over Time
+
+R I 2 L 0 801d000a 2400 P2-Health Decreases Over Time
+
+R I 2 L 0 801d000c fffd P2-Health Decreases Over Time
+
+R I 2 L 0 801d000e 2421 P2-Health Decreases Over Time
+
+R I 2 L 0 801d0010 2 P2-Health Decreases Over Time
+
+R I 2 L 0 801d0012 421 P2-Health Decreases Over Time
+
+R I 2 L 0 801d0014 78dc P2-Health Decreases Over Time
+
+R I 2 L 0 801d0016 a201 P2-Health Decreases Over Time
+
+R I 2 L 0 801d0018 78dc P2-Health Decreases Over Time
+
+R I 2 L 0 801d001a a200 P2-Health Decreases Over Time
+
+R I 2 L 0 801d001c 8 P2-Health Decreases Over Time
+
+R I 2 L 0 801d001e 3e0 P2-Health Decreases Over Time
+
+R I 2 L 0 801d0022 2400 P2-Health Decreases Over Time
+
+R I 2 L 0 80121a52 2400 Hit Anywhere (Both Players)
+
+R I 2 L 0 80121a8e 2400 Hit Anywhere (Both Players)
+
+R I 2 L 0 801d63b4 96c8 P1 Infinite Health & Super
+
+R I 2 L 0 801d63b4 0 P1 No Health & Super
+
+R I 2 L 0 801d78dc 96c8 P2 Infinite Health & Super
+
+R I 2 L 0 801d78dc 0 P2 No Health & Super
+
+R I 2 L 0 801dc9f6 0 P1 Wins Modifier (Survival Mode)
+
+R I 2 L 0 801dc9d8 0 P1 Low Overall Time (Time Attack Mode)
+
+R I 1 L 0 801d4ea2 0 Character Modifier P1
+
+R I 1 L 0 801d4ea3 0 Costume Modifier P1
+
+R I 1 L 0 801d63ca 0 Character Modifier P2
+
+R I 1 L 0 801d63cb 0 Costume Modifier P2
+
+R I 2 L 0 800d64dc 0 Skip Capcom Movie
+
+R I 2 L 0 800d64de 0 Skip Capcom Movie
+
+R I 2 L 0 800d64e4 0 Skip Capcom Movie
+
+R I 2 L 0 800d64e6 0 Skip Capcom Movie
+
+R I 2 L 0 8015909a 14e2  Charge Moves Require No Charging (ASM)
+
+R I 2 L 0 80046370 800 Crazy Jack Super Move is Huge! (ASM)
+
+R I 2 L 0 8004651c 800 Crazy Jack Super Move is Huge! (ASM)
+
+R I 2 L 0 80046664 800 Crazy Jack Super Move is Huge! (ASM)
+
+R I 2 L 0 800452d8 1000 Dash Straight Is Huge! (ASM)
+
+R I 2 L 0 800456a8 400 Dash Upper is Bigger! (ASM)
+
+R I 2 L 0 801d61e8 5 Faster Final Punch Charging C.Jack (ASM)
+
+R I 2 L 0 8004595c 199 Final Punch Is Huge! (ASM)
+
+R I 2 L 0 8004595e 3403 Final Punch Is Huge! (ASM)
+
+R I 2 L 0 80130fc2 2400 Infinite Special Bar - Both Players (ASM)
+
+R I 2 L 0 801595ae 2400 Infinite Special Bar - Both Players (ASM)
+
+R I 2 L 0 801d61e8 a Max Final Punch Charge C.Jack (ASM)

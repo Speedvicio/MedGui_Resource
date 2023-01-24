@@ -1,0 +1,32 @@
+[0] Daytona USA - Championship Circuit Edition (USA)
+R I 2 L 0 60511f8 100 Place 1st
+
+R I 2 L 0 2fc21c 9 Play As Uma
+
+R I 2 L 0 2fc21c a Play As Uma2
+
+R I 2 L 0 6050f6c 46 Stop Timer
+
+R I 2 L 0 6050e6e 0 Stop Lap Timer P1
+
+R I 2 L 0 2fc21c 0 P1 Car Modifier
+
+R I 2 L 0 2fc21e 0 P2 Car Modifier 
+
+R I 2 L 0 604f8f8 11 Course Modifier
+
+R I 2 L 0 60514fa 0 "FAKE" Speed Modifier P1
+
+R I 2 L 0 60516ce 0 "FAKE" Speed Modifier P2
+
+R I 2 L 0 6050e64 0 Race Is ?? Laps Long
+
+R I 2 L 0 6050e64 0 P1 Starts On Lap ??
+
+R I 2 L 0 6050ee8 0 P2 Starts On Lap ??
+
+R I 2 L 0 6050ef2 0 Stop Lap Timer P2
+
+R I 2 L 0 60514ea 0 Speed/Throttle Modifier P1
+
+R I 2 L 0 60516be 0 Speed/Throttle Modifier P2

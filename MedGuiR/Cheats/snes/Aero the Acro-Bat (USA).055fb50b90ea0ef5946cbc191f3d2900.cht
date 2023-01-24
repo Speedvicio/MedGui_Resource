@@ -1,0 +1,28 @@
+[] Aero the Acro-Bat (USA)
+S I 1 L 0 83d831 6c Start With More Energy
+
+S I 1 L 0 82fb00 ea Take No Damage From Most Enemies [You Can Still Die From Spikes And Other Hazards)
+
+S I 1 L 0 83f1aa 0 Infinite Time
+
+S I 1 L 0 8080b4 70 Start With 19 Lives
+
+S I 1 L 0 80879f 0 Infinite Lives
+
+S I 1 L 0 848bff ad Infinite Continues
+
+S I 1 L 0 80e22f 4 Each Star Platform Is Worth 4 [Instead of Only 1]
+
+R I 1 L 0 7e0cc0 59 Infinite Time
+
+R I 1 L 0 7e0cc1 2 Infinite Time
+
+R I 1 L 0 7e0c84 ff Invincible Against Enemies
+
+R I 1 L 0 7e0cfe 99 Infinite Shots (Small Stars)
+
+S I 1 L 0 82876f fb Jump in Midair
+
+S I 1 L 0 828770 ff Jump in Midair
+
+S I 1 L 0 828772 9f Jump in Midair

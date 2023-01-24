@@ -1,0 +1,114 @@
+[] Ace Combat 2 (NTSC-U)
+R I 2 L 0 8002cc3c 0 Inf Missiles
+
+R I 2 L 0 8003950c 1000 Inf Fuel
+
+R I 2 L 0 8003950e 2402 Inf Fuel
+
+R I 2 L 0 8002ccd0 140 No Damage
+
+R I 2 L 0 8002ccd2 2402 No Damage
+
+R I 2 L 0 80039574 140 No Damage
+
+R I 2 L 0 80039576 2402 No Damage
+
+R I 1 L 0 80010c44 1 Have A-4 Plane
+
+R I 1 L 0 80010c45 1 Have F-4 Plane
+
+R I 1 L 0 80010c46 1 Have CF-C7 Plane
+
+R I 1 L 0 80010c47 1 Have A-6 Plane
+
+R I 1 L 0 80010c48 1 Have F-16 Plane
+
+R I 1 L 0 80010c49 1 Have X-29 Plane
+
+R I 1 L 0 80010c4a 1 Have A-10 Plane
+
+R I 1 L 0 80010c4b 1 Have MiG-29 Plane
+
+R I 1 L 0 80010c4c 1 Have F-14 Plane
+
+R I 1 L 0 80010c4d 1 Have F-117A Plane
+
+R I 1 L 0 80010c4e 1 Have R-MO1 Plane
+
+R I 1 L 0 80010c4f 1 Have EF-2000 Plane
+
+R I 1 L 0 80010c50 1 Have F/A-18E Plane
+
+R I 1 L 0 80010c51 1 Have Su-35 Plane
+
+R I 1 L 0 80010c52 1 Have YF-23A Plane
+
+R I 1 L 0 80010c53 1 Have F-22 Plane
+
+R I 2 L 0 80010c1c 9676 Infinite Money
+
+R I 2 L 0 80010c1e 98 Infinite Money
+
+R I 2 L 0 8002c464 0 Rapid Fire For Missiles
+
+R I 2 L 0 8002c466 0 Rapid Fire For Missiles
+
+R I 2 L 0 80032bac 0 Rapid Fire For Missiles
+
+R I 2 L 0 80032bae 0 Rapid Fire For Missiles
+
+R I 2 L 0 8002f748 0 Can't Die From Hitting The Ground
+
+R I 2 L 0 8002f74a 0 Can't Die From Hitting The Ground
+
+R I 2 L 0 8002c370 0 Infinite Health - Set 1 of 2
+
+R I 2 L 0 8002c372 0 Infinite Health - Set 1 of 2
+
+R I 2 L 0 8002c360 0 Infinite Health - Set 1 of 2
+
+R I 2 L 0 8002c362 0 Infinite Health - Set 1 of 2
+
+R I 2 L 0 8002c364 0 Infinite Health - Set 1 of 2
+
+R I 2 L 0 8002c366 0 Infinite Health - Set 1 of 2
+
+R I 2 L 0 8002c370 3f Infinite Health - Set 2 of 2
+
+R I 2 L 0 8002c372 3042 Infinite Health - Set 2 of 2
+
+R I 2 L 0 8002c360 10 Infinite Health - Set 2 of 2
+
+R I 2 L 0 8002c362 1880 Infinite Health - Set 2 of 2
+
+R I 2 L 0 8002c364 18 Infinite Health - Set 2 of 2
+
+R I 2 L 0 8002c366 aca2 Infinite Health - Set 2 of 2
+
+R I 2 L 0 8002caa8 0 Infinite Missiles
+
+R I 2 L 0 8002caaa 0 Infinite Missiles
+
+R I 2 L 0 8003936c 2400 Infinite Fuel
+
+R I 2 L 0 8003936e 82ac Infinite Fuel
+
+R I 2 L 0 8002c334 f Infinite Health
+
+R I 2 L 0 8002c336 3241 Infinite Health
+
+R I 2 L 0 8002c33a 2400 Infinite Health
+
+R I 2 L 0 8002c33c 1a Infinite Health
+
+R I 2 L 0 8002c33e 1020 Infinite Health
+
+R I 2 L 0 80010a7c e0ff Max Planes Destroyed
+
+R I 2 L 0 80010a7e 5f5 Max Planes Destroyed
+
+R I 2 L 0 80010a80 0 Hits Suffered Always Zero
+
+R I 2 L 0 800b8490 14 Best Rank
+
+R I 2 L 0 8018887c 63 Infinite missiles

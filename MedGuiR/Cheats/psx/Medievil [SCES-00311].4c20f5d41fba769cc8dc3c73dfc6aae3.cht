@@ -1,0 +1,210 @@
+[] Medievil (PAL-E)
+R I 2 L 0 800f81dc ffff Whole map visible
+
+R I 1 L 0 800f81de ff Whole map visible
+
+R I 2 L 0 8003ee0e 1000 WalkThroughWalls
+
+R I 2 L 0 8003eebe 1000 WalkThroughWalls
+
+R I 2 L 0 80037452 1000 WalkThroughWalls
+
+R I 2 L 0 8003746a 2400 WalkThroughWalls
+
+R I 2 L 0 80037482 2400 WalkThroughWalls
+
+R I 2 L 0 8003749a 2400 WalkThroughWalls
+
+R I 2 L 0 80036bd2 2400 WalkThroughWalls
+
+R I 2 L 0 80036be2 2400 WalkThroughWalls
+
+R I 2 L 0 800449ea 2400 WalkThroughWalls
+
+R I 2 L 0 80044b22 1000 WalkThroughWalls
+
+R I 2 L 0 80048696 1000 WalkThroughWalls
+
+R I 2 L 0 800374de 1000 WalkThroughWalls
+
+R I 2 L 0 8003748e 2400 WalkThroughWalls
+
+R I 2 L 0 800eda58 64 Money
+
+R I 2 L 0 800f82c4 64 Money
+
+R I 2 L 0 800f824c 64 Crossbow
+
+R I 2 L 0 800f8240 64 Daggers
+
+R I 2 L 0 800f8244 1 Axe
+
+R I 2 L 0 800f8248 64 Drumstick
+
+R I 2 L 0 800f823c 1 Hammer
+
+R I 2 L 0 800f8250 64 Longbow
+
+R I 2 L 0 800f8254 64 Flame Longbow
+
+R I 2 L 0 800f8258 64 Magic Longbow
+
+R I 2 L 0 800f825c 64 Spears
+
+R I 2 L 0 800f8260 64 Lightning
+
+R I 2 L 0 800f8264 1 Good Lightning
+
+R I 2 L 0 800f8284 1 Good Lightning
+
+R I 2 L 0 800f8268 1 Chaos Rune
+
+R I 2 L 0 800f826c 1 Earth Rune
+
+R I 2 L 0 800f8270 1 Moon Rune
+
+R I 2 L 0 800f8278 1 Time Rune
+
+R I 2 L 0 800f8280 1 Skull key
+
+R I 2 L 0 800f82c8 64 Dragon gem
+
+R I 2 L 0 800f81ac 12c Infinite energy
+
+R I 2 L 0 800ee9b4 ff Full Chalice of Souls
+
+R I 2 L 0 800f81b0 960 Infinite life bottles
+
+R I 2 L 0 800f81b4 960 Infinite life bottles
+
+R I 2 L 0 800f822c 1 Always have small sword
+
+R I 2 L 0 800f8230 1000 Broad Sword at 100%
+
+R I 2 L 0 800f8234 1 Always have Magic Sword
+
+R I 2 L 0 800f8238 1000 Club at 100%
+
+R I 2 L 0 800f827c 1 Always have Sheet Music
+
+R I 2 L 0 800f82c8 2 Always have Dragon Gem
+
+R I 2 L 0 800f82d0 1000 Always have Dragon Armour
+
+R I 2 L 0 800f82a0 1 Always have Crucifix
+
+R I 2 L 0 800f82a4 1 Always have Crucifix Mould
+
+R I 2 L 0 800f82a8 1 Always have Safe Key
+
+R I 2 L 0 800f82ac 1 Always have Bust of Mr Shanks
+
+R I 2 L 0 800f828c 7 Always have 7 Pieces of Amber
+
+R I 2 L 0 800f8274 1 Star rune
+
+R I 2 L 0 800f8294 1000 Shadow Artifact
+
+R I 2 L 0 800f829c 100 Witch Hex
+
+R I 2 L 0 800f82b4 100 Copper Shield
+
+R I 2 L 0 800f82b8 100 Silver Shield
+
+R I 2 L 0 800f82cc 100 Gold Shield
+
+R I 2 L 0 800f81ac 12c UE Gesundheit
+
+R I 2 L 0 800f81b0 10e UE Gesundheit
+
+R I 2 L 0 800f81b4 10e UE Gesundheit
+
+R I 1 L 0 800f82c4 ff UE Geld
+
+R I 1 L 0 800f82c5 7f UE Geld
+
+R I 2 L 0 800f824c 64 Armbrust
+
+R I 2 L 0 800f8238 64 Keule
+
+R I 2 L 0 800f8240 64 Messer
+
+R I 2 L 0 800f8234 64 Magisches Schwert
+
+R I 2 L 0 800f8244 64 Axt
+
+R I 2 L 0 800f8248 64 Huehnerkeule
+
+R I 2 L 0 800f823c 64 Hammer
+
+R I 2 L 0 800f8250 64 Langbogen
+
+R I 2 L 0 800f8254 64 Langbogen mit Feuerpfeilen
+
+R I 2 L 0 800f8258 64 Magischer Langbogen
+
+R I 2 L 0 800f825c 64 Speer
+
+R I 2 L 0 800f8260 64 Blitz
+
+R I 2 L 0 800f8264 64 Guter Blitz
+
+R I 2 L 0 800f8268 64 Chaos-Rune
+
+R I 2 L 0 800f826c 64 Erdenrune
+
+R I 2 L 0 800f8270 64 Mond-Rune
+
+R I 2 L 0 800f8278 64 Zeit-Rune
+
+R I 2 L 0 800f8280 64 Totenkopfschluessel
+
+R I 2 L 0 800f82c8 64 Drachenedelstein
+
+R I 2 L 0 800f8274 100 Sternenrune
+
+R I 2 L 0 800f8294 100 Schatten Artifakt
+
+R I 2 L 0 800f829c 100 Hexentalisman
+
+R I 2 L 0 800f82b4 100 Kupferschild
+
+R I 2 L 0 800f82b8 100 Silberschild
+
+R I 2 L 0 800f82cc 100 Goldschild
+
+R I 2 L 0 800f82d0 100 Drachenruestung
+
+R I 2 L 0 800f81dc ffff Ganze Karte sichtbar
+
+R I 1 L 0 800f81de ff Ganze Karte sichtbar
+
+R I 1 L 0 801981e2 40 Kein Modschutz
+
+R I 1 L 0 800eb758 1d Kein Modschutz
+
+R I 2 L 0 8003ee0e 1000 DurchWaende gehen
+
+R I 2 L 0 8003eebe 1000 DurchWaende gehen
+
+R I 2 L 0 80037452 1000 DurchWaende gehen
+
+R I 2 L 0 8003746a 2400 DurchWaende gehen
+
+R I 2 L 0 80037482 2400 DurchWaende gehen
+
+R I 2 L 0 8003749a 2400 DurchWaende gehen
+
+R I 2 L 0 80036bd2 2400 DurchWaende gehen
+
+R I 2 L 0 80036be2 2400 DurchWaende gehen
+
+R I 2 L 0 800449ea 2400 DurchWaende gehen
+
+R I 2 L 0 80044b22 1000 DurchWaende gehen
+
+R I 2 L 0 80048696 1000 DurchWaende gehen
+
+R I 2 L 0 800374de 1000 DurchWaende gehen
+
+R I 2 L 0 8003748e 2400 DurchWaende gehen

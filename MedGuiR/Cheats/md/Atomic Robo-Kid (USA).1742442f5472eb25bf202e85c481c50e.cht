@@ -1,0 +1,98 @@
+[1742442f5472eb25bf202e85c481c50e] Atomic Robo-Kid (USA)
+S I 2 L 0 25b6 6002 Infinite lives
+
+S I 2 L 0 d9e2 6 Shields cost 6 crystals
+
+S I 2 L 0 d9e2 2 Shields cost 2 crystals
+
+S I 2 L 0 d9e2 1 Shields granted for each crystal
+
+S I 2 L 0 9c2c 708 Shields last 30 seconds
+
+S I 2 L 0 9c2c ffff Shields last until next level
+
+S I 2 L 0 7d0e 4e75 Repeat lasts forever
+
+S I 2 L 0 d9c6 e10 Repeat lasts twice as long
+
+S I 2 L 0 d98c 6030 Get repeat on pick-up of 3-way gun
+
+S I 2 L 0 d974 6048 Get repeat on pick-up of fission gun
+
+S I 2 L 0 d9a4 6018 Get repeat on pick-up of missiles
+
+S I 2 L 0 d9bc 4e71 Get repeat on pick-up of 5-way gun
+
+S I 2 L 0 25ca 603e Keep weapons after dying
+
+S I 2 L 0 1186 27 Start With 39 Lives
+
+S I 2 L 0 4ca 4278 Invincibility
+
+S I 2 L 0 4cc 83ca Invincibility
+
+R I 2 L 0 ff803a 7 Infinite Lives
+
+R I 2 L 0 ff83ca 0 Invincibility
+
+R I 2 L 0 ff802a 0 Stage Modifier
+
+R I 2 L 0 ff803a 9 Infinite Lives
+
+S I 2 L 0 e3c2 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 e1ac 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 e82e 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 e5ac 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 eb62 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 ec16 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 ee08 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 f038 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 174ce 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 1785e 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 172ac 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 195d0 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 e998 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 f200 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 140a0 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 18716 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 18526 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 184d4 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 19284 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 1886f 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 17cd8 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 193ee 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 17d1e 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 17eea 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 16436 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 191ba 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 16c5e 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 16958 4e75 Invincibility from all Enemies and Bosses
+
+S I 2 L 0 2cfe 6002 Infinite Lives The Purchase of Weapons, etc. (Lives are not used)

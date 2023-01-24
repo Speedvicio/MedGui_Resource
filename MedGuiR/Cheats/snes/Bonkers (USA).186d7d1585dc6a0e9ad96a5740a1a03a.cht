@@ -1,0 +1,52 @@
+[] Bonkers (USA)
+S I 1 L 0 80a520 b5 Infinite Health
+
+S I 1 L 0 80c294 a5 Infinite Bombs
+
+S I 1 L 0 8086e1 a5 Infinite Lives
+
+S I 1 L 0 80b6a1 a5 Infinite Dash
+
+R I 1 L 0 7e040e a Infinite Energy
+
+R I 1 L 0 7e00dd a Max Energy
+
+R I 1 L 0 7e00dc 9 Infinite Lives
+
+R I 1 L 0 7e00de 63 Infinite Bombs
+
+R I 1 L 0 7e00df 63 Max Bombs
+
+S I 1 L 0 80aa09 d0 Invincibility
+
+R I 1 L 0 7e00e8 25 Walk Through Enemies
+
+R I 1 L 0 7e16e4 9 9 Badges
+
+R I 1 L 0 7e00e3 0 Dash Bar Always Full
+
+R I 1 L 0 7e00cf 1 Always Dash
+
+R I 1 L 0 7e00c8 28 Jump Higher
+
+R I 1 L 0 7e040a 0 Rise Into Sky
+
+R I 1 L 0 7e040b ff Slower Rise Into Sky
+
+R I 1 L 0 7e006e 0 Turn Rain On/Off On Ocean Liner Stage
+
+R I 1 L 0 7e04ee 0 Most Bosses 1 Hit Kill
+
+R I 1 L 0 7e1cd2 0 Collector Boss 1 Hit Kill
+
+R I 1 L 0 7e06ae 0 Pops Clock Boss 1 Hit Kill
+
+S I 1 L 0 80f965 80 Hit Anywhere
+
+S I 1 L 0 80f966 50 Hit Anywhere
+
+S I 1 L 0 80b930 ea Jump in Midair
+
+S I 1 L 0 80b93d e Jump in Midair
+
+S I 1 L 0 80b93e b6 Jump in Midair

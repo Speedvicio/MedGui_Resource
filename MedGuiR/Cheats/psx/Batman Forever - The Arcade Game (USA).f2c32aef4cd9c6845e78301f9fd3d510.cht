@@ -1,0 +1,70 @@
+[] Batman Forever - The Arcade Game (NTSC-U)
+R I 2 L 0 800e2ee0 5 Infinite Lives P1
+
+R I 2 L 0 800e2edc 14 Infinite Energy P1
+
+R I 2 L 0 800e2edc 5 25% Energy P1
+
+R I 2 L 0 800e2edc a 50% Energy P1
+
+R I 2 L 0 800e2edc f 75% Energy P1
+
+R I 2 L 0 800e2edc 0 No Energy P1
+
+R I 2 L 0 800e2edc 1 1-Hit Death P1
+
+R I 2 L 0 800e36d2 64 Full Combo/Power Meter P1
+
+R I 2 L 0 800e36d2 0 Empty Combo/Power Meter P1
+
+R I 2 L 0 800e36cc 3 Always Powered at Level 3 P1
+
+R I 2 L 0 800e36cc 2 Always Powered at Level 2 P1
+
+R I 2 L 0 800e36cc 1 Always Powered at Level 1 P1
+
+R I 2 L 0 800e36cc 0 Always Powered at Level 0 P1
+
+R I 2 L 0 800e2f2c 5 Infinite Items (On Pickup) P1
+
+R I 2 L 0 800e2f18 69 FAKE Infinite Energy P1
+
+R I 1 L 0 8002d1a0 5 Infinite Continues P1
+
+R I 2 L 0 800e3a8c 5 Infinite Lives P2
+
+R I 2 L 0 800e3a88 14 Infinite Energy P2
+
+R I 2 L 0 800e3a88 5 25% Energy P2
+
+R I 2 L 0 800e3a88 a 50% Energy P2
+
+R I 2 L 0 800e3a88 f 75% Energy P2
+
+R I 2 L 0 800e3a88 0 No Energy P2
+
+R I 2 L 0 800e3a88 1 1-Hit Death P2
+
+R I 2 L 0 800e427e 64 Full Combo/Power Meter P2
+
+R I 2 L 0 800e427e 0 Empty Combo/Power Meter P2
+
+R I 2 L 0 800e4278 3 Always Powered at Level 3 P2
+
+R I 2 L 0 800e4278 2 Always Powered at Level 2 P2
+
+R I 2 L 0 800e4278 1 Always Powered at Level 1 P2
+
+R I 2 L 0 800e4278 0 Always Powered at Level 0 P2
+
+R I 2 L 0 800e3ad8 5 Infinite Items (On Pickup) P2
+
+R I 2 L 0 800e3ac4 69 FAKE Infinite Energy P2
+
+R I 1 L 0 8002d1a1 5 Infinite Continues P2
+
+R I 2 L 0 800e30b0 8 All Weapons 8 Units
+
+R I 2 L 0 800e30a2 5a Super Power x3
+
+R I 2 L 0 800e3850 3 Super Power x3

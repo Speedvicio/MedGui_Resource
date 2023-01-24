@@ -1,0 +1,146 @@
+[975074b66b9a993648142e2bcd8a02cf] Super Smash T.V. (USA)
+S I 1 L 0 81de 0 Start with 3 lives
+
+S I 1 L 0 81de 1 Start with 4 lives
+
+S I 1 L 0 81de 2 Start with 5 lives
+
+S I 1 L 0 81de 4 Start with 7 lives
+
+S I 1 L 0 81de 5 Start with 8 lives
+
+S I 1 L 0 81de 6 Start with 9 lives
+
+S I 1 L 0 81de 7 Start with 10 lives
+
+S I 1 L 0 9891 bd Infinite lives
+
+S I 1 L 0 986f ff 2 lives after continue [player 1]
+
+S I 1 L 0 986f 0 3 lives after continue [player 1]
+
+S I 1 L 0 986f 1 4 lives after continue [player 1]
+
+S I 1 L 0 986f 2 5 lives after continue [player 1]
+
+S I 1 L 0 986f 4 7 lives after continue [player 1]
+
+S I 1 L 0 986f 5 8 lives after continue [player 1]
+
+S I 1 L 0 986f 6 9 lives after continue [player 1]
+
+S I 1 L 0 986f 7 10 lives after continue [player 1]
+
+S I 1 L 0 9843 ff 2 lives after continue [player 2]
+
+S I 1 L 0 9843 0 3 lives after continue [player 2]
+
+S I 1 L 0 9843 1 4 lives after continue [player 2]
+
+S I 1 L 0 9843 2 5 lives after continue [player 2]
+
+S I 1 L 0 9843 4 7 lives after continue [player 2]
+
+S I 1 L 0 9843 5 8 lives after continue [player 2]
+
+S I 1 L 0 9843 6 9 lives after continue [player 2]
+
+S I 1 L 0 9843 7 10 lives after continue [player 2]
+
+S I 1 L 0 3bb25 bd Bonus life worth nothing
+
+S I 1 L 0 81d5 0 Start with 0 continues instead of 4
+
+S I 1 L 0 81d5 1 Start with 1 continue
+
+S I 1 L 0 81d5 2 Start with 2 continues
+
+S I 1 L 0 81d5 3 Start with 3 continues
+
+S I 1 L 0 81d5 5 Start with 5 continues
+
+S I 1 L 0 81d5 6 Start with 6 continues
+
+S I 1 L 0 81d5 7 Start with 7 continues
+
+S I 1 L 0 81d5 8 Start with 8 continues
+
+S I 1 L 0 81d5 9 Start with 9 continues
+
+S I 1 L 0 ed4ee ad Infinite continues [but if continue timer runs out and player starts, a credit gets used up]
+
+S I 1 L 0 38a79 80 Once you get a mobile force field, you are invincible [the visible effect can wear off, but you still have invincibility]
+
+S I 1 L 0 38a7a 1 Once you get a mobile force field, you are invincible [the visible effect can wear off, but you still have invincibility]
+
+S I 1 L 0 beec bd Weapons gauge doesn't lose power until you die
+
+S I 1 L 0 98b9 80 Don't lose weapon power upgrade when you die, and after you die, weapon power doesn't decrease until you get a new weapon
+
+S I 1 L 0 98ba 1 Don't lose weapon power upgrade when you die, and after you die, weapon power doesn't decrease until you get a new weapon
+
+S I 1 L 0 981f ff Player 1 joins in with 2 lives
+
+S I 1 L 0 981f 0 Player 1 joins in with 3 lives
+
+S I 1 L 0 981f 1 Player 1 joins in with 4 lives
+
+S I 1 L 0 981f 2 Player 1 joins in with 5 lives
+
+S I 1 L 0 981f 4 Player 1 joins in with 7 lives
+
+S I 1 L 0 981f 5 Player 1 joins in with 8 lives
+
+S I 1 L 0 981f 6 Player 1 joins in with 9 lives
+
+S I 1 L 0 981f 7 Player 1 joins in with 10 lives
+
+R I 1 L 0 7e0531 9 Infinite lives for Player 1
+
+R I 1 L 0 7e18a9 1 Player 1 Always have shield
+
+R I 1 L 0 7e18b0 4 Rapid fire for Player 1
+
+R I 1 L 0 7e1899 6 Player 1 Weapon gauge always maxed
+
+R I 1 L 0 7e1897 0 Player 1 Current weapon modifier
+
+R I 1 L 0 7e18ad ff Player 1 Always have speed shoes
+
+R I 1 L 0 7e18a5 0 Player 1 Can't die
+
+R I 1 L 0 7e0532 9 Infinite lives for Player 2
+
+R I 1 L 0 7e18aa 1 Player 2 Always have shield
+
+R I 1 L 0 7e18b1 4 Rapid fire for Player 2
+
+R I 1 L 0 7e189a 6 Player 2 Weapon gauge always maxed
+
+R I 1 L 0 7e1898 0 Player 2 Current weapon modifier
+
+R I 1 L 0 7e18ae fa Player 2 Always have speed shoes
+
+R I 1 L 0 7e18a6 0 Player 2 Can't die
+
+R I 1 L 0 7e0533 9 Infinite credits
+
+R I 1 L 0 7e05b1 a Have 10 keys
+
+R I 1 L 0 7e052e 1 Turbo mode on
+
+R I 1 L 0 7e020e 1 Circuit warp on
+
+R I 1 L 0 7e026a 1 Sound check on
+
+R I 1 L 0 7e026a 2 More lives on
+
+R I 1 L 0 7e0531 5 Infinite Lives
+
+S I 1 L 0 81fd 0 Go To Ending
+
+S I 1 L 0 81fe 2 Go To Ending
+
+S I 1 L 0 81ff 19 Go To Ending
+
+S I 1 L 0 b167 0 Speed Shoes

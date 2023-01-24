@@ -1,0 +1,24 @@
+[] Xevious 3D-G+ (NTSC-U)
+R I 2 L 0 8010d0f8 9 Infinite Lives P1
+
+R I 2 L 0 8010d0f4 0 Score Modifier P1
+
+R I 2 L 0 8010d0f8 9 Infinite Lives P1
+
+R I 2 L 0 8010d0f4 0 Score Modifier P1
+
+R I 2 L 0 8011fbf8 9 Infinite Lives P1
+
+R I 2 L 0 8011fbf4 0 Score Modifier P1
+
+R I 2 L 0 8012dd58 9 Infinite Lives P1
+
+R I 2 L 0 8012dce0 0 Score Modifier P1
+
+R I 2 L 0 8012dcf0 0 Weapon Modifier P1
+
+R I 2 L 0 8011ea40 2 Weapon Power Up
+
+R I 2 L 0 80146a18 2 Invincibility
+
+R I 2 L 0 80025afa 2400 Invincibility

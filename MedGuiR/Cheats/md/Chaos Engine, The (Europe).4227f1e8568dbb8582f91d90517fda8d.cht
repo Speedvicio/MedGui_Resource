@@ -1,0 +1,22 @@
+[4227f1e8568dbb8582f91d90517fda8d] Chaos Engine, The (Europe)
+R I 2 L 0 ff0050 9 Infinite Lives P1
+
+R I 2 L 0 ff4104 63 Infinite Health P1
+
+R I 2 L 0 ff004a ff Lots of Points P1
+
+R I 2 L 0 ff0934 0 Have All Poles Activated (Not Initially Visible)
+
+R I 2 L 0 ff4114 6 Infinite Specials P1
+
+S I 2 L 0 1023e 6002 Infinite Lives
+
+S I 2 L 0 a534 6002 Infinite Energy
+
+S I 2 L 0 a188 4e71 Infinite Energy
+
+S I 2 L 0 6d80 6002 Infinite Money
+
+S I 2 L 0 a186 4e75 Invincibility (Disable Hit Detection)
+
+S I 2 L 0 a78e 4e75 Invincibility (Disable Hit Detection)

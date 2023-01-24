@@ -1,0 +1,12 @@
+[0] Golden Axe - The Duel (USA)
+R I 2 L 0 6078a5c 80 Infinite Health P1
+
+R I 2 L 0 6078b50 80 Infinite Health P2
+
+R I 1 L 0 6078a6a 5 P1 Inf Magic
+
+R I 1 L 0 6078b5e 0 P2 No Magic
+
+R I 1 L 0 60789b2 ff Freeze Time
+
+R I 1 L 0 60789b3 62 Inf Time

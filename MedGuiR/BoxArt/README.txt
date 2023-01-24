@@ -1,0 +1,1 @@
+Extract inside MedGuiR folder

@@ -1,0 +1,56 @@
+[] Guilty Gear (PAL-Unk)
+R I 2 L 0 80072b48 0 PAL2NTSC
+
+R I 2 L 0 800668d8 0 Y-Fix
+
+R I 1 L 0 80076ce8 bc Unendlich Lebensanzeige
+
+R I 1 L 0 80076ce8 8d 75% Lebensanzeige
+
+R I 1 L 0 80076ce8 5e 50% Lebensanzeige
+
+R I 1 L 0 80076ce8 2f 25% Lebensanzeige
+
+R I 1 L 0 80076ce8 1 SuddenDeath
+
+R I 1 L 0 80076ce8 0 Keine Health
+
+R I 1 L 0 80076d08 40 Max Chaosanzeige
+
+R I 1 L 0 80076d08 0 Keine Chaosanzeige
+
+R I 1 L 0 80076f62 2 Nur 1 Runde um Kampf zu gewinnen
+
+R I 1 L 0 80076f62 0 Gewinnt nie
+
+R I 1 L 0 80136544 a Testament (Druecke L1 & Select)
+
+R I 1 L 0 80136544 b Justice (Druecke L2 & Select)
+
+R I 1 L 0 80136544 c Baiken (Druecke R1 & Select)
+
+R I 1 L 0 80076fb8 bc Unendlich Lebensanzeige
+
+R I 1 L 0 80076fb8 8d 75% Lebensanzeige
+
+R I 1 L 0 80076fb8 5e 50% Lebensanzeige
+
+R I 1 L 0 80076fb8 2f 25% Lebensanzeige
+
+R I 1 L 0 80076fb8 1 SuddenDeath
+
+R I 1 L 0 80076fb8 0 Keine Health
+
+R I 1 L 0 80076fd8 40 Max Chaosanzeige
+
+R I 1 L 0 80076fd8 0 Keine Chaosanzeige
+
+R I 1 L 0 80077232 2 Nur 1 Runde um Kampf zu gewinnen
+
+R I 1 L 0 80077232 0 Gewinnt nie
+
+R I 1 L 0 80136548 a Testament (Druecke L1 & Select)
+
+R I 1 L 0 80136548 b Justice (Druecke L2 & Select)
+
+R I 1 L 0 80136548 c Baiken (Druecke R1 & Select)

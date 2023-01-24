@@ -1,0 +1,24 @@
+[0] Last Bronx (USA)
+R I 2 L 0 60955b8 0 No Energy Player 1
+
+R I 2 L 0 60955dc 0 No Energy Player 2
+
+R I 2 L 0 606f088 0 P1 Character Modifier
+
+R I 2 L 0 606f0ac 0 P2 Character Modifier
+
+R I 2 L 0 60955b8 24 25% Health P1
+
+R I 2 L 0 60955dc 24 25% Health P2
+
+R I 2 L 0 60955b8 48 50% Health P1
+
+R I 2 L 0 60955dc 48 50% Health P2
+
+R I 2 L 0 60955b8 6c 75% Health P1
+
+R I 2 L 0 60955dc 6c 75% Health P2
+
+R I 2 L 0 60955b8 1 1-Hit Death P1
+
+R I 2 L 0 60955dc 1 1-Hit Death P2

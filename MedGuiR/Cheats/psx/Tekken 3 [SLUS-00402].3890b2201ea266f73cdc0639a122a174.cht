@@ -1,0 +1,810 @@
+[] Tekken 3 (NTSC-U)
+R I 2 L 0 800b8d94 ffff Pick same person more than once in team battle mode
+
+R I 2 L 0 800b8e40 ffff Pick same person more than once in team battle mode
+
+R I 2 L 0 800442ae 2400 Hit Anywhere Both Players
+
+R I 2 L 0 80047d02 1000 Hit Anywhere Both Players
+
+R I 2 L 0 80044c02 1000 Blocking Disabled Both Players
+
+R I 2 L 0 800b8b94 ffff P1 Massive Damage
+
+R I 2 L 0 800b8b74 ffff P2 Massive Damage
+
+R I 2 L 0 800adbcc ffff Infinite Force Mode Time
+
+R I 2 L 0 800a961e 8c Press Select To Refill Life P1
+
+R I 2 L 0 800aaeaa 8c Press Select To Refill Life P2
+
+R I 2 L 0 800b6c04 1 Tekken Force Stage Skip
+
+R I 1 L 0 800a961e 8c Infinite Health P1
+
+R I 1 L 0 800aaeaa 8c Infinite Health P2
+
+R I 2 L 0 80097ef0 ffff Absolutely Everything Unlocked
+
+R I 1 L 0 80097ef2 1f Absolutely Everything Unlocked
+
+R I 2 L 0 80097ef4 382 Absolutely Everything Unlocked
+
+R I 1 L 0 80097ef6 5 Absolutely Everything Unlocked
+
+R I 2 L 0 80097ef8 ffff Absolutely Everything Unlocked
+
+R I 1 L 0 80097efa 1f Absolutely Everything Unlocked
+
+R I 1 L 0 80097efd 9 Absolutely Everything Unlocked
+
+R I 1 L 0 80097efe 1 Absolutely Everything Unlocked
+
+R I 2 L 0 80097f26 101 Absolutely Everything Unlocked
+
+R I 2 L 0 8006b052 303 No Music
+
+R I 2 L 0 800b8be6 100 Recorder Enabled
+
+R I 1 L 0 800a0510 be P1's Motions
+
+R I 1 L 0 800a923e be P1's Motions
+
+R I 1 L 0 800a08ae 0 P2's Motions
+
+R I 1 L 0 800aaaca 0 P2's Motions
+
+R I 1 L 0 800add5c 15 Set 1
+
+R I 1 L 0 800add5e 15 Set 1
+
+R I 1 L 0 8011868c 3 Set 1
+
+R I 1 L 0 80118708 3 Set 1
+
+R I 1 L 0 800b8da8 54 Set 1
+
+R I 1 L 0 800b8da8 56 Set 1
+
+R I 1 L 0 800b8da8 57 Set 1
+
+R I 1 L 0 800b8da8 55 Set 2
+
+R I 1 L 0 800b8e54 54 Set 2
+
+R I 1 L 0 800b8e54 56 Set 2
+
+R I 1 L 0 800b8e54 57 Set 2
+
+R I 1 L 0 800b8e54 55 Set 2
+
+R I 1 L 0 800adc84 0 Set 2
+
+R I 1 L 0 800adc84 e Set 2
+
+R I 1 L 0 800adc84 6 Set 3
+
+R I 1 L 0 800adc84 c Set 3
+
+R I 1 L 0 800add5c 15 Play As The Force Mode Enemies In Force Mode
+
+R I 1 L 0 8011868c 3 Play As The Force Mode Enemies In Force Mode
+
+R I 1 L 0 800a0510 0 P1
+
+R I 1 L 0 800a923e 0 P1
+
+R I 1 L 0 800a08ae 0 P2
+
+R I 1 L 0 800aaaca 0 P2
+
+R I 1 L 0 800afaac 0 Arcade Mode Stage Select
+
+R I 1 L 0 800adc84 0 Background Select
+
+R I 1 L 0 800aab79 0 Play as the CPU in Arcade Mode
+
+R I 1 L 0 800aab7b 1 CPU's Back Is Always Turned
+
+R I 1 L 0 800afaa0 0 No Black BGS (For True Ogre Fights)
+
+R I 1 L 0 800ae200 0 Invisible Life Bar
+
+R I 2 L 0 800adc19 0 Super Ridiculous Code
+
+R I 2 L 0 800b8e94 4556 Set 1
+
+R I 2 L 0 800b8e96 5352 Set 1
+
+R I 2 L 0 800b8e98 5355 Set 1
+
+R I 2 L 0 800b8e9a 4220 Set 1
+
+R I 2 L 0 800b8e9c 4f4f Set 1
+
+R I 2 L 0 800b8e9e 534b Set 1
+
+R I 2 L 0 800b8ea0 0 Set 1
+
+R I 2 L 0 800b8f0c 0 Set 2
+
+R I 2 L 0 800b8f20 4b53 Set 2
+
+R I 2 L 0 800b8f22 4c49 Set 2
+
+R I 2 L 0 800b8f24 214c Set 2
+
+R I 2 L 0 800b8f26 21 Set 2
+
+R I 2 L 0 800b8f28 4f52 Set 2
+
+R I 2 L 0 800b8f2a 4b43 Set 2
+
+R I 2 L 0 800b8f2c 2053 Set 3
+
+R I 2 L 0 800b8f2e 4957 Set 3
+
+R I 2 L 0 800b8f30 4854 Set 3
+
+R I 2 L 0 800b8f32 20 Set 3
+
+R I 1 L 0 800a961e 0 No Health P1
+
+R I 1 L 0 800aaeaa 0 No Health P2
+
+R I 2 L 0 800a961e 23 25% Health P1
+
+R I 2 L 0 800aaeaa 23 25% Health P2
+
+R I 2 L 0 800a961e 46 50% Health P1
+
+R I 2 L 0 800aaeaa 46 50% Health P2
+
+R I 2 L 0 800a961e 69 75% Health P1
+
+R I 2 L 0 800aaeaa 69 75% Health P2
+
+R I 2 L 0 800a961e 1 1-Hit Death P1
+
+R I 2 L 0 800aaeaa 1 1-Hit Death P2
+
+R I 2 L 0 800a9282 17 Grip of Death P1
+
+R I 2 L 0 800a934a 6f The Glow P1
+
+R I 2 L 0 800a9286 ff The Glow P1
+
+R I 2 L 0 800a9244 0 Skin Modifier
+
+R I 2 L 0 800add98 a Costume Modifier
+
+R I 2 L 0 8009e5ec ffff Neon Glow
+
+R I 2 L 0 80097f18 103 Play 5 Stages In Force Mode Instead of 4
+
+R I 1 L 0 800add5c 13 PL1 Is Dr. Boskonovitch
+
+R I 2 L 0 800aa000 a00 Body Modifier P1
+
+R I 2 L 0 800ab000 a400 Body Modifier P2
+
+R I 2 L 0 80047786 2400 Hit Anywhere (Both Players)
+
+R I 2 L 0 800477f6 2400 Hit Anywhere (Both Players)
+
+R I 2 L 0 80047ba2 2400 Hit Anywhere (Both Players)
+
+R I 2 L 0 800aabd6 6f Infinite Supercharge P2
+
+R I 2 L 0 800aab12 ff Infinite Supercharge P2
+
+R I 2 L 0 800a9622 0 Max Health Modifier P1
+
+R I 2 L 0 800aaeae 0 Max Health Modifier P1
+
+R I 2 L 0 800f1c14 64 Max Power Bar P1 (Ball Mode)
+
+R I 2 L 0 800f1c14 0 No Power Bar P1 (Ball Mode)
+
+R I 2 L 0 800f1c16 64 Max Power Bar P2 (Ball Mode)
+
+R I 2 L 0 800f1c16 0 No Power Bar P2 (Ball Mode)
+
+R I 2 L 0 800b8d94 ffff Pick Same Person More Than Once In Team Battle Mode
+
+R I 2 L 0 800b8e40 ffff Pick Same Person More Than Once In Team Battle Mode
+
+R I 2 L 0 8002232c 4853 Set 1
+
+R I 2 L 0 8002232e 5241 Set 1
+
+R I 2 L 0 80022330 424b Set 1
+
+R I 2 L 0 80022332 594f Set 1
+
+R I 2 L 0 80022304 454a Set 1
+
+R I 2 L 0 80022306 4944 Set 1
+
+R I 2 L 0 80022380 5254 Set 1
+
+R I 2 L 0 80022382 4555 Set 1
+
+R I 2 L 0 80022384 4a20 Set 1
+
+R I 2 L 0 80022386 4445 Set 1
+
+R I 2 L 0 80022388 49 Set 1
+
+R I 2 L 0 80022344 494a Set 1
+
+R I 2 L 0 80022346 4d Set 1
+
+R I 2 L 0 80022354 414d Set 1
+
+R I 2 L 0 80022356 5454 Set 1
+
+R I 2 L 0 800222d6 0 Set 2
+
+R I 2 L 0 800222d8 4320 Set 2
+
+R I 2 L 0 800222da 5552 Set 2
+
+R I 2 L 0 800222dc 2045 Set 2
+
+R I 2 L 0 800222de 3233 Set 2
+
+R I 2 L 0 800222e0 2000 Set 2
+
+R I 2 L 0 80022414 5243 Set 2
+
+R I 2 L 0 80022416 4555 Set 2
+
+R I 2 L 0 80022418 3233 Set 2
+
+R I 2 L 0 8001a384 5243 Set 2
+
+R I 2 L 0 8001a386 4555 Set 2
+
+R I 2 L 0 8001a388 5220 Set 2
+
+R I 2 L 0 8001a38a 4c55 Set 2
+
+R I 2 L 0 8001a38c 5a Set 2
+
+R I 2 L 0 8002220c 4f4e Set 2
+
+R I 2 L 0 8002220e 4841 Set 3
+
+R I 2 L 0 800221f4 4f53 Set 3
+
+R I 2 L 0 800221f6 5455 Set 3
+
+R I 2 L 0 800221f8 5348 Set 3
+
+R I 2 L 0 800221fa 4148 Set 3
+
+R I 2 L 0 800221fc 4b52 Set 3
+
+R I 2 L 0 80022000 4741 Set 3
+
+R I 2 L 0 80022002 4e45 Set 3
+
+R I 2 L 0 80022004 3954 Set 3
+
+R I 2 L 0 80022006 3939 Set 3
+
+R I 2 L 0 80022008 0 Set 3
+
+R I 2 L 0 8002229c 494e Set 3
+
+R I 2 L 0 8002229e 5350 Set 3
+
+R I 2 L 0 800222a0 59 Set 3
+
+R I 2 L 0 80022220 2044 Set 3
+
+R I 2 L 0 80022222 4e55 Set 4
+
+R I 2 L 0 80022224 4e4b Set 4
+
+R I 2 L 0 80022226 574f Set 4
+
+R I 2 L 0 80022228 4e Set 4
+
+R I 2 L 0 80022258 4f52 Set 4
+
+R I 2 L 0 8002225a 5952 Set 4
+
+R I 2 L 0 80022368 4542 Set 4
+
+R I 2 L 0 8002236a 4a4e Set 4
+
+R I 2 L 0 8002236c 4d41 Set 4
+
+R I 2 L 0 8002236e 4e49 Set 4
+
+R I 2 L 0 80022370 0 Set 4
+
+R I 2 L 0 80022238 3650 Set 4
+
+R I 2 L 0 8002223a 4234 Set 4
+
+R I 2 L 0 8002223c 594f Set 4
+
+R I 2 L 0 80022318 4943 Set 4
+
+R I 2 L 0 8002231a 4952 Set 5
+
+R I 2 L 0 8002231c 4c4c Set 5
+
+R I 2 L 0 8002231e 4f Set 5
+
+R I 2 L 0 800221e0 5453 Set 5
+
+R I 2 L 0 800221e2 4e49 Set 5
+
+R I 2 L 0 800221e4 594b Set 5
+
+R I 2 L 0 800221ac 4f4b Set 5
+
+R I 2 L 0 800221ae 474e Set 5
+
+R I 2 L 0 800221c0 4d42 Set 5
+
+R I 2 L 0 800221c2 42 Set 5
+
+R I 2 L 0 8002226c 4143 Set 5
+
+R I 2 L 0 8002226e 4c52 Set 5
+
+R I 2 L 0 80022270 534f Set 5
+
+R I 2 L 0 800223ac 414c Set 5
+
+R I 2 L 0 800223ae 5252 Set 5
+
+R I 2 L 0 800223b0 59 Set 6
+
+R I 2 L 0 800223c0 5543 Set 6
+
+R I 2 L 0 800223c2 4c52 Set 6
+
+R I 2 L 0 800223c4 59 Set 6
+
+R I 2 L 0 800223d4 4f4d Set 6
+
+R I 2 L 0 800223d6 45 Set 6
+
+R I 2 L 0 80022280 4444 Set 6
+
+R I 2 L 0 80022282 50 Set 6
+
+R I 2 L 0 800221d0 4a52 Set 6
+
+R I 2 L 0 800221d2 0 Set 6
+
+R I 2 L 0 800222b0 455a Set 6
+
+R I 2 L 0 800222b2 4f52 Set 6
+
+R I 2 L 0 800222c4 554d Set 6
+
+R I 2 L 0 800222c6 4b4e Set 6
+
+R I 2 L 0 800222c8 59 Set 6
+
+R I 2 L 0 800220dc 4554 Set 7
+
+R I 2 L 0 800220de 4b4b Set 7
+
+R I 2 L 0 800220e0 4e45 Set 7
+
+R I 2 L 0 800220e2 2033 Set 7
+
+R I 2 L 0 800220e4 4f54 Set 7
+
+R I 2 L 0 800220e6 4720 Set 7
+
+R I 2 L 0 800220e8 4353 Set 7
+
+R I 2 L 0 800220ea 4320 Set 7
+
+R I 2 L 0 800220ec 4e4f Set 7
+
+R I 2 L 0 800220ee 4556 Set 7
+
+R I 2 L 0 800220f0 5352 Set 7
+
+R I 2 L 0 800220f2 4f49 Set 7
+
+R I 2 L 0 800220f4 4e Set 7
+
+R I 1 L 0 800aab3f a JIN cd,4,1
+
+R I 1 L 0 800aab3e a JIN cd,4,1
+
+R I 1 L 0 800a9135 df JIN cd,4,1
+
+R I 2 L 0 801049b6 8010 JIN cd,4,1
+
+R I 2 L 0 801049b4 d6c JIN cd,4,1
+
+R I 2 L 0 801049b6 8010 JIN cd,4,1
+
+R I 2 L 0 801049b4 14dc JIN cd,4,1
+
+R I 1 L 0 800aab3f 9 JIN d/f+1,4
+
+R I 1 L 0 800aab3e 9 JIN d/f+1,4
+
+R I 1 L 0 800a9135 ef JIN d/f+1,4
+
+R I 2 L 0 8010492e 8010 JIN d/f+1,4
+
+R I 2 L 0 8010492c 14dc JIN d/f+1,4
+
+R I 2 L 0 8010492e 8010 JIN d/f+1,4
+
+R I 2 L 0 8010492c 100c JIN d/f+1,4
+
+R I 1 L 0 800aab3f 8 JIN b,f+2,1,3
+
+R I 1 L 0 800aab3e 8 JIN b,f+2,1,3
+
+R I 1 L 0 800a9135 ef JIN b,f+2,1,3
+
+R I 2 L 0 80104276 8010 JIN b,f+2,1,3
+
+R I 2 L 0 80104274 89c JIN b,f+2,1,3
+
+R I 2 L 0 80104276 8010 JIN b,f+2,1,3
+
+R I 2 L 0 80104274 b3c JIN b,f+2,1,3
+
+R I 1 L 0 800aab3f 23 JIN b,f+2,1,4
+
+R I 1 L 0 800aab3e 23 JIN b,f+2,1,4
+
+R I 1 L 0 800a9135 ef JIN b,f+2,1,4
+
+R I 2 L 0 80104276 800f JIN b,f+2,1,4
+
+R I 2 L 0 80104274 f524 JIN b,f+2,1,4
+
+R I 2 L 0 80104276 8010 JIN b,f+2,1,4
+
+R I 2 L 0 80104274 b3c JIN b,f+2,1,4
+
+R I 1 L 0 800aab3f e JIN 1,3
+
+R I 1 L 0 800aab3e e JIN 1,3
+
+R I 1 L 0 800a9135 ef JIN 1,3
+
+R I 2 L 0 80104542 8010 JIN 1,3
+
+R I 2 L 0 80104540 164 JIN 1,3
+
+R I 2 L 0 80104542 800f JIN 1,3
+
+R I 2 L 0 80104540 fad4 JIN 1,3
+
+R I 1 L 0 800aab3f f KIN 1+2,3
+
+R I 1 L 0 800aab3e f KIN 1+2,3
+
+R I 1 L 0 800a9135 7f KIN 1+2,3
+
+R I 2 L 0 80109656 8010 KIN 1+2,3
+
+R I 2 L 0 80109654 f4c KIN 1+2,3
+
+R I 2 L 0 80109656 8010 KIN 1+2,3
+
+R I 2 L 0 80109654 259c KIN 1+2,3
+
+R I 1 L 0 800aab3f 7 KIN d+3+4,1,3_1
+
+R I 1 L 0 800aab3e 7 KIN d+3+4,1,3_1
+
+R I 1 L 0 800a9135 ef KIN d+3+4,1,3_1
+
+R I 2 L 0 80109662 8010 KIN d+3+4,1,3_1
+
+R I 2 L 0 80109660 3134 KIN d+3+4,1,3_1
+
+R I 2 L 0 80109662 8010 KIN d+3+4,1,3_1
+
+R I 2 L 0 80109660 23dc KIN d+3+4,1,3_1
+
+R I 2 L 0 80109662 8010 KIN d+3+4,1,3_1
+
+R I 2 L 0 80109660 23dc KIN d+3+4,1,3_1
+
+R I 2 L 0 8010455a 8010 JIN f+2,4
+
+R I 2 L 0 80104558 1eb4 JIN f+2,4
+
+R I 1 L 0 800aab3f 7 JIN f+2,4
+
+R I 1 L 0 800aab3e 7 JIN f+2,4
+
+R I 1 L 0 800a9135 5f JIN f+2,4
+
+R I 2 L 0 80104a76 8010 JIN f+2,4
+
+R I 2 L 0 80104a74 11cc JIN f+2,4
+
+R I 2 L 0 80104936 8010 JIN f+2,4
+
+R I 2 L 0 80104934 11cc JIN f+2,4
+
+R I 2 L 0 8010493a 8010 JIN f+2,4
+
+R I 2 L 0 80104938 11cc JIN f+2,4
+
+R I 2 L 0 80104a74 1eec JIN f+2,4
+
+R I 2 L 0 80104938 ebc JIN f+2,4
+
+R I 2 L 0 80104934 e84 JIN f+2,4
+
+R I 1 L 0 800aab3f 9 JIN d/f+1,3
+
+R I 1 L 0 800aab3e 9 JIN d/f+1,3
+
+R I 1 L 0 800a9135 ef JIN d/f+1,3
+
+R I 2 L 0 8010492e 8010 JIN d/f+1,3
+
+R I 2 L 0 8010492c 1194 JIN d/f+1,3
+
+R I 2 L 0 8010492e 8010 JIN d/f+1,3
+
+R I 2 L 0 8010492c 100c JIN d/f+1,3
+
+R I 2 L 0 8010492a 8010 JIN WS,1,2 (Twin Lancer)
+
+R I 2 L 0 80104928 100c JIN WS,1,2 (Twin Lancer)
+
+R I 2 L 0 8010492a 8010 JIN WS,1,2 (Twin Lancer)
+
+R I 2 L 0 80104928 fd4 JIN WS,1,2 (Twin Lancer)
+
+R I 1 L 0 800aab3f 9 HEI cd,4,4,3
+
+R I 1 L 0 800aab3e 9 HEI cd,4,4,3
+
+R I 1 L 0 800a9135 7f HEI cd,4,4,3
+
+R I 2 L 0 80103b26 8010 HEI cd,4,4,3
+
+R I 2 L 0 80103b24 d6c HEI cd,4,4,3
+
+R I 2 L 0 80103b26 8010 HEI cd,4,4,3
+
+R I 2 L 0 80103b24 c1c HEI cd,4,4,3
+
+R I 1 L 0 800aab3f 9 BRY f+4,2,1,2_4
+
+R I 1 L 0 800aab3e 9 BRY f+4,2,1,2_4
+
+R I 1 L 0 800a9135 bf BRY f+4,2,1,2_4
+
+R I 2 L 0 80104dbe 800f BRY f+4,2,1,2_4
+
+R I 2 L 0 80104dbc fe6c BRY f+4,2,1,2_4
+
+R I 2 L 0 80104dbe 8010 BRY f+4,2,1,2_4
+
+R I 2 L 0 80104dbc 764 BRY f+4,2,1,2_4
+
+R I 1 L 0 800a86d5 1 JIN Power Stance (Ki Charge)
+
+R I 1 L 0 800a86d4 1 JIN Power Stance (Ki Charge)
+
+R I 1 L 0 800a86d7 1 JIN Power Stance (Ki Charge)
+
+R I 1 L 0 800a86d6 1 JIN Power Stance (Ki Charge)
+
+R I 2 L 0 800a934a 73 JIN Power Stance (Ki Charge)
+
+R I 2 L 0 800a86d4 0 JIN Power Stance (Ki Charge)
+
+R I 2 L 0 800a86d6 0 JIN Power Stance (Ki Charge)
+
+R I 1 L 0 800aab3f 5 JIN f+4 - 1.2.4 (180 Turn)
+
+R I 1 L 0 800aab3e 5 JIN f+4 - 1.2.4 (180 Turn)
+
+R I 1 L 0 800aab3f 1 JIN f+4 - 1.2.4 (180 Turn)
+
+R I 2 L 0 800aab0a 801b JIN f+4 - 1.2.4 (180 Turn)
+
+R I 2 L 0 800aab08 7768 JIN f+4 - 1.2.4 (180 Turn)
+
+R I 2 L 0 800aab02 801b JIN f+4 - 1.2.4 (180 Turn)
+
+R I 2 L 0 800aab00 7768 JIN f+4 - 1.2.4 (180 Turn)
+
+R I 1 L 0 800aab3f 5 HEI TGF (450 Backflip)
+
+R I 1 L 0 800aab3f 5 HEI TGF (450 Backflip)
+
+R I 1 L 0 800aab3f 5 HEI TGF (450 Backflip)
+
+R I 1 L 0 800aab3f 5 HEI TGF (450 Backflip)
+
+R I 1 L 0 800aab3f 5 HEI TGF (450 Backflip)
+
+R I 1 L 0 800aab3e 5 HEI TGF (450 Backflip)
+
+R I 1 L 0 800aab3f 1 HEI TGF (450 Backflip)
+
+R I 2 L 0 800aab0a 8016 HEI TGF (450 Backflip)
+
+R I 2 L 0 800aab08 a664 HEI TGF (450 Backflip)
+
+R I 2 L 0 800aab02 8016 HEI TGF (450 Backflip)
+
+R I 2 L 0 800aab00 a664 HEI TGF (450 Backflip)
+
+R I 1 L 0 800a08ae 7 HEI TGF (450 Backflip)
+
+R I 1 L 0 800aaaca 7 HEI TGF (450 Backflip)
+
+R I 1 L 0 800aab3f 5 KIN d+3+4,2 (450 Backflip)
+
+R I 1 L 0 800aab3f 5 KIN d+3+4,2 (450 Backflip)
+
+R I 1 L 0 800aab3e 5 KIN d+3+4,2 (450 Backflip)
+
+R I 1 L 0 800aab3f 1 KIN d+3+4,2 (450 Backflip)
+
+R I 2 L 0 800aab0a 8016 KIN d+3+4,2 (450 Backflip)
+
+R I 2 L 0 800aab08 a664 KIN d+3+4,2 (450 Backflip)
+
+R I 2 L 0 800aab02 8016 KIN d+3+4,2 (450 Backflip)
+
+R I 2 L 0 800aab00 a664 KIN d+3+4,2 (450 Backflip)
+
+R I 1 L 0 800a08ae 7 KIN d+3+4,2 (450 Backflip)
+
+R I 1 L 0 800aaaca 7 KIN d+3+4,2 (450 Backflip)
+
+R I 1 L 0 800aab3f 5 JIN f,f+3 (Ground Bounce Launch)
+
+R I 1 L 0 800aab3e 5 JIN f,f+3 (Ground Bounce Launch)
+
+R I 1 L 0 800aab3f 1 JIN f,f+3 (Ground Bounce Launch)
+
+R I 1 L 0 800aab3f 1 JIN f,f+3 (Ground Bounce Launch)
+
+R I 1 L 0 800aab3f 1 JIN f,f+3 (Ground Bounce Launch)
+
+R I 1 L 0 800aab3f 1 JIN f,f+3 (Ground Bounce Launch)
+
+R I 2 L 0 800aab0a 801b JIN f,f+3 (Ground Bounce Launch)
+
+R I 2 L 0 800aab08 7420 JIN f,f+3 (Ground Bounce Launch)
+
+R I 2 L 0 800aab02 801b JIN f,f+3 (Ground Bounce Launch)
+
+R I 2 L 0 800aab00 7420 JIN f,f+3 (Ground Bounce Launch)
+
+R I 1 L 0 800aab3f 5 HEI f,f+3 (Ground Bounce Launch)
+
+R I 1 L 0 800aab3e 5 HEI f,f+3 (Ground Bounce Launch)
+
+R I 1 L 0 800aab3f 1 HEI f,f+3 (Ground Bounce Launch)
+
+R I 1 L 0 800aab3f 1 HEI f,f+3 (Ground Bounce Launch)
+
+R I 1 L 0 800aab3f 1 HEI f,f+3 (Ground Bounce Launch)
+
+R I 1 L 0 800aab3f 1 HEI f,f+3 (Ground Bounce Launch)
+
+R I 2 L 0 800aab0a 801b HEI f,f+3 (Ground Bounce Launch)
+
+R I 2 L 0 800aab08 7420 HEI f,f+3 (Ground Bounce Launch)
+
+R I 2 L 0 800aab02 801b HEI f,f+3 (Ground Bounce Launch)
+
+R I 2 L 0 800aab00 7420 HEI f,f+3 (Ground Bounce Launch)
+
+R I 1 L 0 800aab3f d JIN EWGF (High Launch)
+
+R I 1 L 0 800aab3e d JIN EWGF (High Launch)
+
+R I 1 L 0 800aab3f 1 JIN EWGF (High Launch)
+
+R I 1 L 0 800aab3f 1 JIN EWGF (High Launch)
+
+R I 1 L 0 800aab3f 1 JIN EWGF (High Launch)
+
+R I 1 L 0 800aab3f 1 JIN EWGF (High Launch)
+
+R I 1 L 0 800aab3f 1 JIN EWGF (High Launch)
+
+R I 1 L 0 800aab3f 1 JIN EWGF (High Launch)
+
+R I 2 L 0 800aab0a 801b JIN EWGF (High Launch)
+
+R I 2 L 0 800aab08 6a80 JIN EWGF (High Launch)
+
+R I 2 L 0 800aab02 801b JIN EWGF (High Launch)
+
+R I 2 L 0 800aab00 6a80 JIN EWGF (High Launch)
+
+R I 1 L 0 800aab3f 9 HEI d+1 B!
+
+R I 1 L 0 800aab3e 1 HEI d+1 B!
+
+R I 1 L 0 800aab3f 1 HEI d+1 B!
+
+R I 1 L 0 800aab3e 9 HEI d+1 B!
+
+R I 2 L 0 800aab02 8010 HEI d+1 B!
+
+R I 2 L 0 800aab00 2f1c HEI d+1 B!
+
+R I 2 L 0 800aab0a 8010 HEI d+1 B!
+
+R I 2 L 0 800aab08 2f1c HEI d+1 B!
+
+R I 1 L 0 800aab3f 9 HEI f+4 B!
+
+R I 1 L 0 800aab3e 1 HEI f+4 B!
+
+R I 1 L 0 800aab3f 1 HEI f+4 B!
+
+R I 1 L 0 800aab3e 9 HEI f+4 B!
+
+R I 2 L 0 800aab02 8010 HEI f+4 B!
+
+R I 2 L 0 800aab00 2f1c HEI f+4 B!
+
+R I 2 L 0 800aab0a 8010 HEI f+4 B!
+
+R I 2 L 0 800aab08 2f1c HEI f+4 B!
+
+R I 1 L 0 800aab3f 9 BRY b+1 B! (Vs. Paul)
+
+R I 1 L 0 800aab3e 1 BRY b+1 B! (Vs. Paul)
+
+R I 1 L 0 800aab3f 1 BRY b+1 B! (Vs. Paul)
+
+R I 1 L 0 800aab3e 9 BRY b+1 B! (Vs. Paul)
+
+R I 2 L 0 800aab02 8016 BRY b+1 B! (Vs. Paul)
+
+R I 2 L 0 800aab00 5288 BRY b+1 B! (Vs. Paul)
+
+R I 2 L 0 800aab0a 8016 BRY b+1 B! (Vs. Paul)
+
+R I 2 L 0 800aab08 5288 BRY b+1 B! (Vs. Paul)
+
+R I 2 L 0 8010385c fb78 BRY b+1 B! (Vs. Paul)
+
+R I 2 L 0 8010385e 800f BRY b+1 B! (Vs. Paul)
+
+R I 2 L 0 801031cc 24d0 BRY b+1 B! (Vs. Paul)
+
+R I 2 L 0 801031ce 8016 BRY b+1 B! (Vs. Paul)
+
+R I 1 L 0 800a08ae 0 BRY b+1 B! (Vs. Paul)
+
+R I 1 L 0 800aaaca 0 BRY b+1 B! (Vs. Paul)
+
+R I 1 L 0 800aab3e 8 HEI 1+2 (Fire Animation)
+
+R I 2 L 0 800aab0a 801b HEI 1+2 (Fire Animation)
+
+R I 2 L 0 800aab08 73e8 HEI 1+2 (Fire Animation)
+
+R I 2 L 0 800aab02 801b HEI 1+2 (Fire Animation)
+
+R I 2 L 0 800aab00 73e8 HEI 1+2 (Fire Animation)

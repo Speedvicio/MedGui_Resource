@@ -1,0 +1,56 @@
+[] Einhander (NTSC-U)
+R I 2 L 0 80081326 ff 255x Multiplier
+
+R I 1 L 0 80085709 ff Hyper Mode
+
+R I 1 L 0 80085710 ff 255 Hits
+
+R I 2 L 0 800ada40 7 Debug Option-Go to config, file or gallery menu first. Then press Select.
+
+R I 2 L 0 800adaa6 1 Enable Stage Select
+
+R I 2 L 0 80085960 ffff Enable Stage Select
+
+R I 2 L 0 8008593c 0 Enable Stage Select
+
+R I 2 L 0 800813c4 3 Infinite Lives
+
+R I 2 L 0 80085718 a5 Invincible
+
+R I 2 L 0 80084832 f Infinite Special Weapon Ammo
+
+R I 2 L 0 80084834 f Infinite Special Weapon Ammo
+
+R I 2 L 0 80081326 28 Score Multiplier Always At 40
+
+R I 1 L 0 800ada53 5 Go To Gallery From Configuration (Press L2)
+
+R I 1 L 0 800ada53 4 Stage Select From Configuration (Press Select, Then X)
+
+R I 2 L 0 80085734 100 Push Triangle Button To Get Weapon
+
+R I 2 L 0 80085734 c00 Push Triangle Button To Get Weapon
+
+R I 2 L 0 80084982 f Infinite Top Pod Ammo
+
+R I 2 L 0 80081434 3 Have Unknown Fighter Type I
+
+R I 2 L 0 80081434 4 Have Unknown Fighter Type II
+
+R I 2 L 0 80084832 0 Press Triangle To Refill Ammo To ???? (Use Same 0001-9999)
+
+R I 2 L 0 80084834 0 Press Triangle To Refill Ammo To ???? (Use Same 0001-9999)
+
+R I 2 L 0 801fec9c ffff Enable Gallery With All Pictures
+
+R I 2 L 0 801fec9e ffff Enable Gallery With All Pictures
+
+R I 2 L 0 80084830 3c0 Invincible Weapons - Top Ammo Pod Position
+
+R I 2 L 0 80084b62 3c0 Invincible Weapons - Top Ammo Pod Position
+
+R I 2 L 0 80084980 3c0 Invincible Weapons - Bottom Ammo Pod Position
+
+R I 2 L 0 80084cb2 3c0 Invincible Weapons - Bottom Ammo Pod Position
+
+R I 2 L 0 8008573a 13 Unknown Fighter Type I Max Guns

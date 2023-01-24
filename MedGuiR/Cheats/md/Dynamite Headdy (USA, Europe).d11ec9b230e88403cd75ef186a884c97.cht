@@ -1,0 +1,60 @@
+[d11ec9b230e88403cd75ef186a884c97] Dynamite Headdy (USA, Europe)
+R I 2 L 0 ffd201 20 Infinite Energy
+
+R I 2 L 0 ffd203 2 Untouchable
+
+R I 2 L 0 ffe8ed 9 Infinite Lives
+
+R I 2 L 0 ffee0b 20 Always Have Hammer
+
+R I 2 L 0 ffe989 0 Baskets Made Modifier
+
+R I 2 L 0 ffe9c4 0 Secret Code is 0000
+
+R I 2 L 0 ffe9c6 0 Secret Code is 0000
+
+R I 2 L 0 ffe9c8 0 Secret Code is 0000
+
+R I 2 L 0 ffe9ca 0 Secret Code is 0000
+
+S I 2 L 0 10a10 4e71 Infinite Energy
+
+S I 2 L 0 15ed0 6002 Infinite Lives
+
+S I 2 L 0 15c62 664a Invincibility
+
+S I 2 L 0 10dd4 601a Hit Anywhere
+
+S I 2 L 0 10a10 4a78 Protection From Most Enemies
+
+S I 2 L 0 15dbc 4a78 Take No Damage When Falling Down Most Holes
+
+S I 2 L 0 7786 9 Start With 9 Lives
+
+S I 2 L 0 36e 4e71 Master Code
+
+S I 2 L 0 57ea4 6002 Input Secret Number 0000
+
+S I 2 L 0 10b60 4e75 Not die under press obstacles rising up on platform
+
+S I 2 L 0 1335c 4e71 Automatically go to the level select screen when you start the game
+
+S I 2 L 0 10a0c 4e75 Invincibility (Disable Hit Detection)
+
+S I 2 L 0 15c68 4e75 Invincibility (Disable Hit Detection)
+
+S I 2 L 0 15dfe 4e75 Invincibility (Disable Hit Detection)
+
+S I 2 L 0 15dbc 6004 Infinite Energy
+
+S I 2 L 0 36e 6002 Master Code
+
+S I 2 L 0 e0be 6002 Infinite Continues
+
+S I 2 L 0 84c8 5478 Start with 2 Continues, instead of none, like the Japanese version
+
+S I 2 L 0 109f2 103c Take Less Damage
+
+S I 2 L 0 109f4 1 Take Less Damage
+
+S I 2 L 0 7786 5 Start With ?? Lives

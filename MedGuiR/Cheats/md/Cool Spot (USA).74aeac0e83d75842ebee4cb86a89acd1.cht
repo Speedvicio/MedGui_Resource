@@ -1,0 +1,104 @@
+[74aeac0e83d75842ebee4cb86a89acd1] Cool Spot (USA)
+S I 2 L 0 d0d8a 6004 Invincibility
+
+S I 2 L 0 cbb68 4e71 Infinite lives
+
+S I 2 L 0 d0e3e 4e71 Infinite time to complete round
+
+S I 2 L 0 d098c 31 Start with 2 lives
+
+S I 2 L 0 d098c 32 Start with 3 lives
+
+S I 2 L 0 d098c 34 Start with 5 lives
+
+S I 2 L 0 d098c 35 Start with 6 lives
+
+S I 2 L 0 d098c 36 Start with 7 lives
+
+S I 2 L 0 d098c 37 Start with 8 lives
+
+S I 2 L 0 d098c 38 Start with 9 lives
+
+S I 2 L 0 d098c 39 Start with 10 lives
+
+S I 2 L 0 ccda8 1 Start with 1 health point
+
+S I 2 L 0 ccda8 3 Start with 3 health points
+
+S I 2 L 0 ccda8 5 Start with 5 health points
+
+S I 2 L 0 ccd7a 3031 10 points needed to get to complete round
+
+S I 2 L 0 ccd7a 3032 20 points needed to get to complete round
+
+S I 2 L 0 ccd7a 3033 30 points needed to get to complete round
+
+S I 2 L 0 ccd7a 3034 40 points needed to get to complete round
+
+S I 2 L 0 ccd7a 3037 70 points needed to get to complete round
+
+S I 2 L 0 ccd7a 3038 80 points needed to get to complete round
+
+S I 2 L 0 ccd7a 3039 90 points needed to get to complete round
+
+S I 2 L 0 ccd70 3030 5 points needed to get to bonus round
+
+S I 2 L 0 ccd70 3031 15 points needed to get to bonus round
+
+S I 2 L 0 ccd70 3032 25 points needed to get to bonus round
+
+S I 2 L 0 ccd70 3033 35 points needed to get to bonus round
+
+S I 2 L 0 ccd70 3034 45 points needed to get to bonus round
+
+S I 2 L 0 ccd70 3035 55 points needed to get to bonus round
+
+S I 2 L 0 ccd70 3036 65 points needed to get to bonus round
+
+S I 2 L 0 ccd70 3037 75 points needed to get to bonus round
+
+S I 2 L 0 ccd70 3039 95 points needed to get to bonus round
+
+S I 2 L 0 cda64 4a39 Invincibility
+
+S I 2 L 0 cc06a fa00 Super Jump
+
+S I 2 L 0 cc06a f500 Hyper Jump
+
+S I 2 L 0 cbb6a 6004 Infinite Lives
+
+S I 2 L 0 cda82 6600 Invincibility
+
+R I 2 L 0 ff0770 ff Invincibility Cheat Enabled
+
+R I 2 L 0 ff0774 ff Freezability Cheat Enabled
+
+R I 2 L 0 ff0776 2 Level Select
+
+R I 2 L 0 fff578 ff Instantly Pass Level While Code Is Enabled
+
+R I 2 L 0 ff0714 31 Infinite Time
+
+R I 2 L 0 ff07a2 0 Bubbles Rise Faster
+
+R I 2 L 0 ff07aa 8e Semi-Moon Jump/Walk In Air
+
+R I 2 L 0 fff57e 53 Enemies Can't Touch You
+
+S I 2 L 0 ced24 6000 Walking/Flying Enemies Cannot Move (Sadly your projectiles also stay in place)
+
+S I 2 L 0 cec3c 6000 Walking Enemies Fall To Their Death
+
+S I 2 L 0 cdeaa 4268 1 Shot Kill Enemies
+
+R I 2 L 0 fff57c 8 Infinite Health
+
+S I 2 L 0 cff18 4e75 Invincibility. You can walk through enemies and collect items
+
+S I 2 L 0 f1d2 ff00 Press A in the Option screen to activate the debug menu (infinite lives, level select, etc)
+
+S I 2 L 0 cbfac 0 Controllable Jump
+
+R I 2 L 0 ff0003 f2 Press C in the Options Menu for Debug Menu
+
+S I 2 L 0 cdc30 6036 Hit enemies from anywhere

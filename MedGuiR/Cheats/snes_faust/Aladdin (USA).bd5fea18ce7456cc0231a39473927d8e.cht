@@ -1,0 +1,178 @@
+[8e00910312b30663768d907114d301c2] Aladdin (USA)
+R I 1 L 0 7e0369 99 Infinite Apples
+
+R I 1 L 0 7e036b 99 Max Gems
+
+R I 1 L 0 7e0367 a Full Hearts
+
+R I 1 L 0 7e0364 a Max Lives
+
+R I 1 L 0 7e0347 4 Totally Invincible
+
+R I 1 L 0 7e096c 1 Abu Doesn't Follow You
+
+R I 1 L 0 7e146b 80 Abu Eats An Apple
+
+R I 1 L 0 7e08fb 16 Moon Jump
+
+R I 1 L 0 7e091b 0 Jump Pose Mod
+
+R I 1 L 0 7e141e ff Horizontal Jump Mod
+
+R I 1 L 0 7e141f e Glide
+
+R I 1 L 0 7e035d be Stage Mod
+
+S I 1 L 0 81d450 69 Super Jump
+
+S I 1 L 0 81d451 1c Super Jump
+
+S I 1 L 0 818120 1 Start with 1 life
+
+S I 1 L 0 818120 5 Start with 5 lives
+
+S I 1 L 0 818120 14 Start with 20 lives
+
+S I 1 L 0 81dc67 ad Infinite lives
+
+S I 1 L 0 809fb5 1 Start with 1 continue
+
+S I 1 L 0 809fb5 5 Start with 5 continues
+
+S I 1 L 0 809fb5 a Start with 9 continues
+
+S I 1 L 0 80b3ec ad Infinite continues
+
+S I 1 L 0 81812b 2 Start with 2 health
+
+S I 1 L 0 81812b 5 Start with 5 health
+
+S I 1 L 0 81812b 7 Start with 7 health
+
+S I 1 L 0 838031 ad Almost invincible
+
+S I 1 L 0 83bc4b 1c Emeralds worth 2 instead of 1
+
+S I 1 L 0 83bc4b 19 Emeralds worth 3
+
+S I 1 L 0 83bc65 ce Rubies worth 1 instead of 3
+
+S I 1 L 0 83bc65 ad Rubies worth 2
+
+S I 1 L 0 83bc86 10 Only 10 gems needed for health increase/free life
+
+S I 1 L 0 83bc86 20 Only 20 gems needed for health increase/free life
+
+S I 1 L 0 83bc86 30 Only 30 gems needed for health increase/free life
+
+S I 1 L 0 83bc86 40 Only 40 gems needed for health increase/free life
+
+S I 1 L 0 83bc86 50 Only 50 gems needed for health increase/free life
+
+S I 1 L 0 83bc86 60 Only 60 gems needed for health increase/free life
+
+S I 1 L 0 83bc86 90 Only 90 gems needed for health increase/free life
+
+S I 1 L 0 818136 5 Start with 5 apples
+
+S I 1 L 0 818136 20 Start with 20 apples
+
+S I 1 L 0 81ce5b ea Infinite apples
+
+S I 1 L 0 83b890 20 Apple power-ups worth 20 instead of 10
+
+S I 1 L 0 83b890 50 Apple power-ups worth 50
+
+S I 1 L 0 83b890 90 Apple power-ups worth 90
+
+S I 1 L 0 809f7a 0 Level select on main menu [use R + Up/Down to change level, R + Left/Right to change sub-level]
+
+S I 1 L 0 809fc7 0 Level select on main menu [use R + Up/Down to change level, R + Left/Right to change sub-level]
+
+S I 1 L 0 81cc30 0 Bonus round played after every level
+
+S I 1 L 0 838031 cd Infinite Energy
+
+S I 1 L 0 81dc67 cd Infinite Lives
+
+S I 1 L 0 81ce5c ad Infinite Apples
+
+S I 1 L 0 80c28d 16 Super Jump
+
+S I 1 L 0 80d089 16 Super Jump
+
+R I 1 L 0 7e036e 1 Always Have Parachute
+
+R I 1 L 0 7e0367 3 Infinite Health
+
+S I 1 L 0 83803e ad Intangible After First Hit
+
+R I 1 L 0 7e03f6 70 Infinite Apples
+
+R I 1 L 0 7e0349 8 Jump is Reassigned to Up on the D-Pad
+
+R I 1 L 0 7e0351 1 Background & Foreground move automatically
+
+R I 1 L 0 7e0371 1 No Sound Effects
+
+R I 1 L 0 7e0901 1 Aladdin Has Faster Animation
+
+R I 1 L 0 7e0951 1 Abu Has Faster Animation
+
+R I 1 L 0 7e0934 1 Abu is Gone
+
+S I 1 L 0 81b45a a5 Walk Through Walls And Objects
+
+S I 1 L 0 81b640 a5 Walk Through Walls And Objects
+
+S I 1 L 0 8380e7 ad Walk Through Walls And Objects
+
+S I 1 L 0 83872e ad Walk Through Walls And Objects
+
+S I 1 L 0 839738 ad Walk Through Walls And Objects
+
+R I 1 L 0 7e03f5 ff Invincibility
+
+S I 1 L 0 81e8c2 0 Invincibility against Enemies
+
+S I 1 L 0 838053 8 Invincibility against Enemies
+
+S I 1 L 0 81d089 18 Moon Jump with Moon Gravity Descent
+
+S I 1 L 0 81d964 18 Moon Jump with Moon Gravity Descent
+
+S I 1 L 0 81d692 18 Moon Jump with Moon Gravity Descent
+
+S I 1 L 0 818101 ea Start every life with ?? Hearts
+
+S I 1 L 0 818102 a9 Start every life with ?? Hearts
+
+S I 1 L 0 818103 5 Start every life with ?? Hearts
+
+S I 1 L 0 83aaa8 90 Enemies are stunned ?? longer
+
+S I 1 L 0 838031 ad Infinite Health against Enemies
+
+S I 1 L 0 838010 ad Infinite Health against Spikes and Lava
+
+S I 1 L 0 81d08f f0 Moon Jump
+
+S I 1 L 0 81d094 0 Moon Jump
+
+S I 1 L 0 81d09b fd Moon Jump
+
+S I 1 L 0 81d09d 1e Moon Jump
+
+S I 1 L 0 81d10b 80 Invincibility against Spikes
+
+S I 1 L 0 81d08d 82 Jump in Midair
+
+S I 1 L 0 81d08f 10 Jump in Midair
+
+S I 1 L 0 81d091 4c Jump in Midair
+
+S I 1 L 0 81d092 ec Jump in Midair
+
+S I 1 L 0 81d093 cf Jump in Midair
+
+S I 1 L 0 81d02a a9 Jump in Midair

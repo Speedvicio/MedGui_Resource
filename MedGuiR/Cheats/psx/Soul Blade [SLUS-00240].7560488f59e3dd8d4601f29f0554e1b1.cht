@@ -1,0 +1,268 @@
+[] Soul Blade (NTSC-U)
+R I 2 L 0 800ea64c 18 Enable 13 secret charecters that cannot normally be unlocked
+
+R I 2 L 0 800ea650 18 Enable 13 secret charecters that cannot normally be unlocked
+
+R I 1 L 0 800a23b5 19 Enable 13 secret charecters that cannot normally be unlocked
+
+R I 1 L 0 800a23b6 11 Enable 13 secret charecters that cannot normally be unlocked
+
+R I 1 L 0 800a23b7 12 Enable 13 secret charecters that cannot normally be unlocked
+
+R I 1 L 0 800a23b8 18 Enable 13 secret charecters that cannot normally be unlocked
+
+R I 1 L 0 800a23b9 e Enable 13 secret charecters that cannot normally be unlocked
+
+R I 1 L 0 800a23ba 16 Enable 13 secret charecters that cannot normally be unlocked
+
+R I 1 L 0 800a23bd 15 Enable 13 secret charecters that cannot normally be unlocked
+
+R I 1 L 0 800a23be 14 Enable 13 secret charecters that cannot normally be unlocked
+
+R I 1 L 0 800a23bf 10 Enable 13 secret charecters that cannot normally be unlocked
+
+R I 1 L 0 800a23bb 13 Enable 13 secret charecters that cannot normally be unlocked
+
+R I 1 L 0 800a23bc 17 Enable 13 secret charecters that cannot normally be unlocked
+
+R I 1 L 0 800a23c0 f Enable 13 secret charecters that cannot normally be unlocked
+
+R I 2 L 0 800c2db8 0 Player 2 controls Edgemaster mode enemies
+
+R I 2 L 0 800bfe80 0 Player 2 controls Edgemaster mode enemies
+
+R I 2 L 0 800238a8 0 PAL2NTSC
+
+R I 2 L 0 800c43f4 0 Screen X
+
+R I 2 L 0 800c5944 0 Screen X
+
+R I 2 L 0 800c43f6 0 Screen Y
+
+R I 2 L 0 800c5946 0 Screen Y
+
+R I 2 L 0 80059512 2400 Players can choose more than 1 of the same character in Team Battle
+
+R I 2 L 0 80053590 100 Select button pauses game instead of Start
+
+R I 2 L 0 80042eda 2400 Hit &amp; throw anywhere both players
+
+R I 2 L 0 80043226 3c03 Infinite weapon power both players
+
+R I 2 L 0 80043224 60 One hit weapon loss both players
+
+R I 2 L 0 80043226 3c03 One hit weapon loss both players
+
+R I 1 L 0 80038aca 80 Stop Time Attack timer
+
+R I 1 L 0 80038af2 80 Stop Time Attack timer
+
+R I 2 L 0 800edb2c 63 Infinite time
+
+R I 1 L 0 8009abd4 0 Difficulty level
+
+R I 1 L 0 8009abd5 0 Ring size
+
+R I 1 L 0 8009abd6 0 Battle count
+
+R I 1 L 0 8009abd7 0 Battle time
+
+R I 1 L 0 8009abd8 0 Life bar 100%
+
+R I 1 L 0 8009abd9 1 Character change at continue
+
+R I 1 L 0 8009abda 1 Character select mode
+
+R I 1 L 0 8009abe6 1 CPU character&#039;s weapon
+
+R I 2 L 0 800c0006 f1 Infinite health
+
+R I 2 L 0 800c0006 b4 75% health
+
+R I 2 L 0 800c0006 78 50% health
+
+R I 2 L 0 800c0006 3c 25% health
+
+R I 2 L 0 800c0006 0 No health
+
+R I 2 L 0 800c0006 1 SuddenDeath
+
+R I 2 L 0 800c0162 0 No sword power
+
+R I 2 L 0 800c309a 60 Maximum weapon strength
+
+R I 2 L 0 800bfd14 0 Character select
+
+R I 2 L 0 800c2f3e f1 Infinite health
+
+R I 2 L 0 800c2f3e b4 75% health
+
+R I 2 L 0 800c2f3e 78 50% health
+
+R I 2 L 0 800c2f3e 3c 25% health
+
+R I 2 L 0 800c2f3e 0 No health
+
+R I 2 L 0 800c2f3e 1 SuddenDeath
+
+R I 2 L 0 800c309a 0 No sword power
+
+R I 2 L 0 800c0162 60 Maximum weapon strength
+
+R I 2 L 0 800c2c4c 0 Character select
+
+R I 2 L 0 800e9b3c ff Mitsurugi
+
+R I 2 L 0 800ea38c ff Mitsurugi
+
+R I 2 L 0 800ea3a0 ff Mitsurugi
+
+R I 2 L 0 800e9b3e ff Seung Mina
+
+R I 2 L 0 800ee38e ff Seung Mina
+
+R I 2 L 0 800ea3a2 ff Seung Mina
+
+R I 2 L 0 800e9b40 ff Taki
+
+R I 2 L 0 800ea390 ff Taki
+
+R I 2 L 0 800ea3a4 ff Taki
+
+R I 2 L 0 800e9b42 ff Li Long
+
+R I 2 L 0 800ea392 ff Li Long
+
+R I 2 L 0 800ea3a6 ff Li Long
+
+R I 2 L 0 800e9b44 ff Voldo
+
+R I 2 L 0 800ea394 ff Voldo
+
+R I 2 L 0 800ea3a8 ff Voldo
+
+R I 2 L 0 800e9b46 ff Sophitia
+
+R I 2 L 0 800ea396 ff Sophitia
+
+R I 2 L 0 800ea3aa ff Sophitia
+
+R I 2 L 0 800e9b48 ff Siegfried
+
+R I 2 L 0 800ea398 ff Siegfried
+
+R I 2 L 0 800ea3ac ff Siegfried
+
+R I 2 L 0 800e9b4a ff Rock
+
+R I 2 L 0 800ea39a ff Rock
+
+R I 2 L 0 800ea3ae ff Rock
+
+R I 2 L 0 800e9b4c ff Hwang
+
+R I 2 L 0 800ea39c ff Hwang
+
+R I 2 L 0 800ea3b0 ff Hwang
+
+R I 2 L 0 800e9b4e ff Voldo
+
+R I 2 L 0 800ea39e ff Voldo
+
+R I 2 L 0 800ea3b2 ff Voldo
+
+R I 1 L 0 8009abea 1 SoulEdge
+
+R I 1 L 0 8009abea 4 Han Myong
+
+R I 1 L 0 8009abea 5 SoulEdge &amp; Han Myong
+
+R I 2 L 0 800bffba f0 Infinite Health P1
+
+R I 2 L 0 800bffba 3c 25% Health P1
+
+R I 2 L 0 800bffba 78 50% Health P1
+
+R I 2 L 0 800bffba b4 75% Health P1
+
+R I 2 L 0 800bffba 0 No Health P1
+
+R I 2 L 0 800bffba 1 One-Hit Death P1
+
+R I 2 L 0 800c0116 60 Infinite Sword Power P1
+
+R I 2 L 0 800c0116 0 No Sword Power P1
+
+R I 2 L 0 800c2ef2 f0 Infinite Health P2
+
+R I 2 L 0 800c2ef2 3c 25% Health P2
+
+R I 2 L 0 800c2ef2 78 50% Health P2
+
+R I 2 L 0 800c2ef2 b4 75% Health P2
+
+R I 2 L 0 800c2ef2 0 P2 No Energy
+
+R I 2 L 0 800c2ef2 1 One-Hit Death P2
+
+R I 2 L 0 800c304e 60 Infinite Sword Power P2
+
+R I 2 L 0 800c304e 0 No Sword Power P2
+
+R I 2 L 0 800ea352 ffff All Weapons Cervantes
+
+R I 2 L 0 800ea368 ffff All Weapons Cervantes
+
+R I 2 L 0 800ea350 ffff All Weapons Hwang
+
+R I 2 L 0 800ea366 ffff All Weapons Hwang
+
+R I 2 L 0 800ea346 ffff All Weapons Li Long
+
+R I 2 L 0 800ea35c ffff All Weapons Li Long
+
+R I 2 L 0 800ea340 ffff All Weapons Mitsurugi
+
+R I 2 L 0 800ea356 ffff All Weapons Mitsurugi
+
+R I 2 L 0 800ea34e ffff All Weapons Rock
+
+R I 2 L 0 800ea364 ffff All Weapons Rock
+
+R I 2 L 0 800ea34c ffff All Weapons Seigfried
+
+R I 2 L 0 800ea362 ffff All Weapons Seigfried
+
+R I 2 L 0 800ea342 ffff All Weapons Seung Mina
+
+R I 2 L 0 800ea358 ffff All Weapons Seung Mina
+
+R I 2 L 0 800ea344 ffff All Weapons Taki
+
+R I 2 L 0 800ea35a ffff All Weapons Taki
+
+R I 2 L 0 800ea348 ffff All Weapons Voldo
+
+R I 2 L 0 800ea35e ffff All Weapons Voldo
+
+R I 2 L 0 800ea34a ffff All Weapons Sophitia
+
+R I 2 L 0 800ea360 ffff All Weapons Sophitia
+
+R I 2 L 0 8009ab4e 1107 Unlock SoulEdge & Han Myong
+
+R I 2 L 0 8009ab40 0 Title Screen Modifier
+
+R I 2 L 0 80042e1e 2400 Hit Anywhere (Both Players)
+
+R I 2 L 0 800bffba ffff P1 Dies Right Away
+
+R I 2 L 0 800bffba fff P1 Wins All Battles
+
+R I 2 L 0 800c2ef2 ffff P1 Wins All Battles
+
+R I 2 L 0 800ea48c 18 Enable 13 Extra Characters
+
+R I 2 L 0 800ea490 18 Enable 13 Extra Characters
+
+R I 2 L 0 800c2bf8 0 P2 Controls Enemies In Quest Mode

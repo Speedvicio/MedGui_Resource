@@ -1,0 +1,23 @@
+[] Gungage (PAL-E)
+R I 2 L 0 8003186a 3c00 PAL2NTSC
+R I 2 L 0 800ee5f6 3c00 Infinite Health
+R I 2 L 0 800e0a9e 3c00 Infinite lives
+R I 2 L 0 800499c2 aa Infinite gun power
+R I 2 L 0 8004ab7c 270f Infinite magic shield
+R I 1 L 0 800498e8 1 All characters enabled
+R I 1 L 0 80049914 1 All characters enabled
+R I 1 L 0 80049940 1 All characters enabled
+R I 2 L 0 8004a320 dc Can float in air
+R I 2 L 0 8004a324 a Can float in air
+R I 2 L 0 8004719c 0 PAL2NTSC
+R I 2 L 0 80029d54 0 Y-Fix
+R I 1 L 0 8004999d 63 Habe 99 PowerUps (Druecke Select)
+R I 4 L 0 800ee5f4 0 Unendlich Lebensenergie
+R I 2 L 0 8004989a ffff Have All Flowers Collected
+R I 2 L 0 8004989c ffff Have All Flowers Collected
+R I 2 L 0 8004989e ffff Have All Flowers Collected
+R I 2 L 0 800498a0 ffff Have All Flowers Collected
+R I 2 L 0 800498a2 ffff Have All Flowers Collected
+R I 2 L 0 800498a4 ffff Have All Flowers Collected
+R I 2 L 0 800525a2 0 Kill Last Boss in One Hit
+R I 2 L 0 800528f2 0 Kill Last Boss in One Hit

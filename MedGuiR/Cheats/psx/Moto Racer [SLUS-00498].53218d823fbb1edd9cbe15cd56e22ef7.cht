@@ -1,0 +1,112 @@
+[] Moto Racer (NTSC-U)
+R I 1 L 0 800142ce 40 PAL2NTSC
+
+R I 1 L 0 80021a62 40 PAL2NTSC
+
+R I 1 L 0 80068262 40 PAL2NTSC
+
+R I 1 L 0 80078cd6 40 PAL2NTSC
+
+R I 1 L 0 80077e32 40 PAL2NTSC
+
+R I 1 L 0 80021aca 40 PAL2NTSC
+
+R I 2 L 0 800177e4 0 Y-Fix
+
+R I 2 L 0 80023f38 0 Y-Fix
+
+R I 2 L 0 8007b224 0 Y-Fix
+
+R I 2 L 0 8007a380 0 Y-Fix
+
+R I 2 L 0 80023fa0 0 Y-Fix
+
+R I 2 L 0 8006a7b0 0 Y-Fix
+
+R I 2 L 0 8008f4d0 d852 Infinite time
+
+R I 2 L 0 800a5386 3333 Asshole driver
+
+R I 2 L 0 800a5386 2fc0 Crazy speed
+
+R I 2 L 0 800a538e 42a0 Extra speed
+
+R I 1 L 0 80110440 6 Fun Fair
+
+R I 1 L 0 80110440 7 Sea of Sands
+
+R I 1 L 0 80110440 8 Red City
+
+R I 1 L 0 80110440 9 Snow Ride
+
+R I 2 L 0 8008eb64 0 Lap 1
+
+R I 2 L 0 8008eb68 0 Lap 2
+
+R I 2 L 0 8008eb6c 0 Lap 3
+
+R I 2 L 0 8008eb70 0 Lap 4
+
+R I 2 L 0 8003b09c 23 On (Press Select &amp; Up)
+
+R I 2 L 0 8003b09c 1023 Off (Press Select &amp; Down)
+
+R I 2 L 0 80031018 21 On (Press Select &amp; L1)
+
+R I 2 L 0 80031018 1021 Off (Press Select &amp; R1)
+
+R I 2 L 0 80077fbc 0 On (Press Select &amp; L2)
+
+R I 2 L 0 80077fbc 5 Off (Press Select &amp; R2)
+
+R I 2 L 0 8002657c 23 On (Press Select &amp; L1 &amp; L2)
+
+R I 2 L 0 8002657c 1023 Off (Press Select &amp; R1 &amp; R2)
+
+R I 2 L 0 8003102e 3400 Off (Press Select &amp; L1 &amp; R1)
+
+R I 2 L 0 8003102e c01 On (Press Select &amp; L2 &amp; R2)
+
+R I 2 L 0 8004ede2 3400 On (Press Select &amp; Left)
+
+R I 2 L 0 8004edf6 3400 On (Press Select &amp; Left)
+
+R I 2 L 0 8004ee06 3400 On (Press Select &amp; Left)
+
+R I 2 L 0 8004ee1a 3400 On (Press Select &amp; Left)
+
+R I 2 L 0 8004ede2 c02 Off (Press Select &amp; Right)
+
+R I 2 L 0 8004edf6 c02 Off (Press Select &amp; Right)
+
+R I 2 L 0 8004ee06 c02 Off (Press Select &amp; Right)
+
+R I 2 L 0 8004ee1a c01 Off (Press Select &amp; Right)
+
+R I 2 L 0 800643b8 23 On (Press Select &amp; Up)
+
+R I 2 L 0 800643b8 1823 Off (Press Select &amp; Down)
+
+R I 2 L 0 8006cac4 23 On (Press Select &amp; L1)
+
+R I 2 L 0 8006cac4 1023 Off (Press Select &amp; R1)
+
+R I 2 L 0 800643ec 23 On (Press Select &amp; Up)
+
+R I 2 L 0 800643ec 1823 Off (Press Select &amp; Down)
+
+R I 2 L 0 8006cac4 23 On (Press Select &amp; L1)
+
+R I 2 L 0 8006cac4 1023 Off (Press Select &amp; R1)
+
+R I 2 L 0 800a5516 701 Always Come in First
+
+R I 2 L 0 8008f4cc f9f1 Always Come in First
+
+R I 2 L 0 800a558e 4300 Max Speed
+
+R I 2 L 0 800a5596 4300 Max Speed
+
+R I 2 L 0 8008ed6c 0 Lap Time is 0:00:00
+
+R I 2 L 0 8008f6d8 a000 Infinite Time

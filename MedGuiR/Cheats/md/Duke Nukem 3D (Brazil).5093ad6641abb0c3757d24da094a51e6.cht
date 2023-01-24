@@ -1,0 +1,64 @@
+[5093ad6641abb0c3757d24da094a51e6] Duke Nukem 3D (Brazil)
+S I 2 L 0 4e82 1f Infinite Energy
+
+S I 2 L 0 41dc 1f Infinite Ammo Weapon 2
+
+S I 2 L 0 4290 1f Infinite Ammo Weapon 3
+
+S I 2 L 0 4548 1f Infinite Ammo Weapon 5
+
+R I 2 L 0 ff5572 c8 Infinite Energy
+
+R I 2 L 0 ff5566 63 Infinite Ammo Wp2
+
+R I 2 L 0 ff5568 63 Infinite Ammo Wp3
+
+R I 2 L 0 ff556a 63 Infinite Ammo Wp4
+
+R I 2 L 0 ff556c 63 Infinite Ammo Wp5
+
+R I 2 L 0 ff556e 63 Infinite Ammo Wp6
+
+R I 2 L 0 ff5570 63 Infinite Ammo Wp7
+
+S I 2 L 0 4e80 6004 Protection From All Enemy Attacks
+
+S I 2 L 0 31d4 64 Large Medkits Restore 100 Health Points (Instead of 30)
+
+S I 2 L 0 428e 6004 Infinite Shotgun Ammo
+
+S I 2 L 0 44bc 6004 Infinite Chaingun Ammo
+
+S I 2 L 0 4546 6004 Infinite RPG Ammo
+
+S I 2 L 0 466a 6004 Infinite Devastator Ammo
+
+S I 2 L 0 46bc 6004 Infinite Devastator Ammo
+
+S I 2 L 0 2ee6 c8 Start A New Game With 200 Pistol Ammo (Instead of 48)
+
+S I 2 L 0 2eea 5568 Start A New Game With 48 Shotgun Shells (Instead of 48 Bullets)
+
+S I 2 L 0 2eea 556a Start A New Game With 48 Chaingun Ammo (Instead of 48 Bullets)
+
+S I 2 L 0 2eea 556c Start A New Game With 48 RPG Ammo (Instead of Bullets)
+
+S I 2 L 0 2eea 5570 Start A New Game With 48 Devastator Ammo (Instead of Bullets)
+
+R I 2 L 0 ff5572 64 Infinite Health
+
+R I 2 L 0 ff5540 0 Run Mode Toggle (0-1)
+
+R I 2 L 0 ff5596 0 Weapon Effect Modifier
+
+R I 2 L 0 ff5566 64 Infinite Ammo: Pistol
+
+R I 2 L 0 ff5568 64 Infinite Ammo: Shotgun
+
+R I 2 L 0 ff556a 64 Infinite Ammo: Triple Shotgun
+
+R I 2 L 0 ff556c 64 Infinite Ammo: Rocket Launcher
+
+R I 2 L 0 ff556e 64 Infinite Ammo: Pipe Bombs
+
+R I 2 L 0 ff5570 64 Infinite Ammo: Rocket Launcher 2x?

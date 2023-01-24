@@ -1,0 +1,577 @@
+[] Carmageddon (PAL-M4)
+R I 4 L 0 8000d006 be18 Reversed Joker Command P1
+
+R I 4 L 0 80000000 0 Reversed Joker Command P1
+
+R I 4 L 0 8000d006 be1a Reversed Joker Command P2
+
+R I 4 L 0 80000000 0 Reversed Joker Command P2
+
+R I 4 L 0 8000300d 41fa Invincible P1
+
+R I 4 L 0 80000000 0 Invincible P1
+
+R I 4 L 0 8000300d 3596 Invincible P2
+
+R I 4 L 0 80000000 0 Invincible P2
+
+R I 4 L 0 80008007 6de8 Infinite time
+
+R I 4 L 0 80001a5e 0 Infinite time
+
+R I 4 L 0 8000d007 6dec Infinite money P1 (Single Player)
+
+R I 4 L 0 80002710 8007 Infinite money P1 (Single Player)
+
+R I 4 L 0 80006dec d02c Infinite money P1 (Single Player)
+
+R I 4 L 0 8000d007 6dee Infinite money P1 (Single Player)
+
+R I 4 L 0 80000000 8007 Infinite money P1 (Single Player)
+
+R I 4 L 0 80006dee 160 Infinite money P1 (Single Player)
+
+R I 4 L 0 8000d007 8480 Infinite money P1 (Single Player)
+
+R I 4 L 0 80002710 8007 Infinite money P1 (Single Player)
+
+R I 4 L 0 80008480 d02c Infinite money P1 (Single Player)
+
+R I 4 L 0 8000d007 8482 Infinite money P1 (Single Player)
+
+R I 4 L 0 80000000 8007 Infinite money P1 (Single Player)
+
+R I 4 L 0 80008482 160 Infinite money P1 (Single Player)
+
+R I 4 L 0 8000d007 6f58 Infinite money P2 (Head to Head)
+
+R I 4 L 0 80000fa0 8007 Infinite money P2 (Head to Head)
+
+R I 4 L 0 80006f58 d02c Infinite money P2 (Head to Head)
+
+R I 4 L 0 8000d007 6f5a Infinite money P2 (Head to Head)
+
+R I 4 L 0 80000000 8007 Infinite money P2 (Head to Head)
+
+R I 4 L 0 80006f5a 160 Infinite money P2 (Head to Head)
+
+R I 4 L 0 80008006 c07c Amount of found Bonus
+
+R I 4 L 0 80000000 0 Amount of found Bonus
+
+R I 4 L 0 80008006 c068 Amount of Zombies
+
+R I 4 L 0 80000000 0 Amount of Zombies
+
+R I 4 L 0 8000d00b be18 Only one Zombie left (Press L1+L2)
+
+R I 4 L 0 80000500 8006 Only one Zombie left (Press L1+L2)
+
+R I 4 L 0 8000c068 1 Only one Zombie left (Press L1+L2)
+
+R I 4 L 0 80003007 6df7 Infinite free rescue
+
+R I 4 L 0 80000005 0 Infinite free rescue
+
+R I 4 L 0 8000d006 be18 Infinite pickup-time Part 1
+
+R I 4 L 0 80000c00 8000 Infinite pickup-time Part 1
+
+R I 4 L 0 80000002 6464 Infinite pickup-time Part 1
+
+R I 4 L 0 8000d006 be18 Infinite pickup-time Part 1
+
+R I 4 L 0 80000300 8000 Infinite pickup-time Part 1
+
+R I 4 L 0 80000002 0 Infinite pickup-time Part 1
+
+R I 4 L 0 8000d000 2 Infinite pickup-time Part 2
+
+R I 4 L 0 80006464 8006 Infinite pickup-time Part 2
+
+R I 4 L 0 8000bd84 16d Infinite pickup-time Part 2
+
+R I 4 L 0 8000d007 844c Choose Track
+
+R I 4 L 0 80000000 8007 Choose Track
+
+R I 4 L 0 8000844c 0 Choose Track
+
+R I 4 L 0 8000e00b be19 L2+R2 unlocks all cars
+ROM-Version 2.2 or higher required
+
+R I 4 L 0 80000003 5000 L2+R2 unlocks all cars
+ROM-Version 2.2 or higher required
+
+R I 4 L 0 80000f02 0 L2+R2 unlocks all cars
+ROM-Version 2.2 or higher required
+
+R I 4 L 0 80008007 8484 L2+R2 unlocks all cars
+ROM-Version 2.2 or higher required
+
+R I 4 L 0 80000101 0 L2+R2 unlocks all cars
+ROM-Version 2.2 or higher required
+
+R I 2 L 0 8006c0d0 0 Anzahl der gefundenen Boni
+
+R I 2 L 0 8006c0bc 0 Anzahl der getoeteten Aliens
+
+R I 1 L 0 800d424e 0 Unzerstoerbar P1
+
+R I 1 L 0 800d35ea 0 Unzerstoerbar P2
+
+R I 2 L 0 80076e3c 1a5e Unendlich Zeit
+
+R I 2 L 0 80076e40 d02c Unendlich Geld P1 (Einzelspieler)
+
+R I 2 L 0 80076e42 160 Unendlich Geld P1 (Einzelspieler)
+
+R I 2 L 0 8007847c d02c Unendlich Geld P1 (Einzelspieler)
+
+R I 2 L 0 8007847e 160 Unendlich Geld P1 (Einzelspieler)
+
+R I 2 L 0 80076fac d02c Unendlich Geld P2 (Head to Head)
+
+R I 2 L 0 80076fae 160 Unendlich Geld P2 (Head to Head)
+
+R I 2 L 0 8006c0bc 1 Nur noch ein Alien uebrig (Druecke L1 & L2)
+
+R I 1 L 0 80076e4b 5 Unendlich kostenlose Bergung
+
+R I 2 L 0 80000002 6464 Unendlich Pick-Up-Zeit (Note)
+
+R I 2 L 0 80000002 0 Unendlich Pick-Up-Zeit (Note)
+
+R I 2 L 0 8006bddc 258 Teil 2
+
+R I 2 L 0 80078448 0 Stadtfest mal anders
+
+R I 2 L 0 80078448 1 Stadt des Verbrechens
+
+R I 2 L 0 80078448 2 Welt des Gemetzels
+
+R I 2 L 0 80078448 3 Hassfigur
+
+R I 2 L 0 80078448 4 Armselig und verrueckt
+
+R I 2 L 0 80078448 5 China Krisis (Einsatz 1)
+
+R I 2 L 0 80078448 100 Coole Crashs
+
+R I 2 L 0 80078448 101 Die unvergaenglichen Fussgaenger
+
+R I 2 L 0 80078448 102 Gefechtsviertel
+
+R I 2 L 0 80078448 103 Zum Schreien
+
+R I 2 L 0 80078448 104 Carma McRay
+
+R I 2 L 0 80078448 105 Gedraenge am Checkpoint (Einsatz 2)
+
+R I 2 L 0 80078448 200 Drachenbezwinger
+
+R I 2 L 0 80078448 201 Walzstrasse
+
+R I 2 L 0 80078448 202 Wueste Wuesten
+
+R I 2 L 0 80078448 203 Die Boxen
+
+R I 2 L 0 80078448 204 Strasse der Schmerzen
+
+R I 2 L 0 80078448 205 Autoknacker (Einsatz 3)
+
+R I 2 L 0 80078448 300 Schauer-Power
+
+R I 2 L 0 80078448 301 Boesartiger Fussgaenger
+
+R I 2 L 0 80078448 302 Ans Eingemachte
+
+R I 2 L 0 80078448 303 Stadtpluenderung
+
+R I 2 L 0 80078448 304 Kneipentour
+
+R I 2 L 0 80078448 305 Schneikraempfe (Einsatz 4)
+
+R I 2 L 0 80078448 400 Massaker
+
+R I 2 L 0 80078448 401 Stadtsanierung
+
+R I 2 L 0 80078448 402 Kartoffelpuffer
+
+R I 2 L 0 80078448 403 Vollgas ins Chaos
+
+R I 2 L 0 80078448 404 Terror aus dem Auspuff
+
+R I 2 L 0 80078448 405 Auftrieb fuer Absacker (Einsatz 5)
+
+R I 2 L 0 80078448 500 Slalom Fatal
+
+R I 2 L 0 80078448 501 Rocky Horror
+
+R I 2 L 0 80078448 502 Auffahrt zur Hoelle
+
+R I 2 L 0 80078448 503 Tal des Todes
+
+R I 2 L 0 80078448 504 Landkoller
+
+R I 2 L 0 80078448 505 Operation Wuestensturm (Einsatz 6)
+
+R I 1 L 0 80078480 1 Reverend Limit
+
+R I 1 L 0 80078481 1 Frau Dauver
+
+R I 1 L 0 80078482 1 Fatmann Dimm
+
+R I 1 L 0 80078483 1 Agro Man
+
+R I 1 L 0 80078484 1 Buster Crimes
+
+R I 1 L 0 80078485 1 Billy Joe Jim Bob
+
+R I 1 L 0 80078486 1 Don Dumpster
+
+R I 1 L 0 80078488 1 Ed Hunter
+
+R I 1 L 0 80078489 1 Brothers Grimm
+
+R I 1 L 0 8007848a 1 Honest John
+
+R I 1 L 0 8007848b 1 Maxine Sane
+
+R I 1 L 0 8007848c 1 Omar Sheriff
+
+R I 1 L 0 8007848d 1 The Gimp
+
+R I 1 L 0 8007848e 1 General P.Ram
+
+R I 1 L 0 8007848f 1 Junior
+
+R I 1 L 0 80078490 1 Inkredible Kutter
+
+R I 1 L 0 80078491 1 Michael Pain
+
+R I 1 L 0 80078492 1 Otis P.Jivefunk
+
+R I 1 L 0 80078493 1 Hannibal Kannibal
+
+R I 1 L 0 80078494 1 Pitbull
+
+R I 1 L 0 80078495 1 Herr Kooled
+
+R I 1 L 0 80078496 1 Skrewie Lewis
+
+R I 1 L 0 80078497 1 Khaki and Crutch
+
+R I 1 L 0 80078498 1 De°d 209
+
+R I 1 L 0 80078499 1 Akilla the Hun
+
+R I 1 L 0 8007849a 1 Ray Zee Fool
+
+R I 1 L 0 8007849b 1 Pete D'Ville
+
+R I 1 L 0 8007849c 1 Vlad the Viking
+
+R I 1 L 0 8007849d 1 Yoga Hurt
+
+R I 1 L 0 80078480 2 Reverend Limit
+
+R I 1 L 0 80078481 2 Frau Dauver
+
+R I 1 L 0 80078482 2 Fatmann Dimm
+
+R I 1 L 0 80078483 2 Agro Man
+
+R I 1 L 0 80078484 2 Buster Crimes
+
+R I 1 L 0 80078485 2 Billy Joe Jim Bob
+
+R I 1 L 0 80078486 2 Don Dumpster
+
+R I 1 L 0 80078488 2 Ed Hunter
+
+R I 1 L 0 80078489 2 Brothers Grimm
+
+R I 1 L 0 8007848a 2 Honest John
+
+R I 1 L 0 8007848b 2 Maxine Sane
+
+R I 1 L 0 8007848c 2 Omar Sheriff
+
+R I 1 L 0 8007848d 2 The Gimp
+
+R I 1 L 0 8007848e 2 General P.Ram
+
+R I 1 L 0 8007848f 2 Junior
+
+R I 1 L 0 80078490 2 Inkredible Kutter
+
+R I 1 L 0 80078491 2 Michael Pain
+
+R I 1 L 0 80078492 2 Otis P.Jivefunk
+
+R I 1 L 0 80078493 2 Hannibal Kannibal
+
+R I 1 L 0 80078494 2 Pitbull
+
+R I 1 L 0 80078495 2 Herr Kooled
+
+R I 1 L 0 80078496 2 Skrewie Lewis
+
+R I 1 L 0 80078497 2 Khaki and Crutch
+
+R I 1 L 0 80078498 2 De°d 209
+
+R I 1 L 0 80078499 2 Akilla the Hun
+
+R I 1 L 0 8007849a 2 Ray Zee Fool
+
+R I 1 L 0 8007849b 2 Pete D'Ville
+
+R I 1 L 0 8007849c 2 Vlad the Viking
+
+R I 1 L 0 8007849d 2 Yoga Hurt
+
+R I 2 L 0 8006c07c 0 Anzahl der gefundenen Boni
+
+R I 2 L 0 8006c068 0 Anzahl der Zombies
+
+R I 1 L 0 800d41fa 0 Unzerstoerbar P1
+
+R I 1 L 0 800d3596 0 Unzerstoerbar P2
+
+R I 2 L 0 80076de8 1a5e Unendlich Zeit
+
+R I 2 L 0 80076dec d02c Unendlich Geld P1 (Einzelspieler)
+
+R I 2 L 0 80076dee 160 Unendlich Geld P1 (Einzelspieler)
+
+R I 2 L 0 80078480 d02c Unendlich Geld P1 (Einzelspieler)
+
+R I 2 L 0 80078482 160 Unendlich Geld P1 (Einzelspieler)
+
+R I 2 L 0 80076f58 d02c Unendlich Geld P2 (Head to Head)
+
+R I 2 L 0 80076f5a 160 Unendlich Geld P2 (Head to Head)
+
+R I 2 L 0 8006c068 1 Nur noch ein Zombie uebrig (Druecke L1 & L2)
+
+R I 1 L 0 80076df7 5 Unendlich kostenlose Bergung
+
+R I 2 L 0 80000002 6464 Unendlich Pick-Up-Zeit (Note)
+
+R I 2 L 0 80000002 0 Unendlich Pick-Up-Zeit (Note)
+
+R I 2 L 0 8006bd84 16d Teil 2
+
+R I 2 L 0 8007844c 0 Slaughter City
+
+R I 2 L 0 8007844c 1 Sands of Crime
+
+R I 2 L 0 8007844c 2 World Of Carnage
+
+R I 2 L 0 8007844c 3 Figure of Hate
+
+R I 2 L 0 8007844c 4 Sad and Insane
+
+R I 2 L 0 8007844c 5 China Krisis (Mission 1)
+
+R I 2 L 0 8007844c 100 Fridge Racer
+
+R I 2 L 0 8007844c 101 Night of the Living Zombie
+
+R I 2 L 0 8007844c 102 Chopping Centre
+
+R I 2 L 0 8007844c 103 Twin Shrieks
+
+R I 2 L 0 8007844c 104 Carma McRay
+
+R I 2 L 0 8007844c 105 Checkpoint Stampede (Mission 2)
+
+R I 2 L 0 8007844c 200 Dragon Slayer
+
+R I 2 L 0 8007844c 201 Maim Street
+
+R I 2 L 0 8007844c 202 Just Deserts
+
+R I 2 L 0 8007844c 203 The Pits
+
+R I 2 L 0 8007844c 204 Avenue of Atrocities
+
+R I 2 L 0 8007844c 205 Car Crusher (Mission 3)
+
+R I 2 L 0 8007844c 300 Chiller
+
+R I 2 L 0 8007844c 301 Evil Zombie
+
+R I 2 L 0 8007844c 302 Slaying the Field
+
+R I 2 L 0 8007844c 303 Town Raider
+
+R I 2 L 0 8007844c 304 Pub Cruel
+
+R I 2 L 0 8007844c 305 Snow Way Out (Mission 4)
+
+R I 2 L 0 8007844c 400 Medieval Massacre
+
+R I 2 L 0 8007844c 401 Downtown Devastation
+
+R I 2 L 0 8007844c 402 Tutan Carnage
+
+R I 2 L 0 8007844c 403 Top gear Thrash
+
+R I 2 L 0 8007844c 404 Terror on the Trails
+
+R I 2 L 0 8007844c 405 Pick-Me-Up (Mission 5)
+
+R I 2 L 0 8007844c 500 Slalom Slayfest
+
+R I 2 L 0 8007844c 501 Rocky Horror
+
+R I 2 L 0 8007844c 502 Halfway to Hell
+
+R I 2 L 0 8007844c 503 Death Valley
+
+R I 2 L 0 8007844c 504 Country Killer
+
+R I 2 L 0 8007844c 505 Desert Storm (Mission 6)
+
+R I 1 L 0 80078484 1 Reverend Limit
+
+R I 1 L 0 80078485 1 Frau Dauver
+
+R I 1 L 0 80078486 1 Fatmann Dimm
+
+R I 1 L 0 80078487 1 Agro Man
+
+R I 1 L 0 80078488 1 Buster Crimes
+
+R I 1 L 0 80078489 1 Billy Joe Jim Bob
+
+R I 1 L 0 8007848a 1 Don Dumpster
+
+R I 1 L 0 8007848c 1 Ed Hunter
+
+R I 1 L 0 8007848d 1 Brothers Grimm
+
+R I 1 L 0 8007848e 1 Honest John
+
+R I 1 L 0 8007848f 1 Maxine Sane
+
+R I 1 L 0 80078490 1 Omar Sheriff
+
+R I 1 L 0 80078491 1 The Gimp
+
+R I 1 L 0 80078492 1 General P.Ram
+
+R I 1 L 0 80078493 1 Junior
+
+R I 1 L 0 80078494 1 Inkredible Kutter
+
+R I 1 L 0 80078495 1 Michael Pain
+
+R I 1 L 0 80078496 1 Otis P.Jivefunk
+
+R I 1 L 0 80078497 1 Hannibal Kannibal
+
+R I 1 L 0 80078498 1 Pitbull
+
+R I 1 L 0 80078499 1 Herr Kooled
+
+R I 1 L 0 8007849a 1 Skrewie Lewis
+
+R I 1 L 0 8007849b 1 Khaki and Crutch
+
+R I 1 L 0 8007849c 1 De°d 209
+
+R I 1 L 0 8007849d 1 Akilla the Hun
+
+R I 1 L 0 8007849e 1 Ray Zee Fool
+
+R I 1 L 0 8007849f 1 Pete D'Ville
+
+R I 1 L 0 800784a0 1 Vlad the Viking
+
+R I 1 L 0 800784a1 1 Yoga Hurt
+
+R I 1 L 0 80078484 2 Reverend Limit
+
+R I 1 L 0 80078485 2 Frau Dauver
+
+R I 1 L 0 80078486 2 Fatmann Dimm
+
+R I 1 L 0 80078487 2 Agro Man
+
+R I 1 L 0 80078488 2 Buster Crimes
+
+R I 1 L 0 80078489 2 Billy Joe Jim Bob
+
+R I 1 L 0 8007848a 2 Don Dumpster
+
+R I 1 L 0 8007848c 2 Ed Hunter
+
+R I 1 L 0 8007848d 2 Brothers Grimm
+
+R I 1 L 0 8007848e 2 Honest John
+
+R I 1 L 0 8007848f 2 Maxine Sane
+
+R I 1 L 0 80078490 2 Omar Sheriff
+
+R I 1 L 0 80078491 2 The Gimp
+
+R I 1 L 0 80078492 2 General P.Ram
+
+R I 1 L 0 80078493 2 Junior
+
+R I 1 L 0 80078494 2 Inkredible Kutter
+
+R I 1 L 0 80078495 2 Michael Pain
+
+R I 1 L 0 80078496 2 Otis P.Jivefunk
+
+R I 1 L 0 80078497 2 Hannibal Kannibal
+
+R I 1 L 0 80078498 2 Pitbull
+
+R I 1 L 0 80078499 2 Herr Kooled
+
+R I 1 L 0 8007849a 2 Skrewie Lewis
+
+R I 1 L 0 8007849b 2 Khaki and Crutch
+
+R I 1 L 0 8007849c 2 De°d 209
+
+R I 1 L 0 8007849d 2 Akilla the Hun
+
+R I 1 L 0 8007849e 2 Ray Zee Fool
+
+R I 1 L 0 8007849f 2 Pete D'Ville
+
+R I 1 L 0 800784a0 2 Vlad the Viking
+
+R I 1 L 0 800784a1 2 Yoga Hurt
+
+R I 2 L 0 801be29a ffff Infinite Credits
+
+R I 2 L 0 801be21e 16ed Stop Game Timer
+
+R I 2 L 0 8006c068 0 Press R2 To Win Race (0 Zombies)
+
+R I 1 L 0 800d3596 0 Player 2 Invincible
+
+R I 2 L 0 801be282 3 One Lap Race/Finish First (3 Lap Race)
+
+R I 2 L 0 80076dec ffff Press L2 For Lots Of Money Player 1
+
+R I 2 L 0 80076dee ff Press L2 For Lots Of Money Player 1
+
+R I 2 L 0 80078480 ffff Press L2 For Lots Of Money Player 1
+
+R I 2 L 0 80078482 ff Press L2 For Lots Of Money Player 1
+
+R I 2 L 0 80094bee 64 All Zombies Destroyed
+
+R I 2 L 0 80076de8 1000 Unlimited Time
+
+R I 1 L 0 800d41fa 0 Player 1 Invincible

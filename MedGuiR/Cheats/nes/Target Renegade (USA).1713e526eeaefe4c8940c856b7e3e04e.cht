@@ -1,0 +1,52 @@
+[1713e526eeaefe4c8940c856b7e3e04e] Target - Renegade (USA)
+C I 1 L 0 8a01 a5 c6 Freeze timer
+
+C I 1 L 0 8286 ad bd Set timer to 5:00 for all levels
+
+C I 1 L 0 8acd 0 2 Hearts replenish energy to maximum
+
+C I 1 L 0 aee6 a5 85 Don't take most damage
+
+C I 1 L 0 9955 6 14 Take half damage from bosses
+
+C I 1 L 0 8286 ad bd Set timer to 3:00 for all levels
+
+C I 1 L 0 8288 cf 80 Set timer to 3:00 for all levels
+
+C I 1 L 0 921f 1 0 Start on level 2
+
+C I 1 L 0 921f 2 0 Start on level 3
+
+C I 1 L 0 921f 3 0 Start on level 4
+
+C I 1 L 0 921f 4 0 Start on level 5
+
+C I 1 L 0 921f 5 0 Start on level 6
+
+C I 1 L 0 921f 6 0 Start on level 7
+
+R I 1 L 0 eb 9 Infinite Time
+
+R I 1 L 0 da 40 Infinite Energy
+
+R I 1 L 0 db 40 Infinite Energy
+
+C I 1 L 0 aee6 a5 85 Infinite Health
+
+C I 1 L 0 8a3f a5 c6 Infinite Health
+
+R I 1 L 0 da 30 Infinite Health P1
+
+R I 1 L 0 cc 68 Messages Do Not Scroll
+
+R I 1 L 0 407 0 Kill Most Enemies In 1 Hit
+
+R I 1 L 0 408 0 Kill Most Enemies In 1 Hit
+
+R I 1 L 0 3f6 ff Most Enemies Cannot Attack
+
+R I 1 L 0 3f7 ff Most Enemies Cannot Attack
+
+R I 1 L 0 3f8 ff Most Enemies Cannot Attack
+
+R I 1 L 0 3ef 8 Always have Bat in Hand

@@ -1,0 +1,216 @@
+[] Street Fighter EX2 Plus (NTSC-U)
+R I 2 L 0 801bd1a6 1000 Enable Code (Must Be On - Version 1)
+
+R I 2 L 0 801bd1a6 1000 Enable Code (Must Be On - Version 2)
+
+R I 1 L 0 801e977c c8 P1 Infinite Health
+
+R I 1 L 0 801e977c 96 P1 75% Health (Cheat Device 2.2 Or Higher Needed!)
+
+R I 1 L 0 801e977c 64 P1 50% Health (Cheat Device 2.2 Or Higher Needed!)
+
+R I 1 L 0 801e977c 32 P1 25% Health (Cheat Device 2.2 Or Higher Needed!)
+
+R I 1 L 0 801e977c 0 P1 1 Hit Kill
+
+R I 1 L 0 801eaff8 c8 P2 Infinite Health
+
+R I 1 L 0 801eaff8 96 P2 75% Health (Cheat Device 2.2 Or Higher Needed!)
+
+R I 1 L 0 801eaff8 64 P2 50% Health (Cheat Device 2.2 Or Higher Needed!)
+
+R I 1 L 0 801eaff8 32 P2 25% Health (Cheat Device 2.2 Or Higher Needed!)
+
+R I 1 L 0 801eaff8 0 P2 1 Hit Kill
+
+R I 1 L 0 801e977d 96 P1 Full Super Combo Gauge
+
+R I 1 L 0 801e977d 0 P1 No Super Combo Gauge
+
+R I 1 L 0 801eaff9 96 P2 Full Super Combo Gauge
+
+R I 1 L 0 801eaff9 0 P2 No Super Combo Gauge
+
+R I 1 L 0 801e667e 1 P1 Only Needs 1 Win (Cheat Device 2.2 Or Higher Needed!)
+
+R I 1 L 0 801e667e 0 P1 Never Wins
+
+R I 1 L 0 801e667f 1 P2 Only Needs 1 Win (Cheat Device 2.2 Or Higher Needed!)
+
+R I 1 L 0 801e667f 0 P2 Never Wins
+
+R I 2 L 0 801e97b6 96 P1 Infinite Excel Time
+
+R I 2 L 0 801eb032 96 P2 Infinite Excel Time
+
+R I 2 L 0 801e9594 967f P1 Max Score
+
+R I 2 L 0 801e9596 98 P1 Max Score
+
+R I 2 L 0 801eae10 967f P2 Max Score
+
+R I 2 L 0 801eae12 98 P2 Max Score
+
+R I 2 L 0 801aa5d6 2400 Infinite Health (Both Players)
+
+R I 2 L 0 801e6686 6 Start on Last Stage
+
+R I 2 L 0 801f4f0e ffff Unlock Everything
+
+R I 2 L 0 801f4f10 ffff Unlock Everything
+
+R I 2 L 0 801f4f14 ffff Unlock Everything
+
+R I 2 L 0 801e5d48 0 Time In Training Is 0:00:00
+
+R I 1 L 0 801e667c 63 Infinite Time
+
+R I 2 L 0 80144a2e 2400 Hit Anywhere (Both Players)
+
+R I 1 L 0 801eeb20 1 Unlock Maniac Mode
+
+R I 1 L 0 801eeb23 1 Unlock Samples Data
+
+R I 1 L 0 801e7fd3 0 Costume Modifier P1
+
+R I 1 L 0 801e7fd2 0 Character Modifier P1
+
+R I 1 L 0 801e984f 0 Costume Modifier P2
+
+R I 1 L 0 801e984e 0 Character Modifier P2
+
+R I 2 L 0 801e6078 0 Chun-Li & Nanase Have No Skirts! (Cheat Device 2.2 Or Higher Needed!)
+
+R I 2 L 0 801e6192 0 Chun-Li & Nanase Have No Skirts! (Cheat Device 2.2 Or Higher Needed!)
+
+R I 2 L 0 801e62a8 0 Chun-Li & Nanase Have No Skirts! (Cheat Device 2.2 Or Higher Needed!)
+
+R I 2 L 0 801e63c0 0 Chun-Li & Nanase Have No Skirts! (Cheat Device 2.2 Or Higher Needed!)
+
+R I 2 L 0 801e985e f0 CPU/P2 Can't Move
+
+R I 2 L 0 8012779e ffff All Moves Completed - Ryu (Training Mode)
+
+R I 2 L 0 801f4ed0 ffff All Moves Completed - Ryu (Training Mode)
+
+R I 2 L 0 801277a0 ffff All Moves Completed - Ken (Training Mode)
+
+R I 2 L 0 801f4ed2 ffff All Moves Completed - Ken (Training Mode)
+
+R I 2 L 0 801277a2 ffff All Moves Completed - Chun Li (Training Mode)
+
+R I 2 L 0 801f4ed4 ffff All Moves Completed - Chun Li (Training Mode)
+
+R I 2 L 0 801277a4 ffff All Moves Completed - Guile (Training Mode)
+
+R I 2 L 0 801f4ed6 ffff All Moves Completed - Guile (Training Mode)
+
+R I 2 L 0 801277a6 ffff All Moves Completed - Zangief (Training Mode)
+
+R I 2 L 0 801f4ed8 ffff All Moves Completed - Zangief (Training Mode)
+
+R I 2 L 0 801277a8 ffff All Moves Completed - Dhalsim (Training Mode)
+
+R I 2 L 0 801f4eda ffff All Moves Completed - Dhalsim (Training Mode)
+
+R I 2 L 0 801277aa ffff All Moves Completed - Blanka (Training Mode)
+
+R I 2 L 0 801f4edc ffff All Moves Completed - Blanka (Training Mode)
+
+R I 2 L 0 801277ac ffff All Moves Completed - Hokuto (Training Mode)
+
+R I 2 L 0 801f4ede ffff All Moves Completed - Hokuto (Training Mode)
+
+R I 2 L 0 801277ae ffff All Moves Completed - D.Dark (Training Mode)
+
+R I 2 L 0 801f4ee0 ffff All Moves Completed - D.Dark (Training Mode)
+
+R I 2 L 0 801277b0 ffff All Moves Completed - Skullo (Training Mode)
+
+R I 2 L 0 801f4ee2 ffff All Moves Completed - Skullo (Training Mode)
+
+R I 2 L 0 801277b2 ffff All Moves Completed - Jack (Training Mode)
+
+R I 2 L 0 801f4ee4 ffff All Moves Completed - Jack (Training Mode)
+
+R I 2 L 0 801277b4 ffff All Moves Completed - Sharon (Training Mode)
+
+R I 2 L 0 801f4ee6 ffff All Moves Completed - Sharon (Training Mode)
+
+R I 2 L 0 801277b6 ffff All Moves Completed - Nanase (Training Mode)
+
+R I 2 L 0 801f4ee8 ffff All Moves Completed - Nanase (Training Mode)
+
+R I 2 L 0 801277b8 ffff All Moves Completed - Pullum (Training Mode)
+
+R I 2 L 0 801f4eea ffff All Moves Completed - Pullum (Training Mode)
+
+R I 2 L 0 801277ba ffff All Moves Completed - Darun (Training Mode)
+
+R I 2 L 0 801f4eec ffff All Moves Completed - Darun (Training Mode)
+
+R I 2 L 0 801277bc ffff All Moves Completed - Vega (Training Mode)
+
+R I 2 L 0 801f4eee ffff All Moves Completed - Vega (Training Mode)
+
+R I 2 L 0 801277be ffff All Moves Completed - V.Rosso (Training Mode)
+
+R I 2 L 0 801f4ef0 ffff All Moves Completed - V.Rosso (Training Mode)
+
+R I 2 L 0 801277c0 ffff All Moves Completed - Area (Training Mode)
+
+R I 2 L 0 801f4ef2 ffff All Moves Completed - Area (Training Mode)
+
+R I 2 L 0 801277c2 ffff All Moves Completed - Sagat (Training Mode)
+
+R I 2 L 0 801f4ef4 ffff All Moves Completed - Sagat (Training Mode)
+
+R I 2 L 0 801277c4 ffff All Moves Completed - Bison (Training Mode)
+
+R I 2 L 0 801f4ef6 ffff All Moves Completed - Bison (Training Mode)
+
+R I 2 L 0 801277c6 ffff All Moves Completed - Garuda (Training Mode)
+
+R I 2 L 0 801f4ef8 ffff All Moves Completed - Garuda (Training Mode)
+
+R I 2 L 0 801277c8 ffff All Moves Completed - Shadow (Training Mode)
+
+R I 2 L 0 801f4efa ffff All Moves Completed - Shadow (Training Mode)
+
+R I 2 L 0 801277ca ffff All Moves Completed - Kairi (Training Mode)
+
+R I 2 L 0 801f4efc ffff All Moves Completed - Kairi (Training Mode)
+
+R I 2 L 0 801277cc ffff All Moves Completed - Hayate (Training Mode)
+
+R I 2 L 0 801f4efe ffff All Moves Completed - Hayate (Training Mode)
+
+R I 1 L 0 801e6678 0 Background Modifier
+
+R I 1 L 0 801e6671 0 Round Status Modifier
+
+R I 1 L 0 801e7fd1 0 P1 Display Modifier (L1+R1: Visible; L2+R2: Invisible)
+
+R I 1 L 0 801e7fd1 fe P1 Display Modifier (L1+R1: Visible; L2+R2: Invisible)
+
+R I 1 L 0 801e984d 0 P2 Display Modifier (L1+R1: Visible; L2+R2: Invisible)
+
+R I 1 L 0 801e984d fe P2 Display Modifier (L1+R1: Visible; L2+R2: Invisible)
+
+R I 1 L 0 801e6698 0 BG & HUD Display Modifier (L1+L2: Visible; R1+R2: Invisible)
+
+R I 1 L 0 801e6698 f BG & HUD Display Modifier (L1+L2: Visible; R1+R2: Invisible)
+
+R I 1 L 0 801eeb21 1 Excel Break & Satellite Fall Unlocked (Bonus Game)
+
+R I 1 L 0 801eeb22 1 VS Bison II Unlocked (Bonus Game)
+
+R I 1 L 0 801e9781 0 P1 Multi-hits
+
+R I 1 L 0 801eaffd 0 P2 Multi-hits
+
+R I 2 L 0 801f301d 2 Hold Select to Complete Moves
+
+R I 2 L 0 801f3020 1 Hold Select to Complete Moves
+
+R I 2 L 0 801f3022 0 Hold Select to Complete Moves

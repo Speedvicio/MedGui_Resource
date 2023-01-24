@@ -1,0 +1,268 @@
+[] Circuit Breakers (NTSC-U)
+R I 2 L 0 800a7200 1 Bouncy Bean Cars press L2
+
+R I 2 L 0 800a6d0c 1 Night Time Mode
+
+R I 2 L 0 800a6e28 1 Race Upside Down
+
+R I 2 L 0 801f76f8 1 P1 Always 1st
+
+R I 2 L 0 800a7200 1 Bouncy Bean Cars (Press L2)
+
+R I 2 L 0 800a6890 47 Car Mode Modifier
+
+R I 1 L 0 801d8024 1 Group 2 Jungle 2
+
+R I 1 L 0 801d8025 1 Group 2 Jungle 2
+
+R I 1 L 0 801d8026 1 Group 2 Jungle 2
+
+R I 1 L 0 801d8027 1 Group 2 Jungle 2
+
+R I 1 L 0 801d8028 1 Group 2 Jungle 2
+
+R I 1 L 0 801d8029 1 Group 2 Jungle 2
+
+R I 1 L 0 801d802a 1 Group 2 Jungle 2
+
+R I 1 L 0 801d802b 1 Group 2 Jungle 2
+
+R I 1 L 0 801d802c 1 Group 2 Venice
+
+R I 1 L 0 801d802d 1 Group 2 Venice
+
+R I 1 L 0 801d802e 1 Group 2 Venice
+
+R I 1 L 0 801d802f 1 Group 2 Venice
+
+R I 1 L 0 801d8030 1 Group 2 Venice
+
+R I 1 L 0 801d8031 1 Group 2 Venice
+
+R I 1 L 0 801d8032 1 Group 2 Venice
+
+R I 1 L 0 801d8033 1 Group 2 Venice
+
+R I 1 L 0 801d8034 1 Group 2 Swamp 2
+
+R I 1 L 0 801d8035 1 Group 2 Swamp 2
+
+R I 1 L 0 801d8036 1 Group 2 Swamp 2
+
+R I 1 L 0 801d8037 1 Group 2 Swamp 2
+
+R I 1 L 0 801d8038 1 Group 2 Swamp 2
+
+R I 1 L 0 801d8039 1 Group 2 Swamp 2
+
+R I 1 L 0 801d803a 1 Group 2 Swamp 2
+
+R I 1 L 0 801d803b 1 Group 2 Swamp 2
+
+R I 1 L 0 801d803c 1 Group 2 Arctic 1
+
+R I 1 L 0 801d803d 1 Group 2 Arctic 1
+
+R I 1 L 0 801d803e 1 Group 2 Arctic 1
+
+R I 1 L 0 801d803f 1 Group 2 Arctic 1
+
+R I 1 L 0 801d8040 1 Group 2 Arctic 1
+
+R I 1 L 0 801d8041 1 Group 2 Arctic 1
+
+R I 1 L 0 801d8042 1 Group 2 Arctic 1
+
+R I 1 L 0 801d8043 1 Group 2 Arctic 1
+
+R I 1 L 0 801d8044 1 Group 3 Canyon
+
+R I 1 L 0 801d8045 1 Group 3 Canyon
+
+R I 1 L 0 801d8046 1 Group 3 Canyon
+
+R I 1 L 0 801d8047 1 Group 3 Canyon
+
+R I 1 L 0 801d8048 1 Group 3 Canyon
+
+R I 1 L 0 801d8049 1 Group 3 Canyon
+
+R I 1 L 0 801d804a 1 Group 3 Canyon
+
+R I 1 L 0 801d804b 1 Group 3 Canyon
+
+R I 1 L 0 801d804c 1 Group 3 Venice 2
+
+R I 1 L 0 801d804d 1 Group 3 Venice 2
+
+R I 1 L 0 801d804e 1 Group 3 Venice 2
+
+R I 1 L 0 801d804f 1 Group 3 Venice 2
+
+R I 1 L 0 801d8050 1 Group 3 Venice 2
+
+R I 1 L 0 801d8051 1 Group 3 Venice 2
+
+R I 1 L 0 801d8052 1 Group 3 Venice 2
+
+R I 1 L 0 801d8053 1 Group 3 Venice 2
+
+R I 1 L 0 801d8054 1 Group 3 Subaoua 1
+
+R I 1 L 0 801d8055 1 Group 3 Subaoua 1
+
+R I 1 L 0 801d8056 1 Group 3 Subaoua 1
+
+R I 1 L 0 801d8057 1 Group 3 Subaoua 1
+
+R I 1 L 0 801d8058 1 Group 3 Subaoua 1
+
+R I 1 L 0 801d8059 1 Group 3 Subaoua 1
+
+R I 1 L 0 801d805a 1 Group 3 Subaoua 1
+
+R I 1 L 0 801d805b 1 Group 3 Subaoua 1
+
+R I 1 L 0 801d805c 1 Group 3 Arctic 2
+
+R I 1 L 0 801d805d 1 Group 3 Arctic 2
+
+R I 1 L 0 801d805e 1 Group 3 Arctic 2
+
+R I 1 L 0 801d805f 1 Group 3 Arctic 2
+
+R I 1 L 0 801d8060 1 Group 3 Arctic 2
+
+R I 1 L 0 801d8061 1 Group 3 Arctic 2
+
+R I 1 L 0 801d8062 1 Group 3 Arctic 2
+
+R I 1 L 0 801d8063 1 Group 3 Arctic 2
+
+R I 1 L 0 801d8064 1 Group 4 Canyon 2
+
+R I 1 L 0 801d8065 1 Group 4 Canyon 2
+
+R I 1 L 0 801d8066 1 Group 4 Canyon 2
+
+R I 1 L 0 801d8067 1 Group 4 Canyon 2
+
+R I 1 L 0 801d8068 1 Group 4 Canyon 2
+
+R I 1 L 0 801d8069 1 Group 4 Canyon 2
+
+R I 1 L 0 801d806a 1 Group 4 Canyon 2
+
+R I 1 L 0 801d806b 1 Group 4 Canyon 2
+
+R I 1 L 0 801d806c 1 Group 4 Highway 2
+
+R I 1 L 0 801d806d 1 Group 4 Highway 2
+
+R I 1 L 0 801d806e 1 Group 4 Highway 2
+
+R I 1 L 0 801d806f 1 Group 4 Highway 2
+
+R I 1 L 0 801d8070 1 Group 4 Highway 2
+
+R I 1 L 0 801d8071 1 Group 4 Highway 2
+
+R I 1 L 0 801d8072 1 Group 4 Highway 2
+
+R I 1 L 0 801d8073 1 Group 4 Highway 2
+
+R I 1 L 0 801d8074 1 Group 4 Subaoua 2
+
+R I 1 L 0 801d8075 1 Group 4 Subaoua 2
+
+R I 1 L 0 801d8076 1 Group 4 Subaoua 2
+
+R I 1 L 0 801d8077 1 Group 4 Subaoua 2
+
+R I 1 L 0 801d8078 1 Group 4 Subaoua 2
+
+R I 1 L 0 801d8079 1 Group 4 Subaoua 2
+
+R I 1 L 0 801d807a 1 Group 4 Subaoua 2
+
+R I 1 L 0 801d807b 1 Group 4 Subaoua 2
+
+R I 1 L 0 801d807c 1 Group 4 Egypt 2
+
+R I 1 L 0 801d807d 1 Group 4 Egypt 2
+
+R I 1 L 0 801d807e 1 Group 4 Egypt 2
+
+R I 1 L 0 801d807f 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8080 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8081 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8082 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8083 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8084 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8085 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8086 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8087 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8088 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8089 1 Group 4 Egypt 2
+
+R I 1 L 0 801d808a 1 Group 4 Egypt 2
+
+R I 1 L 0 801d808b 1 Group 4 Egypt 2
+
+R I 1 L 0 801d808c 1 Group 4 Egypt 2
+
+R I 1 L 0 801d808d 1 Group 4 Egypt 2
+
+R I 1 L 0 801d808e 1 Group 4 Egypt 2
+
+R I 1 L 0 801d808f 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8090 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8091 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8092 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8093 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8094 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8095 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8096 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8097 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8098 1 Group 4 Egypt 2
+
+R I 1 L 0 801d8099 1 Group 4 Egypt 2
+
+R I 1 L 0 801d809a 1 Group 4 Egypt 2
+
+R I 1 L 0 801d809b 1 Group 4 Egypt 2
+
+R I 1 L 0 801d809c 1 Access To Groups 5,6,7,& 8
+
+R I 1 L 0 801d809d 1 Access To Groups 5,6,7,& 8
+
+R I 1 L 0 801d809e 1 Access To Groups 5,6,7,& 8
+
+R I 1 L 0 801d809f 1 Access To Groups 5,6,7,& 8
+
+R I 1 L 0 801d80a0 1 Access To Groups 5,6,7,& 8
+
+R I 1 L 0 801d80a1 1 Access To Groups 5,6,7,& 8
+
+R I 1 L 0 801d80a2 1 Access To Groups 5,6,7,& 8
+
+R I 1 L 0 801d80a3 1 Access To Groups 5,6,7,& 8

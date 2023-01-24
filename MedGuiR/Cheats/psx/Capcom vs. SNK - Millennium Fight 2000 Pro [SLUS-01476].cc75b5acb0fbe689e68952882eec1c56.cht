@@ -1,0 +1,166 @@
+[] Capcom vs. SNK - Millennium Fight 2000 Pro (NTSC-U)
+R I 2 L 0 8006e300 ffff Enable All Hidden Characters
+
+R I 2 L 0 8006e302 ffff Enable All Hidden Characters
+
+R I 2 L 0 8006e308 ffff Enable EX option for all Characters that have it
+
+R I 2 L 0 8006e30a ffff Enable EX option for all Characters that have it
+
+R I 2 L 0 8006e30c ffff Enable EX option for all Characters that have it
+
+R I 2 L 0 8006e30e ffff Enable EX option for all Characters that have it
+
+R I 2 L 0 8006e704 ffff Max Special Meter both grooves P1
+
+R I 2 L 0 8006e6f2 101 Max Special Meter both grooves P1
+
+R I 2 L 0 8006f6c4 ffff Max Special Meter
+
+R I 2 L 0 8006f6b2 101 Max Special Meter
+
+R I 2 L 0 800938ac 1d80 Hit Anywhere P1
+
+R I 2 L 0 800938ae c00 Hit Anywhere P1
+
+R I 2 L 0 80007600 102b Hit Anywhere P1
+
+R I 2 L 0 80007602 270 Hit Anywhere P1
+
+R I 2 L 0 80007604 2 Hit Anywhere P1
+
+R I 2 L 0 80007606 1040 Hit Anywhere P1
+
+R I 2 L 0 80007608 177 Hit Anywhere P1
+
+R I 2 L 0 8000760a 9262 Hit Anywhere P1
+
+R I 2 L 0 8000760c 8 Hit Anywhere P1
+
+R I 2 L 0 8000760e 23ff Hit Anywhere P1
+
+R I 2 L 0 80007610 8 Hit Anywhere P1
+
+R I 2 L 0 80007612 3e0 Hit Anywhere P1
+
+R I 2 L 0 8006e704 9000 P1 Max Special Gauge
+
+R I 2 L 0 8006e6f2 101 P1 Max Special Gauge
+
+R I 2 L 0 8006f6c4 9000 P2 Max Special Gauge
+
+R I 2 L 0 8006f6b2 101 P2 Max Special Gauge
+
+R I 1 L 0 8006e6f4 1 P1 Disable Fireballs
+
+R I 1 L 0 8006f6b4 1 P2 Disable Fireballs
+
+R I 1 L 0 8006e6d4 3c P1 Can't Be Guard Crushed
+
+R I 1 L 0 8006f694 3c P2 Can't Be Guard Crushed
+
+R I 1 L 0 8006f4ba 0 P1 Super Jumps Farther
+
+R I 1 L 0 8006f4ba 0 P2 Super Jumps Farther
+
+R I 1 L 0 8006e5ce 70 P1 Is Translucent
+
+R I 1 L 0 8006f58f 70 P2 Is Translucent
+
+R I 1 L 0 8006e6fc 1 P1 Can Combo Easier
+
+R I 1 L 0 8006f6bc 1 P2 Can Combo Easier
+
+R I 1 L 0 8006e4da 1 P1 Sounds Like Opponent
+
+R I 1 L 0 8006f49a 0 P2 Sounds Like Opponent
+
+R I 2 L 0 8006e55a fff8 P1 Zangief's Spinning Piledriver Has No Rebound
+
+R I 2 L 0 8006f51a fff8 P1 Zangief's Spinning Piledriver Has No Rebound
+
+R I 2 L 0 8006f51a fff8 P2 Zangief's Spinning Piledriver Has No Rebound
+
+R I 2 L 0 8006e55a fff8 P2 Zangief's Spinning Piledriver Has No Rebound
+
+R I 2 L 0 8006f51a fff8 P1 Zangief's Flying Powerbomb Less Rebound
+
+R I 2 L 0 8006e55a fff8 P1 Zangief's Flying Powerbomb Less Rebound
+
+R I 2 L 0 8006f51a fff8 P2 Zangief's Flying Powerbomb Less Rebound
+
+R I 2 L 0 8006e55a fff8 P2 Zangief's Flying Powerbomb Less Rebound
+
+R I 2 L 0 8006f51a fff8 P1 Zangief's Atomic Suplex Less Rebound
+
+R I 2 L 0 8006e55a fff8 P1 Zangief's Atomic Suplex Less Rebound
+
+R I 2 L 0 8006f51a fff8 P2 Zangief's Atomic Suplex Less Rebound
+
+R I 2 L 0 8006e55a fff8 P2 Zangief's Atomic Suplex Less Rebound
+
+R I 2 L 0 8006e55a fff8 P1 Raiden's Thunder Crush Bomb Has No Rebound
+
+R I 2 L 0 8006f516 0 P1 Raiden's Thunder Crush Bomb Has No Rebound
+
+R I 2 L 0 8006f51a fff8 P2 Raiden's Thunder Crush Bomb Has No Rebound
+
+R I 2 L 0 8006e556 0 P2 Raiden's Thunder Crush Bomb Has No Rebound
+
+R I 1 L 0 8006e298 0 Character 1
+
+R I 1 L 0 8006e94c 0 Character 1
+
+R I 1 L 0 8006e299 0 Character 2
+
+R I 1 L 0 8006e94d 0 Character 2
+
+R I 1 L 0 8006e29a 0 Character 3
+
+R I 1 L 0 8006e94e 0 Character 3
+
+R I 1 L 0 8006e29b 0 Character 4
+
+R I 1 L 0 8006e94f 0 Character 4
+
+R I 1 L 0 8006e29c 0 Character 1
+
+R I 1 L 0 8006f90c 0 Character 1
+
+R I 1 L 0 8006e29d 0 Character 2
+
+R I 1 L 0 8006f90d 0 Character 2
+
+R I 1 L 0 8006e29e 0 Character 3
+
+R I 1 L 0 8006f90e 0 Character 3
+
+R I 1 L 0 8006e29f 0 Character 4
+
+R I 1 L 0 8006f90f 0 Character 4
+
+R I 2 L 0 8008b71e 270f 9999 vs points
+
+R I 2 L 0 8006e650 4ec0 P1 Infinite Health
+
+R I 2 L 0 8006e652 4ec0 P1 Infinite Health
+
+R I 2 L 0 8006e654 4ec0 P1 Infinite Health
+
+R I 2 L 0 8006e654 1 1 Hit Kills P1
+
+R I 2 L 0 8006e704 9000 P1 Max Special Gauge (Cap)
+
+R I 2 L 0 8006f610 4ec0 Infinite Health P2
+
+R I 2 L 0 8006f612 4ec0 Infinite Health P2
+
+R I 2 L 0 8006f614 4ec0 Infinite Health P2
+
+R I 2 L 0 8006f614 1 1 Hit Kills P2
+
+R I 2 L 0 8006f6c4 9000 P2 Max Special Gauge (Cap)
+
+R I 2 L 0 80070498 270f Infinite VS PTS.
+
+R I 2 L 0 8006e28c 0 Time Modifier

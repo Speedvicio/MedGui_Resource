@@ -1,0 +1,37 @@
+[e4e77b581700a6cd58e711ee02b1a61f] Aaahh!!! Real Monsters (USA)
+R I 1 L 0 7e13c8 9 9 Lives
+R I 1 L 0 7e087a d Infinite Health
+R I 1 L 0 7e13e6 9a 99 Fish Skeletons
+R I 1 L 0 7e1eec a 9 Special Attacks
+S I 1 L 0 bddb ad Infinite energy
+S I 1 L 0 80bcf0 0 Infinite garbage
+S I 1 L 0 a5b7 0 Get nothing for each trash bag
+S I 1 L 0 a5b7 20 Get 20 for each trash bag
+S I 1 L 0 a5b7 bb Get 100 for each trash bag
+S I 1 L 0 80a744 0 Infinite lives
+S I 1 L 0 80c9ca 0 Infinite scares
+S I 1 L 0 a2f6 0 1-ups worth nothing
+S I 1 L 0 a2f6 3 1-ups worth 3
+S I 1 L 0 a2f6 5 1-ups worth 5
+S I 1 L 0 86a93c 1 Start with 1 life
+S I 1 L 0 86a93c 9 Start with 10 lives
+S I 1 L 0 86a93c 49 Start with 50 lives
+S I 1 L 0 84875e 0 Start with 0 special scares
+S I 1 L 0 84875e 10 Start with 10 special scares
+S I 1 L 0 84875e 20 Start with 20 special scares
+S I 1 L 0 a3c5 0 Monster books are worth nothing
+S I 1 L 0 a3c5 2 Monster books are worth 2
+S I 1 L 0 a3c5 10 Monster books are worth 10
+S I 1 L 0 a39c 0 Most health power-ups worth nothing
+S I 1 L 0 a39c 2 Most health power-ups worth more
+S I 1 L 0 a745 ad Infinite Lives
+S I 1 L 0 c9c5 bd Infinite Book
+S I 1 L 0 bcf2 ad Infinite Fish
+S I 1 L 0 9dfe 8d Invincibility
+R I 1 L 0 7e0b7a d Infinite Health
+R I 1 L 0 7e13ec 0 Books Modifier
+R I 1 L 0 7e1c30 1 Can't Jump
+R I 1 L 0 7e073a 1 Stick Monster Always Jumping
+R I 1 L 0 7e073c 1 Fat Monster Always Jumping
+R I 1 L 0 7e1419 a1 Messed Up Graphics
+R I 1 L 0 7e0b24 ff Invincibility

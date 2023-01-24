@@ -1,0 +1,106 @@
+[07930e72d4824bd63827a1a823cc8829] Metroid - Zero Mission (Europe) (En,Fr,De,Es,It)
+R I 2 L 0 300153c 9f9f All Weapons & Bombs
+
+R I 2 L 0 3001542 1 Enable Unknown Items & Gravity Suit
+
+R I 2 L 0 3001542 2 Play As Samus With No Suit
+
+R I 2 L 0 300153e ffff All Suits & Misc Items
+
+R I 2 L 0 3001530 513 Max Health
+
+R I 2 L 0 3001536 513 Infinite Health
+
+R I 2 L 0 3001532 3e7 Max Missiles
+
+R I 2 L 0 3001538 3e7 Infinite Missiles
+
+R I 1 L 0 3001534 c7 Max Super Missiles
+
+R I 1 L 0 300153a c7 Infinite Super Missiles
+
+R I 1 L 0 3001535 63 Max Power Bombs
+
+R I 1 L 0 300153b 63 Infinite Power Bombs
+
+R I 2 L 0 30013de a0 Super Dash Sooner
+
+R I 1 L 0 30013dc 77 Super Dash Always Charged
+
+R I 2 L 0 3000a30 8490 Always Shoot Charged Shots
+
+R I 2 L 0 3000a30 84c0 Always Shoot Charged Shots
+
+R I 2 L 0 3000a30 84a8 Always Shoot Charged Shots
+
+R I 2 L 0 3000a3a 702 Always Shoot Charged Shots
+
+R I 2 L 0 3000a3a c02 Shoot Missiles Instead Of Regular Shots
+
+R I 2 L 0 3000a3a d02 Shoot Super Missiles Instead Of Regular Shots
+
+R I 2 L 0 3000a3a f02 Shoot Power Bombs Instead Of Regular Shots
+
+R I 1 L 0 3000c4f 1 Translate Most Of Game To Japanese!
+
+R I 2 L 0 3000c4c ffff Unlock Hard Mode & Time Attack
+
+R I 1 L 0 3000c4e 1 Unlock Hard Mode & Time Attack
+
+R I 2 L 0 3000c50 101 Unlock Hard Mode & Time Attack
+
+R I 1 L 0 3000056 0 Press Select For Room Modifier (In Tubes)
+
+R I 1 L 0 3000054 0 Press Select For Area Modifier (In Tubes)
+
+R I 1 L 0 3001541 0 Stop Annoying Beeping When Life Is Low
+
+R I 1 L 0 3001540 ff Have All Scanned Maps
+
+R I 2 L 0 3000014 1 Unlock Gallery
+
+R I 2 L 0 3000016 1 Unlock Fusion Gallery
+
+R I 2 L 0 3000018 4 Unlock Original Metroid+Sound Test
+
+R I 2 L 0 3000a3a b02 Shoot Charged Pistol Shots
+
+R I 2 L 0 300095e 0 Time To Escape
+
+R I 1 L 0 3000024 1 Unlock Time & Item Status (Map Screen)
+
+R I 1 L 0 300175d 64 100% Completion Rate
+
+R I 1 L 0 300175c 63 Always Get Best Ending
+
+R I 2 L 0 30056ec 0 No Alarm Stealth Mission
+
+R I 2 L 0 30001a8 0 No Alarm Stealth Mission
+
+R I 2 L 0 30013da 1 Invincible
+
+R I 2 L 0 3000150 0 0 Game Time
+
+R I 2 L 0 3000152 0 0 Game Time
+
+R I 2 L 0 3001d20 100 Music Modifier
+
+R I 2 L 0 3001d22 0 Music Modifier
+
+R I 2 L 0 3007306 6999 Infinite Health
+
+R I 1 L 0 203c877 6 Max Health
+
+R I 1 L 0 203c879 ff Max Missiles
+
+R I 2 L 0 3007508 fc Press A For Moon Jump
+
+R I 1 L 0 203c878 ff Have All Upgrades (Freeze Gun, Screw Attack, Etc.)
+
+R I 2 L 0 300730a 9999 Infinite Escape Time
+
+R I 1 L 0 203c87d 0 Reset Game Timer
+
+R I 2 L 0 203c87e 0 Reset Game Timer
+
+R I 1 L 0 203c9b3 1 Play Without Suit

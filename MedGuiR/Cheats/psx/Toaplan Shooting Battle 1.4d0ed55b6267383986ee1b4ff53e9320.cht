@@ -1,0 +1,28 @@
+[] Toaplan Shooting Battle (NTSC-J)
+R I 2 L 0 8008cd70 2ff Infinite Bombs P1
+
+R I 2 L 0 8008cd7a 10f Infinite Helis P1
+
+R I 2 L 0 800917a2 28 Maximum Shot P1
+
+R I 2 L 0 800917a4 7 Infinite Bombs P1
+
+R I 2 L 0 800917b2 58 Shotgun Only P1
+
+R I 2 L 0 800d8d00 a Infinite Helis P1
+
+R I 2 L 0 80093a42 28 Maximum Shot P1
+
+R I 2 L 0 80093a44 7 Infinite Bombs P1
+
+R I 2 L 0 80093a52 58 Shotgun Only P1
+
+R I 2 L 0 800db448 a Infinite Helis P1
+
+R I 2 L 0 8009030a 28 Maximum Shot P2
+
+R I 2 L 0 8009030c 7 Infinite Bombs P2
+
+R I 2 L 0 8009031a 58 Shotgun Only P2
+
+R I 2 L 0 80098f18 0 Infinite Helis P2

@@ -1,0 +1,56 @@
+[] Captain Commando (USA)
+R I 1 L 0 7e1d5a 39 9 Continues
+
+R I 1 L 0 7e0895 32 Player 1 Infinite Health
+
+R I 1 L 0 7e0b15 9 Player 1 9 Lives
+
+R I 1 L 0 7e0893 32 Player 2 Infinite Health
+
+R I 1 L 0 7e0b13 9 Player 2 9 Lives
+
+S I 1 L 0 c01629 99 Infinite Health P1
+
+S I 1 L 0 c0162f b9 Infinite Energy
+
+S I 1 L 0 df634f bd Infinite Lives
+
+S I 1 L 0 c028f4 d0 Invincibility
+
+R I 1 L 0 7e0404 3 Invincibility
+
+S I 1 L 0 c0152c 38 One Hit Kill
+
+S I 1 L 0 c0152d e9 One Hit Kill
+
+S I 1 L 0 c0152e 80 One Hit Kill
+
+S I 1 L 0 c028f4 a9 Invincibility
+
+S I 1 L 0 c028f5 4 Invincibility
+
+S I 1 L 0 c028f6 9d Invincibility
+
+S I 1 L 0 c014c1 80 Hit Anywhere
+
+S I 1 L 0 c01458 80 Hit Anywhere
+
+S I 1 L 0 c01459 57 Hit Anywhere
+
+S I 1 L 0 c0126a 80 Hit Anywhere
+
+R I 1 L 0 7e1d59 3 Difficulty Modifier
+
+R I 1 L 0 7e0889 ff 1 Hit Kills
+
+R I 1 L 0 7e088b ff 1 Hit Kills
+
+R I 1 L 0 7e088d ff 1 Hit Kills
+
+R I 1 L 0 7e00ce 0 Stage Modifier
+
+R I 1 L 0 7e0889 0 1 Hit Kills Most Enemies (Doesn&#039;t Work)
+
+R I 1 L 0 7e088b 0 1 Hit Kills Most Enemies (Doesn&#039;t Work)
+
+R I 1 L 0 7e0694 3 Infinite Weapon Ammo

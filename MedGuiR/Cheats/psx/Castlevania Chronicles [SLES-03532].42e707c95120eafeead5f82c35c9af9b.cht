@@ -1,0 +1,466 @@
+[] Castlevania Chronicles (PAL-E)
+R I 2 L 0 8001b61a 2400 Hit Anywhere
+
+R I 2 L 0 8001b632 2400 Hit Anywhere
+
+R I 2 L 0 8001b652 2400 Hit Anywhere
+
+R I 2 L 0 8001b66a 2400 Hit Anywhere
+
+R I 4 L 0 80007005 e4c2 RCJC Pad 1
+
+R I 4 L 0 80000000 0 RCJC Pad 1
+
+R I 4 L 0 80007005 e4e4 RCJC Pad 2
+
+R I 4 L 0 80000000 0 RCJC Pad 2
+
+R I 4 L 0 80007005 e4c0 AnAc Pad 1
+
+R I 4 L 0 80000000 0 AnAc Pad 1
+
+R I 4 L 0 80007005 e4e2 AnAc Pad 2
+
+R I 4 L 0 80000000 0 AnAc Pad 2
+
+R I 4 L 0 80007426 4c2e PAL2NTSC (Note 3)
+
+R I 4 L 0 800026b6 3426 PAL2NTSC (Note 3)
+
+R I 4 L 0 80004c28 26f8 PAL2NTSC (Note 3)
+
+R I 4 L 0 80007421 c9e3 Y-Fix
+
+R I 4 L 0 8000a363 8421 Y-Fix
+
+R I 4 L 0 8000c9e3 a373 Y-Fix
+
+R I 4 L 0 80007420 1f33 NTSC
+(Press L1 &amp; L2 Pad 2)
+
+R I 4 L 0 800083ea 8421 NTSC
+(Press L1 &amp; L2 Pad 2)
+
+R I 4 L 0 8000cb7d a5f3 NTSC
+(Press L1 &amp; L2 Pad 2)
+
+R I 4 L 0 80007420 1f33 NTSC
+(Press L1 &amp; L2 Pad 2)
+
+R I 4 L 0 800083ea 8421 NTSC
+(Press L1 &amp; L2 Pad 2)
+
+R I 4 L 0 8000c814 101c NTSC
+(Press L1 &amp; L2 Pad 2)
+
+R I 4 L 0 80007420 1f33 NTSC
+(Press L1 &amp; L2 Pad 2)
+
+R I 4 L 0 800083ea 8421 NTSC
+(Press L1 &amp; L2 Pad 2)
+
+R I 4 L 0 8000cae6 5b81 NTSC
+(Press L1 &amp; L2 Pad 2)
+
+R I 4 L 0 80007420 1f33 PAL
+(Press R1 &amp; R2 Pad 2)
+
+R I 4 L 0 80008ce9 8421 PAL
+(Press R1 &amp; R2 Pad 2)
+
+R I 4 L 0 8000cb7d a1b0 PAL
+(Press R1 &amp; R2 Pad 2)
+
+R I 4 L 0 80007420 1f33 PAL
+(Press R1 &amp; R2 Pad 2)
+
+R I 4 L 0 80008ce9 8421 PAL
+(Press R1 &amp; R2 Pad 2)
+
+R I 4 L 0 8000c814 101e PAL
+(Press R1 &amp; R2 Pad 2)
+
+R I 4 L 0 80007420 1f33 PAL
+(Press R1 &amp; R2 Pad 2)
+
+R I 4 L 0 80008ce9 8421 PAL
+(Press R1 &amp; R2 Pad 2)
+
+R I 4 L 0 8000cae6 a47f PAL
+(Press R1 &amp; R2 Pad 2)
+
+R I 4 L 0 80003420 524b Super status
+
+R I 4 L 0 80004f54 0 Super status
+
+R I 4 L 0 80007424 21c5 Invincible
+
+R I 4 L 0 8000b8b9 424 Invincible
+
+R I 4 L 0 800021cb 473b Invincible
+
+R I 4 L 0 80007424 2d0d Infinite health
+
+R I 4 L 0 8000bcf5 424 Infinite health
+
+R I 4 L 0 80002d13 53df Infinite health
+
+R I 4 L 0 80007420 6fab Start with high score
+
+R I 4 L 0 8000091d 8420 Start with high score
+
+R I 4 L 0 80006fab 8e7e Start with high score
+
+R I 4 L 0 80007420 6fa9 Start with high score
+
+R I 4 L 0 8000091b 3420 Start with high score
+
+R I 4 L 0 80006fa9 918 Start with high score
+
+R I 4 L 0 80007420 5278 Start with max hearts
+
+R I 4 L 0 80003e83 3420 Start with max hearts
+
+R I 4 L 0 80005278 3ee5 Start with max hearts
+
+R I 4 L 0 80007420 1f15 Moon jump
+
+R I 4 L 0 8000c60f 8420 Moon jump
+
+R I 4 L 0 80005244 4e66 Moon jump
+
+R I 4 L 0 80007420 1f15 Moon jump
+
+R I 4 L 0 8000c62f 8420 Moon jump
+
+R I 4 L 0 80005244 4e66 Moon jump
+
+R I 4 L 0 80007420 1f15 Moon jump
+
+R I 4 L 0 8000c68f 8420 Moon jump
+
+R I 4 L 0 80005244 4e66 Moon jump
+
+R I 4 L 0 80008424 4f5b Hit anywhere
+
+R I 4 L 0 80003597 8424 Hit anywhere
+
+R I 4 L 0 80004f59 2593 Hit anywhere
+
+R I 4 L 0 80008427 a92f Items don't disappear
+
+R I 4 L 0 80006717 8427 Items don't disappear
+
+R I 4 L 0 8000b1bf 7fcf Items don't disappear
+
+R I 4 L 0 80003420 5246 Have metal whip
+
+R I 4 L 0 80004e62 0 Have metal whip
+
+R I 4 L 0 80007420 1f33 Watch endings / FMVs (Note 5)
+(Press L1 &amp; L2 &amp; R1 &amp; R2 &amp; Select Pad 2)
+
+R I 4 L 0 800089eb 8435 Watch endings / FMVs (Note 5)
+(Press L1 &amp; L2 &amp; R1 &amp; R2 &amp; Select Pad 2)
+
+R I 4 L 0 80005d6f e320 Watch endings / FMVs (Note 5)
+(Press L1 &amp; L2 &amp; R1 &amp; R2 &amp; Select Pad 2)
+
+R I 4 L 0 80007435 5dd7 Start game at level ?
+
+R I 4 L 0 8000c390 8435 Start game at level ?
+
+R I 4 L 0 80005dd5 f3a3 Start game at level ?
+
+R I 4 L 0 80007435 5dd7 Start game at level ?
+
+R I 4 L 0 8000c390 8010 Start game at level ?
+
+R I 4 L 0 80005704 0 Start game at level ?
+
+R I 4 L 0 80007424 4666 Infinite
+
+R I 4 L 0 80002e37 424 Infinite
+
+R I 4 L 0 80004660 2e7a Infinite
+
+R I 4 L 0 80007424 4664 Increase
+
+R I 4 L 0 80003ea5 3424 Increase
+
+R I 4 L 0 80004664 2e57 Increase
+
+R I 4 L 0 80007424 8e44 Never decrease
+
+R I 4 L 0 800019a0 424 Never decrease
+
+R I 4 L 0 80008e4c e656 Never decrease
+
+R I 4 L 0 80007424 8e44 Increase
+
+R I 4 L 0 800019a0 8424 Increase
+
+R I 4 L 0 80008e44 e64f Increase
+
+R I 4 L 0 80007420 1f33 On
+(Press L1 Pad 2)
+
+R I 4 L 0 800082e9 8424 On
+(Press L1 Pad 2)
+
+R I 4 L 0 8000260a 5e10 On
+(Press L1 Pad 2)
+
+R I 4 L 0 80007420 1f33 Off
+(Press R1 Pad 2)
+
+R I 4 L 0 80008ee9 8424 Off
+(Press R1 Pad 2)
+
+R I 4 L 0 8000260a 5a50 Off
+(Press R1 Pad 2)
+
+R I 4 L 0 80007420 1f33 On
+(Press L2 &amp; Up Pad 2)
+
+R I 4 L 0 800087fa 8424 On
+(Press L2 &amp; Up Pad 2)
+
+R I 4 L 0 800036c6 46f4 On
+(Press L2 &amp; Up Pad 2)
+
+R I 4 L 0 80007420 1f33 On
+(Press L2 &amp; Up Pad 2)
+
+R I 4 L 0 800087fa 8424 On
+(Press L2 &amp; Up Pad 2)
+
+R I 4 L 0 80001b95 595b On
+(Press L2 &amp; Up Pad 2)
+
+R I 4 L 0 80007420 1f33 On
+(Press L2 &amp; Up Pad 2)
+
+R I 4 L 0 800087fa 8424 On
+(Press L2 &amp; Up Pad 2)
+
+R I 4 L 0 80002111 47f1 On
+(Press L2 &amp; Up Pad 2)
+
+R I 4 L 0 80007420 1f33 Off
+(Press L2 &amp; Down Pad 2)
+
+R I 4 L 0 800087aa 8424 Off
+(Press L2 &amp; Down Pad 2)
+
+R I 4 L 0 800036c6 c8b6 Off
+(Press L2 &amp; Down Pad 2)
+
+R I 4 L 0 80007420 1f33 Off
+(Press L2 &amp; Down Pad 2)
+
+R I 4 L 0 800087aa 8424 Off
+(Press L2 &amp; Down Pad 2)
+
+R I 4 L 0 80001b95 d5d9 Off
+(Press L2 &amp; Down Pad 2)
+
+R I 4 L 0 80007420 1f33 Off
+(Press L2 &amp; Down Pad 2)
+
+R I 4 L 0 800087aa 8424 Off
+(Press L2 &amp; Down Pad 2)
+
+R I 4 L 0 80002111 47b1 Off
+(Press L2 &amp; Down Pad 2)
+
+R I 4 L 0 80007420 1f33 Frozen
+(Press L2 Pad 2)
+
+R I 4 L 0 800087ea 8424 Frozen
+(Press L2 Pad 2)
+
+R I 4 L 0 8000d2e8 ca7e Frozen
+(Press L2 Pad 2)
+
+R I 4 L 0 80007420 1f33 Increases
+(Press R2 Pad 2)
+
+R I 4 L 0 800084e9 8424 Increases
+(Press R2 Pad 2)
+
+R I 4 L 0 8000d2e8 ca7f Increases
+(Press R2 Pad 2)
+
+R I 4 L 0 80007420 1f15 Default
+(Press L1 &amp; L2 &amp; R1 &amp; R2 Pad 2)
+
+R I 4 L 0 80008910 8424 Default
+(Press L1 &amp; L2 &amp; R1 &amp; R2 Pad 2)
+
+R I 4 L 0 8000d2e8 3570 Default
+(Press L1 &amp; L2 &amp; R1 &amp; R2 Pad 2)
+
+R I 4 L 0 80007420 1f33 On
+(Press L1 &amp; Up Pad 2)
+
+R I 4 L 0 800082f9 8424 On
+(Press L1 &amp; Up Pad 2)
+
+R I 4 L 0 80002111 47f1 On
+(Press L1 &amp; Up Pad 2)
+
+R I 4 L 0 80007420 1f33 Off
+(Press L1 &amp; Down Pad 2)
+
+R I 4 L 0 800082a9 8424 Off
+(Press L1 &amp; Down Pad 2)
+
+R I 4 L 0 80002111 47b1 Off
+(Press L1 &amp; Down Pad 2)
+
+R I 4 L 0 80007420 1f35 On
+(Activate Analog mode Pad 2)
+
+R I 4 L 0 80000a10 3420 On
+(Activate Analog mode Pad 2)
+
+R I 4 L 0 80006f6a a5f On
+(Activate Analog mode Pad 2)
+
+R I 4 L 0 80007420 1f35 Off
+(Deactivate Analog mode Pad 2)
+
+R I 4 L 0 80003800 420 Off
+(Deactivate Analog mode Pad 2)
+
+R I 4 L 0 80006f6a a5e Off
+(Deactivate Analog mode Pad 2)
+
+R I 4 L 0 80007420 1f33 On
+(Press R2 &amp; Up Pad 2)
+
+R I 4 L 0 800084f9 8426 On
+(Press R2 &amp; Up Pad 2)
+
+R I 4 L 0 800056c8 78de On
+(Press R2 &amp; Up Pad 2)
+
+R I 4 L 0 80007420 1f33 Off
+(Press R2 &amp; Down Pad 2)
+
+R I 4 L 0 800084a9 8426 Off
+(Press R2 &amp; Down Pad 2)
+
+R I 4 L 0 800056c8 44ae Off
+(Press R2 &amp; Down Pad 2)
+
+R I 4 L 0 80008424 1961 Look undead
+
+R I 4 L 0 800057a9 0 Look undead
+
+R I 4 L 0 80008424 193d Look powerful
+
+R I 4 L 0 80004705 0 Look powerful
+
+R I 4 L 0 80007435 7133 Sound engine selection menu
+
+R I 4 L 0 8000f7a4 8435 Sound engine selection menu
+
+R I 4 L 0 80007133 f7a7 Sound engine selection menu
+
+R I 4 L 0 80007435 76f2 Sound engine selection menu
+
+R I 4 L 0 8000fcee 8435 Sound engine selection menu
+
+R I 4 L 0 800076f2 fce0 Sound engine selection menu
+
+R I 4 L 0 80003423 1f19 Time attack &amp; ranking (Arrange mode)
+
+R I 4 L 0 80007bee 7423 Time attack &amp; ranking (Arrange mode)
+
+R I 4 L 0 80001cd6 7822 Time attack &amp; ranking (Arrange mode)
+
+R I 4 L 0 80003423 1cd6 Time attack &amp; ranking (Arrange mode)
+
+R I 4 L 0 80007871 0 Time attack &amp; ranking (Arrange mode)
+
+R I 4 L 0 80003423 1f1c Gallery &amp; pictures in options menu
+
+R I 4 L 0 80007cf6 0 Gallery &amp; pictures in options menu
+
+R I 4 L 0 80007420 1f33 On
+(Press Select &amp; Left Pad 2)
+
+R I 4 L 0 80008668 8435 On
+(Press Select &amp; Left Pad 2)
+
+R I 4 L 0 8000768c 24fe On
+(Press Select &amp; Left Pad 2)
+
+R I 4 L 0 80007420 1f33 Off
+(Press Select &amp; Right Pad 2)
+
+R I 4 L 0 800086c8 8435 Off
+(Press Select &amp; Right Pad 2)
+
+R I 4 L 0 8000768c 4fa Off
+(Press Select &amp; Right Pad 2)
+
+R I 4 L 0 80007420 1f33 On
+(Press Select &amp; Up Pad 2)
+
+R I 4 L 0 800086f8 8435 On
+(Press Select &amp; Up Pad 2)
+
+R I 4 L 0 8000768c 24fe On
+(Press Select &amp; Up Pad 2)
+
+R I 4 L 0 80007420 1f33 Off
+(Press Select &amp; Down Pad 2)
+
+R I 4 L 0 800086a8 8435 Off
+(Press Select &amp; Down Pad 2)
+
+R I 4 L 0 8000768c 4fa Off
+(Press Select &amp; Down Pad 2)
+
+R I 2 L 0 80052680 0 (M) PAL to NTSC (+centering)
+
+R I 2 L 0 80043304 fff0 (M) PAL to NTSC (+centering)
+
+R I 2 L 0 80043304 10 (M) PAL to NTSC (+centering)
+
+R I 2 L 0 8001da6a 1000 Invincible
+
+R I 2 L 0 8005a98a 10 Infinite HP
+
+R I 2 L 0 80059402 63 Infinite Lives
+
+R I 2 L 0 8005944c 967f Max Score
+
+R I 2 L 0 8005944e 98 Max Score
+
+R I 2 L 0 8001bd82 40 Hearts Can't Deplete
+
+R I 1 L 0 8005a99e 2 Max Level Weapon (Morning Star Whip)
+
+R I 1 L 0 8005a997 3 Max Level Sub-Weapon (Triple Shot)
+
+R I 2 L 0 8001293c 0 Stop Timer
+
+R I 2 L 0 8005a99c 8 Press X For Moon Jump
+
+R I 2 L 0 800593b4 0 Time Attack: Time Is At 00
+
+R I 2 L 0 800593b6 0 Time Attack: Time Is At 00
+
+R I 1 L 0 8005946d 3 Enable Arranged Music
+
+R I 1 L 0 8006e5c9 1a Unlock All Extras
+
+R I 1 L 0 8006e5cc 1 Unlock All Extras
+
+R I 2 L 0 801057bc 1b Watch endings / FMVs in Original & Arranged Modes 
+
+R I 2 L 0 800592c4 0 Start game at level 1-8

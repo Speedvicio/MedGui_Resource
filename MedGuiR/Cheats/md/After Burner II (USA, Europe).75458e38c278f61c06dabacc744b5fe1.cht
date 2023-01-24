@@ -1,0 +1,128 @@
+[75458e38c278f61c06dabacc744b5fe1] After Burner II (USA, Europe)
+S I 2 L 0 182a 0 Start with 1 plane instead of 3
+
+S I 2 L 0 182a 1 Start with 2 planes
+
+S I 2 L 0 182a 3 Start with 4 planes
+
+S I 2 L 0 182a 4 Start with 5 planes
+
+S I 2 L 0 307c 1 Continue with 1 plane instead of 3
+
+S I 2 L 0 307c 2 Continue with 2 planes
+
+S I 2 L 0 307c 4 Continue with 4 planes
+
+S I 2 L 0 307c 5 Continue with 5 planes
+
+S I 2 L 0 2d50 6004 Almost infinite planes
+
+S I 2 L 0 1832 0 Start With 0 Missiles Instead Of 50
+
+S I 2 L 0 183a 0 Start With 0 Missiles Instead Of 50
+
+S I 2 L 0 1832 a Start With 10 Missiles
+
+S I 2 L 0 183a a Start With 10 Missiles
+
+S I 2 L 0 1832 19 Start With 25 Missiles
+
+S I 2 L 0 183a 19 Start With 25 Missiles
+
+S I 2 L 0 1832 4b Start With 75 Missiles
+
+S I 2 L 0 183a 4b Start With 75 Missiles
+
+S I 2 L 0 1832 64 Start With 100 Missiles
+
+S I 2 L 0 183a 64 Start With 100 Missiles
+
+S I 2 L 0 3090 0 Continue With No Extra Missiles
+
+S I 2 L 0 3090 a Continue With 10 Extra Missiles
+
+S I 2 L 0 3090 19 Continue With 25 Extra Missiles
+
+S I 2 L 0 3090 4b Continue with 75 extra missiles
+
+S I 2 L 0 3090 64 Continue With 100 Extra Missiles
+
+S I 2 L 0 381c 600a Infinite missiles
+
+S I 2 L 0 2a84 0 0 continues instead of 3
+
+S I 2 L 0 2a84 1 1 continue
+
+S I 2 L 0 2a84 5 5 continues
+
+S I 2 L 0 2a84 9 9 continues
+
+S I 2 L 0 3082 6004 Infinite continues
+
+S I 2 L 0 69f0 2 Start on stage 2
+
+S I 2 L 0 69f0 3 Start on stage 3
+
+S I 2 L 0 69f0 4 Start on stage 4
+
+S I 2 L 0 69f0 5 Start on stage 5
+
+S I 2 L 0 69f0 6 Start on stage 6
+
+S I 2 L 0 69f0 7 Start on stage 7
+
+S I 2 L 0 69f0 8 Start on stage 8
+
+S I 2 L 0 69f0 9 Start on stage 9
+
+S I 2 L 0 69f0 a Start on stage 10
+
+S I 2 L 0 69f0 b Start on stage 11
+
+S I 2 L 0 69f0 c Start on stage 12
+
+S I 2 L 0 69f0 d Start on stage 13
+
+S I 2 L 0 69f0 e Start on stage 14
+
+S I 2 L 0 69f0 f Start on stage 15
+
+S I 2 L 0 69f0 10 Start on stage 16
+
+S I 2 L 0 69f0 11 Start on stage 17
+
+S I 2 L 0 69f0 12 Start on stage 18
+
+S I 2 L 0 69f0 13 Start on stage 19
+
+S I 2 L 0 69f0 14 Start on stage 20
+
+S I 2 L 0 69f0 15 Start on stage 21
+
+S I 2 L 0 69f0 16 Start on stage 22
+
+S I 2 L 0 69f0 17 Start on stage 23
+
+S I 2 L 0 2d8e 2004 Lose 1 Life To Beat The Game
+
+R I 2 L 0 ff06c2 2 Infinite Lives
+
+R I 2 L 0 ff06c4 32 Infinite Missiles
+
+S I 2 L 0 381e 1 Infinite Missiles
+
+R I 2 L 0 ff0b30 0 Invincibility
+
+S I 2 L 0 6498 6004 Cpu Can't Shoot
+
+S I 2 L 0 4754 6004 Invincibility
+
+S I 2 L 0 43fc 6004 Invincibility
+
+S I 2 L 0 5486 6006 Invincibility
+
+S I 2 L 0 2d50 6004 Infinite Lives (Alternate)
+
+S I 2 L 0 381c 600a Infinite Missiles (Alternate)
+
+S I 2 L 0 4756 4e75 Untouchable

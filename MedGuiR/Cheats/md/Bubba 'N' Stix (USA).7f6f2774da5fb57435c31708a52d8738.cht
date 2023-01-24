@@ -1,0 +1,42 @@
+[7f6f2774da5fb57435c31708a52d8738] Bubba'n'Stix - A Strategy Adventure (USA)
+S I 2 L 0 5fe 6002 Infinite Lives
+
+S I 2 L 0 e14e 6002 Infinite Energy
+
+S I 2 L 0 7dd6 1 Level Select
+
+R I 2 L 0 ffc482 3 Infinite Lives
+
+R I 2 L 0 ffc484 6 Infinite Energy
+
+S I 2 L 0 df54 9 Start With A Little More Energy
+
+S I 2 L 0 e36a 9 Start With A Little More Energy
+
+S I 2 L 0 df08 9 Start With A Little More Energy
+
+S I 2 L 0 e31e 9 Start With A Little More Energy
+
+S I 2 L 0 df08 18 Start With A Lot More Energy
+
+S I 2 L 0 e31e 18 Start With A Lot More Energy
+
+S I 2 L 0 df08 fa Start With Mega Energy
+
+S I 2 L 0 e31e fa Start With Mega Energy
+
+S I 2 L 0 df54 18 Start With A Lot More Energy
+
+S I 2 L 0 e36a 18 Start With A Lot More Energy
+
+S I 2 L 0 df54 fa Start With Mega Energy
+
+S I 2 L 0 e36a fa Start With Mega Energy
+
+S I 2 L 0 57c 9 Continue With 9 Lives
+
+S I 2 L 0 57c 19 Continue With 25 Lives
+
+R I 2 L 0 ffc480 0 Level Modifier
+
+S I 2 L 0 838c 6002 Infinite Continue

@@ -1,0 +1,732 @@
+[] Vigilante 8 - 2nd Offense (NTSC-U)
+R I 2 L 0 800559ea 3c00 PAL2NTSC
+
+R I 2 L 0 800447fa 3c00 Infinite Interceptor Missiles - Both Players
+
+R I 2 L 0 80046956 3c00 Infinite Bull's Eye Rockets - Both Players
+
+R I 2 L 0 80043852 3c00 Infinite Sky Hammer Motar - Both Players
+
+R I 2 L 0 80045442 3c00 Infinite Bruiser Cannon - Both Players
+
+R I 2 L 0 80047c76 3c00 Infinite Roadkill Mines - Both Players
+
+R I 2 L 0 8004911e 3c00 Infinite Brimstone Burner - Both Players
+
+R I 2 L 0 80041ef6 3c00 Infinite Power-Ups on Pickup - Both Players
+
+R I 2 L 0 8006baf8 1ff Quest Completed - Sheila
+
+R I 1 L 0 8006bafe 64 Max Acceleration - Sheila
+
+R I 1 L 0 8006baff 64 Max Speed - Sheila
+
+R I 1 L 0 8006bb00 64 Max Armor - Sheila
+
+R I 1 L 0 8006bb01 64 Max Target Avoidance - Sheila
+
+R I 2 L 0 8006bb02 1ff Quest Completed - John Torque
+
+R I 1 L 0 8006bb08 64 Max Acceleration - John Torque
+
+R I 1 L 0 8006bb09 64 Max Speed - John Torque
+
+R I 1 L 0 8006bb0a 64 Max Armor - John Torque
+
+R I 1 L 0 8006bb0b 64 Max Target Avoidance - John Torque
+
+R I 2 L 0 8006bb0c 1ff Quest Completed - Flying All Star Trio
+
+R I 1 L 0 8006bb12 64 Max Acceleration - Flying All Star Trio
+
+R I 1 L 0 8006bb13 64 Max Speed - Flying All Star Trio
+
+R I 1 L 0 8006bb14 64 Max Armor - Flying All Star Trio
+
+R I 1 L 0 8006bb15 64 Max Target Avoidance - Flying All Star Trio
+
+R I 2 L 0 8006bb16 1ff Quest Completed - Houston
+
+R I 1 L 0 8006bb1c 64 Max Acceleration - Houston
+
+R I 1 L 0 8006bb1d 64 Max Speed - Houston
+
+R I 1 L 0 8006bb1e 64 Max Armor - Houston
+
+R I 1 L 0 8006bb1f 64 Max Target Avoidance - Houston
+
+R I 2 L 0 8006bb20 1ff Quest Completed - Convoy
+
+R I 1 L 0 8006bb26 64 Max Acceleration - Convoy
+
+R I 1 L 0 8006bb27 64 Max Speed - Convoy
+
+R I 1 L 0 8006bb28 64 Max Armor - Convoy
+
+R I 1 L 0 8006bb29 64 Max Target Avoidance - Convoy
+
+R I 1 L 0 8006bb30 64 Max Acceleration - Dave's Cultsmen
+
+R I 1 L 0 8006bb31 64 Max Speed - Dave's Cultsmen
+
+R I 1 L 0 8006bb32 64 Max Armor - Dave's Cultsmen
+
+R I 1 L 0 8006bb33 64 Max Target Avoidance - Dave's Cultsmen
+
+R I 2 L 0 8006bb34 1ff Quest Completed - Dallas 13
+
+R I 1 L 0 8006bb3a 64 Max Acceleration - Dallas 13
+
+R I 1 L 0 8006bb3b 64 Max Speed - Dallas 13
+
+R I 1 L 0 8006bb3c 64 Max Armor - Dallas 13
+
+R I 1 L 0 8006bb3d 64 Max Target Avoidance - Dallas 13
+
+R I 2 L 0 8006bb3e 1ff Quest Completed - Nina Loco
+
+R I 1 L 0 8006bb44 64 Max Acceleration - Nina Loco
+
+R I 1 L 0 8006bb45 64 Max Speed - Nina Loco
+
+R I 1 L 0 8006bb46 64 Max Armor - Nina Loco
+
+R I 1 L 0 8006bb47 64 Max Target Avoidance - Nina Loco
+
+R I 2 L 0 8006bb48 1ff Quest Completed - Molo
+
+R I 1 L 0 8006bb4e 64 Max Acceleration - Molo
+
+R I 1 L 0 8006bb4f 64 Max Speed - Molo
+
+R I 1 L 0 8006bb50 64 Max Armor - Molo
+
+R I 1 L 0 8006bb51 64 Max Target Avoidance - Molo
+
+R I 2 L 0 8006bb52 1ff Quest Completed - Lord Clyde
+
+R I 1 L 0 8006bb58 64 Max Acceleration - Lord Clyde
+
+R I 1 L 0 8006bb59 64 Max Speed - Lord Clyde
+
+R I 1 L 0 8006bb5a 64 Max Armor - Lord Clyde
+
+R I 1 L 0 8006bb5b 64 Max Target Avoidance - Lord Clyde
+
+R I 2 L 0 8006bb5c 1ff Quest Completed - Obake
+
+R I 1 L 0 8006bb62 64 Max Acceleration - Obake
+
+R I 1 L 0 8006bb63 64 Max Speed - Obake
+
+R I 1 L 0 8006bb64 64 Max Armor - Obake
+
+R I 1 L 0 8006bb65 64 Max Target Avoidance - Obake
+
+R I 1 L 0 8006bb6c 64 Max Acceleration - Marathon
+
+R I 1 L 0 8006bb6d 64 Max Speed - Marathon
+
+R I 1 L 0 8006bb6e 64 Max Armor - Marathon
+
+R I 1 L 0 8006bb6f 64 Max Target Avoidance - Marathon
+
+R I 2 L 0 8006bb70 1ff Quest Completed - Astronaut Bob O
+
+R I 1 L 0 8006bb76 64 Max Acceleration - Astronaut Bob O
+
+R I 1 L 0 8006bb77 64 Max Speed - Astronaut Bob O
+
+R I 1 L 0 8006bb78 64 Max Armor - Astronaut Bob O
+
+R I 1 L 0 8006bb79 64 Max Target Avoidance - Astronaut Bob O
+
+R I 2 L 0 8006bb7a 1ff Quest Completed - Garbage Man
+
+R I 1 L 0 8006bb80 64 Max Acceleration - Garbage Man
+
+R I 1 L 0 8006bb81 64 Max Speed - Garbage Man
+
+R I 1 L 0 8006bb82 64 Max Armor - Garbage Man
+
+R I 1 L 0 8006bb83 64 Max Target Avoidance - Garbage Man
+
+R I 2 L 0 8006bb84 1ff Quest Completed - Agent R Chase
+
+R I 1 L 0 8006bb8a 64 Max Acceleration - Agent R Chase
+
+R I 1 L 0 8006bb8b 64 Max Speed - Agent R Chase
+
+R I 1 L 0 8006bb8c 64 Max Armor - Agent R Chase
+
+R I 1 L 0 8006bb8e 64 Max Target Avoidance - Agent R Chase
+
+R I 2 L 0 8006bb9e 1ff Quest Completed - Chassey Blue
+
+R I 1 L 0 8006bb94 64 Max Acceleration - Chassey Blue
+
+R I 1 L 0 8006bb95 64 Max Speed - Chassey Blue
+
+R I 1 L 0 8006bb96 64 Max Armor - Chassey Blue
+
+R I 1 L 0 8006bb97 64 Max Target Avoidance - Chassey Blue
+
+R I 2 L 0 8006bb98 1ff Quest Completed - Padre Destino
+
+R I 1 L 0 8006bb9e 64 Max Acceleration - Padre Destino
+
+R I 1 L 0 8006bb9f 64 Max Speed - Padre Destino
+
+R I 1 L 0 8006bba0 64 Max Armor - Padre Destino
+
+R I 1 L 0 8006bba1 64 Max Target Avoidance - Padre Destino
+
+R I 1 L 0 8006bba8 64 Max Acceleration - Dusty Earth
+
+R I 1 L 0 8006bba9 64 Max Speed - Dusty Earth
+
+R I 1 L 0 8006bbaa 64 Max Armor - Dusty Earth
+
+R I 1 L 0 8006bbab 64 Max Target Avoidance - Dusty Earth
+
+R I 2 L 0 8006bbac 1ff Quest Completed - Sheila
+
+R I 1 L 0 8006bbb2 64 Max Acceleration - Sheila
+
+R I 1 L 0 8006bbb3 64 Max Speed - Sheila
+
+R I 1 L 0 8006bbb4 64 Max Armor - Sheila
+
+R I 1 L 0 8006bbb5 64 Max Target Avoidance - Sheila
+
+R I 2 L 0 8006bbb6 1ff Quest Completed - John Torque
+
+R I 1 L 0 8006bbbc 64 Max Acceleration - John Torque
+
+R I 1 L 0 8006bbbd 64 Max Speed - John Torque
+
+R I 1 L 0 8006bbbe 64 Max Armor - John Torque
+
+R I 1 L 0 8006bbbf 64 Max Target Avoidance - John Torque
+
+R I 2 L 0 8006bbc0 1ff Quest Completed - Flying All Star Trio
+
+R I 1 L 0 8006bbc6 64 Max Acceleration - Flying All Star Trio
+
+R I 1 L 0 8006bbc7 64 Max Speed - Flying All Star Trio
+
+R I 1 L 0 8006bbc8 64 Max Armor - Flying All Star Trio
+
+R I 1 L 0 8006bbc9 64 Max Target Avoidance - Flying All Star Trio
+
+R I 2 L 0 8006bbca 1ff Quest Completed - Houston
+
+R I 1 L 0 8006bbd0 64 Max Acceleration - Houston
+
+R I 1 L 0 8006bbd1 64 Max Speed - Houston
+
+R I 1 L 0 8006bbd2 64 Max Armor - Houston
+
+R I 1 L 0 8006bbd3 64 Max Target Avoidance - Houston
+
+R I 2 L 0 8006bbd4 1ff Quest Completed - Convoy
+
+R I 1 L 0 8006bbda 64 Max Acceleration - Convoy
+
+R I 1 L 0 8006bbdb 64 Max Speed - Convoy
+
+R I 1 L 0 8006bbdc 64 Max Armor - Convoy
+
+R I 1 L 0 8006bbde 64 Max Target Avoidance - Convoy
+
+R I 1 L 0 8006bbe4 64 Max Acceleration - Dave's Cultsmen
+
+R I 1 L 0 8006bbe5 64 Max Speed - Dave's Cultsmen
+
+R I 1 L 0 8006bbe6 64 Max Armor - Dave's Cultsmen
+
+R I 1 L 0 8006bbe7 64 Max Target Avoidance - Dave's Cultsmen
+
+R I 2 L 0 8006bbe8 1ff Quest Completed - Dallas 13
+
+R I 1 L 0 8006bbee 64 Max Acceleration - Dallas 13
+
+R I 1 L 0 8006bbef 64 Max Speed - Dallas 13
+
+R I 1 L 0 8006bbf0 64 Max Armor - Dallas 13
+
+R I 1 L 0 8006bbf1 64 Max Target Avoidance - Dallas 13
+
+R I 2 L 0 8006bbf2 1ff Quest Completed - Nina Loco
+
+R I 1 L 0 8006bbf8 64 Max Acceleration - Nina Loco
+
+R I 1 L 0 8006bbf9 64 Max Speed - Nina Loco
+
+R I 1 L 0 8006bbfa 64 Max Armor - Nina Loco
+
+R I 1 L 0 8006bbfb 64 Max Target Avoidance - Nina Loco
+
+R I 2 L 0 8006bbfc 1ff Quest Completed - Molo
+
+R I 1 L 0 8006bc02 64 Max Acceleration - Molo
+
+R I 1 L 0 8006bc03 64 Max Speed - Molo
+
+R I 1 L 0 8006bc04 64 Max Armor - Molo
+
+R I 1 L 0 8006bc05 64 Max Target Avoidance - Molo
+
+R I 2 L 0 8006bc06 1ff Quest Completed - Lord Clyde
+
+R I 1 L 0 8006bc0c 64 Max Acceleration - Lord Clyde
+
+R I 1 L 0 8006bc0d 64 Max Speed - Lord Clyde
+
+R I 1 L 0 8006bc0e 64 Max Armor - Lord Clyde
+
+R I 1 L 0 8006bc0f 64 Max Target Avoidance - Lord Clyde
+
+R I 2 L 0 8006bc10 1ff Quest Completed - Obake
+
+R I 1 L 0 8006bc16 64 Max Acceleration - Obake
+
+R I 1 L 0 8006bc17 64 Max Speed - Obake
+
+R I 1 L 0 8006bc18 64 Max Armor - Obake
+
+R I 1 L 0 8006bc19 64 Max Target Avoidance - Obake
+
+R I 1 L 0 8006bc10 64 Max Acceleration - Marathon
+
+R I 1 L 0 8006bc21 64 Max Speed - Marathon
+
+R I 1 L 0 8006bc22 64 Max Armor - Marathon
+
+R I 1 L 0 8006bc23 64 Max Target Avoidance - Marathon
+
+R I 2 L 0 8006bc24 1ff Quest Completed - Astronaut Bob O
+
+R I 1 L 0 8006bc2a 64 Max Acceleration - Astronaut Bob O
+
+R I 1 L 0 8006bc2b 64 Max Speed - Astronaut Bob O
+
+R I 1 L 0 8006bc2c 64 Max Armor - Astronaut Bob O
+
+R I 1 L 0 8006bc2d 64 Max Target Avoidance - Astronaut Bob O
+
+R I 2 L 0 8006bc2e 1ff Quest Completed - Garbage Man
+
+R I 1 L 0 8006bc34 64 Max Acceleration - Garbage Man
+
+R I 1 L 0 8006bc35 64 Max Speed - Garbage Man
+
+R I 1 L 0 8006bc36 64 Max Armor - Garbage Man
+
+R I 1 L 0 8006bc37 64 Max Target Avoidance - Garbage Man
+
+R I 2 L 0 8006bc38 1ff Quest Completed - Agent R Chase
+
+R I 1 L 0 8006bc3e 64 Max Acceleration - Agent R Chase
+
+R I 1 L 0 8006bc3f 64 Max Speed - Agent R Chase
+
+R I 1 L 0 8006bc40 64 Max Armor - Agent R Chase
+
+R I 1 L 0 8006bc41 64 Max Target Avoidance - Agent R Chase
+
+R I 2 L 0 8006bc42 1ff Quest Completed - Chassey Blue
+
+R I 1 L 0 8006bc48 64 Max Acceleration - Chassey Blue
+
+R I 1 L 0 8006bc49 64 Max Speed - Chassey Blue
+
+R I 1 L 0 8006bc4a 64 Max Armor - Chassey Blue
+
+R I 1 L 0 8006bc4b 64 Max Target Avoidance - Chassey Blue
+
+R I 2 L 0 8006bc4c 1ff Quest Completed - Padre Destino
+
+R I 1 L 0 8006bc52 64 Max Acceleration - Padre Destino
+
+R I 1 L 0 8006bc53 64 Max Speed - Padre Destino
+
+R I 1 L 0 8006bc54 64 Max Armor - Padre Destino
+
+R I 1 L 0 8006bc55 64 Max Target Avoidance - Padre Destino
+
+R I 1 L 0 8006bc5c 64 Max Acceleration - Dusty Earth
+
+R I 1 L 0 8006bc5d 64 Max Speed - Dusty Earth
+
+R I 1 L 0 8006bc5e 64 Max Armor - Dusty Earth
+
+R I 1 L 0 8006bc5f 64 Max Target Avoidance - Dusty Earth
+
+R I 2 L 0 8004475a 2400 Infinite Interceptor Missiles - Both Players
+
+R I 2 L 0 800437b2 2400 Infinite Bull's Eye Rockets - Both Players
+
+R I 2 L 0 800468b6 2400 Infinite Sky Hammer Motar - Both Players
+
+R I 2 L 0 800453a2 2400 Infinite Bruiser Cannon - Both Players
+
+R I 2 L 0 80047bd6 2400 Infinite Roadkill Mines - Both Players
+
+R I 2 L 0 80049076 2400 Infinite Brimstone Burner - Both Players
+
+R I 2 L 0 80041e56 2400 Infinite Shield on Pickup - Both Players
+
+R I 2 L 0 8006b9e8 1ff P1 Quest Completed - Sheila
+
+R I 1 L 0 8006b9ee 64 P1 Max Accleration - Sheila
+
+R I 1 L 0 8006b9ef 64 P1 Max Speed - Sheila
+
+R I 1 L 0 8006b9f0 64 P1 Max Armor - Sheila
+
+R I 1 L 0 8006b9f1 64 P1 Max Target Avoidance - Sheila
+
+R I 2 L 0 8006b9f2 1ff P1 Quest Completed - John Torque
+
+R I 1 L 0 8006b9f8 64 P1 Max Accleration - John Torque
+
+R I 1 L 0 8006b9f9 64 P1 Max Speed - John Torque
+
+R I 1 L 0 8006b9fa 64 P1 Max Armor - John Torque
+
+R I 1 L 0 8006b9fb 64 P1 Max Target Avoidance - John Torque
+
+R I 2 L 0 8006b9fc 1ff P1 Quest Completed - Flying All Star Trio
+
+R I 1 L 0 8006ba02 64 P1 Max Accleration - Flying All Star Trio
+
+R I 1 L 0 8006ba03 64 P1 Max Speed - Flying All Star Trio
+
+R I 1 L 0 8006ba04 64 P1 Max Armor - Flying All Star Trio
+
+R I 1 L 0 8006ba05 64 P1 Max Target Avoidance - Flying All Star Trio
+
+R I 2 L 0 8006ba06 1ff P1 Quest Completed - Houston
+
+R I 1 L 0 8006ba0c 64 P1 Max Accleration - Houston
+
+R I 1 L 0 8006ba0d 64 P1 Max Speed - Houston
+
+R I 1 L 0 8006ba0e 64 P1 Max Armor - Houston
+
+R I 1 L 0 8006ba0f 64 P1 Max Target Avoidance - Houston
+
+R I 2 L 0 8006ba10 1ff P1 Quest Completed - Convoy
+
+R I 1 L 0 8006ba16 64 P1 Max Accleration - Convoy
+
+R I 1 L 0 8006ba17 64 P1 Max Speed - Convoy
+
+R I 1 L 0 8006ba18 64 P1 Max Armor - Convoy
+
+R I 1 L 0 8006ba19 64 P1 Max Target Avoidance - Convoy
+
+R I 1 L 0 8006ba20 64 P1 Max Accleration - Dave's Cultsmen
+
+R I 1 L 0 8006ba21 64 P1 Max Speed - Dave's Cultsmen
+
+R I 1 L 0 8006ba22 64 P1 Max Armor - Dave's Cultsmen
+
+R I 1 L 0 8006ba23 64 P1 Max Target Avoidance - Dave's Cultsmen
+
+R I 2 L 0 8006ba24 1ff P1 Quest Completed - Dallas 13
+
+R I 1 L 0 8006ba2a 64 P1 Max Accleration - Dallas 13
+
+R I 1 L 0 8006ba2b 64 P1 Max Speed - Dallas 13
+
+R I 1 L 0 8006ba2c 64 P1 Max Armor - Dallas 13
+
+R I 1 L 0 8006ba2d 64 P1 Max Target Avoidance - Dallas 13
+
+R I 2 L 0 8006ba2e 1ff P1 Quest Completed - Nina Loco
+
+R I 1 L 0 8006ba34 64 P1 Max Accleration - Nina Loco
+
+R I 1 L 0 8006ba35 64 P1 Max Speed - Nina Loco
+
+R I 1 L 0 8006ba36 64 P1 Max Armor - Nina Loco
+
+R I 1 L 0 8006ba37 64 P1 Max Target Avoidance - Nina Loco
+
+R I 2 L 0 8006ba38 1ff P1 Quest Completed - Molo
+
+R I 1 L 0 8006ba3e 64 P1 Max Accleration - Molo
+
+R I 1 L 0 8006ba3f 64 P1 Max Speed - Molo
+
+R I 1 L 0 8006ba40 64 P1 Max Armor - Molo
+
+R I 1 L 0 8006ba41 64 P1 Max Target Avoidance - Molo
+
+R I 2 L 0 8006ba42 1ff P1 Quest Completed - Lord Clyde
+
+R I 1 L 0 8006ba48 64 P1 Max Accleration - Lord Clyde
+
+R I 1 L 0 8006ba49 64 P1 Max Speed - Lord Clyde
+
+R I 1 L 0 8006ba4a 64 P1 Max Armor - Lord Clyde
+
+R I 1 L 0 8006ba4b 64 P1 Max Target Avoidance - Lord Clyde
+
+R I 2 L 0 8006ba4c 1ff P1 Quest Completed - Obake
+
+R I 1 L 0 8006ba52 64 P1 Max Accleration - Obake
+
+R I 1 L 0 8006ba53 64 P1 Max Speed - Obake
+
+R I 1 L 0 8006ba54 64 P1 Max Armor - Obake
+
+R I 1 L 0 8006ba55 64 P1 Max Target Avoidance - Obake
+
+R I 1 L 0 8006ba5c 64 P1 Max Accleration - Marathon
+
+R I 1 L 0 8006ba5d 64 P1 Max Speed - Marathon
+
+R I 1 L 0 8006ba5e 64 P1 Max Armor - Marathon
+
+R I 1 L 0 8006ba5f 64 P1 Max Target Avoidance - Marathon
+
+R I 2 L 0 8006ba60 1ff P1 Quest Completed - Astronaunt Bob O
+
+R I 1 L 0 8006ba66 64 P1 Max Accleration - Astronaunt Bob O
+
+R I 1 L 0 8006ba67 64 P1 Max Speed - Astronaunt Bob O
+
+R I 1 L 0 8006ba68 64 P1 Max Armor - Astronaunt Bob O
+
+R I 1 L 0 8006ba69 64 P1 Max Target Avoidance
+
+R I 2 L 0 8006ba6a 1ff P1 Quest Completed - Garbage Man
+
+R I 1 L 0 8006ba70 64 P1 Max Accleration - Garbage Man
+
+R I 1 L 0 8006ba71 64 P1 Max Speed - Garbage Man
+
+R I 1 L 0 8006ba72 64 P1 Max Armor - Garbage Man
+
+R I 1 L 0 8006ba73 64 P1 Max Target Avoidance - Garbage Man
+
+R I 2 L 0 8006ba74 1ff P1 Quest Completed - Agent R Chase
+
+R I 1 L 0 8006ba7a 64 P1 Max Accleration - Agent R Chase
+
+R I 1 L 0 8006ba7b 64 P1 Max Speed - Agent R Chase
+
+R I 1 L 0 8006ba7c 64 P1 Max Armor - Agent R Chase
+
+R I 1 L 0 8006ba7e 64 P1 Max Target Avoidance - Agent R Chase
+
+R I 2 L 0 8006ba7e 1ff P1 Quest Completed - Chassey Blue
+
+R I 1 L 0 8006ba84 64 P1 Max Accleration - Chassey Blue
+
+R I 1 L 0 8006ba85 64 P1 Max Speed - Chassey Blue
+
+R I 1 L 0 8006ba86 64 P1 Max Armor - Chassey Blue
+
+R I 1 L 0 8006ba87 64 P1 Max Target Avoidance - Chassey Blue
+
+R I 2 L 0 8006ba88 1ff P1 Quest Completed - Padre Destino
+
+R I 1 L 0 8006ba8e 64 P1 Max Accleration - Padre Destino
+
+R I 1 L 0 8006ba8f 64 P1 Max Speed - Padre Destino
+
+R I 1 L 0 8006ba90 64 P1 Max Armor - Padre Destino
+
+R I 1 L 0 8006ba91 64 P1 Max Target Avoidance - Padre Destino
+
+R I 1 L 0 8006ba98 64 P1 Max Accleration - Dusty Earth
+
+R I 1 L 0 8006ba99 64 P1 Max Speed  - Dusty Earth
+
+R I 1 L 0 8006ba9a 64 P1 Max Armor - Dusty Earth
+
+R I 1 L 0 8006ba9b 64 P1 Max Target Avoidance - Dusty Earth
+
+R I 2 L 0 8006ba9c 1ff P2 Quest Completed - Sheila
+
+R I 1 L 0 8006baa2 64 P2 Max Accleration - Sheila
+
+R I 1 L 0 8006baa3 64 P2 Max Speed - Sheila
+
+R I 1 L 0 8006baa4 64 P2 Max Armor - Sheila
+
+R I 1 L 0 8006baa5 64 P2 Max Target Avoidance - Sheila
+
+R I 2 L 0 8006baa6 1ff P2 Quest Completed - John Torque
+
+R I 1 L 0 8006baac 64 P2 Max Accleration - John Torque
+
+R I 1 L 0 8006baad 64 P2 Max Speed - John Torque
+
+R I 1 L 0 8006baae 64 P2 Max Armor - John Torque
+
+R I 1 L 0 8006baaf 64 P2 Max Target Avoidance - John Torque
+
+R I 2 L 0 8006bab0 1ff P2 Quest Completed - Flying All Star Trio
+
+R I 1 L 0 8006bab6 64 P2 Max Accleration - Flying All Star Trio
+
+R I 1 L 0 8006bab7 64 P2 Max Speed - Flying All Star Trio
+
+R I 1 L 0 8006bab8 64 P2 Max Armor - Flying All Star Trio
+
+R I 1 L 0 8006bab9 64 P2 Max Target Avoidance - Flying All Star Trio
+
+R I 2 L 0 8006baba 1ff P2 Quest Completed - Houston
+
+R I 1 L 0 8006bac0 64 P2 Max Accleration - Houston
+
+R I 1 L 0 8006bac1 64 P2 Max Speed - Houston
+
+R I 1 L 0 8006bac2 64 P2 Max Armor - Houston
+
+R I 1 L 0 8006bac3 64 P2 Max Target Avoidance - Houston
+
+R I 2 L 0 8006bac4 1ff P2 Quest Completed - Convoy
+
+R I 1 L 0 8006baca 64 P2 Max Accleration - Convoy
+
+R I 1 L 0 8006bacb 64 P2 Max Speed - Convoy
+
+R I 1 L 0 8006bacc 64 P2 Max Armor - Convoy
+
+R I 1 L 0 8006bace 64 P2 Max Target Avoidance - Convoy
+
+R I 1 L 0 8006bad4 64 P2 Max Accleration - Dave's Cultsmen
+
+R I 1 L 0 8006bad5 64 P2 Max Speed - Dave's Cultsmen
+
+R I 1 L 0 8006bad6 64 P2 Max Armor - Dave's Cultsmen
+
+R I 1 L 0 8006bad7 64 P2 Max Target Avoidance - Dave's Cultsmen
+
+R I 2 L 0 8006bad8 1ff P2 Quest Completed - Dallas 13
+
+R I 1 L 0 8006bade 64 P2 Max Accleration - Dallas 13
+
+R I 1 L 0 8006badf 64 P2 Max Speed - Dallas 13
+
+R I 1 L 0 8006bae0 64 P2 Max Armor - Dallas 13
+
+R I 1 L 0 8006bae1 64 P2 Max Target Avoidance - Dallas 13
+
+R I 2 L 0 8006bae2 1ff P2 Quest Completed - Nina Loco
+
+R I 1 L 0 8006bae8 64 P2 Max Accleration - Nina Loco
+
+R I 1 L 0 8006bae9 64 P2 Max Speed - Nina Loco
+
+R I 1 L 0 8006baea 64 P2 Max Armor - Nina Loco
+
+R I 1 L 0 8006baeb 64 P2 Max Target Avoidance - Nina Loco
+
+R I 2 L 0 8006baec 1ff P2 Quest Completed - Molo
+
+R I 1 L 0 8006baf2 64 P2 Max Accleration - Molo
+
+R I 1 L 0 8006baf3 64 P2 Max Speed - Molo
+
+R I 1 L 0 8006baf4 64 P2 Max Armor - Molo
+
+R I 1 L 0 8006baf5 64 P2 Max Target Avoidance - Molo
+
+R I 2 L 0 8006baf6 1ff P2 Quest Completed - Lord Clyde
+
+R I 1 L 0 8006bafc 64 P2 Max Accleration - Lord Clyde
+
+R I 1 L 0 8006bafd 64 P2 Max Speed - Lord Clyde
+
+R I 1 L 0 8006bafe 64 P2 Max Armor - Lord Clyde
+
+R I 1 L 0 8006baff 64 P2 Max Target Avoidance - Lord Clyde
+
+R I 2 L 0 8006bb00 1ff P2 Quest Completed - Obake
+
+R I 1 L 0 8006bb06 64 P2 Max Accleration - Obake
+
+R I 1 L 0 8006bb07 64 P2 Max Speed - Obake
+
+R I 1 L 0 8006bb08 64 P2 Max Armor - Obake
+
+R I 1 L 0 8006bb09 64 P2 Max Target Avoidance - Obake
+
+R I 1 L 0 8006bb10 64 P2 Max Accleration - Marathon
+
+R I 1 L 0 8006bb11 64 P2 Max Speed - Marathon
+
+R I 1 L 0 8006bb12 64 P2 Max Armor - Marathon
+
+R I 1 L 0 8006bb13 64 P2 Max Target Avoidance - Marathon
+
+R I 2 L 0 8006bb14 1ff P2 Quest Completed - Astronaunt Bob O
+
+R I 1 L 0 8006bb1a 64 P2 Max Accleration - Astronaunt Bob O
+
+R I 1 L 0 8006bb1b 64 P2 Max Speed - Astronaunt Bob O
+
+R I 1 L 0 8006bb1c 64 P2 Max Armor - Astronaunt Bob O
+
+R I 1 L 0 8006bb1d 64 P2 Max Target Avoidance
+
+R I 2 L 0 8006bb1e 1ff P2 Quest Completed - Garbage Man
+
+R I 1 L 0 8006bb24 64 P2 Max Accleration - Garbage Man
+
+R I 1 L 0 8006bb25 64 P2 Max Speed - Garbage Man
+
+R I 1 L 0 8006bb26 64 P2 Max Armor - Garbage Man
+
+R I 1 L 0 8006bb27 64 P2 Max Target Avoidance - Garbage Man
+
+R I 2 L 0 8006bb28 1ff P2 Quest Completed - Agent R Chase
+
+R I 1 L 0 8006bb2e 64 P2 Max Accleration - Agent R Chase
+
+R I 1 L 0 8006bb2f 64 P2 Max Speed - Agent R Chase
+
+R I 1 L 0 8006bb30 64 P2 Max Armor - Agent R Chase
+
+R I 1 L 0 8006bb31 64 P2 Max Target Avoidance - Agent R Chase
+
+R I 2 L 0 8006bb32 1ff P2 Quest Completed - Chassey Blue
+
+R I 1 L 0 8006bb38 64 P2 Max Accleration - Chassey Blue
+
+R I 1 L 0 8006bb39 64 P2 Max Speed - Chassey Blue
+
+R I 1 L 0 8006bb3a 64 P2 Max Armor - Chassey Blue
+
+R I 1 L 0 8006bb3b 64 P2 Max Target Avoidance - Chassey Blue
+
+R I 2 L 0 8006bb3c 1ff P2 Quest Completed - Padre Destino
+
+R I 1 L 0 8006bb42 64 P2 Max Accleration - Padre Destino
+
+R I 1 L 0 8006bb43 64 P2 Max Speed - Padre Destino
+
+R I 1 L 0 8006bb44 64 P2 Max Armor - Padre Destino
+
+R I 1 L 0 8006bb45 64 P2 Max Target Avoidance - Padre Destino
+
+R I 1 L 0 8006bb4c 64 P2 Max Accleration - Dusty Earth
+
+R I 1 L 0 8006bb4d 64 P2 Max Speed  - Dusty Earth
+
+R I 1 L 0 8006bb4e 64 P2 Max Armor - Dusty Earth
+
+R I 1 L 0 8006bb4f 64 P2 Max Target Avoidance - Dusty Earth
+
+R I 2 L 0 8002f0e2 2400 Drive Thru Obstacles & Infinite Health All Players
+
+R I 2 L 0 8006a832 10 Open All Original V8 Levels
+
+R I 2 L 0 8006a832 1f Open All Original V8 Levels & Wacky Mode

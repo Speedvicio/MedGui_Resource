@@ -1,0 +1,17 @@
+Apple II + = .po .dsk .do .woz .d13
+Nintendo - Game Boy = .gb
+Nintendo - Game Boy Color = .gbc
+Sega - Game Gear = .gg
+Nintendo - Game Boy Advance = .gba
+Atari - Lynx = .lnx
+Sega - Mega Drive - Genesis = .smd .bin .gen .32x .md
+SNK - Neo Geo Pocket = .ngp
+SNK - Neo Geo Pocket Color = .ngc .npc
+Nintendo Entertainment System = .nes
+Nintendo - Famicom Disk System = .fds
+NEC - PC Engine - TurboGrafx 16 = .pce .hes
+Sega - Master System - Mark III = .sms
+Nintendo - Super Nintendo Entertainment System = .smc .fig .sfc .swc .ufo .gd3 .gd7 .dx2 .mgd .mgh .bs .st
+Nintendo - Virtual Boy = .vb .vboy
+Bandai - WonderSwan = .ws .wsr
+Bandai - WonderSwan Color = .wsc

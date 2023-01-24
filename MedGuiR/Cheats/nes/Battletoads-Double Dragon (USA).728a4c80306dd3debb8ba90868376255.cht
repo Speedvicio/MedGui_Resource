@@ -1,0 +1,62 @@
+[728a4c80306dd3debb8ba90868376255] Battletoads-Double Dragon (USA)
+C I 1 L 0 9889 5 3 Start with full lives
+
+C I 1 L 0 9889 0 3 Start with 1 life
+
+C I 1 L 0 b0a0 24 d6 Infinite lives (except stage 4)
+
+C I 1 L 0 995a 24 d6 Infinite lives on stage 4
+
+C I 1 L 0 82eb 9 2 Start with 10 continues
+
+C I 1 L 0 f44d 7d 2c Bonus score now gives invincibility (instead of invincibility pod)
+
+C I 1 L 0 f451 1f 5 Longer invincibility
+
+C I 1 L 0 f451 35 5 Even longer invincibility
+
+C I 1 L 0 88de 10 2 Double Dragon super punch
+
+C I 1 L 0 88bb 10 4 Battletoads super punch
+
+C I 1 L 0 d1b1 20 f Stronger enemies
+
+C I 1 L 0 8b7b 79 19 Invincible To Punches
+
+C I 1 L 0 e09f ea b9 Invincible To Dynamic Objects
+
+C I 1 L 0 e72b ea b9 Invincible To Tnt
+
+C I 1 L 0 cc9e 79 19 Invincible To Electricity
+
+C I 1 L 0 c4eb ea b9 Invincible To Asteroids [For Level 4: Asteroids]
+
+C I 1 L 0 ed7b ea bd Invincible To Shots [For Level 4: Asteroids]
+
+C I 1 L 0 c9f9 ea b9 Invincible To Electric Bolts [For Level 4: Asteroids]
+
+R I 1 L 0 11 5 Infinite Lives P1
+
+R I 1 L 0 51b 4f Infinite Health P1 (READ Note!)
+
+R I 1 L 0 5f0 be Character Modifier P1
+
+R I 1 L 0 5f1 0 Character Modifier P2
+
+R I 1 L 0 12 5 Infinite Lives P2
+
+R I 1 L 0 51c 4f Infinite Health P2 (Read Note!)
+
+R I 1 L 0 10 0 Level Modifier
+
+R I 1 L 0 51c 0 0 Hits To SMASH! Enemies
+
+R I 1 L 0 51d 0 0 Hits To SMASH! Enemies
+
+R I 1 L 0 51e 0 0 Hits To SMASH! Enemies
+
+R I 1 L 0 51f 0 0 Hits To SMASH! Enemies
+
+R I 1 L 0 520 0 0 Hits To SMASH! Enemies
+
+R I 1 L 0 521 0 0 Hits To SMASH! Enemies

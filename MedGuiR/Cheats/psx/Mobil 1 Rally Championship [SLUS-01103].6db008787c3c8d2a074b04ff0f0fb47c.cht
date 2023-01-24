@@ -1,0 +1,108 @@
+[] Mobil 1 Rally Championship (NTSC-U)
+R I 2 L 0 80092a64 0 PAL2NTSC (Race)
+
+R I 2 L 0 80092a66 0 PAL2NTSC (Race)
+
+R I 2 L 0 800c1628 0 PAL2NTSC (Race)
+
+R I 2 L 0 800c162a 0 PAL2NTSC (Race)
+
+R I 2 L 0 800c1700 0 Y-Fix
+
+R I 2 L 0 800c18ac 0 Y-Fix 2
+
+R I 2 L 0 800c18ae 0 Y-Fix 2
+
+R I 1 L 0 8006ab00 5 All open (Press Select &amp; Up) (ROM-Version 2.0 or higher required)
+
+R I 2 L 0 80000000 3333 Head-over-heels
+
+R I 2 L 0 80000000 3 Head-over-heels
+
+R I 2 L 0 800d4b86 8800 Part 2
+
+R I 2 L 0 800d4b86 cc00 Part 2
+
+R I 2 L 0 800d4b86 4400 Part 2
+
+R I 1 L 0 800a7468 4 Options/cam always on
+
+R I 2 L 0 800a7e04 0 Any camheight
+
+R I 2 L 0 800a7e06 0 Any camheight
+
+R I 2 L 0 800a7e38 0 Any camheight
+
+R I 2 L 0 800a7e3a 0 Any camheight
+
+R I 2 L 0 800a816c 0 Any camangle
+
+R I 2 L 0 800a816e 0 Any camangle
+
+R I 2 L 0 800a81a0 7fff Any camangle
+
+R I 2 L 0 800a7fbc 0 Any camdistance
+
+R I 2 L 0 800a7fbe 0 Any camdistance
+
+R I 2 L 0 800a7ff0 0 Any camdistance
+
+R I 2 L 0 800a7ff2 0 Any camdistance
+
+R I 2 L 0 8001b07c 37f Micromachines view (Press L2 &amp; R1 &amp; Up at cam-menu) (ROM-Version 2.0 or higher required)
+
+R I 2 L 0 8001b07c 37f Micromachines view (Press L2 &amp; R1 &amp; Up at cam-menu) (ROM-Version 2.0 or higher required)
+
+R I 2 L 0 8001b01c ffff Micromachines view (Press L2 &amp; R1 &amp; Up at cam-menu) (ROM-Version 2.0 or higher required)
+
+R I 2 L 0 8001b01e ffff Micromachines view (Press L2 &amp; R1 &amp; Up at cam-menu) (ROM-Version 2.0 or higher required)
+
+R I 2 L 0 80000002 2312 Time frozen/always first
+
+R I 2 L 0 80000002 0 Time frozen/always first
+
+R I 2 L 0 800f700c 0 Part 2
+
+R I 2 L 0 800f700e 0 Part 2
+
+R I 2 L 0 800a677c 0 Timer
+
+R I 2 L 0 800a677e 0 Timer
+
+R I 1 L 0 8006ab04 23 Start at last race (Press L1 &amp; L2) (ROM-Version 2.0 or higher required)
+
+R I 1 L 0 8006ab0a 24 Start at last race (Press L1 &amp; L2) (ROM-Version 2.0 or higher required)
+
+R I 1 L 0 8006ab00 1 A8-Championship &amp; all cars unlocked (Press L1 &amp; R1) (ROM-Version 2.0 or higher required)
+
+R I 1 L 0 8006ab04 23 Start at last race A8 (Press R1 &amp; R2) (ROM-Version 2.0 or higher required)
+
+R I 1 L 0 8006ab0b 24 Start at last race A8 (Press R1 &amp; R2) (ROM-Version 2.0 or higher required)
+
+R I 1 L 0 8006ab06 23 Start at last race  (Press L2 &amp; R2) (ROM-Version 2.0 or higher required)
+
+R I 1 L 0 8001b205 90 144 Points (Press L2 &amp; R2) (ROM-Version 2.0 or higher required)
+
+R I 1 L 0 80090458 1 Always first
+
+R I 2 L 0 800904a8 1 Always first
+
+R I 2 L 0 800904aa 3405 Always first
+
+R I 1 L 0 8006ab00 4 Time trial reverse unlocked (Press Select) (ROM-Version 2.0 or higher required)
+
+R I 2 L 0 800c8c08 2 On (Press Select &amp; L1)
+
+R I 2 L 0 800c8c08 1 Off (Press Select &amp; R1)
+
+R I 2 L 0 8009cf80 18 Have All Cars
+
+R I 2 L 0 8009cf3e 17 Have All Cars
+
+R I 2 L 0 8006ab0e 0 Track Modifier
+
+R I 1 L 0 8001b20d 0 Point Modifier
+
+R I 2 L 0 800f6fb4 6ec Stop Timer/Always Place 1st
+
+R I 1 L 0 8001afdc 0 Difficulty Modifier

@@ -1,0 +1,60 @@
+[] Inspector Gadget - Gadget's Crazy Maze (NTSC-U)
+R I 1 L 0 80052e86 40 PAL2NTSC
+
+R I 2 L 0 8004c520 0 Y-Fix
+
+R I 2 L 0 80068a5c 5a56 Start each level with loads of points
+
+R I 1 L 0 80064a84 19 All levels unlocked
+
+R I 4 L 0 80026fac 0 Can get killed without having to restart completely
+
+R I 4 L 0 80034c84 0 Stopped (Press L1 &amp; L2)
+
+R I 2 L 0 80034c80 1 Stopped (Press L1 &amp; L2)
+
+R I 2 L 0 80034c80 ffff Counting upwards (Press R1 &amp; R2)
+
+R I 2 L 0 80034c86 af82 Counting upwards (Press R1 &amp; R2)
+
+R I 2 L 0 80034c80 1 Default (Press L1 &amp; L2 &amp; R1 &amp; R2)
+
+R I 2 L 0 80034c86 af82 Default (Press L1 &amp; L2 &amp; R1 &amp; R2)
+
+R I 4 L 0 80024eec 0 Never decrease
+
+R I 2 L 0 80024ee8 1 Increase
+
+R I 2 L 0 801a3e90 13 Weapon (Press L1)
+
+R I 2 L 0 801a3e90 14 Key (Press L2)
+
+R I 1 L 0 801a4468 0 Inspector Gadget
+
+R I 1 L 0 801a4468 1 Penny
+
+R I 1 L 0 801a4468 2 Brain
+
+R I 1 L 0 801a4468 3 Chief Quimby
+
+R I 1 L 0 801a4468 4 MAD Agent
+
+R I 1 L 0 801a4468 5 Spy
+
+R I 1 L 0 801a4468 6 Clown
+
+R I 1 L 0 801a4468 7 Cat
+
+R I 2 L 0 801a3e14 63 Infinite Lives
+
+R I 2 L 0 80064a24 ffff Unlock All Levels
+
+R I 2 L 0 800689b8 4a0 Infinite Time
+
+R I 2 L 0 80068a00 0 Score Modifier
+
+R I 2 L 0 80068a00 869f Max Score
+
+R I 2 L 0 80068a02 1 Max Score
+
+R I 2 L 0 801a3e30 13 Item Modifier

@@ -1,0 +1,106 @@
+[] Radikal Bikers (PAL-M5)
+R I 2 L 0 8004d420 0 PAL2NTSC
+
+R I 2 L 0 80038650 0 Y-Fix
+
+R I 2 L 0 800cc2a8 423f Infinite money
+
+R I 1 L 0 800cc2aa f Infinite money
+
+R I 2 L 0 800ac4dc 0 Infinite time
+
+R I 2 L 0 800ac4de 0 Infinite time
+
+R I 2 L 0 800ac4c2 2400 Infinite time
+
+R I 2 L 0 8009667a 2400 Drive through walls
+
+R I 2 L 0 800966b2 2400 Drive through walls
+
+R I 2 L 0 800966ca 1000 Drive through walls
+
+R I 2 L 0 8007217c 98 Start with max score
+
+R I 2 L 0 8007217e 3c05 Start with max score
+
+R I 2 L 0 80072190 967f Start with max score
+
+R I 2 L 0 80072192 34a5 Start with max score
+
+R I 2 L 0 800721ae ac45 Start with max score
+
+R I 2 L 0 8009dea2 1000 Opponent and vehicles don't move
+
+R I 2 L 0 80024b82 2400 Skip video logos and initial movie
+
+R I 2 L 0 80024ba2 2400 Skip video logos and initial movie
+
+R I 2 L 0 80024bbe 2400 Skip video logos and initial movie
+
+R I 2 L 0 80024bde 2400 Skip video logos and initial movie
+
+R I 2 L 0 80099d20 1 Turbo always active
+
+R I 2 L 0 80099d22 2401 Turbo always active
+
+R I 2 L 0 80099d26 a041 Turbo always active
+
+R I 2 L 0 80099d34 0 Change FOV
+
+R I 2 L 0 80026672 2400 Playing without music
+
+R I 2 L 0 800cbcc0 0 Maximum engine acceleration multipliers
+
+R I 2 L 0 800cbcc2 0 Maximum engine acceleration multipliers
+
+R I 2 L 0 800cbcc4 0 Maximum engine acceleration multipliers
+
+R I 2 L 0 800cbcc6 0 Maximum engine acceleration multipliers
+
+R I 2 L 0 800cbcc8 0 Maximum engine acceleration multipliers
+
+R I 2 L 0 800cbcca 0 Maximum engine acceleration multipliers
+
+R I 2 L 0 800cbccc 0 Maximum engine acceleration multipliers
+
+R I 2 L 0 800cbcce 0 Maximum engine acceleration multipliers
+
+R I 2 L 0 800cbcd0 0 Maximum engine acceleration multipliers
+
+R I 2 L 0 800cbcd2 0 Maximum engine acceleration multipliers
+
+R I 2 L 0 800cbcd4 0 Maximum engine acceleration multipliers
+
+R I 2 L 0 800cbcd6 0 Maximum engine acceleration multipliers
+
+R I 2 L 0 800cbcd8 0 Maximum engine acceleration multipliers
+
+R I 2 L 0 800cbcda 0 Maximum engine acceleration multipliers
+
+R I 2 L 0 800cbcf8 0 Engine capacity multipliers
+
+R I 2 L 0 800cbcfa 0 Engine capacity multipliers
+
+R I 2 L 0 800cbcfc 0 Engine capacity multipliers
+
+R I 2 L 0 800cbcfe 0 Engine capacity multipliers
+
+R I 2 L 0 800cbd00 0 Engine capacity multipliers
+
+R I 2 L 0 800cbd02 0 Engine capacity multipliers
+
+R I 2 L 0 800cbd04 0 Engine capacity multipliers
+
+R I 2 L 0 800cbd06 0 Engine capacity multipliers
+
+R I 2 L 0 800cbd08 0 Engine capacity multipliers
+
+R I 2 L 0 800cbd0a 0 Engine capacity multipliers
+
+R I 2 L 0 800cbd0c 0 Engine capacity multipliers
+
+R I 2 L 0 800cbd0e 0 Engine capacity multipliers
+
+R I 2 L 0 800cbd10 0 Engine capacity multipliers
+
+R I 2 L 0 800cbd12 0 Engine capacity multipliers

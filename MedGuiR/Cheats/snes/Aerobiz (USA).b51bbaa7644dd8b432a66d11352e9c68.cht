@@ -1,0 +1,274 @@
+[] Aerobiz (USA)
+S I 1 L 0 3f8ea 90 KEY CODE [Necessary for any of the following codes to work]
+
+S I 1 L 0 70001c 0 Set money for this saved game to less than $655,350,000 [Player 1/Saved Game 1]
+
+S I 1 L 0 70001c 5 Set money over $327,680,000 [P1/SG1]
+
+S I 1 L 0 70001c 8 Set money over $5,242,880,000 [P1/SG1]
+
+S I 1 L 0 70001c 10 Set money over $10,485,760,000 [P1/SG1]
+
+S I 1 L 0 70001c 20 Set money over $20,971,520,000 [P1/SG1]
+
+S I 1 L 0 70001c 40 Set money over $41,943,040,000 [P1/SG1]
+
+S I 1 L 0 70101c 0 Set money for this saved game to less than $655,350,000 [Player 1/Saved Game 2]
+
+S I 1 L 0 70101c 5 Set money over $327,680,000 [P1/SG2]
+
+S I 1 L 0 70101c 8 Set money over $5,242,880,000 [P1/SG2]
+
+S I 1 L 0 70101c 10 Set money over $10,485,760,000 [P1/SG2]
+
+S I 1 L 0 70101c 20 Set money over $20,971,520,000 [P1/SG2]
+
+S I 1 L 0 70101c 40 Set money over $41,943,040,000 [P1/SG2]
+
+S I 1 L 0 70005c 0 Set money for this saved game to less than $655,350,000 [Player 2/Saved Game 1]
+
+S I 1 L 0 70005c 5 Set money over $327,680,000 [P2/SG1]
+
+S I 1 L 0 70005c 8 Set money over $5,242,880,000 [P2/SG1]
+
+S I 1 L 0 70005c 10 Set money over $10,485,760,000 [P2/SG1]
+
+S I 1 L 0 70005c 20 Set money over $20,971,520,000 [P2/SG1]
+
+S I 1 L 0 70005c 40 Set money over $41,943,040,000 [P2/SG1]
+
+S I 1 L 0 70105c 0 Set money for this saved game to less than $655,350,000 [Player 2/Saved Game 2]
+
+S I 1 L 0 70105c 5 Set money over $327,680,000 [P2/SG2]
+
+S I 1 L 0 70105c 8 Set money over $5,242,880,000 [P2/SG2]
+
+S I 1 L 0 70105c 10 Set money over $10,485,760,000 [P2/SG2]
+
+S I 1 L 0 70105c 20 Set money over $20,971,520,000 [P2/SG2]
+
+S I 1 L 0 70105c 40 Set money over $41,943,040,000 [P2/SG2]
+
+S I 1 L 0 70009c 0 Set money for this saved game to less than $655,350,000 [Player 3/Saved Game 1]
+
+S I 1 L 0 70009c 5 Set money over $327,680,000 [P3/SG1]
+
+S I 1 L 0 70009c 8 Set money over $5,242,880,000 [P3/SG1]
+
+S I 1 L 0 70009c 10 Set money over $10,485,760,000 [P3/SG1]
+
+S I 1 L 0 70009c 20 Set money over $20,971,520,000 [P3/SG1]
+
+S I 1 L 0 70009c 40 Set money over $41,943,040,000 [P3/SG1]
+
+S I 1 L 0 70109c 0 Set money for this saved game to less than $655,350,000 [Player 3/Saved Game 2]
+
+S I 1 L 0 70109c 5 Set money over $327,680,000 [P3/SG2]
+
+S I 1 L 0 70109c 8 Set money over $5,242,880,000 [P3/SG2]
+
+S I 1 L 0 70109c 10 Set money over $10,485,760,000 [P3/SG2]
+
+S I 1 L 0 70109c 20 Set money over $20,971,520,000 [P3/SG2]
+
+S I 1 L 0 70109c 40 Set money over $41,943,040,000 [P3/SG2]
+
+S I 1 L 0 7000dc 0 Set money for this saved game to less than $655,350,000 [Player 4/Saved Game 1]
+
+S I 1 L 0 7000dc 5 Set money over $327,680,000  [P4/SG1]
+
+S I 1 L 0 7000dc 8 Set money over $5,242,880,000 [P4/SG1]
+
+S I 1 L 0 7000dc 10 Set money over $10,485,760,000 [P4/SG1]
+
+S I 1 L 0 7000dc 20 Set money over $20,971,520,000 [P4/SG1]
+
+S I 1 L 0 7000dc 40 Set money over $41,943,040,000 [P4/SG1]
+
+S I 1 L 0 7010dc 0 Set money for this saved game to less than $655,350,000 [Player 4/Saved Game 2]
+
+S I 1 L 0 7010dc 5 Set money over $327,680,000 [P4/SG2]
+
+S I 1 L 0 7010dc 8 Set money over $5,242,880,000 [P4/SG2]
+
+S I 1 L 0 7010dc 10 Set money over $10,485,760,000  [P4/SG2]
+
+S I 1 L 0 7010dc 20 Set money over $20,971,520,000  [P4/SG2]
+
+S I 1 L 0 7010dc 40 Set money over $41,943,040,000  [P4/SG2]
+
+S I 1 L 0 4c180 0 Tokyo starts with $649,280,000
+
+S I 1 L 0 4c180 5 Tokyo starts with $7,202,880,000
+
+S I 1 L 0 4c183 52 Beijing starts with $420,160,000
+
+S I 1 L 0 4c184 5 Beijing starts with $7,393,600,000
+
+S I 1 L 0 4c187 57 Hong Kong starts with $449,440,000
+
+S I 1 L 0 4c188 5 Hong Kong starts with $7,453,600,000
+
+S I 1 L 0 4c18b 4e Singapore starts with $400,640,000
+
+S I 1 L 0 4c18c 5 Singapore starts with $7,353,600,000
+
+S I 1 L 0 4c18f 3a Sydney starts with $297,920,000
+
+S I 1 L 0 4c190 5 Sydney starts with $7,153,600,000
+
+S I 1 L 0 4c193 3e Delhi starts with $317,440,000
+
+S I 1 L 0 4c194 5 Delhi starts with $7,193,600,000
+
+S I 1 L 0 4c197 2e Tehran starts with $239,360,000
+
+S I 1 L 0 4c198 5 Tehran starts with $7,033,600,000
+
+S I 1 L 0 4c19b 30 Cairo starts with $249,120,000
+
+S I 1 L 0 4c19c 5 Cairo starts with $7,053,600,000
+
+S I 1 L 0 4c19f 27 Nairobi starts with $200,320,000
+
+S I 1 L 0 4c1a0 5 Nairobi starts with $6,953,600,000
+
+S I 1 L 0 4c1a3 2c Lagos starts with $229,600,000
+
+S I 1 L 0 4c1a4 5 Lagos starts with $7,013,600,000
+
+S I 1 L 0 4c1a8 0 Moscow starts with $289,280,000
+
+S I 1 L 0 4c1a8 5 Moscow starts with $6,842,880,000
+
+S I 1 L 0 4c1ac 0 London starts with $949,280,000
+
+S I 1 L 0 4c1ac 5 London starts with $7,502,880,000
+
+S I 1 L 0 4c1b0 0 Paris starts with $289,280,000
+
+S I 1 L 0 4c1b0 5 Paris starts with $6,842,880,000
+
+S I 1 L 0 4c1b3 48 Rome starts with $371,360,000
+
+S I 1 L 0 4c1b4 5 Rome starts with $7,293,600,000
+
+S I 1 L 0 4c1b8 0 New York starts with $189,280,000
+
+S I 1 L 0 4c1b8 5 New York starts with $6,742,880,000
+
+S I 1 L 0 4c1bb 32 Vancouver starts with $258,880,000
+
+S I 1 L 0 4c1bc 5 Vancouver starts with $7,073,600,000
+
+S I 1 L 0 4c1c0 0 Los Angeles starts with $649,280,000
+
+S I 1 L 0 4c1c0 5 Los Angeles starts with $7,202,880,000
+
+S I 1 L 0 4c1c3 34 Honolulu starts with $268,640,000
+
+S I 1 L 0 4c1c4 5 Honolulu starts with $7,093,600,000
+
+S I 1 L 0 4c1c7 32 Mexico City starts with $258,880,000
+
+S I 1 L 0 4c1c8 5 Mexico City starts with $7,073,600,000
+
+S I 1 L 0 4c1cb 23 Lima starts with $180,800,000
+
+S I 1 L 0 4c1cc 5 Lima starts with $6,913,600,000
+
+S I 1 L 0 4c1cf 3e Rio de Janeiro starts with $317,440,000
+
+S I 1 L 0 4c1d0 5 Rio de Janeiro starts with $7,193,600,000
+
+S I 1 L 0 4c1d3 29 Buenos Aires starts with $210,080,000
+
+S I 1 L 0 4c1d4 5 Buenos Aires starts with $6,973,600,000
+
+S I 1 L 0 4c1d8 0 Tokyo starts with $1,149,280,000
+
+S I 1 L 0 4c1d8 5 Tokyo starts with $7,702,880,000
+
+S I 1 L 0 4c1db 61 Beijing starts with $498,240,000
+
+S I 1 L 0 4c1dc 5 Beijing starts with $7,553,600,000
+
+S I 1 L 0 4c1df 7e Hong Kong starts with $649,760,000
+
+S I 1 L 0 4c1e0 5 Hong Kong starts with $7,853,600,000
+
+S I 1 L 0 4c1e3 6b Singapore starts with $552,160,000
+
+S I 1 L 0 4c1e4 5 Singapore starts with $7,653,600,000
+
+S I 1 L 0 4c1e7 71 Sydney starts with $581,440,000
+
+S I 1 L 0 4c1e8 5 Sydney starts with $7,713,600,000
+
+S I 1 L 0 4c1eb 65 Delhi starts with $517,760,000
+
+S I 1 L 0 4c1ec 5 Delhi starts with $7,593,600,000
+
+S I 1 L 0 4c1ef 3a Tehran starts with $297,920,000
+
+S I 1 L 0 4c1f0 5 Tehran starts with $7,153,600,000
+
+S I 1 L 0 4c1f3 4c Cairo starts with $390,880,000
+
+S I 1 L 0 4c1f4 5 Cairo starts with $7,333,600,000
+
+S I 1 L 0 4c1f7 30 Nairobi starts with $249,120,000
+
+S I 1 L 0 4c1f8 5 Nairobi starts with $7,053,600,000
+
+S I 1 L 0 4c1fb 3a Lagos starts with $299,040,000
+
+S I 1 L 0 4c1fc 5 Lagos starts with $7,149,600,000
+
+S I 1 L 0 4c200 0 Moscow starts with $689,280,000
+
+S I 1 L 0 4c200 5 Moscow starts with $7,242,880,000
+
+S I 1 L 0 4c204 0 London starts with $38,560,000
+
+S I 1 L 0 4c204 5 London starts with $6,592,160,000
+
+S I 1 L 0 4c208 0 Paris starts with $909,280,000
+
+S I 1 L 0 4c208 5 Paris starts with $7,462,880,000
+
+S I 1 L 0 4c20b 6f Rome starts with $571,680,000
+
+S I 1 L 0 4c20c 5 Rome starts with $7,693,600,000
+
+S I 1 L 0 4c210 0 New York starts with $829,280,000
+
+S I 1 L 0 4c210 5 New York starts with $7,382,880,000
+
+S I 1 L 0 4c213 52 Vancouver starts with $420,160,000
+
+S I 1 L 0 4c214 5 Vancouver starts with $7,393,600,000
+
+S I 1 L 0 4c218 0 Los Angeles starts with $1,109,280,000
+
+S I 1 L 0 4c218 5 Los Angeles starts with $7,662,880,000
+
+S I 1 L 0 4c21b 4a Honolulu starts with $381,120,000
+
+S I 1 L 0 4c21c 5 Honolulu starts with $7,313,600,000
+
+S I 1 L 0 4c21f 5b Mexico City starts with $468,960,000
+
+S I 1 L 0 4c220 5 Mexico City starts with $7,493,600,000
+
+S I 1 L 0 4c223 32 Lima starts with $258,880,000
+
+S I 1 L 0 4c224 5 Lima starts with $7,073,600,000
+
+S I 1 L 0 4c227 7b Rio de Janeiro starts with $630,240,000
+
+S I 1 L 0 4c228 5 Rio de Janeiro starts with $7,813,600,000
+
+S I 1 L 0 4c22b 46 Buenos Aires starts with $361,600,000
+
+S I 1 L 0 4c22c 5 Buenos Aires starts with $7,273,600,000

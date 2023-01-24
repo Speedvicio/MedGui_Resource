@@ -1,0 +1,72 @@
+[] Aero the Acro-Bat 2 (USA)
+R I 1 L 0 7e0ef1 3 Infinite Health
+
+R I 1 L 0 7e0e77 99 99 Lives
+
+R I 1 L 0 7e0ec5 99 99 Stars
+
+S I 1 L 0 83dc2e 0 Infinite shots
+
+S I 1 L 0 83a9bc 3 Stars worth 3
+
+S I 1 L 0 83a9bc 5 Stars worth 5
+
+S I 1 L 0 83a9bc 7 Stars worth 7
+
+S I 1 L 0 83be37 ad Almost infinite energy
+
+S I 1 L 0 83aada 99 Double Drill icon lasts 99 seconds
+
+S I 1 L 0 83aad1 4 Double Drill icon lets you drill 4 times instead of 2
+
+S I 1 L 0 83aad1 9 Double Drill icon lets you drill 9 times instead of 2
+
+S I 1 L 0 85e880 5 Can drill 5 times in the air until you pick up a drill icon
+
+S I 1 L 0 85e880 9 Can drill 9 times in the air until you pick up a drill icon
+
+S I 1 L 0 8388f5 ad Drill as many times as you want without hitting the ground
+
+S I 1 L 0 8382b3 2 Move faster
+
+S I 1 L 0 8382c1 fd Move faster
+
+S I 1 L 0 8382b3 3 Move even faster
+
+S I 1 L 0 8382c1 fc Move even faster
+
+S I 1 L 0 838730 10 Jump higher
+
+S I 1 L 0 8384f6 f8 Super jump when standing still
+
+S I 1 L 0 83866e f8 Super jump when standing still
+
+S I 1 L 0 83abe2 99 Flying icon worth 99 seconds of flight time
+
+S I 1 L 0 85e958 5 Start each life with maximum energy
+
+S I 1 L 0 83be37 cd Infinite Energy
+
+S I 1 L 0 8084a1 ad Infinite Lives
+
+S I 1 L 0 809042 d0 Invincibility
+
+S I 1 L 0 83dc30 ad Infinite Stars
+
+R I 1 L 0 7e0ef1 4 Infinite Health (Alternate Code)
+
+R I 1 L 0 7e0e77 9 Infinite Lives
+
+R I 1 L 0 7e0ec5 0 Stars Modifier
+
+R I 1 L 0 7e0e61 0 Level Modifier
+
+R I 1 L 0 7e0e69 6 Play Music 8 For Level Select
+
+R I 1 L 0 7e02f8 52 Level Select Enabled
+
+R I 1 L 0 7e02f9 43 Level Select Enabled
+
+R I 1 L 0 7e0544 4 Level Select Enabled
+
+R I 1 L 0 7e0e79 ff Invincibility

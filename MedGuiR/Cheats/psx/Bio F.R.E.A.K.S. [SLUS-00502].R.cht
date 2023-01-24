@@ -1,0 +1,84 @@
+[] Bio F.R.E.A.K.S. (NTSC-U)
+R I 2 L 0 8009a038 6400 Extra Health P1
+
+R I 2 L 0 8009a038 100 Low Health P1
+
+R I 2 L 0 8009a6ac 6400 Extra Health P2
+
+R I 2 L 0 8009a6ac 100 Low Health P2
+
+R I 2 L 0 8009a03c 6400 Infinite Shields P1
+
+R I 2 L 0 8009a03c 100 Low Shields P1
+
+R I 2 L 0 8009a6b0 6400 Infinite Shields P2
+
+R I 2 L 0 8009a6b0 100 Low Shields P2
+
+R I 2 L 0 8009a040 3200 Infinite Jet Pack P1
+
+R I 2 L 0 8009a040 100 Low Jet Pack P1
+
+R I 2 L 0 8009a6b4 3200 Infinite Jet Pack P2
+
+R I 2 L 0 8009a6b4 100 Low Jet Pack P2
+
+R I 2 L 0 8009a048 22 Shields Always Active P1
+
+R I 2 L 0 8009a6bc 22 Shields Always Active P2
+
+R I 2 L 0 8009a046 1 Smoke Trail P1
+
+R I 2 L 0 8009a6ba 1 Smoke Trail P2
+
+R I 2 L 0 8009a060 1000 No Clipping Mode P1
+
+R I 2 L 0 8009a6d4 1000 No Clipping Mode P2
+
+R I 2 L 0 8009a062 1 Fight In Air P1
+
+R I 2 L 0 8009a6d6 1 Fight In Air P2
+
+R I 2 L 0 8009a068 1 Flashy Mode P1
+
+R I 2 L 0 8009a6dc 1 Flashy Mode P2
+
+R I 2 L 0 8009a02a 0 Win Modifier P1
+
+R I 2 L 0 8009a69e 0 Win Modifier P2
+
+R I 2 L 0 80091f74 0 Character Modifier P1
+
+R I 2 L 0 80091f78 0 Character Modifier P2
+
+R I 2 L 0 8009a0f0 0 Rapid Fire P1
+
+R I 2 L 0 8009a764 0 Rapid Fire P2
+
+R I 2 L 0 80097d26 0 Disable "The Glow"
+
+R I 2 L 0 800b3660 9 P1 is Mutilator
+
+R I 2 L 0 8009a068 1 Clonus For P1
+
+R I 2 L 0 8009a6dc 1 Clonus For P2
+
+R I 2 L 0 8009b254 0 Character 1
+
+R I 2 L 0 8009b256 0 Character 2
+
+R I 2 L 0 8009b258 0 Character 3
+
+R I 2 L 0 8009b25a 0 Character 4
+
+R I 2 L 0 8009b25c 0 Character 5
+
+R I 2 L 0 8009b25e 0 Character 1
+
+R I 2 L 0 8009b260 0 Character 2
+
+R I 2 L 0 8009b262 0 Character 3
+
+R I 2 L 0 8009b264 0 Character 4
+
+R I 2 L 0 8009b266 0 Character 5

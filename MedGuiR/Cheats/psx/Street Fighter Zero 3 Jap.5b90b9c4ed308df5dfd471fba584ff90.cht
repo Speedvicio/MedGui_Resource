@@ -1,0 +1,180 @@
+[] Street Fighter Zero 3 (NTSC-J)
+R I 2 L 0 80194078 90 Infinite Energy P1
+
+R I 2 L 0 80194078 24 25% Energy P1
+
+R I 2 L 0 80194078 48 50% Energy P1
+
+R I 2 L 0 80194078 6c 75% Energy P1
+
+R I 2 L 0 80194078 1 1-Hit Death P1
+
+R I 2 L 0 801944c0 90 Infinite Energy P2
+
+R I 2 L 0 801944c0 24 25% Energy P2
+
+R I 2 L 0 801944c0 48 50% Energy P2
+
+R I 2 L 0 801944c0 6c 75% Energy P2
+
+R I 2 L 0 801944c0 1 1-Hit Death P2
+
+R I 2 L 0 8019416a 90 P1 Max Power Bar
+
+R I 2 L 0 80194228 50 P1 Max Guard Bar
+
+R I 2 L 0 8019416a 0 P1 No Power Bar
+
+R I 2 L 0 80194228 0 P1 No Guard Bar
+
+R I 2 L 0 801945b2 90 P2 Max Power Bar
+
+R I 2 L 0 80194670 50 P2 Max Guard Bar
+
+R I 2 L 0 801945b2 0 P2 No Power Bar
+
+R I 2 L 0 80194670 0 P2 No Guard Bar
+
+R I 2 L 0 8017dd16 ffff Enable All Modes & Characters
+
+R I 1 L 0 80194051 0 Air Special Moves P1
+
+R I 1 L 0 80194499 0 Air Special Moves P2
+
+R I 4 L 0 8000d01c 3d08 Dan's Fireball Extra Long
+
+R I 4 L 0 8000ffff 801c3d08 Dan's Fireball Extra Long
+
+R I 4 L 0 80000000 0 Dan's Fireball Extra Long
+
+R I 2 L 0 80193ec8 967f Max Exp For Character
+
+R I 2 L 0 80193eca 98 Max Exp For Character
+
+R I 2 L 0 80193ecc 967f Max Exp For Character
+
+R I 2 L 0 80193ece 98 Max Exp For Character
+
+R I 2 L 0 80193ed0 967f Max Exp For Character
+
+R I 2 L 0 80193ed2 98 Max Exp For Character
+
+R I 2 L 0 80193ed4 967f Max Exp For Character
+
+R I 2 L 0 80193ed6 98 Max Exp For Character
+
+R I 2 L 0 80193ecc 967f Max Exp For XISM
+
+R I 2 L 0 80193ece 98 Max Exp For XISM
+
+R I 2 L 0 80193ed0 967f Max Exp For ZISM
+
+R I 2 L 0 80193ed2 98 Max Exp For ZISM
+
+R I 2 L 0 80193ed4 967f Max Exp For VISM
+
+R I 2 L 0 80193ed6 98 Max Exp For VISM
+
+R I 2 L 0 801427a8 0 All Specials After One Fight
+
+R I 2 L 0 801427aa 0 All Specials After One Fight
+
+R I 2 L 0 80142904 6 All Specials After One Fight
+
+R I 2 L 0 80142906 1000 All Specials After One Fight
+
+R I 2 L 0 80142920 5 All Specials After One Fight
+
+R I 2 L 0 80142922 1000 All Specials After One Fight
+
+R I 2 L 0 801143b8 1 All Character
+
+R I 2 L 0 801143d8 1 All Character
+
+R I 2 L 0 801143f8 1 All Character
+
+R I 2 L 0 8019416a 90 Use All Ism Attack P1 (Press R2+Square/Triangle/Circle)
+
+R I 2 L 0 8019417e 0 Use All Ism Attack P1 (Press R2+Square/Triangle/Circle)
+
+R I 2 L 0 8019417e 1 Use All Ism Attack P1 (Press R2+Square/Triangle/Circle)
+
+R I 2 L 0 8019417e ff Use All Ism Attack P1 (Press R2+Square/Triangle/Circle)
+
+R I 2 L 0 801945b2 90 Use All Ism Attack P2 (Press R2+Square/Triangle/Circle)
+
+R I 2 L 0 801945c6 0 Use All Ism Attack P2 (Press R2+Square/Triangle/Circle)
+
+R I 2 L 0 801945c6 1 Use All Ism Attack P2 (Press R2+Square/Triangle/Circle)
+
+R I 2 L 0 801945c6 ff Use All Ism Attack P2 (Press R2+Square/Triangle/Circle)
+
+R I 1 L 0 801941a6 0 Boss Character P1
+
+R I 1 L 0 801941a6 1 Boss Character P1
+
+R I 2 L 0 801941a6 f00 Boss Character P1
+
+R I 2 L 0 801b9b4c 4f4a Boss Character P1
+
+R I 2 L 0 801b9b4e 454b Boss Character P1
+
+R I 2 L 0 801b9b50 2052 Boss Character P1
+
+R I 2 L 0 801b9b52 4d20 Boss Character P1
+
+R I 2 L 0 801b9b54 444f Boss Character P1
+
+R I 2 L 0 801b9b56 45 Boss Character P1
+
+R I 1 L 0 801945ee 0 Boss Character P2
+
+R I 1 L 0 801945ee 1 Boss Character P2
+
+R I 2 L 0 801945ee f00 Boss Character P2
+
+R I 2 L 0 801989e0 6302 Infinite Time
+
+R I 2 L 0 80194340 102 P1 No Charge Needed For Attacks
+
+R I 2 L 0 80194348 102 P1 No Charge Needed For Attacks
+
+R I 2 L 0 80194350 102 P1 No Charge Needed For Attacks
+
+R I 2 L 0 80194358 102 P1 No Charge Needed For Attacks
+
+R I 2 L 0 80194360 102 P1 No Charge Needed For Attacks
+
+R I 2 L 0 80194368 102 P1 No Charge Needed For Attacks
+
+R I 2 L 0 80194370 102 P1 No Charge Needed For Attacks
+
+R I 2 L 0 80194214 0 P1 Can Do More Than One Projectile At A Time
+
+R I 2 L 0 80194788 102 P2 No Charge Needed For Attacks
+
+R I 2 L 0 80194790 102 P2 No Charge Needed For Attacks
+
+R I 2 L 0 80194798 102 P2 No Charge Needed For Attacks
+
+R I 2 L 0 801947a0 102 P2 No Charge Needed For Attacks
+
+R I 2 L 0 801947a8 102 P2 No Charge Needed For Attacks
+
+R I 2 L 0 801947b0 102 P2 No Charge Needed For Attacks
+
+R I 2 L 0 801947b8 102 P2 No Charge Needed For Attacks
+
+R I 2 L 0 801947a0 102 P2 No Charge Needed For Attacks
+
+R I 2 L 0 8019465c 0 P2 Can Do More Than One Projectile At A Time
+
+R I 2 L 0 80130b8a 3c00 Hit Anywhere
+
+R I 2 L 0 80132f8a 3c00 Infinite Health (Both Players)
+
+R I 2 L 0 80132f7a 3c00 One Hit Death
+
+R I 2 L 0 80130ef2 3c00 Super Hit
+
+R I 2 L 0 80132436 3c00 Opponent Gets Knocked Forward Instead Of Backwards When Hit

@@ -1,0 +1,1691 @@
+[] Crash Team Racing (NTSC-U)
+R I 2 L 0 80086e84 0 P1 Character Modifier
+
+R I 2 L 0 80086e86 0 P2 Character Modifier
+
+R I 2 L 0 800b46fa 0 Course Modifier
+
+R I 2 L 0 800b59a8 0 Course Modifier
+
+R I 2 L 0 801f0384 3 Start on Lap ? in Crash Cove-Arcade Mode
+
+R I 2 L 0 801efc34 3 Start on Lap ? in Crash Cove-Arcade Mode
+
+R I 2 L 0 801efd04 3 Start on Lap ? in Crash Cove-Arcade Mode
+
+R I 2 L 0 801f0258 3 Start on Lap ? in Crash Cove-Arcade Mode
+
+R I 2 L 0 801efe0c 3 Start on Lap ? in Crash Cove-Arcade Mode
+
+R I 2 L 0 801efe50 3 Start on Lap ? in Crash Cove-Arcade Mode
+
+R I 2 L 0 801f0218 3 Start on Lap ? in Crash Cove-Arcade Mode
+
+R I 2 L 0 801f00f0 3 Start on Lap ? in Crash Cove-Arcade Mode
+
+R I 2 L 0 80086e84 f Use Nitros Oxide Player 1
+
+R I 2 L 0 80086e84 1 Use Nitros Oxide Player 1
+
+R I 2 L 0 80086e86 f Use Niros Oxide Player 2
+
+R I 2 L 0 80086e86 1 Use Niros Oxide Player 2
+
+R I 2 L 0 80098830 0 Freezes Clock In All Timed Races
+
+R I 2 L 0 8008fba4 ffff Have All Awards
+
+R I 2 L 0 8008fba6 ffff Have All Awards
+
+R I 2 L 0 8008fba8 ffff Have All Awards
+
+R I 2 L 0 8008fbaa ffff Have All Awards
+
+R I 2 L 0 8008fbac ffff Have All Awards
+
+R I 2 L 0 8008fbae ffff Have All Awards
+
+R I 2 L 0 8008fbb0 ffff Have All Awards
+
+R I 2 L 0 8008fbb2 ffff Have All Awards
+
+R I 2 L 0 801efc26 301 Part 1-N. Sanity Beach
+
+R I 2 L 0 801d3522 301 Part 1-N. Sanity Beach
+
+R I 2 L 0 801f3d06 301 Part 1-N. Sanity Beach
+
+R I 2 L 0 801dc496 301 Part 1-N. Sanity Beach
+
+R I 2 L 0 801bd90a 301 Part 1-N. Sanity Beach
+
+R I 2 L 0 801f2212 301 Part 2-The Lost Ruins
+
+R I 2 L 0 801c1032 301 Part 2-The Lost Ruins
+
+R I 2 L 0 801eb192 301 Part 2-The Lost Ruins
+
+R I 2 L 0 801d562e 301 Part 2-The Lost Ruins
+
+R I 2 L 0 801be7f2 301 Part 2-The Lost Ruins
+
+R I 2 L 0 801f398e 301 Part 3-Glacier Park
+
+R I 2 L 0 801d3616 301 Part 3-Glacier Park
+
+R I 2 L 0 801eef7e 301 Part 3-Glacier Park
+
+R I 2 L 0 801e7ac2 301 Part 3-Glacier Park
+
+R I 2 L 0 801eb25e 301 Part 3-Glacier Park
+
+R I 2 L 0 801d7d32 301 Part 4-Citadel City
+
+R I 2 L 0 801f2aca 301 Part 4-Citadel City
+
+R I 2 L 0 801f340a 301 Part 4-Citadel City
+
+R I 2 L 0 801dddae 301 Part 4-Citadel City
+
+R I 2 L 0 801f2b8a 301 Part 4-Citadel City
+
+R I 2 L 0 801f2c0a 301 Part 4-Citadel City
+
+R I 1 L 0 801b5174 2 Start at third lap
+
+R I 1 L 0 801b5160 a Infinite wumpa-fruits
+
+R I 1 L 0 801b5167 a Infinite pickups
+
+R I 1 L 0 801b5166 0 Have turbos (Note 1)
+(Press X &amp; Circle)
+
+R I 1 L 0 801b5166 1 Have bowling-bombs (Note 1)
+(Press Right &amp; Circle)
+
+R I 1 L 0 801b5166 2 Have homing missiles (Note 1)
+(Press Up &amp; Circle)
+
+R I 1 L 0 801b5166 3 Have TNT-crates (Note 1)
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801b5166 4 Have M.Brios cup (Note 1)
+(Press Down &amp; Circle)
+
+R I 1 L 0 801b5166 5 Have elastic springs (Note 1) (Note 1)
+(Press L1 &amp; R1)
+
+R I 1 L 0 801b5166 6 Have powershields (Note 1)
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801b5166 7 Have Aku-Aku-/Uka-Uka-masks (Note 1)
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801b5166 8 Have N.-Trophy-clocks (Note 1)
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801b5166 9 Have warp-balls (Note 1)
+(Press Left &amp; Circle)
+
+R I 1 L 0 801b57e4 2 Start at third lap
+
+R I 1 L 0 801b57d0 a Infinite wumpa-fruits
+
+R I 1 L 0 801b57d7 a Infinite pickups
+
+R I 1 L 0 801b57d6 0 Have turbos (Note 1)
+(Press X &amp; Circle)
+
+R I 1 L 0 801b57d6 1 Have bowling-bombs (Note 1)
+(Press Right &amp; Circle)
+
+R I 1 L 0 801b57d6 2 Have homing missiles (Note 1)
+(Press Up &amp; Circle)
+
+R I 1 L 0 801b57d6 3 Have TNT-crates (Note 1)
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801b57d6 4 Have M.Brios cup (Note 1)
+(Press Down &amp; Circle)
+
+R I 1 L 0 801b57d6 5 Have elastic springs (Note 1) (Note 1)
+(Press L1 &amp; R1)
+
+R I 1 L 0 801b57d6 6 Have powershields (Note 1)
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801b57d6 7 Have Aku-Aku-/Uka-Uka-masks (Note 1)
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801b57d6 8 Have N.-Trophy-clocks (Note 1)
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801b57d6 9 Have warp-balls (Note 1)
+(Press Left &amp; Circle)
+
+R I 1 L 0 801b5e54 2 Start at third lap
+
+R I 1 L 0 801b5e40 a Infinite wumpa-fruits
+
+R I 1 L 0 801b5e47 a Infinite pickups
+
+R I 1 L 0 801b5e46 0 Have turbos (Note 1)
+(Press X &amp; Circle)
+
+R I 1 L 0 801b5e46 1 Have bowling-bombs (Note 1)
+(Press Right &amp; Circle)
+
+R I 1 L 0 801b5e46 2 Have homing missiles (Note 1)
+(Press Up &amp; Circle)
+
+R I 1 L 0 801b5e46 3 Have TNT-crates (Note 1)
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801b5e46 4 Have M.Brios cup (Note 1)
+(Press Down &amp; Circle)
+
+R I 1 L 0 801b5e46 5 Have elastic springs (Note 1)
+(Press L1 &amp; R1)
+
+R I 1 L 0 801b5e46 6 Have powershields (Note 1)
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801b5e46 7 Have Aku-Aku-/Uka-Uka-masks (Note 1)
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801b5e46 8 Have N.-Trophy-clocks (Note 1)
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801b5e46 9 Have warp-balls (Note 1)
+(Press Left &amp; Circle)
+
+R I 1 L 0 801b64c4 2 Start at third lap
+
+R I 1 L 0 801b64b0 a Infinite wumpa-fruits
+
+R I 1 L 0 801b64b7 a Infinite pickups
+
+R I 1 L 0 801b64b6 0 Have turbos (Note 1)
+(Press X &amp; Circle)
+
+R I 1 L 0 801b64b6 1 Have bowling-bombs (Note 1)
+(Press Right &amp; Circle)
+
+R I 1 L 0 801b64b6 2 Have homing missiles (Note 1)
+(Press Up &amp; Circle)
+
+R I 1 L 0 801b64b6 3 Have TNT-crates (Note 1)
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801b64b6 4 Have M.Brios cup (Note 1)
+(Press Down &amp; Circle)
+
+R I 1 L 0 801b64b6 5 Have elastic springs (Note 1)
+(Press L1 &amp; R1)
+
+R I 1 L 0 801b64b6 6 Have powershields (Note 1)
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801b64b6 7 Have Aku-Aku-/Uka-Uka-masks (Note 1)
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801b64b6 8 Have N.-Trophy-clocks (Note 1)
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801b64b6 9 Have warp-balls (Note 1)
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff58 40 Race won (Note 1)
+
+R I 1 L 0 8008ff61 10 Have CTR-chip (Note 1)
+
+R I 1 L 0 801c2148 2 Start at third lap
+
+R I 1 L 0 801c2134 a Infinite wumpa-fruits
+
+R I 1 L 0 801c213b a Infinite pickups
+
+R I 1 L 0 801c213a 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801c213a 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801c213a 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801c213a 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801c213a 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801c213a 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801c213a 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801c213a 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801c213a 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801c213a 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff59 4 Race won (Note 1)
+
+R I 1 L 0 8008ff62 1 Have CTR-chip (Note 1)
+
+R I 1 L 0 801f3328 2 Start at third lap
+
+R I 1 L 0 801f3314 a Infinite wumpa-fruits
+
+R I 1 L 0 801f331b a Infinite pickups
+
+R I 1 L 0 801f331a 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801f331a 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801f331a 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801f331a 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801f331a 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801f331a 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801f331a 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f331a 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801f331a 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f331a 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff59 8 Race won (Note 1)
+
+R I 1 L 0 8008ff62 2 Have CTR-chip (Note 1)
+
+R I 1 L 0 801ec2a8 2 Start at third lap
+
+R I 1 L 0 801ec294 a Infinite wumpa-fruits
+
+R I 1 L 0 801ec29b a Infinite pickups
+
+R I 1 L 0 801ec29a 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801ec29a 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801ec29a 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801ec29a 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801ec29a 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801ec29a 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801ec29a 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801ec29a 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801ec29a 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801ec29a 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff5a 10 Race won (Note 1)
+
+R I 1 L 0 8008ff63 4 Have CTR-chip (Note 1)
+
+R I 1 L 0 801bf908 2 Start at third lap
+
+R I 1 L 0 801bf8f4 a Infinite wumpa-fruits
+
+R I 1 L 0 801bf8fb a Infinite pickups
+
+R I 1 L 0 801bf8fa 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801bf8fa 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801bf8fa 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801bf8fa 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801bf8fa 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801bf8fa 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801bf8fa 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801bf8fa 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801bf8fa 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801bf8fa 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff63 80 Have boss-key (Note 1)
+
+R I 4 L 0 8000d01d 6744 Start at third lap
+
+R I 4 L 0 80000000 301d6744 Start at third lap
+
+R I 4 L 0 80000002 0 Start at third lap
+
+R I 4 L 0 8000d01d 6730 Infinite wumpa-fruits
+
+R I 4 L 0 80000000 301d6730 Infinite wumpa-fruits
+
+R I 4 L 0 8000000a 0 Infinite wumpa-fruits
+
+R I 4 L 0 8000d01d 6737 Infinite pickups
+
+R I 4 L 0 80000000 301d6737 Infinite pickups
+
+R I 4 L 0 8000000a 0 Infinite pickups
+
+R I 1 L 0 801d6736 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801d6736 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801d6736 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801d6736 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801d6736 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801d6736 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801d6736 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801d6736 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801d6736 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801d6736 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff66 c1 Have CTR-chip (Note 1)
+
+R I 4 L 0 8000d018 d9d9 Only 1 gem to collect
+
+R I 4 L 0 80000000 3018d9d9 Only 1 gem to collect
+
+R I 4 L 0 80000013 0 Only 1 gem to collect
+
+R I 4 L 0 8000d018 d9df Infinite pickups
+
+R I 4 L 0 80000000 3018d9df Infinite pickups
+
+R I 4 L 0 8000000a 0 Infinite pickups
+
+R I 1 L 0 8018d9de 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 8018d9de 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 8018d9de 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 8018d9de 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 8018d9de 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 8018d9de 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 8018d9de 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 8018d9de 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 8018d9de 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 8018d9de 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 801e9130 2 Start at third lap
+
+R I 1 L 0 801e911c a Infinite wumpa-fruits
+
+R I 1 L 0 801e9123 a Infinite pickups
+
+R I 1 L 0 801e9122 0 Have turbos (Note 1)
+(Press X &amp; Circle)
+
+R I 1 L 0 801e9122 1 Have bowling-bombs (Note 1)
+(Press Right &amp; Circle)
+
+R I 1 L 0 801e9122 2 Have homing missiles (Note 1)
+(Press Up &amp; Circle)
+
+R I 1 L 0 801e9122 3 Have TNT-crates (Note 1)
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801e9122 4 Have M.Brios cup (Note 1)
+(Press Down &amp; Circle)
+
+R I 1 L 0 801e9122 5 Have elastic springs (Note 1)
+(Press L1 &amp; R1)
+
+R I 1 L 0 801e9122 6 Have powershields (Note 1)
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801e9122 7 Have Aku-Aku-/Uka-Uka-masks (Note 1)
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801e9122 8 Have N.-Trophy-clocks (Note 1)
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801e9122 9 Have warp-balls (Note 1)
+(Press Left &amp; Circle)
+
+R I 1 L 0 801e97a0 2 Start at third lap
+
+R I 1 L 0 801e978c a Infinite wumpa-fruits
+
+R I 1 L 0 801e9793 a Infinite pickups
+
+R I 1 L 0 801e9792 0 Have turbos (Note 1)
+(Press X &amp; Circle)
+
+R I 1 L 0 801e9792 1 Have bowling-bombs (Note 1)
+(Press Right &amp; Circle)
+
+R I 1 L 0 801e9792 2 Have homing missiles (Note 1)
+(Press Up &amp; Circle)
+
+R I 1 L 0 801e9792 3 Have TNT-crates (Note 1)
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801e9792 4 Have M.Brios cup (Note 1)
+(Press Down &amp; Circle)
+
+R I 1 L 0 801e9792 5 Have elastic springs (Note 1)
+(Press L1 &amp; R1)
+
+R I 1 L 0 801e9792 6 Have powershields (Note 1)
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801e9792 7 Have Aku-Aku-/Uka-Uka-masks (Note 1)
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801e9792 8 Have N.-Trophy-clocks (Note 1)
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801e9792 9 Have warp-balls (Note 1)
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff58 80 Race won (Note 1)
+
+R I 1 L 0 8008ff61 20 Have CTR-chip (Note 1)
+
+R I 1 L 0 801e8bd8 2 Start at third lap
+
+R I 1 L 0 801e8bc4 a Infinite wumpa-fruits
+
+R I 1 L 0 801e8bcb a Infinite pickups
+
+R I 1 L 0 801e8bca 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801e8bca 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801e8bca 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801e8bca 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801e8bca 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801e8bca 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801e8bca 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801e8bca 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801e8bca 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801e8bca 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff59 1 Race won (Note 1)
+
+R I 1 L 0 8008ff61 40 Have CTR-chip (Note 1)
+
+R I 1 L 0 801ec374 2 Start at third lap
+
+R I 1 L 0 801ec360 a Infinite wumpa-fruits
+
+R I 1 L 0 801ec367 a Infinite pickups
+
+R I 1 L 0 801ec366 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801ec366 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801ec366 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801ec366 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801ec366 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801ec366 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801ec366 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801ec366 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801ec366 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801ec366 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff5a 4 Race won (Note 1)
+
+R I 1 L 0 8008ff63 1 Have CTR-chip (Note 1)
+
+R I 1 L 0 801f32a4 2 Start at third lap
+
+R I 1 L 0 801f3290 a Infinite wumpa-fruits
+
+R I 1 L 0 801f3297 a Infinite pickups
+
+R I 1 L 0 801f3296 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801f3296 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801f3296 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801f3296 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801f3296 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801f3296 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801f3296 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f3296 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801f3296 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f3296 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff5a 20 Race won (Note 1)
+
+R I 1 L 0 8008ff63 8 Have CTR-chip (Note 1)
+
+R I 1 L 0 801f0094 2 Start at third lap
+
+R I 1 L 0 801f0080 a Infinite wumpa-fruits
+
+R I 1 L 0 801f0087 a Infinite pickups
+
+R I 1 L 0 801f0086 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801f0086 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801f0086 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801f0086 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801f0086 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801f0086 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801f0086 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f0086 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801f0086 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f0086 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff64 1 Have boss-key (Note 1)
+
+R I 1 L 0 801d472c 2 Start at third lap
+
+R I 1 L 0 801d4718 a Infinite wumpa-fruits
+
+R I 1 L 0 801d471f a Infinite pickups
+
+R I 1 L 0 801d471e 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801d471e 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801d471e 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801d471e 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801d471e 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801d471e 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801d471e 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801d471e 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801d471e 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801d471e 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff66 c2 Have CTR-chip (Note 1)
+
+R I 4 L 0 8000d018 25f4 Only 1 gem to collect
+
+R I 4 L 0 80000000 301825f5 Only 1 gem to collect
+
+R I 4 L 0 80000013 0 Only 1 gem to collect
+
+R I 4 L 0 8000d018 25fb Infinite pickups
+
+R I 4 L 0 80000000 301825fb Infinite pickups
+
+R I 4 L 0 8000000a 0 Infinite pickups
+
+R I 1 L 0 801825fa 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801825fa 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801825fa 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801825fa 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801825fa 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801825fa 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801825fa 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801825fa 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801825fa 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801825fa 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 2 L 0 800ac394 0 Fruit worth modifier (All players)
+
+R I 2 L 0 800ac396 2402 Fruit worth modifier (All players)
+
+R I 2 L 0 800ac39a 3c00 Fruit worth modifier (All players)
+
+R I 1 L 0 800ac030 0 Points worth modifier
+
+R I 1 L 0 80087100 0 Character modifier
+
+R I 2 L 0 801863bc 64 Max apples
+
+R I 2 L 0 801863c2 0 Have weapon modifier
+
+R I 2 L 0 8018245a 200 Aku-Aku-/Uka-Uka-masks last forever
+
+R I 1 L 0 80087102 0 Character modifier
+
+R I 2 L 0 80186a32 0 Have weapon modifier
+
+R I 2 L 0 80186a2c 64 Max apples
+
+R I 1 L 0 80087104 0 Character modifier
+
+R I 1 L 0 80087106 0 Character modifier
+
+R I 1 L 0 8008ff59 2 Race won (Note 1)
+
+R I 1 L 0 8008ff61 80 Have CTR-chip (Note 1)
+
+R I 1 L 0 801f0d3c 2 Start at third lap
+
+R I 1 L 0 801f0d28 a Infinite wumpa-fruits
+
+R I 1 L 0 801f0d2f a Infinite pickups
+
+R I 1 L 0 801f0d2e 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801f0d2e 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801f0d2e 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801f0d2e 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801f0d2e 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801f0d2e 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801f0d2e 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f0d2e 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801f0d2e 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f0d2e 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff59 10 Race won (Note 1)
+
+R I 1 L 0 8008ff62 4 Have CTR-chip (Note 1)
+
+R I 1 L 0 801d4638 2 Start at third lap
+
+R I 1 L 0 801d4624 a Infinite wumpa-fruits
+
+R I 1 L 0 801d462b a Infinite pickups
+
+R I 1 L 0 801d462a 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801d462a 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801d462a 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801d462a 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801d462a 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801d462a 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801d462a 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801d462a 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801d462a 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801d462a 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff59 40 Race won (Note 1)
+
+R I 1 L 0 8008ff62 10 Have CTR-chip (Note 1)
+
+R I 1 L 0 801dd5ac 2 Start at third lap
+
+R I 1 L 0 801dd598 a Infinite wumpa-fruits
+
+R I 1 L 0 801dd59f a Infinite pickups
+
+R I 1 L 0 801dd59e 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801dd59e 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801dd59e 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801dd59e 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801dd59e 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801dd59e 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801dd59e 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801dd59e 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801dd59e 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801dd59e 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff59 80 Race won (Note 1)
+
+R I 1 L 0 8008ff62 20 Have CTR-chip (Note 1)
+
+R I 1 L 0 801f4e1c 2 Start at third lap
+
+R I 1 L 0 801f4e08 a Infinite wumpa-fruits
+
+R I 1 L 0 801f4e0f a Infinite pickups
+
+R I 1 L 0 801f4e0e 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801f4e0e 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801f4e0e 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801f4e0e 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801f4e0e 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801f4e0e 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801f4e0e 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f4e0e 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801f4e0e 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f4e0e 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff63 40 Have boss-key (Note 1)
+
+R I 1 L 0 801bea20 2 Start at third lap
+
+R I 1 L 0 801bea0c a Infinite wumpa-fruits
+
+R I 1 L 0 801bea13 a Infinite pickups
+
+R I 1 L 0 801bea12 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801bea12 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801bea12 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801bea12 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801bea12 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801bea12 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801bea12 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801bea12 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801bea12 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801bea12 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff65 80 Have CTR-chip (Note 1)
+
+R I 1 L 0 8018b855 13 Only 1 gem to collect
+
+R I 1 L 0 8018b85b a Infinite pickups
+
+R I 1 L 0 8018b85a 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 8018b85a 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 8018b85a 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 8018b85a 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 8018b85a 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 8018b85a 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 8018b85a 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 8018b85a 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 8018b85a 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 8018b85a 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff59 20 Race won (Note 1)
+
+R I 1 L 0 8008ff62 8 Have CTR-chip (Note 1)
+
+R I 1 L 0 801f3ca0 2 Start at third lap
+
+R I 1 L 0 801f3c8c a Infinite wumpa-fruits
+
+R I 1 L 0 801f3c93 a Infinite pickups
+
+R I 1 L 0 801f3c92 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801f3c92 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801f3c92 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801f3c92 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801f3c92 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801f3c92 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801f3c92 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f3c92 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801f3c92 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f3c92 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff5a 1 Race won (Note 1)
+
+R I 1 L 0 8008ff62 40 Have CTR-chip (Note 1)
+
+R I 1 L 0 801f4520 2 Start at third lap
+
+R I 1 L 0 801f450c a Infinite wumpa-fruits
+
+R I 1 L 0 801f4513 a Infinite pickups
+
+R I 1 L 0 801f4512 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801f4512 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801f4512 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801f4512 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801f4512 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801f4512 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801f4512 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f4512 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801f4512 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f4512 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff5a 2 Race won (Note 1)
+
+R I 1 L 0 8008ff62 80 Have CTR-chip (Note 1)
+
+R I 1 L 0 801f3be0 2 Start at third lap
+
+R I 1 L 0 801f3bcc a Infinite wumpa-fruits
+
+R I 1 L 0 801f3bd3 a Infinite pickups
+
+R I 1 L 0 801f3bd2 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801f3bd2 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801f3bd2 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801f3bd2 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801f3bd2 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801f3bd2 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801f3bd2 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f3bd2 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801f3bd2 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f3bd2 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff5a 8 Race won (Note 1)
+
+R I 1 L 0 8008ff63 2 Have CTR-chip (Note 1)
+
+R I 1 L 0 801f3d20 2 Start at third lap
+
+R I 1 L 0 801f3d0c a Infinite wumpa-fruits
+
+R I 1 L 0 801f3d13 a Infinite pickups
+
+R I 1 L 0 801f3d12 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801f3d12 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801f3d12 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801f3d12 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801f3d12 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801f3d12 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801f3d12 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f3d12 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801f3d12 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801f3d12 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff64 2 Have boss-key (Note 1)
+
+R I 1 L 0 801deec4 2 Start at third lap
+
+R I 1 L 0 801deeb0 a Infinite wumpa-fruits
+
+R I 1 L 0 801deeb7 a Infinite pickups
+
+R I 1 L 0 801deeb6 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801deeb6 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801deeb6 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801deeb6 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801deeb6 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801deeb6 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801deeb6 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801deeb6 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801deeb6 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801deeb6 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 8008ff66 c4 Have CTR-chip (Note 1)
+
+R I 4 L 0 8000d019 a3cd Only 1 gem to collect
+
+R I 4 L 0 80000000 3019a3cd Only 1 gem to collect
+
+R I 4 L 0 80000013 0 Only 1 gem to collect
+
+R I 4 L 0 8000d019 a3d3 Infinite pickups
+
+R I 4 L 0 80000000 3019a3d3 Infinite pickups
+
+R I 4 L 0 8000000a 0 Infinite pickups
+
+R I 1 L 0 8019a3d2 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 8019a3d2 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 8019a3d2 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 8019a3d2 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 8019a3d2 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 8019a3d2 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 8019a3d2 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 8019a3d2 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 8019a3d2 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 8019a3d2 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 1 L 0 801d8e48 2 Start at third lap
+
+R I 1 L 0 801d8e34 a Infinite wumpa-fruits
+
+R I 1 L 0 801d8e3b a Infinite pickups
+
+R I 1 L 0 801d8e3a 0 Have turbos
+(Press X &amp; Circle)
+
+R I 1 L 0 801d8e3a 1 Have bowling-bombs
+(Press Right &amp; Circle)
+
+R I 1 L 0 801d8e3a 2 Have homing missiles
+(Press Up &amp; Circle)
+
+R I 1 L 0 801d8e3a 3 Have TNT-crates
+(Press L1 &amp; L2 &amp; Circle)
+
+R I 1 L 0 801d8e3a 4 Have M.Brios cup
+(Press Down &amp; Circle)
+
+R I 1 L 0 801d8e3a 5 Have elastic springs
+(Press L1 &amp; R1)
+
+R I 1 L 0 801d8e3a 6 Have powershields
+(Press R1 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801d8e3a 7 Have Aku-Aku-/Uka-Uka-masks
+(Press L2 &amp; Circle)
+
+R I 1 L 0 801d8e3a 8 Have N.-Trophy-clocks
+(Press L2 &amp; R2 &amp; Circle)
+
+R I 1 L 0 801d8e3a 9 Have warp-balls
+(Press Left &amp; Circle)
+
+R I 2 L 0 80078116 3c00 PAL2NTSC
+
+R I 2 L 0 80073858 0 Y-Fix
+
+R I 2 L 0 80073a04 0 Y-Fix 2
+
+R I 2 L 0 80073a06 0 Y-Fix 2
+
+R I 2 L 0 80035416 3c00 Infinite time
+
+R I 1 L 0 8008ff5b 2 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5d 8 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff5f 20 Have Platin-relict (Note 1)
+
+R I 1 L 0 801e0084 2 Start at third lap
+
+R I 1 L 0 801e0072 20 All time-crates
+
+R I 1 L 0 8008ff5b 10 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5d 40 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff60 1 Have Platin-relict (Note 1)
+
+R I 1 L 0 801c3074 2 Start at third lap
+
+R I 1 L 0 801c3062 20 All time-crates
+
+R I 1 L 0 8008ff5b 40 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5e 1 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff60 4 Have Platin-relict (Note 1)
+
+R I 1 L 0 801cefe8 2 Start at third lap
+
+R I 1 L 0 801cefd6 41 All time-crates
+
+R I 1 L 0 8008ff5b 80 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5e 2 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff60 8 Have Platin-relict (Note 1)
+
+R I 1 L 0 801e389c 2 Start at third lap
+
+R I 1 L 0 801e388a 41 All time-crates
+
+R I 1 L 0 8008ff5a 40 Have Sapphire-relict
+
+R I 1 L 0 8008ff5d 1 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff5f 4 Have Platin-relict (Note 1)
+
+R I 1 L 0 801b1728 2 Start at third lap
+
+R I 1 L 0 801b1716 26 All time-crates
+
+R I 1 L 0 8008ff5b 4 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5d 10 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff5f 40 Have Platin-relict (Note 1)
+
+R I 1 L 0 801e4418 2 Start at third lap
+
+R I 1 L 0 801e4406 34 All time-crates
+
+R I 1 L 0 8008ff5b 8 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5d 20 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff5f 80 Have Platin-relict (Note 1)
+
+R I 1 L 0 801dddf0 2 Start at third lap
+
+R I 1 L 0 801dddde 30 All time-crates
+
+R I 1 L 0 8008ff5c 10 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5e 40 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff61 1 Have Platin-relict (Note 1)
+
+R I 1 L 0 801afcc0 2 Start at third lap
+
+R I 1 L 0 801afcae 28 All time-crates
+
+R I 1 L 0 8008ff5a 80 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5d 2 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff5f 8 Have Platin-relict (Note 1)
+
+R I 1 L 0 801d780c 2 Start at third lap
+
+R I 1 L 0 801d77fa 27 All time-crates
+
+R I 1 L 0 8008ff5b 1 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5d 4 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff5f 10 Have Platin-relict (Note 1)
+
+R I 1 L 0 801dbb44 2 Start at third lap
+
+R I 1 L 0 801dbb32 28 All time-crates
+
+R I 1 L 0 8008ff5c 4 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5e 10 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff60 40 Have Platin-relict (Note 1)
+
+R I 1 L 0 801e1d24 2 Start at third lap
+
+R I 1 L 0 801e1d12 26 All time-crates
+
+R I 1 L 0 8008ff5c 20 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5e 80 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff61 2 Have Platin-relict (Note 1)
+
+R I 1 L 0 801e37dc 2 Start at third lap
+
+R I 1 L 0 801e37ca 3c All time-crates
+
+R I 1 L 0 8008ff5b 20 Start at third lap
+Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5d 80 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff60 2 Have Platin-relict (Note 1)
+
+R I 1 L 0 801e0a00 2 Have Platin-relict (Note 1)
+
+R I 1 L 0 801e09ee 38 All time-crates
+
+R I 1 L 0 8008ff5c 1 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5e 4 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff60 10 Have Platin-relict (Note 1)
+
+R I 1 L 0 801e3dc4 2 Start at third lap
+
+R I 1 L 0 801e3db2 3e All time-crates
+
+R I 1 L 0 8008ff5c 2 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5e 8 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff60 20 Have Platin-relict (Note 1)
+
+R I 1 L 0 801e45ec 2 Start at third lap
+
+R I 1 L 0 801e45da 46 All time-crates
+
+R I 1 L 0 8008ff5c 8 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5e 20 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff60 80 Have Platin-relict (Note 1)
+
+R I 1 L 0 801e3b14 2 Start at third lap
+
+R I 1 L 0 801e3b02 31 All time-crates
+
+R I 1 L 0 8008ff5c 40 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5f 1 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff61 4 Have Platin-relict (Note 1)
+
+R I 1 L 0 801d367c 2 Start at third lap
+
+R I 1 L 0 801d366a 2d All time-crates
+
+R I 1 L 0 8008ff5c 80 Have Sapphire-relict (Note 1)
+
+R I 1 L 0 8008ff5f 2 Have Gold-relict (Note 1)
+
+R I 1 L 0 8008ff61 8 Have Platin-relict (Note 1)
+
+R I 1 L 0 801e6a50 2 Start at third lap
+
+R I 1 L 0 801e6a3e 34 All time-crates
+
+R I 1 L 0 8008ff65 4 Red Gem-Cup won
+
+R I 1 L 0 8008ff65 8 Green Gem-Cup won
+
+R I 1 L 0 8008ff65 10 Blue Gem-Cup won
+
+R I 1 L 0 8008ff65 20 Yellow Gem-Cup won
+
+R I 1 L 0 8008ff65 40 Purple Gem-Cup won
+
+R I 2 L 0 80035012 2400 Time Always 0:00:00
+
+R I 2 L 0 80096b28 200 Activate Cheat Modifier 1
+
+R I 2 L 0 80096b2a 10 Activate Cheat Modifier 2
+
+R I 2 L 0 8008fba4 ffff Have All Awards
+
+R I 2 L 0 8008fba6 ffff Have All Awards
+
+R I 2 L 0 8008fba8 ffff Have All Awards
+
+R I 2 L 0 8008fbaa ffff Have All Awards
+
+R I 2 L 0 8008fbac ffff Have All Awards
+
+R I 2 L 0 8008fbae ffff Have All Awards
+
+R I 2 L 0 8008fbb0 ffff Have All Awards
+
+R I 2 L 0 8008fbb2 ffff Have All Awards
+
+R I 2 L 0 800b46fa 0 Course Modifier
+
+R I 2 L 0 800b59a8 0 Course Modifier
+
+R I 2 L 0 801f0384 a Start On Lap ? In Crash Cove-Arcade Mode
+
+R I 2 L 0 801efc34 a Start On Lap ? In Crash Cove-Arcade Mode
+
+R I 2 L 0 801efd04 a Start On Lap ? In Crash Cove-Arcade Mode
+
+R I 2 L 0 801f0258 a Start On Lap ? In Crash Cove-Arcade Mode
+
+R I 2 L 0 801efe0c a Start On Lap ? In Crash Cove-Arcade Mode
+
+R I 2 L 0 801efe50 a Start On Lap ? In Crash Cove-Arcade Mode
+
+R I 2 L 0 801f0218 a Start On Lap ? In Crash Cove-Arcade Mode
+
+R I 2 L 0 801f00f0 a Start On Lap ? In Crash Cove-Arcade Mode
+
+R I 2 L 0 80086e84 f Use Nitros Oxide Player 1
+
+R I 2 L 0 80086e84 a Use Nitros Oxide Player 1
+
+R I 2 L 0 80086e86 f Use Nitros Oxide Player 2
+
+R I 2 L 0 80086e86 0 Use Nitros Oxide Player 2
+
+R I 2 L 0 801efc26 301 Part 1-N. Sanity Beach
+
+R I 2 L 0 801d3522 301 Part 1-N. Sanity Beach
+
+R I 2 L 0 801f3d06 301 Part 1-N. Sanity Beach
+
+R I 2 L 0 801dc496 301 Part 1-N. Sanity Beach
+
+R I 2 L 0 801bd90a 301 Part 1-N. Sanity Beach
+
+R I 2 L 0 801f2212 301 Part 2-The Lost Ruins
+
+R I 2 L 0 801c1032 301 Part 2-The Lost Ruins
+
+R I 2 L 0 801eb192 301 Part 2-The Lost Ruins
+
+R I 2 L 0 801d562e 301 Part 2-The Lost Ruins
+
+R I 2 L 0 801be7f2 301 Part 2-The Lost Ruins
+
+R I 2 L 0 801f398e 301 Part 3-Glacier Park
+
+R I 2 L 0 801d3616 301 Part 3-Glacier Park
+
+R I 2 L 0 801eef7e 301 Part 3-Glacier Park
+
+R I 2 L 0 801e7ac2 301 Part 3-Glacier Park
+
+R I 2 L 0 801eb25e 301 Part 3-Glacier Park
+
+R I 2 L 0 801d7d32 301 Part 4-Citadel City
+
+R I 2 L 0 801f2aca 301 Part 4-Citadel City
+
+R I 2 L 0 801f340a 301 Part 4-Citadel City
+
+R I 2 L 0 801dddae 301 Part 4-Citadel City
+
+R I 2 L 0 801f2b8a 301 Part 4-Citadel City
+
+R I 2 L 0 801f2c0a 301 Part 4-Citadel City
+
+R I 1 L 0 80098980 63 P1 has total 99 points (CUP Racing)
+
+R I 1 L 0 80098984 63 P2 has total 99 points (CUP Racing)
+
+R I 1 L 0 80098988 63 P3 has total 99 points (CUP Racing)
+
+R I 1 L 0 8009898c 63 P4 has total 99 points (CUP Racing)
+
+R I 2 L 0 8002305c c00 Widescreen
+
+R I 2 L 0 8002305e 2404 Widescreen
+
+R I 2 L 0 800230c6 e Widescreen
+
+R I 2 L 0 800230a0 7300 Widescreen
+
+R I 2 L 0 800230a2 3 Widescreen
+
+R I 2 L 0 80022608 2080 Widescreen
+
+R I 2 L 0 8002260a 800 Widescreen
+
+R I 2 L 0 8002260c 0 Widescreen
+
+R I 2 L 0 8002260e 8451 Widescreen
+
+R I 2 L 0 80008200 3 Widescreen
+
+R I 2 L 0 80008202 241b Widescreen
+
+R I 2 L 0 80008204 19 Widescreen
+
+R I 2 L 0 80008206 371 Widescreen
+
+R I 2 L 0 80008208 8812 Widescreen
+
+R I 2 L 0 8000820a 0 Widescreen
+
+R I 2 L 0 8000820c 8883 Widescreen
+
+R I 2 L 0 8000820e 11 Widescreen
+
+R I 2 L 0 80008210 8984 Widescreen
+
+R I 2 L 0 80008212 800 Widescreen
+
+R I 2 L 0 80008214 3a Widescreen
+
+R I 2 L 0 80008216 2442 Widescreen
+
+R I 2 L 0 8006c2f8 c00 Widescreen
+
+R I 2 L 0 80043168 400 Widescreen
+
+R I 2 L 0 8004316a 2404 Widescreen

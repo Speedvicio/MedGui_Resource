@@ -1,0 +1,44 @@
+[0] Guardian Heroes (USA)
+R I 2 L 0 6033c74 c0 Begin At High Level
+
+R I 2 L 0 601dba4 900 Infinite Lives
+
+R I 2 L 0 6033c5e 270f Infinite HP
+
+R I 1 L 0 601dba4 63 Infinite Continues
+
+R I 2 L 0 6033c60 270f Max HP
+
+R I 2 L 0 6033c62 270f Infinite MP
+
+R I 2 L 0 6033c64 270f Max MP
+
+R I 1 L 0 6033c76 63 Max STR
+
+R I 1 L 0 6033c77 63 Max VIT
+
+R I 1 L 0 6033c78 63 Max INT
+
+R I 1 L 0 6033c79 63 Max MEN
+
+R I 1 L 0 6033c7a 63 Max AGI
+
+R I 1 L 0 6033c7b 63 Max LUC
+
+R I 2 L 0 6033c54 f Max EXP
+
+R I 2 L 0 6033c56 423f Max EXP
+
+R I 2 L 0 6033f6a ff00 Karma Modifier (For Last Stages Only)
+
+R I 2 L 0 6065836 7002 GodMode+1HitKill
+
+R I 2 L 0 6065838 2dd GodMode+1HitKill
+
+R I 2 L 0 606583a 70fe GodMode+1HitKill
+
+R I 2 L 0 606583c d25 GodMode+1HitKill
+
+R I 2 L 0 606583e a0de GodMode+1HitKill
+
+R I 2 L 0 606728e 9 GodMode+1HitKill

@@ -1,0 +1,1280 @@
+[] Castlevania - Symphony of the Night (NTSC-U)
+R I 2 L 0 800fedf2 2400 Take no damage from spikes
+
+R I 2 L 0 800fedf6 2400 Take no damage from enemys
+
+R I 2 L 0 8007341e ffff Touch all items on screen from anywhere
+
+R I 2 L 0 800730a8 0 No Walls
+
+R I 2 L 0 800730a0 0 Walls in the foreground are invisible (Darkened)
+
+R I 2 L 0 8007309a be Background Layer Mod
+
+R I 2 L 0 8007341c 0 Automatically and constantly hits Alucard as long as code is on
+
+R I 2 L 0 800733ee ffff Invisible
+
+R I 2 L 0 801d6b0c 0 Start Game Menu Option Selected modifier
+
+R I 2 L 0 80073418 0 Damage enemies when THEY run into YOU
+
+R I 2 L 0 80072f1c 10 Damage enemies when THEY run into YOU
+
+R I 2 L 0 80072ee8 0 Rapid Fire
+
+R I 2 L 0 80097c34 0 Clock Modifier - Minute Hand
+
+R I 2 L 0 80097c30 0 Clock Modifier - Hour Hand
+
+R I 2 L 0 800733ee 8101 Change Colors of character
+
+R I 2 L 0 80072f2e 1001 Invincibility
+
+R I 2 L 0 80097918 40 Enter Programmers Room
+
+R I 2 L 0 800974a0 40 Enter Programmers Room
+
+R I 2 L 0 80073414 0 Can't pick up items or be hit
+
+R I 2 L 0 80073414 ffff Automatically pick up all items on screen and be hit by monsters that are on the screen without even
+
+R I 2 L 0 800730c8 2db2 No Right Boundaries
+
+R I 2 L 0 80139000 76 No sound effects
+
+R I 1 L 0 80072f20 1 Land and walk in mid-air
+
+R I 2 L 0 80073fbe 30 Item usage effects modifier
+
+R I 2 L 0 80072fec 0 Move During Cutscenes
+
+R I 2 L 0 80015340 0 Turbo
+
+R I 2 L 0 80015340 1 Turbo
+
+R I 2 L 0 80074090 82 Attack anything to steal their energy
+
+R I 2 L 0 800740be 2 Attack anything to steal their energy
+
+R I 2 L 0 80074049 ffff Attack anything to steal their energy
+
+R I 2 L 0 80073406 ffff Lose momentum when jumping, and sometimes get stuck in certain poses
+
+R I 2 L 0 8007342e 0 Pose Modifier
+
+R I 2 L 0 800733fc 0 Character in Background
+
+R I 2 L 0 8007340e ffff 2 Characters on screen at a time
+
+R I 2 L 0 800733e2 ffff Glide to the left
+
+R I 2 L 0 800733e0 ffff Glide to the right
+
+R I 2 L 0 800733ee 810d Invisible codes.
+
+R I 2 L 0 800733ee 8100 Invisible codes.
+
+R I 2 L 0 80073404 22 Automatic Hell Fire
+
+R I 2 L 0 800973fc 1 Most Enemies Freeze
+
+R I 2 L 0 80139020 0 Most Enemies Freeze
+
+R I 2 L 0 800973fc 0 Most Enemies Freeze
+
+R I 2 L 0 80138458 0 Music Mod
+
+R I 2 L 0 80139850 e79 Resistence to stone
+
+R I 2 L 0 80072f64 4 Infinite Jumps (Once You Have Double Jump Ability)
+
+R I 2 L 0 8013983c e79 Resistence to fire
+
+R I 2 L 0 8013984c e79 Resistance to holy
+
+R I 2 L 0 80139854 e79 Resistance to dark
+
+R I 2 L 0 80072f02 0 Resistance to curse
+
+R I 2 L 0 80139840 e79 Resistance to ice
+
+R I 2 L 0 8003c9a8 0 Menu Option Selected modifier
+
+R I 2 L 0 80097c74 3e7 Equipable Sword Familiar Max Power
+
+R I 2 L 0 80097c30 3e7 Badelaire Attack Power Max
+
+R I 2 L 0 80072f78 270f Food And Potions Give Full HP
+
+R I 2 L 0 80097448 90 Super jump
+
+R I 2 L 0 8002d374 3275 Slow Motion
+
+R I 2 L 0 80015340 0 Hyper Mode
+
+R I 2 L 0 80015340 5 Hyper Mode
+
+R I 2 L 0 80097c48 ffff Quick Level Up Bat Familiar
+
+R I 2 L 0 80097c6c ffff Quick Level Up Demon Familiar
+
+R I 2 L 0 80097c60 ffff Quick Level Up Fairie Familiar
+
+R I 2 L 0 80097c54 ffff Quick Level Up Ghost Familiar
+
+R I 2 L 0 80097c78 ffff Quick Level Up Sword Familiar
+
+R I 2 L 0 80097bf0 ffff Money Bag You Collect Is 65535 Gold
+
+R I 2 L 0 8003c760 787 Have Over 200% Completion Value
+
+R I 2 L 0 80097bf4 ffff Increase Kills By 65535
+
+R I 2 L 0 8003c760 ffff Every Room You Enter Increases Total 65535
+
+R I 2 L 0 80097c38 0 Game Time 00:00:00
+
+R I 2 L 0 80074cfc ffff Hyper Hydrostorm [Richter ONLY]
+
+R I 1 L 0 8003c9a0 0 Character Modifier
+
+R I 2 L 0 8007420c 0 HP Damage Modifier While Facing The Enemy [000-3E7]
+
+R I 2 L 0 80073fd8 0 HP Damage Modifier While Behind Enemy [000-3E7]
+
+R I 2 L 0 800744fc 0 HP Damage Modifier While Jumping At Enemy [000-3E7]
+
+R I 1 L 0 80097990 10 Have Knight Shield
+
+R I 1 L 0 80097991 10 Have Iron Shield
+
+R I 1 L 0 80097992 10 Have Axelord Shield
+
+R I 1 L 0 80097994 10 Have Dark Shield
+
+R I 1 L 0 80097996 10 Have Shaman Shield
+
+R I 1 L 0 80097998 10 Have Skull Shield
+
+R I 1 L 0 8009799a 10 Have Alucard Shield
+
+R I 1 L 0 8009799c 10 Have Basilard
+
+R I 1 L 0 8009799d 10 Have Short Sword
+
+R I 1 L 0 8009799e 10 Have Combat Knife
+
+R I 1 L 0 8009799f 10 Have Nunchaku
+
+R I 1 L 0 800979a0 10 Have Were Bane
+
+R I 1 L 0 800979a1 10 Have Rapier
+
+R I 1 L 0 800979a2 10 Have Karma Coin
+
+R I 1 L 0 800979a3 10 Have Magic Missile
+
+R I 1 L 0 800979a5 10 Have Takemitsu
+
+R I 1 L 0 800979a6 10 Have Shotel
+
+R I 1 L 0 800979a7 10 Have Orange
+
+R I 1 L 0 800979a9 10 Have Banana
+
+R I 1 L 0 800979af 10 Have Shiitake
+
+R I 1 L 0 800979b3 10 Have Parfait
+
+R I 1 L 0 800979c1 10 Have Spaghetti
+
+R I 1 L 0 800979d0 10 Have Meal Ticket
+
+R I 1 L 0 800979d2 10 Have Power of Sire
+
+R I 1 L 0 800979d3 10 Have Pentagram
+
+R I 1 L 0 800979d4 10 Have Bat Pentagram
+
+R I 1 L 0 800979d5 10 Have Shuriken
+
+R I 1 L 0 800979d6 10 Have Cross Shuriken
+
+R I 1 L 0 800979d7 10 Have Buffalo Star
+
+R I 1 L 0 800979d8 10 Have Flame Star
+
+R I 1 L 0 800979d9 10 Have Tnt
+
+R I 1 L 0 800979da 10 Have Bwaka Knife
+
+R I 1 L 0 800979db 10 Have Boomerang
+
+R I 1 L 0 800979dc 10 Have Javelin
+
+R I 1 L 0 800979dd 10 Have Tyrfing
+
+R I 1 L 0 800979de 10 Have Namakura
+
+R I 1 L 0 800979df 10 Have Knuckle Duster
+
+R I 1 L 0 800979f0 10 Have Sword of Hador
+
+R I 1 L 0 800979f1 10 Have Zwei Hander
+
+R I 1 L 0 800979f3 10 Have Luminus
+
+R I 1 L 0 800979f4 10 Have Harper
+
+R I 1 L 0 800979f5 10 Have Obsidian Sword
+
+R I 1 L 0 800979f6 10 Have Gram
+
+R I 1 L 0 800979f7 10 Have Jewel Sword
+
+R I 1 L 0 800979f8 10 Have Mormagil
+
+R I 1 L 0 800979f9 10 Have Fire Brand
+
+R I 1 L 0 800979fa 10 Have Thunderbrand
+
+R I 1 L 0 800979fb 10 Have Ice Brand
+
+R I 1 L 0 800979fc 10 Have Stone Sword
+
+R I 1 L 0 800979fd 10 Have Holy Sword
+
+R I 1 L 0 800979fe 10 Have Terminus Est
+
+R I 1 L 0 80097a00 10 Have Dark Blade
+
+R I 1 L 0 80097a02 10 Have Fist of Tulkas
+
+R I 1 L 0 80097a03 10 Have Gurthang
+
+R I 1 L 0 80097a04 10 Have Mourneblade
+
+R I 1 L 0 80097a05 10 Have Alucard Sword
+
+R I 1 L 0 80097a06 10 Have Mablung Sword
+
+R I 1 L 0 80097a07 10 Have Badelaire
+
+R I 1 L 0 80097a08 10 Have Equipable Sword Familiar
+
+R I 1 L 0 80097a09 10 Have Great Sword
+
+R I 1 L 0 80097a0a 10 Have Mace
+
+R I 1 L 0 80097a0b 10 Have Morning Star
+
+R I 1 L 0 80097a0d 10 Have Star Flail
+
+R I 1 L 0 80097a0e 10 Have Moon Rod
+
+R I 1 L 0 80097a0f 10 Have Chakram
+
+R I 1 L 0 80097a10 10 Have Fire Boomerang
+
+R I 1 L 0 80097a11 10 Have Iron Ball
+
+R I 1 L 0 80097a12 10 Have Holbein Dagger
+
+R I 1 L 0 80097a13 10 Have Blue Knuckles
+
+R I 1 L 0 80097a14 10 Have Dynamite
+
+R I 1 L 0 80097a15 10 Have Osafune Katana
+
+R I 1 L 0 80097a16 10 Have Masasume
+
+R I 1 L 0 80097a17 10 Have Muramasa
+
+R I 1 L 0 80097a18 10 Have Heart Refresh
+
+R I 1 L 0 80097a19 10 Have Rune Sword
+
+R I 1 L 0 80097a1b 10 Have Uncurse
+
+R I 1 L 0 80097a1e 10 Have Strength Potion
+
+R I 1 L 0 80097a1f 10 Have Luck Potion
+
+R I 1 L 0 80097a20 10 Have Smart Potion
+
+R I 1 L 0 80097a21 10 Have Attack Potion
+
+R I 1 L 0 80097a22 10 Have Shield Potion
+
+R I 1 L 0 80097a23 10 Have Resist Fire
+
+R I 1 L 0 80097a24 10 Have Resist Thunder
+
+R I 1 L 0 80097a26 10 Have Resist Stone
+
+R I 1 L 0 80097a27 10 Have Resist Holy
+
+R I 1 L 0 80097a28 10 Have Resist Dark
+
+R I 1 L 0 80097a2b 10 Have Elixir
+
+R I 1 L 0 80097a2d 10 Have Vorpal Blade
+
+R I 1 L 0 80097a2f 10 Have Yasutsuna
+
+R I 1 L 0 80097a30 10 Have Library Card
+
+R I 1 L 0 80097a31 10 Have Alucard Shield
+
+R I 1 L 0 80097a39 10 Have Silver Plate
+
+R I 1 L 0 80097a3b 10 Have Platinum Mail
+
+R I 1 L 0 80097a3d 10 Have Fire Mail
+
+R I 1 L 0 80097a3f 10 Have Ice Mail
+
+R I 1 L 0 80097a41 10 Have Spike Breaker
+
+R I 1 L 0 80097a43 10 Have Dark Armor
+
+R I 1 L 0 80097a45 10 Have Holy Mail
+
+R I 1 L 0 80097a47 10 Have Brilliant Mail
+
+R I 1 L 0 80097a49 10 Have Fury Plate
+
+R I 1 L 0 80097a4b 10 Have God&#039;s Garb
+
+R I 1 L 0 80097a4f 10 Have Ballroom Mask
+
+R I 1 L 0 80097a51 10 Have Felt Hat
+
+R I 1 L 0 80097a53 10 Have Goggles
+
+R I 1 L 0 80097a55 10 Have Holy Glasses
+
+R I 1 L 0 80097a57 10 Have Stone Mask
+
+R I 1 L 0 80097a59 10 Have Gold Circlet
+
+R I 1 L 0 80097a5b 10 Have Opal Circlet
+
+R I 1 L 0 80097a5d 10 Have Beryl Circlet
+
+R I 1 L 0 80097a5f 10 Have Coral Circlet
+
+R I 1 L 0 80097a61 10 Have Slver Crown
+
+R I 1 L 0 80097a65 10 Have Reverse Cloak
+
+R I 1 L 0 80097a66 10 Have Elven Cloak
+
+R I 1 L 0 80097a67 10 Have Crystal Cloak
+
+R I 1 L 0 80097a68 10 Have Royal Cloak
+
+R I 1 L 0 80097a69 10 Have Blood Cloak
+
+R I 1 L 0 80097a6a 10 Have Joseph&#039;s Cloak
+
+R I 1 L 0 80097a6b 10 Have Twilight Cloak
+
+R I 1 L 0 80097a6d 10 Have Moonstone
+
+R I 1 L 0 80097a6e 10 Have Sunstone
+
+R I 1 L 0 80097a6f 10 Have Bloodstone
+
+R I 1 L 0 80097a70 10 Have Staurolite
+
+R I 1 L 0 80097a71 10 Have Ring of Pales
+
+R I 1 L 0 80097a72 10 Have Zircon
+
+R I 1 L 0 80097a73 10 Have Aquamarine
+
+R I 1 L 0 80097a74 10 Have Turquoise Ring
+
+R I 1 L 0 80097a75 10 Have Onyx
+
+R I 1 L 0 80097a76 10 Have Garnet Ring
+
+R I 1 L 0 80097a77 10 Have Opal
+
+R I 1 L 0 80097a78 10 Have Diamond Ring
+
+R I 1 L 0 80097a79 10 Have Lapis Lazuli
+
+R I 1 L 0 80097a7a 10 Have Ring of Ares
+
+R I 1 L 0 80097a7b 10 Have Gold Ring
+
+R I 1 L 0 80097a7c 10 Have Silver Ring
+
+R I 1 L 0 80097a7d 10 Have Ring of Varda
+
+R I 1 L 0 80097a7e 10 Have Ring of Arcana
+
+R I 1 L 0 80097a7f 10 Have Mystic Pendant
+
+R I 1 L 0 80097a80 10 Have Heart Broach
+
+R I 1 L 0 80097a81 10 Have Necklace of J
+
+R I 1 L 0 80097a82 10 Have Gauntlet
+
+R I 1 L 0 80097a83 10 Have Ankh of Life
+
+R I 1 L 0 80097a84 10 Have Ring of Feanor
+
+R I 1 L 0 80097a85 10 Have Medal
+
+R I 1 L 0 80097a86 10 Have Talisman
+
+R I 1 L 0 80097a87 10 Have Duplicator
+
+R I 1 L 0 80097a88 10 Have King&#039;s Stone
+
+R I 1 L 0 80097a89 10 Have Covenant Stone
+
+R I 1 L 0 80097a8a 10 Have Nauglamir
+
+R I 1 L 0 80097a8b 10 Have Secret Boots
+
+R I 1 L 0 80097a2e 10 Have Crissaegrim
+
+R I 1 L 0 80097a01 10 Have Heaven Sword
+
+R I 1 L 0 80097a62 10 Have Wizard Hat
+
+R I 2 L 0 80097bfc 1 Weapon Modifier
+
+R I 2 L 0 80097c00 0 Right Hand Item Modifier
+
+R I 2 L 0 80097c04 0 Left Hand Item Modifier
+
+R I 2 L 0 80097c08 0 Head Garb Modifier
+
+R I 2 L 0 80097c0c 0 Armor Modifier
+
+R I 2 L 0 80097c10 0 Cloak Modifier
+
+R I 2 L 0 80097c14 0 Other 1 Modifier
+
+R I 2 L 0 80097c18 0 Other 2 Modifier
+
+R I 2 L 0 80097bee fff Player Level V99
+
+R I 2 L 0 80097ba0 270f Infinite Health
+
+R I 2 L 0 80097ba4 270f Max Health
+
+R I 2 L 0 80097bb0 270f Infinite MP
+
+R I 2 L 0 80097bb4 270f Max MP
+
+R I 2 L 0 80097ba8 ff Infinite Hearts
+
+R I 2 L 0 80097bac 270f Max Hearts
+
+R I 2 L 0 80097bf2 fff Infinite Gold
+
+R I 2 L 0 800f4bf6 1400 Max +Attribute Attack [Left]
+
+R I 2 L 0 800f504e 1400 Max +Attribute Guard [Left]
+
+R I 2 L 0 80097bb8 3e7 Max STR
+
+R I 2 L 0 80097bbc 3e7 Max CON
+
+R I 2 L 0 80097bc0 3e7 Max INT
+
+R I 2 L 0 80097bc4 270f Max LCK
+
+R I 2 L 0 80097c74 ffff Sword Familiar Max Level
+
+R I 2 L 0 80097c5c c3ff Faerie 1 Familiar Max Level
+
+R I 2 L 0 80097c44 c3ff Bat Familiar Max Level
+
+R I 2 L 0 80097c50 c3ff Ghost Familiar Max Level
+
+R I 2 L 0 80097c8c 3e7 Nose Devil  Familiar Max Level
+
+R I 2 L 0 80097c80 3e7 Pixie Familiar Max Level
+
+R I 2 L 0 80097c68 63 Demon Familiar Max Level
+
+R I 2 L 0 800a6408 3e7 Max Attack [Alucard]
+
+R I 2 L 0 800fd5bc 8 Invincible Belmont
+
+R I 2 L 0 800fd5be 3e0 Invincible Belmont
+
+R I 2 L 0 800fe97c 8 Invincible Alucard
+
+R I 2 L 0 800fe97e 3e0 Invincible Alucard
+
+R I 2 L 0 800fe982 2400 Invincible Alucard
+
+R I 1 L 0 8009713b 4 Life, Magic &amp; Heart Meter Invisible
+
+R I 1 L 0 8009716f 4 Life, Magic &amp; Heart Meter Invisible
+
+R I 1 L 0 800971a3 4 Life, Magic &amp; Heart Meter Invisible
+
+R I 1 L 0 800971f3 4 Life, Magic &amp; Heart Meter Invisible
+
+R I 1 L 0 80097227 4 Life, Magic &amp; Heart Meter Invisible
+
+R I 1 L 0 8009725b 4 Life, Magic &amp; Heart Meter Invisible
+
+R I 1 L 0 8009728f 4 Life, Magic &amp; Heart Meter Invisible
+
+R I 1 L 0 800972db 4 Life, Magic &amp; Heart Meter Invisible
+
+R I 1 L 0 800972f7 4 Life, Magic &amp; Heart Meter Invisible
+
+R I 1 L 0 8009732b 4 Life, Magic &amp; Heart Meter Invisible
+
+R I 1 L 0 8009735f 4 Life, Magic &amp; Heart Meter Invisible
+
+R I 1 L 0 800973ab 4 Life, Magic &amp; Heart Meter Invisible
+
+R I 1 L 0 800973c7 4 Life, Magic &amp; Heart Meter Invisible
+
+R I 1 L 0 800973df 4 Life, Magic &amp; Heart Meter Invisible
+
+R I 2 L 0 80073fde ffff Hit Anywhere
+
+R I 2 L 0 800fdcba 3c04 Infinite MP (ASM)
+
+R I 2 L 0 80101d5e ff Refill MP Really Fast
+
+R I 2 L 0 800fe536 3c03 Infinite Hearts (ASM)
+
+R I 2 L 0 80097bec 423f Max EXP
+
+R I 2 L 0 80097bee f Max EXP
+
+R I 2 L 0 80097982 8180 All Special Item
+
+R I 2 L 0 80097984 8382 All Special Item
+
+R I 2 L 0 80097986 8584 All Special Item
+
+R I 2 L 0 80097988 8786 All Special Item
+
+R I 2 L 0 80097964 303 All Special Item
+
+R I 2 L 0 80097966 303 All Special Item
+
+R I 2 L 0 80097968 303 All Special Item
+
+R I 2 L 0 8009796a 303 All Special Item
+
+R I 2 L 0 8009796c 303 All Special Item
+
+R I 2 L 0 8009796e 303 All Special Item
+
+R I 2 L 0 80097970 303 All Special Item
+
+R I 2 L 0 80097972 303 All Special Item
+
+R I 2 L 0 80097974 303 All Special Item
+
+R I 2 L 0 80097976 303 All Special Item
+
+R I 2 L 0 80097978 303 All Special Item
+
+R I 2 L 0 8009797a 303 All Special Item
+
+R I 2 L 0 8009797c 303 All Special Item
+
+R I 2 L 0 8009797e 303 All Special Item
+
+R I 2 L 0 80097980 303 All Special Item
+
+R I 2 L 0 800733e4 0 Super Jump (Press X+L1) (Short Version - Cheat Device 2.41 or Higher Needed!)
+
+R I 2 L 0 800733e4 0 Super Jump (Longer Version)
+
+R I 2 L 0 800733e4 0 Super Jump (Longer Version)
+
+R I 2 L 0 800733e4 0 Super Jump (Longer Version)
+
+R I 2 L 0 8009797c 303 Activate Demon 2 Familiar
+
+R I 2 L 0 8009797a 301 Activate Fairy 2 Familiar
+
+R I 1 L 0 8003c708 20 Save Almost Anywhere (Press And Hold Triangle)
+
+R I 2 L 0 801b2454 0 Each Hit Damage Modifier (000-3E7)
+
+R I 2 L 0 801b2456 2414 Each Hit Damage Modifier (000-3E7)
+
+R I 2 L 0 801ba22c 0 Each Hit Damage Modifier (000-3E7)
+
+R I 2 L 0 801ba22e 2415 Each Hit Damage Modifier (000-3E7)
+
+R I 2 L 0 801b2666 a640 1-Hit Boss Death (1st Level)
+
+R I 2 L 0 801ba492 a660 1-Hit Boss Death (1st Level)
+
+R I 2 L 0 80073060 0 Press Select For Auto Reset
+
+R I 2 L 0 80073fae ffff Invisible Weapons And Shields
+
+R I 2 L 0 80074c08 f Throw Out More Weapons
+
+R I 2 L 0 80074d80 f Throw Out More Weapons
+
+R I 2 L 0 80074ef8 f Throw Out More Weapons
+
+R I 1 L 0 80074d50 40 Holy Water Flame Height Modifier
+
+R I 1 L 0 80074ec8 40 Holy Water Flame Height Modifier
+
+R I 1 L 0 80075040 40 Holy Water Flame Height Modifier
+
+R I 1 L 0 800751b8 40 Holy Water Flame Height Modifier (Part 2)
+
+R I 1 L 0 80075330 40 Holy Water Flame Height Modifier (Part 2)
+
+R I 1 L 0 800754a8 40 Holy Water Flame Height Modifier (Part 2)
+
+R I 1 L 0 80075620 40 Holy Water Flame Height Modifier (Part 2)
+
+R I 1 L 0 80074ec5 1 Holy Water Flames Last Longer
+
+R I 1 L 0 800751b5 1 Holy Water Flames Last Longer
+
+R I 1 L 0 800754a5 1 Holy Water Flames Last Longer
+
+R I 1 L 0 800733f0 10 Transparent Alucard
+
+R I 2 L 0 80074bd4 5 Stopwatch Timer Doesn't Decrease
+
+R I 2 L 0 8007413c 1 Hellfire Has Greater Spread Pattern
+
+R I 2 L 0 800741f8 1 Hellfire Has Greater Spread Pattern
+
+R I 2 L 0 80074126 be Hellfire Color Modifier
+
+R I 2 L 0 8007406a be Hellfire Color Modifier
+
+R I 2 L 0 800741e2 be Hellfire Color Modifier
+
+R I 2 L 0 8007569c ffff Kill All Enemies In The Screen
+
+R I 2 L 0 800756c6 2 Kill All Enemies In The Screen
+
+R I 2 L 0 80075698 82 Kill All Enemies In The Screen
+
+R I 2 L 0 80075698 0 Kill All Enemies In The Screen
+
+R I 2 L 0 8007407a 0 Pause Attack Affect
+
+R I 2 L 0 8007407a 1 Pause Attack Affect
+
+R I 2 L 0 80139850 e79 Have Godlike Protection
+
+R I 2 L 0 80072f01 0 Have Godlike Protection
+
+R I 2 L 0 8013983c e79 Have Godlike Protection
+
+R I 2 L 0 80139844 e79 Have Godlike Protection
+
+R I 2 L 0 8013984c e79 Have Godlike Protection
+
+R I 2 L 0 80139854 e79 Have Godlike Protection
+
+R I 2 L 0 80072f02 0 Have Godlike Protection
+
+R I 2 L 0 80139840 e79 Have Godlike Protection
+
+R I 2 L 0 800730b0 be Castle Map Position Modifier - Horizontal
+
+R I 2 L 0 800730b4 0 Castle Map Position Modifier - Vertical
+
+R I 2 L 0 80073060 0 Press L2 And Select To Reset Treasures And Bosses (New Game +)
+
+R I 2 L 0 80073414 ffff Pick Up Item Modifier
+
+R I 2 L 0 80072f01 0 Resistence To Poison
+
+R I 2 L 0 80073488 0 No Shadow
+
+R I 2 L 0 8007348e 0 No Shadow (Alternate)
+
+R I 2 L 0 800734a8 0 Crazy Shadow Facing Right
+
+R I 2 L 0 800734ae 0 Crazy Shadow Facing Right (Alternate)
+
+R I 2 L 0 8004a386 2e Corners of The Highlighting Red Rectangle Stay Lit And Connect From The Sides To The Current Position
+
+R I 2 L 0 8004a38e 2e Corners of The Highlighting Red Rectangle Stay Lit And Connect From The Sides To The Current Position
+
+R I 2 L 0 80061b7a 2e Corners of The Highlighting Red Rectangle Stay Lit And Connect From The Sides To The Current Position
+
+R I 2 L 0 80061b82 2e Corners of The Highlighting Red Rectangle Stay Lit And Connect From The Sides To The Current Position
+
+R I 4 L 0 8000000a 0 Using Some Codes Below With "GS" Lite(tm) Note
+
+R I 2 L 0 8003c9a4 1 Super Jump Doesn't Crash Game (See Note - Fixes "GS" Lite Problems)
+
+R I 2 L 0 8003c9a4 1 Air Dash Doesn't Crash Game (See Note - Fixes "GS" Lite Problems)
+
+R I 2 L 0 8003c9a4 1 Holy Cross And Axe Item Crash Don't Crash Game (See Note - Fixes "GS" Lite Problems)
+
+R I 2 L 0 8003c9a4 1 Running Doesn't Crash Game (See Above Note - Fixes "GS" Lite Problems)
+
+R I 2 L 0 80139a70 0 Turn Off Music (Hold Circle) (See Note)
+
+R I 2 L 0 80097964 0 Can Collect Relics
+
+R I 2 L 0 80097966 0 Can Collect Relics
+
+R I 2 L 0 80097968 0 Can Collect Relics
+
+R I 2 L 0 8009796a 0 Can Collect Relics
+
+R I 2 L 0 8009796c 0 Can Collect Relics
+
+R I 2 L 0 8009796e 0 Can Collect Relics
+
+R I 2 L 0 80097970 0 Can Collect Relics
+
+R I 2 L 0 80097972 0 Can Collect Relics
+
+R I 1 L 0 80097974 0 Can Collect Relics
+
+R I 2 L 0 80097976 0 Can Collect Relics
+
+R I 2 L 0 80097978 0 Can Collect Relics
+
+R I 2 L 0 8009797a 0 Can Collect Relics
+
+R I 2 L 0 8009797c 0 Can Collect Relics
+
+R I 2 L 0 8009797e 0 Can Collect Relics
+
+R I 2 L 0 80097980 0 Can Collect Relics
+
+R I 2 L 0 80097c0c e Can Break Spikes
+
+R I 2 L 0 80097974 303 Can Summon The Ferryman
+
+R I 2 L 0 80097c14 48 Can Enter Room Under Clockroom (Marble Gallery)
+
+R I 2 L 0 80097c18 49 Can Enter Room Under Clockroom (Marble Gallery)
+
+R I 1 L 0 8009796f 1 Enemy Damage Display
+
+R I 1 L 0 8009797e 1 Enemy Name Display
+
+R I 2 L 0 80073424 55e8 Stretchy Whip
+
+R I 2 L 0 80073424 55e8 Stretchy Whip
+
+R I 2 L 0 80072f20 1 Walk In Air (Press Down+Circle To Get Down)
+
+R I 2 L 0 80072f20 0 Walk In Air (Press Down+Circle To Get Down)
+
+R I 2 L 0 80073fc8 100 Always Have Flame Whip
+
+R I 2 L 0 80074084 101 Always Have Flame Whip
+
+R I 2 L 0 80074140 102 Always Have Flame Whip
+
+R I 2 L 0 800741fc 103 Always Have Flame Whip
+
+R I 2 L 0 800742b8 104 Always Have Flame Whip
+
+R I 2 L 0 80074374 105 Always Have Flame Whip
+
+R I 2 L 0 80074430 106 Always Have Flame Whip
+
+R I 2 L 0 800744ec 107 Always Have Flame Whip
+
+R I 2 L 0 800745a8 108 Always Have Flame Whip
+
+R I 2 L 0 80074664 109 Always Have Flame Whip
+
+R I 2 L 0 80074720 10a Always Have Flame Whip
+
+R I 2 L 0 800747dc 10b Always Have Flame Whip
+
+R I 2 L 0 80074898 10c Always Have Flame Whip
+
+R I 2 L 0 8003cafc 0 Sound Mode Modifier
+
+R I 2 L 0 80181104 1 Open Trap Door In Entrance (Not Inverted)
+
+R I 2 L 0 80072f1c 10 Enemies Take Damage When Touched
+
+R I 2 L 0 80073418 1 Enemies Take Damage When Touched
+
+R I 4 L 0 800074b9 ffff Special Weapon Max Damage
+
+R I 2 L 0 80074bd4 99 Infinite Stop Watch Time
+
+R I 2 L 0 80097914 0 Toggle Walls On And Off (Press Up+L2 To Turn On, Down+L2 To Turn Off)
+
+R I 2 L 0 80097914 f Toggle Walls On And Off (Press Up+L2 To Turn On, Down+L2 To Turn Off)
+
+R I 2 L 0 8007309c 0 Character Behind Walls (Press R1 On Controller 2)
+
+R I 2 L 0 8007309c f0 Background In Front (Press L1 On Controller 2)
+
+R I 2 L 0 80097be8 1 Level 1
+
+R I 2 L 0 80097bec 0 Level 1
+
+R I 2 L 0 80097bee 0 Level 1
+
+R I 2 L 0 80073fbe 41 Instant Death (Press Select+Start)
+
+R I 2 L 0 800733ee 8163 Chameleon Palette
+
+R I 2 L 0 8003c9a4 0 Teleport To Level Entrance (Press L2+Left)
+
+R I 2 L 0 80138458 93 Special Game Over Dialogue (Succubus Battle)
+
+R I 2 L 0 80138458 dc Special Game Over Dialogue 1 (Richter Battle)
+
+R I 2 L 0 80138458 dd Special Game Over Dialogue 2 (Richter Battle)
+
+R I 2 L 0 80138458 de Special Game Over Dialogue 3 (Richter Battle)
+
+R I 2 L 0 80138458 d9 Change Evil Richter's Taunt
+
+R I 2 L 0 800769a4 0 Bibuti Candles Replaced With ??? Modifier
+
+R I 2 L 0 8003ca90 7dd Maria In Clock Room No Dialogue (Marble Gallery)
+
+R I 2 L 0 80073404 0 Various Things Modifier
+
+R I 2 L 0 80138458 0 Music Modifier
+
+R I 2 L 0 8003ca30 0 Can Fight Doppleganger10
+
+R I 2 L 0 8003ca32 0 Can Fight Doppleganger10
+
+R I 2 L 0 8003ca50 0 Can Fight Karasuman
+
+R I 2 L 0 8003ca52 0 Can Fight Karasuman
+
+R I 2 L 0 8003ca5c 0 Can Fight Cerberus
+
+R I 2 L 0 8003ca5e 0 Can Fight Cerberus
+
+R I 2 L 0 8003ca2c 0 Can Fight Olrox
+
+R I 2 L 0 8003ca2e 0 Can Fight Olrox
+
+R I 2 L 0 8003ca34 0 Can Fight Granfaloon
+
+R I 2 L 0 8003ca36 0 Can Fight Granfaloon
+
+R I 2 L 0 8003ca6c 0 Can Fight Lesser Demon
+
+R I 2 L 0 8003ca6e 0 Can Fight Lesser Demon
+
+R I 2 L 0 8003ca3c 0 Can Fight Scylla
+
+R I 2 L 0 8003ca3e 0 Can Fight Scylla
+
+R I 2 L 0 8003beae 0 Can Fight Scylla
+
+R I 2 L 0 8003be70 0 Can Fight Slogra & Gaibon
+
+R I 2 L 0 8003ca40 0 Can Fight Slogra & Gaibon
+
+R I 2 L 0 8003ca42 0 Can Fight Slogra & Gaibon
+
+R I 2 L 0 801812cc 0 Can Fight Slogra & Gaibon (Entrance)
+
+R I 2 L 0 8003be24 0 Can Fight Slogra & Gaibon (Entrance)
+
+R I 2 L 0 8003ca4c 0 Can Fight Succubus
+
+R I 2 L 0 8003ca4e 0 Can Fight Succubus
+
+R I 2 L 0 8003bec0 0 Can Fight Succubus (With Dialogue)
+
+R I 2 L 0 8003bec2 0 Can Fight Succubus (With Dialogue)
+
+R I 2 L 0 8003be80 101 Can Fight Succubus (No Dialogue)
+
+R I 2 L 0 8003ca38 0 Can Fight Minotaur
+
+R I 2 L 0 8003ca3a 0 Can Fight Minotaur
+
+R I 2 L 0 8003bea0 0 Can Fight Minotaur (With Dialogue)
+
+R I 2 L 0 8003bea2 0 Can Fight Minotaur (With Dialogue)
+
+R I 2 L 0 8003bea2 1 Can Fight Minotaur (No Dialogue)
+
+R I 2 L 0 8003ca44 0 Can Fight Hippogryph
+
+R I 2 L 0 8003ca46 0 Can Fight Hippogryph
+
+R I 2 L 0 8003be4e 0 Can Fight Hippogryph (With Dialogue)
+
+R I 2 L 0 8003be50 0 Can Fight Hippogryph (With Dialogue)
+
+R I 2 L 0 8003be4e 1 Can Fight Hippogryph (No Dialogue)
+
+R I 2 L 0 8003ca60 0 Can Fight Richter (See Note)
+
+R I 2 L 0 8003ca62 0 Can Fight Richter (See Note)
+
+R I 2 L 0 8003be80 0 Can Fight Richter (With Dialogue)
+
+R I 2 L 0 8003be82 0 Can Fight Richter (With Dialogue)
+
+R I 2 L 0 8003be80 0 Can Fight Richter (No Dialogue)
+
+R I 2 L 0 8003ca78 0 Can Fight Darkwing Bat
+
+R I 2 L 0 8003ca7a 0 Can Fight Darkwing Bat
+
+R I 2 L 0 8003ca74 0 Can Fight Akmodan II
+
+R I 2 L 0 8003ca76 0 Can Fight Akmodan II
+
+R I 2 L 0 8003ca64 0 Can Fight Medusa
+
+R I 2 L 0 8003ca66 0 Can Fight Medusa
+
+R I 2 L 0 8003ca68 0 Can Fight The Creature
+
+R I 2 L 0 8003ca6a 0 Can Fight The Creature
+
+R I 2 L 0 8003ca70 0 Can Fight Doppleganger 40
+
+R I 2 L 0 8003ca72 0 Can Fight Doppleganger 40
+
+R I 2 L 0 8003ca48 0 Can Fight Beezlebub
+
+R I 2 L 0 8003ca4a 0 Can Fight Beezlebub
+
+R I 2 L 0 8003ca54 0 Can Fight Fake Trevor/Grant/Sypha
+
+R I 2 L 0 8003ca56 0 Can Fight Fake Trevor/Grant/Sypha
+
+R I 2 L 0 8003ca7c 0 Can Fight Galamoth
+
+R I 2 L 0 8003ca7e 0 Can Fight Galamoth
+
+R I 2 L 0 8003ca58 0 Can Fight Death
+
+R I 2 L 0 8003ca5a 0 Can Fight Death
+
+R I 2 L 0 8003bec8 0 Can Fight Death (With Dialogue)
+
+R I 2 L 0 8003beca 0 Can Fight Death (With Dialogue)
+
+R I 2 L 0 8003bec8 1 Can Fight Death (No Dialogue)
+
+R I 2 L 0 80137ffc 1f Infinite Wing Smash Time
+
+R I 2 L 0 80097c40 657c Muramasa Attack Power Max (Alternate Code)
+
+R I 2 L 0 80097c42 2 Muramasa Attack Power Max (Alternate Code)
+
+R I 2 L 0 80073708 ffff Familiar Max Damage
+
+R I 2 L 0 80139a70 0 Turn Off Music (Hold Triangle)
+
+R I 2 L 0 80073404 5 Manbat Alucard (Press Up+Triangle+X)
+
+R I 2 L 0 80073fbe 41 Teleport To Long Library (Press L2+Right)
+
+R I 2 L 0 80072f20 1 Walk In Air (Press Down+Triangle To Get Down)
+
+R I 2 L 0 80072f20 0 Walk In Air (Press Down+Triangle To Get Down)
+
+R I 2 L 0 800737b0 2 Control Alucard In Ending (Press Down To Stop)
+
+R I 2 L 0 80073798 0 Control Alucard In Ending (Press Down To Stop)
+
+R I 2 L 0 800737b0 6 Control Alucard In Ending (Press Down To Stop)
+
+R I 2 L 0 80073798 1 Control Alucard In Ending (Press Down To Stop)
+
+R I 2 L 0 800737b0 3 Control Alucard In Ending (Press Down To Stop)
+
+R I 2 L 0 80097914 0 Can Control Character In Boss Tactics (Press R1+R2 For Manual Control, R1+Circle For Auto Control, L1+L2 To Return To Library)
+
+R I 2 L 0 80097914 4 Can Control Character In Boss Tactics (Press R1+R2 For Manual Control, R1+Circle For Auto Control, L1+L2 To Return To Library)
+
+R I 2 L 0 80097914 3 Can Control Character In Boss Tactics (Press R1+R2 For Manual Control, R1+Circle For Auto Control, L1+L2 To Return To Library)
+
+R I 2 L 0 80138472 f Clanging Library Shop Music
+
+R I 2 L 0 8013848c f01 Clanging Library Shop Music
+
+R I 2 L 0 800978b0 0 Library Shop Music Off
+
+R I 2 L 0 801384e8 0 Fast Library Shop Music
+
+R I 2 L 0 800736f0 738c Pixie Familiar Sings Nocturne (Long Library Only)
+
+R I 2 L 0 80138458 3f Pixie Familiar Sings Nocturne (Long Library Only)
+
+R I 2 L 0 800dfd5c 4930 Pixie Familiar Name Fix
+
+R I 2 L 0 800dfd5e 4958 Pixie Familiar Name Fix
+
+R I 2 L 0 800dfd60 ff45 Pixie Familiar Name Fix
+
+R I 2 L 0 800dfd54 2e Nose Devil Familiar Name Fix
+
+R I 2 L 0 800dfd56 5624 Nose Devil Familiar Name Fix
+
+R I 2 L 0 800dfd58 4c49 Nose Devil Familiar Name Fix
+
+R I 2 L 0 800dfd5a ff Nose Devil Familiar Name Fix
+
+R I 2 L 0 80097c84 ffff Quick Level Up Pixie Familiar
+
+R I 2 L 0 80097c90 ffff Quick Level Up Nose Devil Familiar
+
+R I 2 L 0 80138458 0 Marble Gallery
+
+R I 2 L 0 80138458 0 Outer Wall
+
+R I 2 L 0 80138458 0 Long Library
+
+R I 2 L 0 80138458 0 Catacombs
+
+R I 2 L 0 80138458 0 Olrox's Quarters
+
+R I 2 L 0 80138458 0 Abandoned Mine
+
+R I 2 L 0 80138458 0 Royal Chapel
+
+R I 2 L 0 80138458 0 Castle Entrance
+
+R I 2 L 0 80138458 0 Underground Caverns
+
+R I 2 L 0 80138458 0 Collseum
+
+R I 2 L 0 80138458 0 Castle Keep
+
+R I 2 L 0 80138458 0 Alchemy Laboratory
+
+R I 2 L 0 80138458 0 Clock Tower
+
+R I 2 L 0 80138458 0 Lower Clockroom (Normal And Inverted)
+
+R I 2 L 0 80138458 0 Black Marble Gallery
+
+R I 2 L 0 80138458 0 Reverse Outer Wall
+
+R I 2 L 0 80138458 0 Forbidden Library
+
+R I 2 L 0 80138458 0 Floating Catacombs
+
+R I 2 L 0 80138458 0 Deathwing's Lair
+
+R I 2 L 0 80138458 0 Reverse Mine
+
+R I 2 L 0 80138458 0 Anti Chapel
+
+R I 2 L 0 80138458 0 Reverse Entrance
+
+R I 2 L 0 80138458 0 Reverse Lower Clockroom
+
+R I 2 L 0 80138458 0 Cave
+
+R I 2 L 0 80138458 0 Reverse Collseum
+
+R I 2 L 0 80138458 0 Reverse Castle Keep
+
+R I 2 L 0 80138458 0 Necromancy Laboratory
+
+R I 2 L 0 80138458 0 Reverse Clock Tower
+
+R I 2 L 0 80138458 0 Bloodlines: Final Level
+
+R I 2 L 0 80138458 0 File Select Screen
+
+R I 2 L 0 80138458 0 Prologue
+
+R I 2 L 0 80138458 0 Credits
+
+R I 2 L 0 8018173e 0 1st Position
+
+R I 2 L 0 80181740 0 1st Position
+
+R I 2 L 0 80181742 0 1st Position
+
+R I 2 L 0 80181746 0 2nd Position
+
+R I 2 L 0 80181748 0 2nd Position
+
+R I 2 L 0 8018174a 0 2nd Position
+
+R I 2 L 0 8018174e 0 3rd Position
+
+R I 2 L 0 80181750 0 3rd Position
+
+R I 2 L 0 80181752 0 3rd Position
+
+R I 2 L 0 80181756 0 4th Position
+
+R I 2 L 0 80181758 0 4th Position
+
+R I 2 L 0 8018175a 0 4th Position
+
+R I 2 L 0 8018175e 0 5th Position
+
+R I 2 L 0 80181760 0 5th Position
+
+R I 2 L 0 80181762 0 5th Position
+
+R I 2 L 0 80181766 0 6th Position
+
+R I 2 L 0 80181768 0 6th Position
+
+R I 2 L 0 8018176a 0 6th Position
+
+R I 2 L 0 8018176e 0 7th Position
+
+R I 2 L 0 80181770 0 7th Position
+
+R I 2 L 0 80181772 0 7th Position
+
+R I 2 L 0 80181776 0 8th Position
+
+R I 2 L 0 80181778 0 8th Position
+
+R I 2 L 0 8018177a 0 8th Position
+
+R I 2 L 0 8018177e 0 9th Position
+
+R I 2 L 0 80181780 0 9th Position
+
+R I 2 L 0 80181782 0 9th Position
+
+R I 2 L 0 80181786 0 10th Position
+
+R I 2 L 0 80181788 0 10th Position
+
+R I 2 L 0 8018178a 0 10th Position
+
+R I 2 L 0 8018178e 0 11th Position
+
+R I 2 L 0 80181790 0 11th Position
+
+R I 2 L 0 80181792 0 11th Position
+
+R I 2 L 0 80181796 0 12th Position
+
+R I 2 L 0 80181798 0 12th Position
+
+R I 2 L 0 8018179a 0 12th Position
+
+R I 2 L 0 8018179e 0 13th Position
+
+R I 2 L 0 801817a0 0 13th Position
+
+R I 2 L 0 801817a2 0 13th Position
+
+R I 2 L 0 801817a6 0 14th Position
+
+R I 2 L 0 801817a8 0 14th Position
+
+R I 2 L 0 801817aa 0 14th Position
+
+R I 2 L 0 801817ae 0 15th Position
+
+R I 2 L 0 801817b0 0 15th Position
+
+R I 2 L 0 801817b2 0 15th Position
+
+R I 2 L 0 801817b6 0 16th Position
+
+R I 2 L 0 801817b8 0 16th Position
+
+R I 2 L 0 801817ba 0 16th Position
+
+R I 2 L 0 801817be 0 17th Position
+
+R I 2 L 0 801817c0 0 17th Position
+
+R I 2 L 0 801817c2 0 17th Position
+
+R I 2 L 0 801817c6 0 18th Position
+
+R I 2 L 0 801817c8 0 18th Position
+
+R I 2 L 0 801817ca 0 18th Position
+
+R I 2 L 0 801817ce 0 19th Position
+
+R I 2 L 0 801817d0 0 19th Position
+
+R I 2 L 0 801817d2 0 19th Position
+
+R I 2 L 0 801817d6 0 20th Position
+
+R I 2 L 0 801817d8 0 20th Position
+
+R I 2 L 0 801817da 0 20th Position
+
+R I 2 L 0 801817de 0 21st Position
+
+R I 2 L 0 801817e0 0 21st Position
+
+R I 2 L 0 801817e2 0 21st Position
+
+R I 2 L 0 800ff422 2631 1 Hit Kill ASM (Most Enemies)
+
+R I 2 L 0 800fedf2 2400 Infinite Health (ASM)
+
+R I 2 L 0 800fedf6 2400 Infinite Health (ASM)
+
+R I 2 L 0 800fd504 0 Can Refight Any Boss (ASM) (L1&R1=ON / L2&R2=OFF)
+
+R I 2 L 0 800fd506 3c02 Can Refight Any Boss (ASM) (L1&R1=ON / L2&R2=OFF)
+
+R I 2 L 0 800fd504 ca28 Can Refight Any Boss (ASM) (L1&R1=ON / L2&R2=OFF)
+
+R I 2 L 0 800fd506 8c22 Can Refight Any Boss (ASM) (L1&R1=ON / L2&R2=OFF)
+
+R I 2 L 0 801547f0 0 Damage Modifier (Slide)
+
+R I 2 L 0 80154854 0 Damage Modifier (Slide Kick)
+
+R I 2 L 0 801547a0 0 Damage Modifier (Whip/Flame Whip)
+
+R I 2 L 0 80154840 0 Damage Modifier (Knife Jump (D,U+Attack))
+
+R I 2 L 0 801547dc 0 Damage Modifier (Special Whip Attack (U,D,F+Attack))
+
+R I 2 L 0 8015473c 0 Damage Modifier (Lightning Ring)
+
+R I 2 L 0 80154890 0 Damage Modifier (Lightning Ring Crash)
+
+R I 2 L 0 8015487c 0 Damage Modifier (Bouncy Stone Crash)
+
+R I 2 L 0 8015478c 0 Damage Modifier (Cross Crash)
+
+R I 2 L 0 80154764 0 Damage Modifier (Holy Water)
+
+R I 2 L 0 80154728 0 Damage Modifier (Salt)
+
+R I 2 L 0 801b362e 0 Infinite Gold (ASM)
+
+R I 2 L 0 800ffd60 42 Have All Items & All Relics & All Familiars
+
+R I 2 L 0 8010044e a044 Have All Items & All Relics & All Familiars
+
+R I 2 L 0 8010046e a044 Have All Items & All Relics & All Familiars

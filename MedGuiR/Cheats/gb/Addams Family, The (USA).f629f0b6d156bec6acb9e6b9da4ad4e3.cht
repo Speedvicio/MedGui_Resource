@@ -1,0 +1,36 @@
+[f629f0b6d156bec6acb9e6b9da4ad4e3] Addams Family, The (USA)
+R I 1 L 0 c0cb 2 Invincibility
+
+R I 1 L 0 c0ca 1 Invincibility - Alternate
+
+R I 1 L 0 c1fa 3f Infinite Weapon
+
+R I 1 L 0 c068 1f Infinite Energy
+
+R I 1 L 0 c065 5 Infinite Lives
+
+C I 1 L 0 1f35 be 35 Infinite Energy
+
+C I 1 L 0 5dce be 35 Infinite Lives
+
+C I 1 L 0 7868 be 35 Infinite Weapon
+
+C I 1 L 0 4ada be ea Invincibility
+
+C I 1 L 0 9d7 c9 ea Invincibility
+
+S I 1 L 0 1f35 1c Infinite Health
+
+S I 1 L 0 7868 0 Infinite Ammo
+
+S I 1 L 0 5dd0 0 Infinite Lives
+
+R I 1 L 0 ee23 20 Unbesiegbar
+
+R I 1 L 0 81d9 20 Unbesiegbar
+
+C I 1 L 0 49fd 0 8 Hit Anywhere
+
+C I 1 L 0 183 fa cd Skip Intro Screens
+
+R I 1 L 0 c067 2f Oxygen doesn't run out

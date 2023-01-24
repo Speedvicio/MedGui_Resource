@@ -1,0 +1,176 @@
+[] Tekken 2 (NTSC-U)
+R I 2 L 0 801ed1d4 1a20 Have all characters
+
+R I 2 L 0 801ed1d6 142a Have all characters
+
+R I 2 L 0 801ed1d8 1e22 Have all characters
+
+R I 2 L 0 801ed1da 1816 Have all characters
+
+R I 2 L 0 801ed1dc 281c Have all characters
+
+R I 2 L 0 801ed1de 102c Have all characters
+
+R I 1 L 0 801ed1e0 2e Have all characters
+
+R I 2 L 0 801ed1e8 19 Have all characters
+
+R I 2 L 0 80062fe6 2400 Hit Anywhere Both Players
+
+R I 2 L 0 800d09ea 6e Infinite Health P1
+
+R I 2 L 0 800d09e8 0 No Health P1
+
+R I 2 L 0 800d09ea 1 1 Hit Death P1
+
+R I 2 L 0 800d083c 2 P1 Only Needs To Win 1 Round
+
+R I 2 L 0 800d1bf2 6e Infinite Health P2
+
+R I 2 L 0 800d1bf2 0 No Health P2
+
+R I 2 L 0 800d1bf2 1 1 Hit Death P2
+
+R I 2 L 0 800d1a44 2 P2 Only Needs To Win 1 Rounds
+
+R I 2 L 0 800a3630 ffff Have All 26 Players
+
+R I 2 L 0 800a3632 ff Have All 26 Players
+
+R I 2 L 0 800cac4a 36 Infinite Time
+
+R I 2 L 0 800cae12 36 Infinite Time
+
+R I 2 L 0 800cc072 36 Infinite Time
+
+R I 2 L 0 800cc09a 36 Infinite Time
+
+R I 2 L 0 800cc262 36 Infinite Time
+
+R I 2 L 0 800d2c1c 90e Infinite Time
+
+R I 2 L 0 801ed1c0 449 Infinite Time to Pick Character
+
+R I 2 L 0 800d083c 0 P1 Set Win Marker Modifier
+
+R I 2 L 0 800d1a44 0 P2 Set Win Marker Modifier
+
+R I 2 L 0 800d1a22 1 P2 Has Disappeared
+
+R I 2 L 0 800d644c 0 Elapsed Timer Always 00'00'01
+
+R I 2 L 0 800d5130 0 Survival Mode Win Counter Modifier
+
+R I 2 L 0 801ed1d4 1a20 Extra Characters
+
+R I 2 L 0 801ed1d6 142a Extra Characters
+
+R I 2 L 0 801ed1d8 1e22 Extra Characters
+
+R I 2 L 0 801ed1da 1816 Extra Characters
+
+R I 2 L 0 801ed1dc 281c Extra Characters
+
+R I 2 L 0 801ed1e8 16 Extra Characters
+
+R I 2 L 0 801ed250 16 Extra Characters
+
+R I 2 L 0 800d081a 1 P1 Disappears (Push SELECT And UP)
+
+R I 2 L 0 800d081a 0 P1 Reappears (Push SELECT And DOWN
+
+R I 2 L 0 800d07f8 100 P2 Is Computer Controlled (Not In Practice)
+
+R I 2 L 0 800c6422 be P1 Motion Code
+
+R I 1 L 0 800c6423 0 P2 Motion Code (See Above Note)
+
+R I 2 L 0 801ed1d4 1a20 Extra Characters (Fixed)
+
+R I 2 L 0 801ed1d6 142a Extra Characters (Fixed)
+
+R I 2 L 0 801ed1d8 1e22 Extra Characters (Fixed)
+
+R I 2 L 0 801ed1da 1816 Extra Characters (Fixed)
+
+R I 2 L 0 801ed1dc 281c Extra Characters (Fixed)
+
+R I 2 L 0 801ed1de 102c Extra Characters (Fixed)
+
+R I 1 L 0 801ed1e0 2e Extra Characters (Fixed)
+
+R I 2 L 0 801ed1e8 19 Extra Characters (Fixed)
+
+R I 2 L 0 8008d512 2400 Disable "Namco Presents" Text
+
+R I 2 L 0 80061376 2400 Disable "Round #" Text
+
+R I 2 L 0 800613aa 2400 Disable "Ready?" Text
+
+R I 2 L 0 8006cec2 2400 Disable "Replay" Text
+
+R I 2 L 0 8008af8a 2400 Disable "Free Play"/"Credit 0" Text
+
+R I 2 L 0 8009384a 2400 Disable "Game Over" Text (Attract Mode)
+
+R I 2 L 0 801eb7c6 2400 Players Can Select Same Character (Arcade Mode)
+
+R I 2 L 0 8008f8ea 2400 Players Can Select Same Character (VS Mode)
+
+R I 2 L 0 8008f932 2400 Players Can Select Same Character (Team Battle Mode)
+
+R I 2 L 0 801eba36 2400 Players Can Select Same Character (Practice Mode)
+
+R I 1 L 0 800c44fc 0 Disable Camera Switch (Throws)
+
+R I 1 L 0 800c4500 0 Disable Camera Switch (Throws)
+
+R I 1 L 0 800d2c24 0 Background Modifier
+
+R I 2 L 0 8006eabc 0 Skin Modifier (Both Players)
+
+R I 2 L 0 8006eabe 2405 Skin Modifier (Both Players)
+
+R I 2 L 0 8006eac0 0 Move Modifier (Both Players)
+
+R I 2 L 0 8006eac2 2406 Move Modifier (Both Players)
+
+R I 1 L 0 800d2c44 18 P1 Skin/Move Modifier
+
+R I 1 L 0 8009ff68 0 P1 Skin/Move Modifier
+
+R I 1 L 0 8009ff70 18 P1 Skin/Move Modifier
+
+R I 1 L 0 8009ff7c 0 P1 Skin/Move Modifier
+
+R I 1 L 0 800d2c45 18 P2 Skin/Move Modifier
+
+R I 1 L 0 8009ff68 0 P2 Skin/Move Modifier
+
+R I 1 L 0 8009ff70 18 P2 Skin/Move Modifier
+
+R I 1 L 0 8009ff7c 0 P2 Skin/Move Modifier
+
+R I 1 L 0 800d643a 0 P1 BGM Modifier
+
+R I 1 L 0 800d643b 0 P2 BGM Modifier
+
+R I 1 L 0 800d2c4c 0 P1 Costume Modifier
+
+R I 1 L 0 800d2c4d 0 P2 Costume Modifier
+
+R I 1 L 0 800d2c49 1 P1 Big Head Mode
+
+R I 1 L 0 800d2c4b 1 P2 Big Head Mode
+
+R I 1 L 0 800d08a3 0 P1 Voice Modifier
+
+R I 1 L 0 800d1aab 0 P2 Voice Modifier
+
+R I 1 L 0 800d09f6 0 P1 Control Modifier
+
+R I 1 L 0 800d1bfe 0 P2 Control Modifier
+
+R I 2 L 0 800d0856 2000 P1 Invulnerable
+
+R I 2 L 0 800d1a5e 2000 P2 Invulnerable

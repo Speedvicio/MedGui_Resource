@@ -1,0 +1,112 @@
+[] Addams Family, The (USA, Europe)
+S I 2 L 0 7ec20 4e71 Infinite lives
+
+S I 2 L 0 789b4 1 Start With 1 Life Iin a New Game Instead of 5
+
+S I 2 L 0 789b4 10 Start With 10 Lives (New Game)
+
+S I 2 L 0 789b4 50 Start With 50 Lives (New game)
+
+S I 2 L 0 789b4 99 Start With 99 Lives (New game)
+
+S I 2 L 0 84918 1 Start With 1 Life After Using a Continue Instead of 5
+
+S I 2 L 0 84918 10 Start With 10 Lives After Using a Continue
+
+S I 2 L 0 84918 50 Start with 50 lives after using a continue
+
+S I 2 L 0 84918 99 Start with 99 lives after using a continue
+
+S I 2 L 0 7e018 1 Extra life every 10,000 pts. instead of 50,000
+
+S I 2 L 0 7e018 10 Extra life every 100,000 pts.
+
+S I 2 L 0 7e018 25 Extra life every 250,000 pts.
+
+S I 2 L 0 7f442 0 Finding a 1-UP gives you 0 more lives
+
+S I 2 L 0 7f442 5 Finding a 1-UP gives you 5 more lives
+
+S I 2 L 0 78a20 1 Start With 1 Heart For The First Life Instead of 2
+
+S I 2 L 0 78a20 3 Start With 3 hearts (1st Life)
+
+S I 2 L 0 78a20 5 Start With 5 Hearts (1st Life)
+
+S I 2 L 0 78a18 1 Start with max hearts at 1 instead of 2
+
+S I 2 L 0 78a18 3 Start with max hearts at 3
+
+S I 2 L 0 78a18 5 Start with max hearts at 5
+
+S I 2 L 0 7eb90 6006 Invincible!
+
+S I 2 L 0 7f37a 5 Heart Replenished Every 5 Dollars Instead of 25
+
+S I 2 L 0 7f37a 50 Heart Replenished Every 50 Dollars
+
+S I 2 L 0 7f37a 99 Heart replenished every 99 dollars
+
+S I 2 L 0 7f4e0 14 Shields last 1/3x normal
+
+S I 2 L 0 7f4e0 1e Shields last 1/2x normal
+
+S I 2 L 0 7f4e0 78 Shields last 2x normal
+
+S I 2 L 0 7f4e0 b4 Shields last 3x normal
+
+S I 2 L 0 7e95e 6004 Shields last forever
+
+S I 2 L 0 7bb58 6006 Don&#039;t lose Fezi-copter when you die or change
+
+R I 2 L 0 ffa5d4 5 Infinite Lives
+
+R I 2 L 0 ffa5d6 2 Infinite Energy
+
+R I 2 L 0 ffc6a6 6b Invincibility
+
+R I 2 L 0 ffc612 1 Fly
+
+S I 2 L 0 7ec24 1f Infinite Lives
+
+S I 2 L 0 7eb92 1f Infinite Energy
+
+S I 2 L 0 7c164 6618 Invincibility
+
+S I 2 L 0 7ee02 1 Fly
+
+R I 2 L 0 ffa5d5 5 Infinite Lives
+
+R I 2 L 0 ffa5d6 2 Infinite Hearts  Hits
+
+R I 2 L 0 ffa5ce 99 Infinite/Max Money
+
+S I 2 L 0 7e9c6 6018 Walks On Air
+
+S I 2 L 0 7ee56 6002 Infinite Controllable Jump
+
+S I 2 L 0 7ee38 6002 Infinite Controllable Jump
+
+S I 2 L 0 7ebae 6002 Keep Weapon Balls After Touching Enemies
+
+S I 2 L 0 80172 4e75 Invincibility (Disable Hit Detection)
+
+S I 2 L 0 7eb32 4e75 Invincibility (Disable Hit Detection)
+
+S I 2 L 0 7eba8 6004 Keep Weapon Court Sword After Touching Enemies
+
+R I 2 L 0 ffc6c0 1 Keep Weapon Balls After Touching Enemies
+
+R I 2 L 0 ffc6be 1 Keep Weapon Court Sword After Touching Enemies
+
+S I 2 L 0 7eb9e 6004 Keep Speed Shoes After Touching Enemies
+
+S I 2 L 0 7eba4 6004 Keep Speed Shoes After Touching Enemies
+
+R I 2 L 0 ffc69e fff0 Infinite Controllable Jump
+
+S I 2 L 0 7eef4 4e71 Jump in mid-air (multi-jump)
+
+S I 2 L 0 7ee7c 5179 Jump higher
+
+S I 2 L 0 800c2 600e Kill enemies that walk/move on the ground just by touching them (you normally have to jump on them to kill them)

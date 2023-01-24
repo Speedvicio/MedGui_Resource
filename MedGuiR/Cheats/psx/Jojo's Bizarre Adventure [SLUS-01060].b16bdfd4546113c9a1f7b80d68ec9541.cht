@@ -1,0 +1,96 @@
+[] Jojo's Bizarre Adventure (NTSC-U)
+R I 1 L 0 800cde87 0 P1 Character Modifier
+
+R I 1 L 0 800ce217 0 P2 Character Modifier
+
+R I 2 L 0 80062acc 0 PAL2NTSC
+
+R I 2 L 0 80036b84 0 Y-Fix
+
+R I 2 L 0 800cdeba 90 Infinite health
+
+R I 2 L 0 800cdeba 1 Sudden Death
+
+R I 2 L 0 800cd3d2 50 Infinite stand
+
+R I 2 L 0 800cd3d2 0 No stand
+
+R I 1 L 0 800d08a2 9 Max super combo level
+
+R I 1 L 0 800d08a1 68 Infinite super combo gauge
+
+R I 1 L 0 800d08e7 0 Never loses
+
+R I 1 L 0 800d08a3 1 Starts with 1 round won
+
+R I 2 L 0 800ce24a 90 Infinite health
+
+R I 2 L 0 800ce24a 1 Sudden Death
+
+R I 2 L 0 800cd762 50 Infinite stand
+
+R I 2 L 0 800cd762 0 No stand
+
+R I 1 L 0 800d08e6 9 Max super combo level
+
+R I 1 L 0 800d08e5 68 Infinite super combo gauge
+
+R I 1 L 0 800d08a3 0 Never loses
+
+R I 1 L 0 800d08e7 1 Starts with 1 round won
+
+R I 2 L 0 800cdeba c8 P1 Infinite Health
+
+R I 2 L 0 800cdeba 32 P1 25% Health
+
+R I 2 L 0 800cdeba 64 P1 50% Health
+
+R I 2 L 0 800cdeba 96 P1 75% Health
+
+R I 2 L 0 800cdeba 1 P1 1-Hit Death
+
+R I 2 L 0 800cdeba 0 P1 No Health
+
+R I 2 L 0 800ce24a c8 P2 Infinite Health
+
+R I 2 L 0 800ce24a 32 P2 25% Health
+
+R I 2 L 0 800ce24a 64 P2 50% Health
+
+R I 2 L 0 800ce24a 96 P2 75% Health
+
+R I 2 L 0 800ce24a 1 P2 1-Hit Death
+
+R I 2 L 0 800ce24a 0 P2 No Health
+
+R I 2 L 0 800cd3d2 50 P1 Infinite Stand
+
+R I 2 L 0 800cd3d2 0 P1 No Stand
+
+R I 2 L 0 800cd762 50 P2 Infinite Stand
+
+R I 2 L 0 800cd762 0 P2 No Stand
+
+R I 1 L 0 800d08a2 a P1 Max Super Combo Level
+
+R I 1 L 0 800d08a1 6a P1 Infinite Super Combo Gauge
+
+R I 1 L 0 800d08e6 a P2 Max Super Combo Level
+
+R I 1 L 0 800d08e5 6a P2 Infinite Super Combo Gauge
+
+R I 1 L 0 8006d2e1 63 Infinite Timer
+
+R I 1 L 0 800d08a3 1 P1 Needs 1 Win To Win (Cheat Device 2.2 Or Higher Needed!)
+
+R I 1 L 0 800d08e7 1 P2 Needs 1 Win To Win (Cheat Device 2.2 Or Higher Needed!)
+
+R I 2 L 0 80066758 708 Max JoJo Ability Points
+
+R I 2 L 0 800ad0aa 2400 Infinite Health (Both Players)
+
+R I 2 L 0 800ad0ba 2400 Infinite Stand (Both Players)
+
+R I 2 L 0 800b27e0 6405 Infinite HP (Story Mode) (Cheat Device 2.2 Or Higher Needed!)
+
+R I 2 L 0 80066cc2 a Max Heart Score (Story Mode) (Cheat Device 2.2 Or Higher Needed!)

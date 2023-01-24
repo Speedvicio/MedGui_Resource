@@ -1,0 +1,158 @@
+[] Strider 2 (NTSC-U)
+R I 2 L 0 800d9de0 1 Skip Current Sub-Level
+
+R I 2 L 0 800d9e00 2400 Stop Timer
+
+R I 2 L 0 8007a7e8 0 Hyper Mode
+
+R I 1 L 0 800a8d59 1 Unlock Stage &quot;00&quot;
+
+R I 2 L 0 8008b754 e080 Disable ModuleCheck
+
+R I 1 L 0 8007b586 40 PAL2NTSC
+
+R I 2 L 0 80074710 0 Y-Fix
+
+R I 2 L 0 80181508 0 Infinite time to choose stage
+
+R I 2 L 0 8002c128 0 Infinite boost
+
+R I 2 L 0 8002c1d0 0 Infinite boost
+
+R I 2 L 0 800abcb2 4 Infinite health
+
+R I 2 L 0 800da06c d02c Start with high score
+
+R I 2 L 0 800da06e 160 Start with high score
+
+R I 2 L 0 800abb26 ffff Moonjump (Press R2 &amp; X)
+
+R I 2 L 0 800abda6 1 Strider Hien can use a infinite number of weapons
+
+R I 2 L 0 800abab8 2 Invulnerability
+
+R I 2 L 0 8003a8ec 0 Levitate
+
+R I 2 L 0 8003a8ee 2403 Levitate
+
+R I 2 L 0 8003a8ec e0ff Levitate
+
+R I 2 L 0 8003a8ec 1f00 Levitate
+
+R I 2 L 0 8003a8ee 62 Levitate
+
+R I 2 L 0 8003a8ec 1821 Levitate
+
+R I 2 L 0 8003a8ee 2403 Levitate
+
+R I 2 L 0 8003a8ee 2403 Levitate
+
+R I 2 L 0 8001cce4 0 On (Press select &amp; Up)
+
+R I 2 L 0 8001cce4 ffff Off (Press Select &amp; Down)
+
+R I 1 L 0 8007b228 0 On (Press L1)
+
+R I 1 L 0 8007b228 1 Off (Press R2)
+
+R I 2 L 0 8007a7e6 2800 On (Press L2)
+
+R I 2 L 0 8007a7e6 481 Off (Press R2)
+
+R I 2 L 0 800109e2 2800 On (Press Select &amp; Right)
+
+R I 2 L 0 800109e6 2800 On (Press Select &amp; Right)
+
+R I 2 L 0 800109e2 1642 Off (Press Select &amp; Left)
+
+R I 2 L 0 800109e6 2611 Off (Press Select &amp; Left)
+
+R I 1 L 0 800a8fd9 1 Enable Level 00
+
+R I 2 L 0 800da086 600 Enable All levels (Hiryu scenario)
+
+R I 2 L 0 800a8fda 1 Enable Strider Hien scenario
+
+R I 1 L 0 800a8fd8 1 Enable Infinite boost 
+
+R I 1 L 0 8002796a 40 PAL2NTSC
+
+R I 2 L 0 80022784 0 Y-Fix
+
+R I 1 L 0 80062f5f 1 Enable robot helper
+
+R I 1 L 0 800f7d34 0 Infinite lives P1 &amp; P2
+
+R I 1 L 0 800f7894 0 Invincible P1 &amp; P2
+
+R I 2 L 0 800f7896 0 Invincible P1 &amp; P2
+
+R I 2 L 0 8004db4a 0 Almost invulnerable
+
+R I 2 L 0 8004db4a 0 Almost invulnerable
+
+R I 2 L 0 8004d7fc 1 Unlock level select (Press Select at option menu)
+
+R I 2 L 0 8004d88e 1 Unlock alternative costumes (Press Select at option menu)
+
+R I 2 L 0 80026c2a 2800 On (Press L2)
+
+R I 2 L 0 80026c2a 481 Off (Press R2)
+
+R I 2 L 0 800242fa 2400 On (Press L1)
+
+R I 2 L 0 800242fa 2404 Off (Press R2)
+
+R I 2 L 0 8008fddc 0 Frozen (Press Select &amp; Up)
+
+R I 2 L 0 8008fddc ffff Restarted (Press Select &amp; Down)
+
+R I 2 L 0 80062f34 d02c P1
+
+R I 2 L 0 80062f36 160 P1
+
+R I 2 L 0 80062f98 d02c P2
+
+R I 2 L 0 80062f9a 160 P2
+
+R I 2 L 0 801f4de6 1000 Enable Code (Must Be On - Version 1)
+
+R I 2 L 0 801f4d5e 1000 Enable Code (Must Be On - Version 2)
+
+R I 2 L 0 800abb28 12f Infinite Boost
+
+R I 2 L 0 800abb38 4 Infinite Boost
+
+R I 1 L 0 800abb3d 1 Infinite Boost
+
+R I 2 L 0 800a8d58 1 Enable Boost Option
+
+R I 2 L 0 800a8d5a 1 Enable Hien Mode
+
+R I 2 L 0 800ab8a4 800 Super Jump/Glide
+
+R I 1 L 0 800ab8be 1 Infinite Jumps
+
+R I 2 L 0 8002c602 2400 Invisible
+
+R I 2 L 0 800aba32 6 Infinite Health
+
+R I 2 L 0 800aba34 6 Infinite Health
+
+R I 1 L 0 800d9e03 63 Infinite Time
+
+R I 2 L 0 800d9dec 5f5 Max Score
+
+R I 2 L 0 800d9dee e0ff Max Score
+
+R I 2 L 0 800d9dec 0 Score Modifier
+
+R I 1 L 0 800d9e03 6 Unlock All Levels
+
+R I 2 L 0 800ab838 2 Invincibility
+
+R I 2 L 0 800ab83e 2400 Invincibility
+
+R I 2 L 0 800d9de0 1 Press L2+R2 To Skip Current Sub-Level
+
+R I 2 L 0 800ab8be 1 Multi-Jump

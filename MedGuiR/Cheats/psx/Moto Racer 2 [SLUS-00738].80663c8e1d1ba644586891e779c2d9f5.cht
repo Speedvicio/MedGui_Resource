@@ -1,0 +1,70 @@
+[] Moto Racer 2 (NTSC-U)
+R I 1 L 0 8001f8c6 40 PAL2NTSC
+
+R I 1 L 0 80090a2e 40 PAL2NTSC
+
+R I 1 L 0 800a173a 40 PAL2NTSC
+
+R I 2 L 0 8001d700 0 Y-Fix
+
+R I 2 L 0 80092588 0 Y-Fix
+
+R I 2 L 0 800a3294 0 Y-Fix
+
+R I 1 L 0 80010043 a2 Dumb opponents
+
+R I 1 L 0 800d262e 2 Only 1 lap to race / always first  (Press L1 &amp; L2 &amp; R1 &amp; R2)
+
+R I 1 L 0 800c02e8 3 Only 1 lap to race / always first  (Press L1 &amp; L2 &amp; R1 &amp; R2)
+
+R I 2 L 0 800d262e 702 Start on 3rd lap
+
+R I 2 L 0 80010040 ffff All courses &amp; modes unlocked
+
+R I 2 L 0 800d245e 7fff Nitro boost
+
+R I 4 L 0 80047718 0 Stopped
+
+R I 1 L 0 80047710 21 Increases
+
+R I 2 L 0 80012398 7 Super bike championship
+
+R I 2 L 0 80013068 7 Moto X championship
+
+R I 2 L 0 80013d38 7 Dual sport championship
+
+R I 2 L 0 8001011c 7 Custom championship
+
+R I 2 L 0 80014a08 7 Ultimate championship
+
+R I 1 L 0 800123a4 1 Super bike championship
+
+R I 1 L 0 80013074 1 Moto X championship
+
+R I 1 L 0 80013d44 1 Dual sport championship
+
+R I 1 L 0 80010118 1 Custom championship
+
+R I 1 L 0 80014a14 1 Ultimate championship
+
+R I 2 L 0 800cf826 1 Start On 2nd Lap
+
+R I 2 L 0 80102ca8 c80c Have 100 Points In Championship Modes
+
+R I 2 L 0 800c0e24 ab3e Infinite Checkpoint Time
+
+R I 2 L 0 80010040 163 Have Mirror, Reverse, & Reversed Mirror Options Unlocked
+
+R I 2 L 0 800c97c8 1 Unlock Ultimate Challenge
+
+R I 2 L 0 80012398 7 Start On Last Track In Superbike Championship
+
+R I 2 L 0 80013068 7 Start On Last Track In Moto X Championship
+
+R I 2 L 0 80013d38 7 Start On Last Track In Dual Sport Championship
+
+R I 2 L 0 8001011c 7 Start On Last Track In Custom Championship
+
+R I 2 L 0 80014a08 7 Start On Last Track In Ultimate Championship
+
+R I 2 L 0 80010042 a004 Activate Cheat Modifier

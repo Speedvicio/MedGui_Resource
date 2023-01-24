@@ -1,0 +1,230 @@
+[a6fc42bd5d19e36e5d8a2d8c4f4e9d23] Aladdin (USA)
+S I 2 L 0 1b0056 31 Start with 1 life
+
+S I 2 L 0 1b0056 37 Start with 7 lives
+
+S I 2 L 0 1b0056 39 Start with 9 lives
+
+S I 2 L 0 1a90be 4e71 Infinite lives
+
+S I 2 L 0 1b0a1c 6004 Infinite continues
+
+S I 2 L 0 1b041a 6004 Infinite Energy
+
+S I 2 L 0 1aa698 1 Start with 1 health unit instead of 8
+
+S I 2 L 0 1aa698 2 Start with 2 health units instead of 8
+
+S I 2 L 0 1aa698 4 Start with 4 health units instead of 8
+
+S I 2 L 0 1aa698 c Start with 12 health units instead of 8
+
+S I 2 L 0 1aa698 10 Start with 16 health units instead of 8
+
+S I 2 L 0 1aa698 20 Start with 32 health units instead of 8
+
+S I 2 L 0 1aef38 601e Genie hearts do not increase health
+
+S I 2 L 0 1aef38 6012 Genie hearts restore health to maximum
+
+S I 2 L 0 1b036a 6004 Infinite apples
+
+S I 2 L 0 1aa67e 3030 Start with 0 apples
+
+S I 2 L 0 1aa67e 3035 Start with 5 apples
+
+S I 2 L 0 1aa67e 3230 Start with 20 apples
+
+S I 2 L 0 1aa67e 3530 Start with 50 apples
+
+S I 2 L 0 1aa67e 3939 Start with 99 apples
+
+S I 2 L 0 1b0340 6004 Each apple found worth 0 apples
+
+S I 2 L 0 1b0344 efe0 Each apple found worth 10 apples
+
+S I 2 L 0 1ae986 600a The apple thief won't steal your apples
+
+S I 2 L 0 1aa666 3035 Start with 5 gems
+
+S I 2 L 0 1aa666 3130 Start with 10 gems
+
+S I 2 L 0 1aa666 3230 Start with 20 gems
+
+S I 2 L 0 1aa666 3530 Start with 50 gems
+
+S I 2 L 0 1aa666 3939 Start with 99 gems
+
+S I 2 L 0 1b039e 6004 Each gem found worth 0 gems
+
+S I 2 L 0 1b03a2 efe2 Each gem found worth 10 gems
+
+S I 2 L 0 1af4d8 6004 Each genie token found worth 0 genie tokens
+
+S I 2 L 0 1af4d8 5439 Each genie token found worth 2 genie tokens
+
+S I 2 L 0 1af4d8 5839 Each genie token found worth 4 genie tokens
+
+S I 2 L 0 1af4d8 5039 Each genie token found worth 8 genie tokens
+
+S I 2 L 0 1b199e 6004 Genie tokens never decrease in genie bonus round
+
+S I 2 L 0 1b1a92 6004 'Lose!' does not count in genie bonus round
+
+S I 2 L 0 1aa44c 4 Start at Sultan's Dungeon
+
+S I 2 L 0 1aa444 4096 Start at Sultan's Dungeon
+
+S I 2 L 0 1aa44c 5 Start at Cave of Wonders
+
+S I 2 L 0 1aa444 409a Start at Cave of Wonders
+
+S I 2 L 0 1aa44c 6 Start at Abu in the Cave
+
+S I 2 L 0 1aa444 409e Start at Abu in the Cave
+
+S I 2 L 0 1aa44c 7 Start at The Escape
+
+S I 2 L 0 1aa444 40a2 Start at The Escape
+
+S I 2 L 0 1aa44c 8 Start at Rug Ride
+
+S I 2 L 0 1aa444 40a6 Start at Rug Ride
+
+S I 2 L 0 1aa44c 9 Start at Inside the Lamp
+
+S I 2 L 0 1aa444 40aa Start at Inside the Lamp
+
+S I 2 L 0 1aa44c a Start at Sultan's Palace
+
+S I 2 L 0 1aa444 40ae Start at Sultan's Palace
+
+S I 2 L 0 1aa44c c Start at Jafar's Quarters
+
+S I 2 L 0 1aa444 40b2 Start at Jafar's Quarters
+
+S I 2 L 0 1aa44c b Start at Jafar's Palace
+
+S I 2 L 0 1aa444 40b6 Start at Jafar's Palace
+
+S I 2 L 0 1ae4fe 6700 Invincibility
+
+R I 2 L 0 ff7e3c 3300 Infinite Lives
+
+R I 2 L 0 ffeffa 808 Infinite Energy
+
+R I 2 L 0 ffefe0 3130 Infinite Apples
+
+R I 2 L 0 fff0f2 200 Invincibility
+
+S I 2 L 0 1abb60 6606 Invincibility
+
+R I 2 L 0 fff0be 0 Super Jump
+
+R I 2 L 0 fff0e8 ff Complete Level
+
+S I 2 L 0 1b0360 33fc Throwing An Apple Uses All Apples
+
+S I 2 L 0 1b0368 4e75 Throwing An Apple Uses All Apples
+
+S I 2 L 0 1afe48 3030 Tries Are Free At Peddler's Stall
+
+S I 2 L 0 1afe64 6012 Tries Are Free At Peddler's Stall
+
+S I 2 L 0 1afe48 3031 Tries Are 1 Gem At Peddler's Stall
+
+S I 2 L 0 1afe64 600e Tries Are 1 Gem At Peddler's Stall
+
+S I 2 L 0 1afe48 3033 Tries Are 3 Gems At Peddler's Stall
+
+S I 2 L 0 1afe64 6006 Tries Are 3 Gems At Peddler's Stall
+
+S I 2 L 0 1afea2 3030 Wishes Are Free At Peddler's Stall
+
+S I 2 L 0 1afeb2 6026 Wishes Are Free At Peddler's Stall
+
+S I 2 L 0 1afea2 3031 Wishes Are 1 Gem At Peddler's Stall
+
+S I 2 L 0 1afeb2 6022 Wishes Are 1 Gem At Peddler's Stall
+
+S I 2 L 0 1afea2 3033 Wishes Are 3 Gems At Peddler's Stall
+
+S I 2 L 0 1afeb2 601a Wishes Are 3 Gems At Peddler's Stall
+
+S I 2 L 0 1afea2 3035 Wishes Are 5 Gems At Peddler's Stall
+
+S I 2 L 0 1afeb2 6012 Wishes Are 5 Gems At Peddler's Stall
+
+S I 2 L 0 1afea2 3037 Wishes Are 7 Gems At Peddler's Stall
+
+S I 2 L 0 1afeb2 600a Wishes Are 7 Gems At Peddler's Stall
+
+R I 2 L 0 ffeffa 3 Infinite Health
+
+R I 2 L 0 ff7e3c 39 Set Infinite Lives (9)
+
+R I 2 L 0 ffefe0 32 Set Infinite Apples (20)
+
+R I 2 L 0 ffefe2 32 Set Infinite Gems (20)
+
+R I 2 L 0 fff002 9 Infinite Genie Bonus Icons
+
+R I 2 L 0 fff0f2 80 Invincibility
+
+R I 2 L 0 ff7e26 1 Stage Select
+
+R I 2 L 0 ff7e20 ff Enable Cheat Mode (Invincibility)
+
+R I 2 L 0 ff7e24 ff Enable Freezability Mode
+
+R I 2 L 0 ff7272 ff Enable Map View Mode
+
+R I 2 L 0 ff7e5a 80 Switch F/X On For Levitate Jump
+
+R I 2 L 0 fff09e 0 Hyper Mode (Sky)
+
+R I 2 L 0 fff0e6 0 Disable Death
+
+R I 2 L 0 fff0e8 20 Level Skip (Abu Version)
+
+R I 2 L 0 fff172 be Character Modifier
+
+S I 2 L 0 1f0 4520 Regional Lockout Bypass
+
+S I 2 L 0 1f0 4a20 Regional Lockout Bypass
+
+R I 2 L 0 ff7279 36 Pause the game and press A to skip levels
+
+S I 2 L 0 1a9c5c 1e Jump higher
+
+S I 2 L 0 1a9c5c 12 Jump much higher
+
+S I 2 L 0 1b0c62 601e Access the Debug menu by pressing A in the Option menu
+
+S I 2 L 0 412a ff00 Skip to the next level by pausing the game and pressing A
+
+S I 2 L 0 1a974a 0 Infinite Controllable Jump
+
+R I 2 L 0 ff7279 50 Press B in the Options Menu for Debug Menu
+
+R I 2 L 0 ff7e20 ff Enable Debug Infinite Health
+
+R I 2 L 0 ff7e20 0 Disable Debug Infinite Health
+
+S I 2 L 0 1ae51c 6000 Invincibility
+
+S I 2 L 0 1b0422 50 Blink 2x longer after being hit
+
+S I 2 L 0 1b0422 78 Blink 3x longer after being hit
+
+S I 2 L 0 1a9c5c 28 High Jump with slower descent
+
+S I 2 L 0 1a9c2a 60 High Jump with slower descent
+
+S I 2 L 0 1a9c5c 1c Super Jump with slower descent
+
+S I 2 L 0 1a9c2a 60 Super Jump with slower descent
+
+S I 2 L 0 1a9c5c 12 Moon Jump with slower descent
+
+S I 2 L 0 1a9c2a 60 Moon Jump with slower descent

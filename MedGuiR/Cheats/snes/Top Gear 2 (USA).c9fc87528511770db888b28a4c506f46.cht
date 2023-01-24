@@ -1,0 +1,258 @@
+[] Top Gear 2 (USA)
+S I 1 L 0 80d0c2 0 Start with no nitros instead of 6
+
+S I 1 L 0 80d0c2 2 Start with 2 nitros
+
+S I 1 L 0 80d0c2 4 Start with 4 nitros
+
+S I 1 L 0 80d0c2 8 Start with 8 nitros
+
+S I 1 L 0 80d0c2 a Start with 10 nitros
+
+S I 1 L 0 808e31 ad Infinite nitros for Player 1
+
+S I 1 L 0 80a695 ad Infinite nitros for Player 2
+
+S I 1 L 0 809905 a5 Fuel never runs out
+
+S I 1 L 0 9fef46 32 1st place gives $50,000 instead of $10,000
+
+S I 1 L 0 9fef48 32 2nd place gives $50,000 instead of $6,000
+
+S I 1 L 0 9fef4a 32 3rd place gives $50,000 instead of $4,000
+
+S I 1 L 0 9fef4c 32 4th place gives $50,000 instead of $3,000
+
+S I 1 L 0 9fef4e 32 5th place gives $50,000 instead of $2,000
+
+S I 1 L 0 9fef50 32 6th place gives $50,000 instead of $1,000
+
+S I 1 L 0 9fef52 32 7th place gives $50,000 instead of $0
+
+S I 1 L 0 9fef54 32 8th place gives $50,000 instead of $0
+
+S I 1 L 0 9fef56 32 9th place gives $50,000 instead of $0
+
+S I 1 L 0 9fef58 32 10th place gives $50,000 instead of $0
+
+S I 1 L 0 9fe35d 14 1st place is worth 20 points instead of 10
+
+S I 1 L 0 9fe35f 14 2nd place is worth 20 points instead of 6
+
+S I 1 L 0 9fe361 14 3rd place is worth 20 points instead of 4
+
+S I 1 L 0 9fe363 14 4th place is worth 20 points instead of 3
+
+S I 1 L 0 9fe365 14 5th place is worth 20 points instead of 2
+
+S I 1 L 0 9fe367 14 6th place is worth 20 points instead of 1
+
+S I 1 L 0 9fe369 14 7th place is worth 20 points instead of 0
+
+S I 1 L 0 9fe36b 14 8th place is worth 20 points instead of 0
+
+S I 1 L 0 9fe36d 14 9th place is worth 20 points instead of 0
+
+S I 1 L 0 9fe36f 14 10th place is worth 20 points instead of 0
+
+S I 1 L 0 9fac27 49 Everything is free [must have enough to buy]
+
+S I 1 L 0 9fabe2 7d Everything is free [must have enough to buy]
+
+S I 1 L 0 9fac71 1 2nd engine costs $1,000 instead of $30,000
+
+S I 1 L 0 9fac71 f 2nd engine costs $15,000 instead of $30,000
+
+S I 1 L 0 9fac73 1 3rd engine costs $1,000 instead of $50,000
+
+S I 1 L 0 9fac73 19 3rd engine costs $25,000 instead of $50,000
+
+S I 1 L 0 9fac75 1 4th engine costs $1,000 instead of $80,000
+
+S I 1 L 0 9fac75 28 4th engine costs $40,000 instead of $80,000
+
+S I 1 L 0 9fac79 0 2nd wet tires are free
+
+S I 1 L 0 9fac7b 0 3rd wet tires are free
+
+S I 1 L 0 9fac7d 0 4th wet tires are free
+
+S I 1 L 0 9fac81 0 2nd dry tires are free
+
+S I 1 L 0 9fac83 0 3rd dry tires are free
+
+S I 1 L 0 9fac85 0 4th dry tires are free
+
+S I 1 L 0 9fac89 1 2nd gear box costs $1,000 instead of $10,000
+
+S I 1 L 0 9fac89 5 2nd gear box costs $5,000 instead of $10,000
+
+S I 1 L 0 9fac8b 1 3rd gear box costs $1,000 instead of $30,000
+
+S I 1 L 0 9fac8b f 3rd gear box costs $15,000 instead of $30,000
+
+S I 1 L 0 9fac8d 1 4th gear box costs $1,000 instead of $50,000
+
+S I 1 L 0 9fac8d 19 4th gear box costs $25,000 instead of $50,000
+
+S I 1 L 0 9fac91 1 2nd nitro costs $1,000 instead of $5,000
+
+S I 1 L 0 9fac91 2 2nd nitro costs $2,000 instead of $5,000
+
+S I 1 L 0 9fac93 1 3rd nitro costs $1,000 instead of $15,000
+
+S I 1 L 0 9fac93 7 3rd nitro costs $7,000 instead of $15,000
+
+S I 1 L 0 9fac95 1 4th nitro costs $1,000 instead of $30,000
+
+S I 1 L 0 9fac95 f 4th nitro costs $15,000 instead of $30,000
+
+S I 1 L 0 9faca1 1 2nd side armor costs $1,000 instead of $5,000
+
+S I 1 L 0 9faca1 2 2nd side armor costs $2,000 instead of $5,000
+
+S I 1 L 0 9faca3 1 3rd side armor costs $1,000 instead of $10,000
+
+S I 1 L 0 9faca3 5 3rd side armor costs $5,000 instead of $10,000
+
+S I 1 L 0 9faca5 1 4th side armor costs $1,000 instead of $20,000
+
+S I 1 L 0 9faca5 a 4th side armor costs $10,000 instead of $20,000
+
+S I 1 L 0 9faca9 1 2nd rear armor costs $1,000 instead of $5,000
+
+S I 1 L 0 9faca9 2 2nd rear armor costs $2,000 instead of $5,000
+
+S I 1 L 0 9facab 1 3rd rear armor costs $1,000 instead of $10,000
+
+S I 1 L 0 9facab 5 3rd rear armor costs $5,000 instead of $10,000
+
+S I 1 L 0 9facad 1 4th rear armor costs $1,000 instead of $20,000
+
+S I 1 L 0 9facad a 4th rear armor costs $10,000 instead of $20,000
+
+S I 1 L 0 9facb1 1 2nd front armor costs $1,000 instead of $5,000
+
+S I 1 L 0 9facb1 2 2nd front armor costs $2,000 instead of $5,000
+
+S I 1 L 0 9facb3 1 3rd front armor costs $1,000 instead of $10,000
+
+S I 1 L 0 9facb3 5 3rd front armor costs $5,000 instead of $10,000
+
+S I 1 L 0 9facb5 1 4th front armor costs $1,000 instead of $20,000
+
+S I 1 L 0 9facb5 a 4th front armor costs $10,000 instead of $20,000
+
+R I 1 L 0 7efe9e 0 Always Finish First
+
+R I 1 L 0 7ec426 0 Always Finish First
+
+R I 1 L 0 7e01a6 6 Infinite Nitro
+
+R I 1 L 0 7e01af d Infinite Fuel
+
+S I 1 L 0 808e31 cd Infinite Nitro
+
+S I 1 L 0 809a39 ad Infinite Fuel
+
+S I 1 L 0 80defe 8e Always Finish First
+
+S I 1 L 0 9fac27 bd Money Never Goes Down
+
+S I 1 L 0 9fac27 49 Everything Is Free (Must Have Enough To Buy)
+
+S I 1 L 0 9fabe2 7d Everything Is Free (Must Have Enough To Buy)
+
+S I 1 L 0 14a090 ad Infinite Nitros (Player 2)
+
+S I 1 L 0 1c8030 ad Infinite Nitros (Player 1)
+
+S I 1 L 0 20d0c0 a Start With 10 Nitros
+
+S I 1 L 0 54a090 ad Infinite Nitros (Player 2 - Alternate Code)
+
+S I 1 L 0 5ca17f 1 4th Engine Costs 1K Instead Of 80K
+
+S I 1 L 0 6ce14f 32 1st Place Gives $50 Instead Of $10K
+
+S I 1 L 0 7ca12f 49 Everything Is Free
+
+S I 1 L 0 1fabe2 7d Everything Is Free (Alternate Code #3)
+
+S I 1 L 0 1fac27 49 Everything Is Free (Alternate Code #3)
+
+R I 1 L 0 7e061e 0 Speed Modifier
+
+R I 1 L 0 7e061e 28 Makes Your Car Go So Fast, That You Will Always Win First Place! (Player 1)
+
+R I 1 L 0 7ec426 0 Always Qualify In First Place In The First Race
+
+R I 1 L 0 7e059c 0 Engine Sound Modifier
+
+R I 1 L 0 7e0622 28 Auto Race At About 230 MPH (Player 2)
+
+R I 1 L 0 7e1d19 ff Set Money To $255,000 (Player 1)
+
+R I 1 L 0 7e1d42 ff Set Money To $255,000 (Player 2)
+
+R I 1 L 0 7e1dc5 ff Gain 255 Points A Race (Player 1)
+
+R I 1 L 0 7e1dc7 ff Gain 255 Points A Race (Player 2)
+
+R I 1 L 0 7e1d03 3 Set 80k Engine (Player 1)
+
+R I 1 L 0 7e1d2c 3 Set 80k Engine (Player 2)
+
+R I 1 L 0 7e1d05 3 Set 3k Wet Tires (Player 1)
+
+R I 1 L 0 7e1d2e 3 Set 3k Wet Tires (Player 2)
+
+R I 1 L 0 7e1d07 3 Set 4k Dry Tires (Player 1)
+
+R I 1 L 0 7e1d30 3 Set 4k Dry Tires (Player 2)
+
+R I 1 L 0 7e1d09 3 Set 50k Gearbox (Player 1)
+
+R I 1 L 0 7e1d32 3 Set 50k Gearbox (Player 2)
+
+R I 1 L 0 7e1d0b 3 Set 30k Nitros (Player 1)
+
+R I 1 L 0 7e1d34 3 Set 30k Nitros (Player 2)
+
+R I 1 L 0 7e1d0f 3 Set 20k Side Armor (Player 1)
+
+R I 1 L 0 7e1d38 3 Set 20k Side Armor (Player 2)
+
+R I 1 L 0 7e1d11 3 Set 20k Rear Armor (Player 1)
+
+R I 1 L 0 7e1d3a 3 Set 20k Rear Armor (Player 2)
+
+R I 1 L 0 7e1d13 3 Set 20k Front Armor (Player 1)
+
+R I 1 L 0 7e1d3c 3 Set 20k Front Armor (Player 2)
+
+R I 1 L 0 7e0693 7f Infinite Fuel (Player 1)
+
+R I 1 L 0 7e06b5 7f Infinite Fuel (Player 2)
+
+R I 1 L 0 7e01a6 9 Infinite Nitros (Player 1)
+
+R I 1 L 0 7e01c0 9 Infinite Nitros (Player 2)
+
+R I 1 L 0 7efe0e 3 Only One Race In Each Country
+
+S I 1 L 0 808edf f3 Player 1 More Engine power
+
+S I 1 L 0 80a786 f3 Player 2 More Engine power
+
+S I 1 L 0 80a03b a5 Invincible Armor
+
+S I 1 L 0 80a009 a5 Invincible Armor
+
+S I 1 L 0 80a062 a5 Invincible Armor
+
+S I 1 L 0 80ea67 a5 Invincible Armor
+
+S I 1 L 0 9fad80 a Enable Gas Tank
+
+S I 1 L 0 9fad34 a Enable Gas Tank
