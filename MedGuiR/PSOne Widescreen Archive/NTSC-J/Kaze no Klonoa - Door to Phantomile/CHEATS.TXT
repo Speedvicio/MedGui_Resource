@@ -1,0 +1,16 @@
+Widescreen hack by demilich
+$SAFEMODE
+
+#Kaze no Klonoa: Door to Phantomile  [NTSC J] (SLPS-01010)
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen 16:9
+80109950 0C00
+80105568 0C00
+800BE9F0 0C00
+
+//optional heart sprites *works for stage 1 only
+//800C3D34 0C00
+//800C3D18 0C00
+//800C3CFC 0C00

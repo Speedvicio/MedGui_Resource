@@ -1,0 +1,11 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Shin Nihon Pro Wrestling - Toukon Retsuden [NTSC-J]
+Comment=The camera may be slightly off-center in certain occasions.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+8002C634 0C00
+8002C6C8 0C00

@@ -1,0 +1,9 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Disney's 102 Dalmatians Puppies to the Rescue [NTSC-U]
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+8007A09C 0C00

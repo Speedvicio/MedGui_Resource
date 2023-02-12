@@ -1,0 +1,19 @@
+Widescreen hack by El_Patas [España] and TheCandidate
+$SAFEMODE
+
+#R-Type Delta [NTSC-U] (SLUS-00877)
+Comment=You can't move the ship beyond the 4:3 mark, needs render fix.
+Additional code to complement the main widescreen code available in the archive.
+Didn't like how stretched the ship selection menu looked on my Vita, though leaving it on does seem to conflict with in-game graphics.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen 16:9
+80193DE0 0C00
+
+//Eyefinity
+//80193DE0 0400
+
+//16:9 Widescreen (Ship Selection)
+//80131E04 0C00
+//80131E14 0C00

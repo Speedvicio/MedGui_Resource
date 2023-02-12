@@ -1,0 +1,10 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Ninja Shadow of Darkness [NTSC-U]
+Comment=When booting with the code enabled, you'll want skip the intro videos in case they freeze the game.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+800162E8 0C00

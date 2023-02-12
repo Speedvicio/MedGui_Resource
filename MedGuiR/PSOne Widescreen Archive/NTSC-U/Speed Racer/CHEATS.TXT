@@ -1,0 +1,14 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Speed Racer [NTSC-U]
+Comment=Main code results in a rather shaky car as you turn left or right,
+while the Vert- code has it shaking up and down instead. First person view looks fine however.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+//80100D50 0C00
+
+//16:9 Widescreen (Vert-)
+//80100D58 1555

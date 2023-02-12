@@ -1,0 +1,15 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Evil Zone [NTSC-U]
+Comment=Alt code expands the view a bit, somewhat matching what's provided by DuckStation's widescreen hack.
+Camera doesn't center itself well with either code enabled, hence why I listed this game last.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+800297F4 0C00
+
+//16:9 Widescreen (Alt)
+//800297F4 0C00
+//8002D91C 0C00

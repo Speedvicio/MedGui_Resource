@@ -1,0 +1,9 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Klonoa Beach Volleyball  [PAL]
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen 16:9
+800329E4 0C00

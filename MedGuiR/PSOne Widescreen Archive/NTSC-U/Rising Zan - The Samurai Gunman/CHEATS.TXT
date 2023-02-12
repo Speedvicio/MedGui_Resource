@@ -1,0 +1,9 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Rising Zan: The Samurai Gunman [NTSC-U]
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+80098048 0C00

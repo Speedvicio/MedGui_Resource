@@ -1,0 +1,9 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Walt Disney World Quest: Magical Racing Tour [NTSC-U]
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+80052398 0C00

@@ -1,0 +1,16 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#The Emperor's New Groove [NTSC-U]
+Comment=When using the main widescreen code, the main menu's 3D elements seem to zoom in a bit too much
+(possibly Vert-? and affecting 3D cutscenes) as shown in the first screenshot.
+There's a separate code for menus as a workaround (shown in last two screenshots),
+which can safely be combined with the main code but will however decrease the FOV in-game.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+8006C278 0C00
+
+//16:9 Widescreen (Menus)
+8006C270 0C00

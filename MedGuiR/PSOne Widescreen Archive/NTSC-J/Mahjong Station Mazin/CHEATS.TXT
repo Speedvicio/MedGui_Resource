@@ -1,0 +1,12 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Mahjong Station Mazin (NTSC-J)
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+800AD02C 0C00
+
+//16:9 Widescreen (for Rev 1)
+//800ACF84 0C00

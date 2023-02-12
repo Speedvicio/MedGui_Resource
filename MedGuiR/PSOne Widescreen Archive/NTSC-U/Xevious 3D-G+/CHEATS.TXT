@@ -1,0 +1,15 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Xevious 3D-G+ [NTSC-U]
+Comment=Ship is restricted to 4:3 frame.
+Area 4 boss may display visual trailing glitches outside the 4:3 area.
+Of course, the older 2D games will be unaffected by these codes.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+E0178740 1000
+80178740 0C00
+E018F330 1000
+8018F330 0C00

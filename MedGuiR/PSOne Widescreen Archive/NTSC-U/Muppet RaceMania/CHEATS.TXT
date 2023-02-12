@@ -1,0 +1,10 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Muppet RaceMania [NTSC-U]
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen 16:9
+8002CED8 4CCC
+8002CFE0 CCCD

@@ -1,0 +1,9 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Klonoa Beach Volley - Saikyou Chīmu Ketteisen!  [NTSC J]
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen 16:9
+80032AB8 0C00

@@ -1,0 +1,12 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Grid Runner [NTSC-U]
+Comment=2D elements appear to wobble especially in multiplayer.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+80079672 0C00
+8009D3BC 0C00
+8009D3F4 0C00

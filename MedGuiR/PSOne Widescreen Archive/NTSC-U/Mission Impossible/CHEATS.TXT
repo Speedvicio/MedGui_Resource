@@ -1,0 +1,10 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Mission Impossible [NTSC-U]
+Comment=Camera slightly rises and has an increased FOV.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+80077F34 1555

@@ -1,0 +1,11 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Buzz Lightyear of Star Command [NTSC-U]
+Comment=2D elements don't align to where they should be in widescreen.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen 16:9
+8002E804 4CCC
+8002E80C CCCC

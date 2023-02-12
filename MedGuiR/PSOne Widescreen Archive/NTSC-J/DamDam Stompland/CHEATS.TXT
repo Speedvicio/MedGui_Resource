@@ -1,0 +1,13 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#DamDam Stompland [NTSC-J]
+Comment=Menus code is imperfect as not every element will appear in consistent and proper form.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+800BE3FC 0C00
+
+//16:9 Widescreen (Menus)
+800167B4 0C00

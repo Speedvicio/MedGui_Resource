@@ -1,0 +1,10 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#WCW vs. the World [NTSC-U]
+Comment=When booting with the code enabled, you'll want skip the intro videos quickly in case they freeze the game.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+800D42E4 0C00

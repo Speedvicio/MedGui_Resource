@@ -1,0 +1,10 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#The Simpsons Wrestling [NTSC-U]
+Comment=Camera is not centered well, especially during character intros.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+80047B28 0C00

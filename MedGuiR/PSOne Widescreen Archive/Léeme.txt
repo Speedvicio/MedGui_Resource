@@ -1,0 +1,38 @@
+
+Este archivo de parches se ha creado para tener juntos todos los parches de pantalla panorámica 
+existentes para Playstation.
+
+Los códigos que se encuentran en cada archivo son principalmente de formato Gameshark, de modo 
+que pueden ser usados por cualquier medio que pueda cargar códigos de Gameshark.
+
+En algunos casos están disponibles también o sólo en formato hexadecimal, con este tipo de 
+valores se necesita un editor hexadecimal como por ejemplo el "HxD", para buscar en la imagen 
+del juego el valor original y reemplazarlo con el modificado de pantalla panorámica.
+Usar valores hexadecimales implica modificar la imagen del juego directamente de modo que no se
+necesitan programas externos para cargar códigos. 
+
+Se debe tener en cuenta que sólo se pueden poner en panorámico los juegos que utilicen fondos 
+u objetos en 3D, ya sea totalmente o parcialmente, pero no aquellos que utilicen fondos 
+prerenderizados o en 2D.
+
+Los códigos se encuentran disponibles para la relación de aspecto 16:9 y en algunos casos 
+también para Eyefinity.
+
+Cada código debe ser usado exactamente para la región y código ID del juego que se describe, 
+en caso contrario no funcionará.
+
+Dentro de cada archivo se puede encontrar información sobre el autor de los códigos, la región 
+e ID del juego y comentarios sobre el juego si fuera necesario.
+
+Hay parches que necesitan corrección en el renderizado (los gráficos desaparecen y aparecen 
+constantemente en los laterales de la pantalla), para lo cual no se ha encontrado una forma de 
+corregirlo.
+Otros pueden crear pequeños problemas de otro tipo en los gráficos de los juegos, o que 
+funcionen sólo parcialmente, estos detalles estarán descritos en los comentarios del parche.
+
+Desde aquí dar las gracias a todos aquellos quienes han creado y compartido los códigos de 
+pantalla panorámica.
+
+------------------------------------------------------------------------------------------------------------
+
+El_Patas

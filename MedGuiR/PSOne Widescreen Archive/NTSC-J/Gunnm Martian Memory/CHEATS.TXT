@@ -1,0 +1,18 @@
+Widescreen hack by oldboy88 and demilich
+$SAFEMODE
+
+#Gunnm Martian Memory [NTSC-J] (SLPS-01408)
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen 16:9 (oldboy88 version)
+800FF620 0C00
+
+//Widescreen 16:9 (demilich version)
+//800FF648 0C00
+
+//Clipping Fix 1
+800C7E60 1000
+
+//Clipping Fix 2
+800C7DD8 1000

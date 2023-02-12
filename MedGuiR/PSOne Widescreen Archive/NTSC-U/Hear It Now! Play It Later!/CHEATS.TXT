@@ -1,0 +1,12 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Hear It Now! Play It Later! (NTSC-U)
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen (Manta)
+800BFDD4 0C00
+
+//16:9 Widescreen (Dino)
+80044560 0C00

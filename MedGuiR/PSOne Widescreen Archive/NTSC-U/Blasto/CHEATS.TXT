@@ -1,0 +1,10 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Blasto [NTSC-U]
+Comment=Since not all 2D elements will be affected by this code as usual, expect the crosshair to be misaligned.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+801F14B4 0C00

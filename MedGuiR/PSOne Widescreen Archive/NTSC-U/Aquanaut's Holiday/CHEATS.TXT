@@ -1,0 +1,11 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Aquanaut's Holiday [NTSC-U]
+Comment= Enabling this code results in the camera shaking heavily while turning for reasons unknown.
+It's perhaps best reserved for screenshots until a fix is found.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+//8013E788 0C00

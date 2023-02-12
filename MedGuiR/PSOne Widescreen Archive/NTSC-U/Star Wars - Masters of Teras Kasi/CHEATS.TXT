@@ -1,0 +1,10 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Star Wars Masters of Teras Kasi [NTSC-U]
+Comment=Affects all 3D models rather than the camera, meaning that the stage floor doesn't align to where characters should fall.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+8002578C 0C00

@@ -1,0 +1,57 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Running Wild (NTSC-U)
+Comment=Running Wild codes should be used individually with their respective play modes. 3D models on the main menu will appear squished with the latter two codes.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+16:9 Widescreen
+E00C7E6C 1999
+800C7E6C 1333
+E00C815C 1999
+800C815C 1333
+E00C80A0 1110
+800C80A0 0CD0
+E00C7DB0 1110
+800C7DB0 0CD0
+E00C7E6C 1110
+800C7E6C 0CD0
+E00C815C 1110
+800C815C 0CD0
+E00C7C38 0CCC
+800C7C38 0990
+E00C7F28 0CCC
+800C7F28 0990
+E00C7CF4 0CCC
+800C7CF4 0990
+E00C7FE4 0CCC
+800C7FE4 0990
+E00C7DB0 0CCC
+800C7DB0 0990
+E00C80A0 0CCC
+800C80A0 0990
+E00C7E6C 0CCC
+800C7E6C 0990
+E00C815C 0CCC
+800C815C 0990
+
+//16:9 Widescreen (1P & Main Menu)
+//800C7E6C 1333
+//800C815C 1333
+
+//16:9 Widescreen (2P Only)
+//800C80A0 0CD0
+//800C7DB0 0CD0
+//800C7E6C 0CD0
+//800C815C 0CD0
+
+//16:9 Widescreen (3P & 4P Only)
+//800C7C38 0990
+//800C7F28 0990
+//800C7CF4 0990
+//800C7FE4 0990
+//800C7DB0 0990
+//800C80A0 0990
+//800C7E6C 0990
+//800C815C 0990

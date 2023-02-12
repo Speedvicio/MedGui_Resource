@@ -1,0 +1,13 @@
+Widescreen hack by VIRGIN KLM
+$SAFEMODE
+
+#Bugs Bunny: Lost in Time [NTSC-U] (SLUS-00838)
+Comment=Tends to be resource intense causing slowdown and might de-sync/break cutscenes.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen 16:9
+80076150 0C00
+
+//Eyefinity
+//80076150 0400

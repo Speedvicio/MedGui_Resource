@@ -1,0 +1,18 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Aquanaut no Kyuujitsu 2 [NTSC-U]
+Comment= Main widescreen code reveals the game's culling, similar to the Crash Bandicoot games.
+The Vert- codes are here as alternatives, with the Adjusted version pulling the FOV a bit further out (still revealing some culling unfortunately).
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+8006F794 0C00
+
+//16:9 Widescreen (Vert-)
+//8006F79C 1555
+
+//16:9 Widescreen (Vert- Adjusted)
+//8006F79C 1555
+//8006F7A4 1555

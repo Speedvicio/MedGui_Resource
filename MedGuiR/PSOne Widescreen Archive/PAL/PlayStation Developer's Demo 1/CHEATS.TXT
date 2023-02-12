@@ -1,0 +1,18 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#PlayStation Developer's Demo CD (NTSC-U)
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen (Dino) (for Version 1)
+80165184 0C00
+
+//16:9 Widescreen (Manta) (for Version 1)
+800B0848 0C00
+
+//16:9 Widescreen (Dino) (for Version 2-5)
+//80165110 0C00
+
+//16:9 Widescreen (Manta) (for Version 2-5)
+//800AD78C 0C00

@@ -1,0 +1,15 @@
+Widescreen hack by VIRGIN KLM and demilich
+$SAFEMODE
+
+#Overblood [NTSC-U] (SLUS-00464)
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen 16:9 (VIRGIN KLM version)
+800EBB90 0C00
+
+//Widescreen 16:9 (demilich version)
+//80076370 0C00
+
+//Eyefinity
+//800EBB90 0400

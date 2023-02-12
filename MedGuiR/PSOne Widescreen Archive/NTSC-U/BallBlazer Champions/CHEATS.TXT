@@ -1,0 +1,18 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#BallBlazer Champions [NTSC-U]
+Comment=Mild culling present on left and right edges; feel free to use Vert- or Adjusted codes as alternatives.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+80043BC8 1555
+80043BCC 1555
+
+//16:9 Widescreen (Vert-)
+//80043BC8 1555
+
+//16:9 Widescreen (Vert- Adjusted)
+//80043BC8 1555
+//80043BCC 1150

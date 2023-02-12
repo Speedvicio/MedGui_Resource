@@ -1,0 +1,19 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Grind Session [NTSC-U]
+Comment=Heavy culling outside the 4:3 frame using the default code,
+which is even still present in the slightest with the Adjusted code.
+Use the standard Vert- code if you prefer to not see any culling.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+80089288 0C00
+
+//16:9 Widescreen (Vert-)
+//80089290 1555
+
+//16:9 Widescreen (Vert- Adjusted)
+//80089290 1555
+//80089298 1040

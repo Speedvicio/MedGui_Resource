@@ -1,0 +1,12 @@
+Widescreen hack by demilich
+$SAFEMODE
+
+#Chaos Break [NTSC-J] (SLPM 86363)
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen 16:9
+800F3148 0C00
+
+//Widescreen 16:9 optional
+//800F3168 0C00

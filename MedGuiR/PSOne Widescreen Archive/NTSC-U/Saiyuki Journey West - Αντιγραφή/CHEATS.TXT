@@ -1,0 +1,11 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Sentient (NTSC-U)
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen (In-Game Vert-)
+800C8DD0 1555
+
+

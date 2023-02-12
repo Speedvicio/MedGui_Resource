@@ -1,0 +1,18 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Blast Chamber [NTSC-U]
+Comment=Menu will be cut off with the main code enabled; enable the Main Menu code to fix this,
+then the Restore Game View code when in game.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+800BFE60 1555
+800BFE68 1555
+
+//16:9 Widescreen (Main Menu)
+//80095E4A 0DDE
+
+//Restore Game View
+//80095E4A 1000

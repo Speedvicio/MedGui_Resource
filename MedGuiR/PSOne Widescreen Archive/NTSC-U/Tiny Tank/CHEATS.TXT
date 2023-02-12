@@ -1,0 +1,15 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Pet in TV [NTSC-U]
+Comment=Culling will be present on the left and right sides
+the Adjusted code zooms in the view a bit to alleviate this.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+80083C80 0C00
+
+//16:9 Widescreen (Adjusted)
+//80083C80 0C00
+//80083C90 0D00

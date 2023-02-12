@@ -1,0 +1,11 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Dune 2000 [NTSC-U]
+Comment=Glitchy and slowed FMVs.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+80183028 1558
+80183068 0C00

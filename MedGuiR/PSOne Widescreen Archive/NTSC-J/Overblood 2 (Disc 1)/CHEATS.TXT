@@ -1,0 +1,12 @@
+Widescreen hack by demilich
+$SAFEMODE
+
+#Overblood 2 [Disc 1] [NTSC-J] (SLPS-01261)
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen 16:9
+801F0F80 0C00
+
+//Widescreen 16:9 optional
+//801F0FC0 0C00

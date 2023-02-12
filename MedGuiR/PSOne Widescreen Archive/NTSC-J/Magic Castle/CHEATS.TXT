@@ -1,0 +1,23 @@
+Widescreen hack by demilich and TheCandidate
+$SAFEMODE
+
+#Magic Castle [NTSC-J] (Unreleased)
+Comment=With the code demilich posted awhile back, sprites intermittently squish now and then, especially when turning the player rapidly.
+Some certain elements will appear uneven (e.g. the treasure chest and tutorial spotlights as shown in the screenshots),
+and unfortunately mess up the game's collision as well when booting with it enabled.
+The Adjusted, Vert-, and 3D Only codes are alternatives that nearly eliminate the noted visual issues,
+though while those and the collision bugs are completely gone with the 3D Only code, all sprites will stay squished there.
+All codes work for both "Full game" and "Beta" on version 3. Older versions are untested, however...
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen 16:9
+80063F0C 0C00
+
+//16:9 Widescreen (Adjusted)
+//80063F0C 0C00
+//80063F84 1200
+
+//16:9 Widescreen (Vert-)
+//80063F0C 0C00
+//80063F84 0C00

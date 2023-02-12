@@ -1,0 +1,20 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Tarzan [NTSC-U]
+Comment=Menu characters will appear squished with the default code.
+Vert- code evens out their appearance, though Jane ends up appearing cut off.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//8005B190 1333
+8005B248 1333
+8005B258 1333
+
+//16:9 Widescreen (Vert-)
+8005B214 1555
+8005B2DC 1555
+
+//16:9 Widescreen (Vert-) [for re-release]
+//8005B184 1555
+//8005B24C 1555

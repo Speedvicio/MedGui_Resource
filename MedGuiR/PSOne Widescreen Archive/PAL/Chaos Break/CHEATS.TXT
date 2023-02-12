@@ -1,0 +1,12 @@
+Widescreen hack by demilich
+$SAFEMODE
+
+#Chaos Break [PAL] (SLES-03107)
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen 16:9
+800F2B80 0C00
+
+//Widescreen 16:9 optional
+//800F2BA0 0C00

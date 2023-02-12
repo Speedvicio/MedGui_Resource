@@ -1,0 +1,15 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#WWF SmackDown 2!: Know Your Role [NTSC-U]
+Comment=In-game camera might be a little misaligned, though not to apparent degrees like Evil Zone.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+E0021668 1000
+80021668 0C00
+E0110DF4 1000
+80110DF4 0C00
+E0100520 1000
+80100520 0C00

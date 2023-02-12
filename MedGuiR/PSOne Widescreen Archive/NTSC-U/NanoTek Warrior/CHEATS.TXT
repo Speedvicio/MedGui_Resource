@@ -1,0 +1,21 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#NanoTek Warrior [NTSC-U]
+Comment=Could only find a Vert address for the time being, so expect the upper and lower portions of the view to stay cut off.
+Best not to leave the Title code on, as it will mess up the camera in-game.
+Left the Restore Game View code here in case that were to happen,
+though you can also re-enable the Vert- Adjusted code if you prefer using that one.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen (Vert-)
+80055E44 0C00
+
+//16:9 Widescreen (Vert- Adjusted)
+//80055E44 0C00
+//8007D4FE 1060
+
+//16:9 Widescreen (Title)
+//80055E44 0C00
+//8007D4FE 0C00

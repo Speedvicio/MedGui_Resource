@@ -1,0 +1,10 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Simple 1500 Series Vol. 52: The Pro Wrestling 2 [NTSC-J]
+Comment=The camera appears slightly off-center in certain occasions.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen (In-Game)
+80022CD4 0C00

@@ -1,0 +1,12 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Spider-Man 2 Enter Electro [NTSC-U]
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen (Vert-)
+800C2A94 1333
+
+/16:9 Widescreen (for Rev 1; Vert-)
+//800C2A8C 1333

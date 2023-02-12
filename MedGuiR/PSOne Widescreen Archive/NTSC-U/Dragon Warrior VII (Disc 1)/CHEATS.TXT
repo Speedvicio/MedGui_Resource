@@ -1,0 +1,12 @@
+Widescreen hack by demilich
+$SAFEMODE
+
+#Dragon Warrior VII [Disc 1] [NTSC-U] (SLUS-01206)
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//Widescreen 16:9 horizontal
+80026544 0C00
+
+//Widescreen 16:9 vertical
+80026554 0C00

@@ -1,0 +1,13 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Batman & Robin [NTSC-U]
+Comment=Using the main code, everything appears to warp horizontally as you turn the camera. Use the Vert- code if you prefer consistent 3D.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+//80061B60 0C00
+
+//16:9 Widescreen (Vert-)
+80061B64 1555

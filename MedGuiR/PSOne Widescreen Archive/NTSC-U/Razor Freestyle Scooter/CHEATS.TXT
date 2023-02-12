@@ -1,0 +1,17 @@
+Widescreen hack by TheCandidate
+$SAFEMODE
+
+#Razor Freestyle Scooter [NTSC-U]
+Comment=Built on the same engine as Grind Session, so the same heavy culling revealed in that game's widescreen code is here too.
+----------------------------------------------------------------------------------------
+GAMESHARK/ACTION REPLAY CODES
+----------------------------------------------------------------------------------------
+//16:9 Widescreen
+8007BBD8 0C00
+
+//16:9 Widescreen (Vert-)
+//8007BBE0 1555
+
+//16:9 Widescreen (Vert- Adjusted)
+//8007BBE0 1555
+//8007BBE8 1040
