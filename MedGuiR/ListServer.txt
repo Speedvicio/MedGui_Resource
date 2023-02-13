@@ -31,3 +31,4 @@ sol-game.ru:4045=Солянка
 sol-game.ru:4046=Солянка 1
 tx.yuribacon.com
 uk.yuribacon.com
+omednafenbr.duckdns.org
