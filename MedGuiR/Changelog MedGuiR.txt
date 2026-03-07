@@ -1,0 +1,466 @@
+MedGui Reborn Pre v0.127 (eof?)
+- Fixed crash on cheat manager for unrecognized serial game name
+- Better management of errors on Cheat Manager
+- On Import cheat , the cheat will be copied on MedGuiR cheat folder
+- Added Saturn v1.01a region free bios on compatible bioses list
+- Changed user-agent on webclient header to fix download problems
+- Removed the cmd popup that appear on Windows 11
+- Fixed error on 403 web exception
+- Changed thegamesdb boxart code
+- Fixed auto-download of cheat from GameHacking web page
+
+MedGui Reborn v0.126
+- Better understanding of error messages reported by the gui in case of missing resources
+- Fixed a error on MedGuiR Advanced menu that appear when a path do not exist
+- Fixed a error that appear on Advanced Mednafen menu when do not exist a port on netplay server
+- Prevent the open of advance menu when the rom grid is empty
+- Corrected Boxart and Snaps download link
+- Corrected romhacking search query
+- Removed a lot of dead links on rom search
+- Fixed search on TGDB scrape
+- Speedup Advanced Menu Load on lowend cpu
+- Increased sleep timer on start emu so that can store the parameters to be passed to the mednafen
+- Added auto load Global Override config at GUI startup
+	
+	-- MetroMed beta 13
+		- Fixed a bug with short path that not execute the games
+	-- MedPad
+		- Added preconfig database input for auto-configure all Mednafen input module by standard template
+		- Fixed the value assigned by a PS4 gamepad (and probably for all next gen controllers)
+
+MedGui Reborn v0.125
+- On Scraped function unified Mega Drive - Genesis query
+- Create Movie folder structured based on console
+- Movie record will be moved to folder console
+- Fixed Clean Entries Menu
+- Fixed wrong empty folder/file detection on recursive scan
+- Added the option to convert a dat in a generic simple and compatible MedGuiR dat
+- Better way to detect emu4crt Mednafen fork
+- Manage of CHD based to normal Mednafen or emu4crt fork
+- Improved the sasplayer and arcade titan video rom , detection
+- Fixed(?) any Megadrive rom detection with bin file compressed in archive container
+- Updated json library
+- Updated 7z library
+	-- MetroMed beta 12
+		- Now you can open custom games csv file list
+		- Fixed file list when you swap from tile to list and viceversa
+		- Fixed the alphabetical sorting mode on list view
+		- Fixed specific detection of ico console
+		- Improved loading of image
+		- Added a option to set animation speed tranition
+		- Added movie snap preview ,"you need codec installed on your pc" (supported file are .mov, .mp4, .avi, .webm)
+		- Optimized snap preview
+		- Added import Boxart and Movie Snap menu
+
+MedGui Reborn v0.124
+- Fixed do not worked rom sorter after launched a game
+- Fixed broken boxart and update download on Win XP
+- Ignored ssl certificate on webclient 
+- Set Mute Discord by default on MedClient
+- Cosmetic change on Cheat Manager
+- Changed qwebirc nick default user
+- Added support for ps1 bios extracted from ps3 firmware
+- Added Favourites to MedClient comboconsole
+- Fixed empy boxart when a download attempt fails (thx Boubikos for bug report)
+- Fixed Cheat Manager for pce_fast module
+- Fixed netbutton behavior on textual medgui menu when you start a netplay session by medclient
+- Organized and grouped in a better way the file extension on file open window
+- Added "Clean entries from list" on Advanced menu
+- Always enabled "Remove from list" option on Adavnced Menu
+- Added text clipboard copy when you perform a left double click mouse button on "Version" info on the right medguir tab
+- Added m3u suffix to multi-disc game names to make it easier for the user to recognize them
+- Added preliminary support for Custom CSV game list (using MedGuiR CSV Creator)
+- Added new "Switchres" parameter for psakhis emu4crt Mednafen fork
+- Added new parameters for next Mednafen 1.32.0-UNSTABLE
+- Merged any Pull Requests from click4dylan MedGuiR Fork
+- Updated 7z.dll to the last version
+- Updated Modern7z.dll to the last version
+
+MedGui Reborn v0.123
+- Fixed wrong disabled groupbox on MedClient 
+- hidden the link to BSFree due to link not available anymore
+- Disabled horizontal overscan area option on PCE_FAST module (thx skalt711 for report the bug)
+- Fixed relative path problem (thx ZzackK for bug report) 
+- Fixed a bug with wrong stored record codec parameter (thx ZzackK for bug report)
+- Fixed a bug with psx game with multiple "[" on cheat manager
+- Fixed a bug with sbi patch path
+- Changed icon showed on m3u detection
+- Added MedClient load at Startup (thx ZzackK for suggestion)
+- On MedClient swapped "Utra Crappy IRC" with "qwebirc" by webbrowser component, due to any bugs encountered on IrcClient.dll (many many thx to ZzackK for report bugs and test)
+- Fixed a crash at launch of MedPad that appear when datagridview is empty
+- Changed gamesdatabase URL
+
+[MedPad] 
+- Converted scancodes to a humanly readable output (thx skalt711 for suggetion)
+- Fixed a very stupid error on "per-config" creation, that caused stderror log on Mednafen
+- Made the output message that appears after creating a specific config file more understandable
+- Added a function to set default input device for selected console and player
+- Showed Default input assigned to Mednafen
+
+MedGui Reborn v0.122
+- Added No$PSX v2.2 BIOS support
+- Added webbrowserfix class for internal browser ('Code imported by this: https://www.codeproject.com/Messages/5583483/Heres-a-better-version-and-it-DOESNT-require-admin)
+- Fixed Discord webhook due to a small change to Discord API 
+- Added error 404 and 500 to webrequest on cheat manager
+- Added Server List and "send rom to server" on MedClient form
+- Fixed again a problem with gamehacking.org cheat download due to small change on main API
+- Changed MedGuiR updater to a dedicated GitHub page (Thx Valerius and Orbea for suggestion)
+- Improve management of missing essential resources
+- Fixed a bug with Single file Scan routine
+- Improved MedClient controls and fixed a crash occur in some circumstances
+
+MedGui Reborn v0.121
+- Updated Newtonsoft.Json to v.13.0.2
+- On perconfig fixed a problem with doubled quoted string
+- Better management of errors on failure extraction for compressed archive
+- In Cheat manager if the error 403 appear, MedGuiR try to connect again one time to gamehacking.org server
+- Unrecognized games will be named as original file name (thx Cyber Akuma for report the bug)
+- Fixed a bug with multiple entries for the same game with multi bin file (thx Cyber Akuma for report the bug)
+- Added sound device selector
+- Improved and fixed scan detection on PSX and Saturn games
+- Fixed error message for ST-V games on 32 bit OS
+- Added no$psx bios v2.1 hash to the supported psx bios
+- Fixed a regression on last MedGuiR release on multiple entries for bin file and undetected cd based games
+
+MedGui Reborn v0.120
+- Imported custom boxart will refresh boxart picture instantly
+- Now advanced menu on the rom grid will be opened with a single right mouse button click instead double click
+- Fixed broken Mouse Cursor visibility option due to due to a spelling mistake (Thx to SkyPirate1 to report bug)
+- Fixed tooltip onto goat mask pattern (Thx to SkyPirate1 to report bug)
+- Added Bioses on "Per console config" (thx SkyPirate1 for suggestion)
+- on advanced setting will be anbled only the bioses useful for selected console (thx SkyPirate1 for suggestion)
+- Fixed a bug that showed empty pc engine bioses in any circumstance
+- Highlight the editable BIOS text boxes
+- Fixed the "Waiting for extraction..." popup, which did not close in case of error (thx rocknard for report the bug)
+- Fixed the obsolete link of sbi patch which does not allow automatic download (thx rocknard  for report the bug)
+- Forced Tls12 security protocol because August 22' net framework patch create problems with Discord connection
+- Disabled Discord presence on Win XP OS
+- Added ST-V game list support
+- Alligned to last Mednafen 1.31.0-UNSTABLE 
+
+MedGui Reborn v0.119
+- Added Sega Arcade SCSP Player support
+- Fixed a bug introduced on last MedGuiR release that broke Mednafen auto update function
+- Fixed a regression that block the extraction of 7z or rar cd based file into "romtemp" folder (thx to Drop bop for reporting the bug)
+
+MedGui Reborn v0.118 - update
+- Patched SevenZipSharp.dll to support rar4/5 file and probably (in future?) zstd file
+- Added support to Win XP OS for zstd file contained into .zip or .7z container by https://www.tc4shell.com/en/7zip/proxy7z/ and https://www.tc4shell.com/en/7zip/modern7z/
+- Added "Purge Box-Arts" option into "Reset" menu to fix and clean damaged Boxart
+- Fixed a bug with rom filter at startup
+
+MedGui Reborn v0.118
+- Fixed boxart batch downloader
+- Removed Freenode from MedClient autoconnection window and added irc.oftc.net
+- Fixed a crash on clone function when you select Desktop as path
+- Fixed crash on clone file due to unsupported chars
+- Added progress bar to clone file operation
+- Increased the rom size detection for (Megadrive) bin file to 16000000 Byte
+- Added all new parameters introduced in Mednafen v.1.28.0 Unstable
+- Added support for .zst file (this file will be managed as generic file without game console detection)
+- Added support for .zip and .7z file compressed with Zstd format (this containers format will be managed as ususal with game console detection) 
+- Added native support for loading CD images from .zip or .zst archives by Mednafen, enabling "cd.image_memcache 1" parameter in Mednafen config file or by GUI
+(This file will be managed as generic file without game console detection and can't be prescanned)
+- MedGuiR now use .ico file instead .gif to show console icon into the rom list, seem that improve the games list loading and reduce drastically the memory usage
+- Fixed any sparsed bugs (I hope)
+
+MedGui Reborn v0.117
+- Updated FPS display position parameters
+- Fixed a regression that prevented the filtering of games by region on the icon menu
+- Changed Default Mednafen IRC server
+- Added instruction to cheat manager to enable cheat code
+- Added a complete rom filter that include both "region" "game name" and "genre" (unluckly no support for headerless rom and cd based games)
+- Added on "File Manager" box, "Clone file to" another path (useful to move games filtered by genre, name, region into a specific directory "You say external microsd?")
+- Added new MetroMed release v0.11 with a new list grid layout
+- If default rom path is empty or not detectable, medgui will create and set one, named ROMS folder (requested by PFTM)
+- Added mednafen backup config on command key window
+
+MedGui Reborn v0.116
+- Fixed a bug on search rom filter in MedClient
+- On textual menu, added a LED to notify if Autoconnect to Server is enabled or not
+- Added a Virtual Keyboard usable with gamepad to Search Rom
+- Changed beaviour of joypad button on the GUI
+- Added a "fast load" option to MedGui settings to improve the populations of datagrid list rom
+- Fixed a crash that occuring when MedClient FTP is not accessible
+- Increased the folder rom detection for extracted game to 40000000 byte (thx to Alien Grey for report the bug)
+- On Advanced menu added a option to rename a game name with a custom name (thx to Snacko for suggestion)
+- Added video.glformat parameter/option for 16bpp graphics Mednafen output support
+
+MedGui Reborn v0.115
+- Added support for Compact File Set compliant images (https://pismotec.com/cfs/)
+- Change a bit the control pad code to make it compatible with medgui textual top menu
+- Now boxart background color is the same of the GUI
+- Add Tabpage tab colours change with background (code from https://dotnetrix.co.uk/tabcontrol.htm)
+- Fixed a bug with start and detection of a file with same crc
+- Added .ciso support
+- Fixed hide of snes enhancement chip rom in rom list
+- Added Spismo tool to convert cd image format into Compact File Set format (you need Pismo File Mount Audit Package installed on your pc to enable cfs support into MedGuiR)
+https://pismotec.com/download/
+
+MedGui Reborn v0.114
+- Minor cosmetic change on Mednafen Server detection 
+- Added error 404 on gamehacking.org downloader
+- Removed wrong tooltips on any tabs
+- Added tls1.2 support on missing parts (should solve the broken boxart scraper function)
+- Fixed the wrong beaviour on missing tls support on Net Framework 2.0
+- Changed Vimm's query on link tab
+- Changed Discord webhook
+- Added a control and warning for special chars inside a folder name
+
+MedGui Reborn v0.113
+- On MedClient added a simple game list to start a netplay session on the fly
+- Fixed scanlines trackbar value on sms
+- Fixed selection of medguir menu style at first startup
+- Changed and fixed popup boxart on the screen
+- Autocheck internal browser under WINE
+- Fixed advanced mednafen settings show form under WINE
+- Fixed search game filter on combobox
+- Cosmetic change on grid 
+	
+MedGui Reborn v0.112
+- Key shortcuts and joypad polling will be disabled if medguir form is not active
+- Managed password request added on UCI
+- Fixed any server message on UCI
+- UCI irc is now integrated with MedClient to better manage online session
+- Added notification icon on traybar for MedClient with details for online sessions opened and irc users connected
+- Added any common irc functions on UCI irc
+- Added EZNotification (popup widget) (https://github.com/clusterzx/EZNotifications) for opened online session, you can change theme on medguir notification icon on tray bar by right click mouse button
+- Added Discord announcement on MedGuiR > NetPlay Discord channel (https://github.com/Kowalski7/Discord-Webhook-Announcer)
+- Minor cosmetic change
+
+MedGui Reborn v0.111
+- Removed specific NoDesync setting for psx and nes
+- Added netplay mednafen doc onto medclient section
+- Fixed reload icon resource on medclient
+- Minor cosmetic change on MedClient
+- change a bit the menu code
+- Fixed selectable initial firmware path
+- Disabled any redundant calling function
+- Fixed filter of rom search on drag and drop
+- Improved read of DATs
+- Removed the autoscan of games playlist after DATs update
+- Added a simple file manager/organizer
+- Optimized the mednafen process detection by a function (should speedup the GUI startup loading)
+- Changed the behavior of MedClient
+- Now the room session state can be saved on medguir ini
+
+MedGui Reborn v0.110.1
+- The Medclient service now send input configuration to prevent config mismatch
+- Added another dns for medclient and mednafen server
+- Fixed any bad translated string
+- Fixed a small bug with refresh of rom grid in text menu mode
+
+MedGui Reborn Stable v0.110
+- Changed behaviour of rapid rom searcher textbox
+- Fixed detection of per-config system file
+- Solved a bug with snes faust hblend option, that caused crash on old mednafen version
+- Fixed negative value problem with per-game config file
+- Now per-game config will do not delete still existent input config
+- Changed suffix "/v1/" on tgbd api (now scrape function work again) 
+- Now user can chose to open mednafen general doc or specific per module
+- Added conversion from chd to cue/bin
+- Added a old style menu instead icons menu, on the top of frontend, user can swap between the two menu in "General Tab", selecting "Text Menu" option
+- Fixed a crash that occur when is impossible to detect the windows os version
+- Fixed behaviour of netplay button
+
+MedGui Reborn Stable v0.109
+- Alligned options to Mednafen 1.24.0-UNSTABLE
+- Added on "Advance menu" a option to change colour of frontend
+- Skipped redundant control on rom info
+- (Optional) Removed skull boxart logo
+- Fixed background grid color
+- Finally fixed a problem with random disappear of tooltips on advanced mednafen setting
+- Fixed the beaviour of advanced menu position in any circumstances
+- Improved MedClient detection and download of file on the server
+- Fixed a wrong detection of bin file contained in multiple archive compressed
+- Improved Scan and compared detection of bin file with genesis/megadrive dat
+- Improved emu4crt fork detection
+- Fixed a bug for snap and title viewer for multiple compressed archive
+- Better explanation of errors in stdoutput log
+- Fixed detection of old exotic dinput joypad (control GUI by PAD)
+- Deactivate joypad input when the GUI is not active
+- Fixed a bug with the real path passed on Mednafen with nested compressed file (this bug also interested the real file name passed on MedPad for the creation of per-config input file)
+
+MedGui Reborn Stable v0.108
+- Fixed attibute folder on folder scan for compressed folder
+- Added another SpechialChip snes database for unsupported snes faust games
+- Removed the annoying message in the absence of web connection in the control of the Specialchip database
+- On Advance setting form, the help button will point to specific selected mednafen module
+- Reported exact connection error 
+- Fix wrong beaviour on "remove from list" button
+- Changes behaviour of missing file on the game list 
+- Added Country identification for MedClient and Netplay sections
+- Fixed minimum value for fast forward and slow forward
+- Added batch download for BoxArt
+- Added support for mount on the fly cd based games in compressed zip format (you need to install Pismo File Mount https://pismotec.com/download/pfmap-192-win.exe)
+
+MedGui Reborn Stable v0.107
+- For unknown reason the control pad gui fix was disappeared from last release 
+- Added messages to guide the user to the first configuration
+- Added specific "player" video setting for Mednafen Chipmusic player
+- Added external resource credit link on About form 
+- Recalculate the grid size to prevent the hide of horizontal and vertical scroll bars
+- Added a progress bar at MedGuiR startup
+- Added linklabel for developer, publisher and system on TheGamesDb section
+- Fixed a detection of TOSEC dats file 
+- Double buffered Datagrid to improve populating speed 
+- Changed again the download way for MedGuiR update
+- Changed again MedGuiR Server update
+- added a small correction on ftpuri control
+- Added a correction on the creation of folder module
+- Modified FTPDownloadFile function
+- Added a information popup when downloaded file will be extracted
+- Removed a lot of redundant code for extract archive, now managed by a function
+- Various bugfixes 
+- Disabled Specific external dll Version request on project
+- Added others link on rom searcher section
+- Added all parameters from Mednafen 1.23.0-UNSTABLE
+
+MedGui Reborn Stable v0.106
+- Added support to .bps patch by flips.exe (https://www.smwcentral.net/?p=section&a=details&id=11474)
+- Work around to fix crash when def Mednafen path are changed by user
+- Added a button to reset all Mednafen path to default
+- Added a button to reset all Mednafen bioses path to default
+- Released memory usage after populating rom grid 
+- Fixed broken _lib audio download in any cases on Modland scraper
+- Added a workaround for Antarctica module server download 
+- Added conversion of psx PBP file into a generic iso format by Coldbird Popstation Mod V2.21 (https://github.com/PSP-Tools/copstation)
+- Solved a random exception on bitmap draw icon console
+- Reduced a lot the loading of prescanned rom
+- Fixed wrong Sega Saturn bios name 
+- Added message for undetected game hash on cheat manager
+- Added customizable game grid aspect (colours, font and size)
+
+MedGui Reborn Stable v0.105
+- Fixed the freeze of MedGuiR during a prescan rom folder or during a audio conversion 
+- Improved speedup on rom scan
+- Added others rom link on "Rom finder"
+- Added missing support to "PSX-EXE executable file" (.exe psx file) 
+- Fixed autodetection of Mednafen compatible bios
+- Added  support to PSXONPSP660.BIN pops bios
+- Now scan of all compatible bioses accepted by mednafen will be performed by user with a separate button, in this way the user can set custom bioses without medgui interfer with setting
+- Added selectable Mednafen path on advanced menu
+- Fixed control GUI by joypad 
+- Added a basilar CPU test, useful to suggest best Mednafen module to use
+- Added/Fixed tooltips on Advanced menu
+- Fixed annoing problem with boxart pop that hide top secondary form 
+
+MedGui Reborn Stable v0.104
+- Added a control to bypass https webrequest on win xp (due to unsupported tls 1.2)
+- Added a control to disable download cheat button on win xp (due to unsupported tls 1.2)
+- Added a option to paste copied cheats on listbox2
+- Added import from external cheats file in Mednafen format 
+- Added cheat cache cleaner on Reset window form
+- Fixed bad detection of game md5 in any cases 
+- Added a control to swap bin, img file > 10 mb (thx to Apocalypse for report bug)
+- Fixed a problem with comma and dot value on numericupdown control (thx to Apocalypse for report bug)
+- Added the selection of tabs in advanced mednafen config by mouse weel
+- Added missing tooltip
+- Increased the timeout connection on webrequest to prevent problems
+- Disabled online scrape function from TGDB on XP OS (sorry net 2.0 framework on XP doesnt support tls 1.2)
+- Added Port Type as parameter sended do MedPad
+- Added Enabled/Disabled filter on Cheat Manager
+- Cheat form manager resized
+- Added a workaround to prevent exception MedGuiR updater on win XP OS 
+
+MedGui Reborn Stable v0.103
+- Updated Newtonsoft.Json.dll to last release
+- Updated MedInstaller to prevent exception
+- Fixed any case sensitive problem with file extension 
+- Corrected minimum allowed value for the "apple2.video.mono_lumafilter" setting to -3
+- Fixed a random not predictable exception when will calculate md5 for MedGuiR.exe
+- Forced update of oldest scraped data game xml when a user perform a TGDB update
+- Released resources after reading xml TGDB data
+- Added auto-download/import of cheats by GameHacking.org 
+- Managed malformed cheat to prevent errors
+
+MedGui Reborn Stable v0.102
+- Added pause/unpause and enable/disable cheats as configurable key
+- added direct search of a cheat code on "gamehacking.org", by serial for saturn and psx games, and by crc32 for all others based cartidge rom (Thx to rimsky82 for all support on this part of web query)
+- Added a "Experimental" cheat manager to import/modify, delete cheat in RAW mode only
+- Fixed bad calc of md5 on nes,lynx games
+- Fixed a crash on save import manager
+- Fixed a crash on UCI when a user want to exit without connect on irc channells
+- Updated VgmPlay to v3.42
+- Fixed a bug when missing MedGuiR resources are downloaded and extracted
+- Fixed missing detection of mai package file in any circumstance 
+- Setted TGDB NewApi as default (due to legacy server shutdown) 
+- Fixed ss.cart parameter to auto, for mednafen >= 1.22.0
+- Added Apple II+ on TGDB Scraper Platform
+- Added additional control on compressed file to skip that with annidate folder inside (should be fix any crash)
+- Added a control to skip file without extension, this will reduce the scan time
+- Updated 7z library to the last release
+- Added a control at MedGuiR startup and when a user change Mednafen path, to detect emu4crt Mednafen fork
+
+MedGui Reborn Stable v0.101
+- Added support for new parameters from Mednafen 1.22.0-UNSTABLE
+- Added support to Apple II/II+ module
+- Added a Apple II MAI file/package creator
+- Added another control for MedGuiR update version
+- Retrieve md5 and sha1 from a game to make a external save state compatible with Mednafen
+- Improved stdout error detection
+- Added any new link on rom searcher
+- Fixed a bug with TGDB scraper on low cpu pc
+- Added "console" column on TGDB Selector
+- Clean tgdb selector grid after game selection 
+- Fixed again a lot of bug on TGDB scraper
+- Fixed missing recursive scan at startup, when recursive option is selected
+- Added a option to add/remove full path from cue file generated by CUE Maker
+
+MedGui Reborn Stable v0.100
+- Changed again main MedGuiR updater server and code to manage it
+- Fixed wrong "offline" session on MedClient
+- Fixed a generic untraceable exception on UCI client
+- Fixed exception on sbi/ips Advanced patch menu
+- Added missing toggle option on fast/slow forward (Advanced Mednafen Setting)
+- Update HOW-TO r1.txt file
+- Improved TGDB Scrape function
+- Improved recognition of covers on multivolume CDs images
+- Added a "Waiting" popup during TGDB download
+- Prevent a possibile exception if a file will be not downloaded on TGDB section
+- Fixed wrong (serial) sbi patch download for PSX game
+- Added import/remove SBI patch option on Advanced menu
+- Added the support for the new TGDB API (select it by the small refresh icon, near
+Scraper button and update all reported categories, this task must be only one time)
+- Added TGDB Game Selector for multiple scrape occurrence
+- Fixed missing NoPr.png exception
+- Fixed a exception on MedGuiR Advanced menu
+- Fixed exception Date time format with TGDB API
+- Added refresh of text onto infobox message
+
+Metromed Beta v09
+- Added support for prescanned Saturn and PSX games
+- Added support for TGDB new API
+
+MedGui Reborn Stable v0.099
+- Fixed inverted xscalefs, yscalefs values on reading mednafen config file.
+- Added autodownload for any missing dll
+- First attemp for m3u autodetection
+- Fixed Main form layout
+- Fixed wrong icon assignment on Super Nintendo - Music Module file (.rsn) on prescan
+- Fixed wrong cd detection in any Saturn games
+- Changed main MedGuiR logo (thx to beatkitchen for joystick logo)
+- Significantly reduced the size of the executable
+- Added new Antarctica mirror on Modland Scraper
+- Now Modland Scraper should be download module driver also when there is incongruence from file recognized on Modland mirror and the file specified on main music module
+- Changed VuMeter colors on About Screen
+- Added missing SIPS psx regional code into psx cd detection
+- Added "Fix Video Pal" option, a internal way to fix PAL game reducing orizontal black border.(It will create a specific "Per Game Config")
+- Added tooltip on ModLand Scraper refresh button
+- Changed TGDB platrform_field string
+- Added custom font on About screen
+- Prevent same module song random play from about screen
+
+MedGui Reborn Stable v0.098
+- Fixed bad detection of file extenction (not low case) on compressed file
+- Changed main MedClient server to speedvicio.ddns.net
+- Added favourites as folder selectable at MedGuiR startup (you must to close the GUI with favourites selected)
+- Fixed thegamesdb search button
+- Swapped thegamesdb games scraper link to (temporany) legacy website 
+- Added missing system on TGDB - Search rom info
+- Fixed detection of java runtime in any circumstance on win 10 
+- Fixed a bug detected any times, on wrong "force_mode" parameter passed on Mednafen
+- Fixed a bug on MedClient when a server is not pingable.
+- Fixed a bug on MedInstR.exe, now can overwrite server list and uci correctly
+
+
