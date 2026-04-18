@@ -1,4 +1,4 @@
-MedGui Reborn Pre v0.127 (eof?)
+MedGui Reborn v0.127 (eof)
 - Fixed crash on cheat manager for unrecognized serial game name
 - Better management of errors on Cheat Manager
 - On Import cheat , the cheat will be copied on MedGuiR cheat folder
